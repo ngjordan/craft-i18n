@@ -1,4 +1,4 @@
-# Español (es) interface catalog for ArtCraft Launcher.
+# Español (es) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	Aplicación
 	Apps you hid	Aplicaciones que ocultaste
 month	Apr	abr.
 	Arch package (.pkg.tar.zst)	Paquete Arch (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} está disponible.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} actualización disponible|ArtCraft Launcher · {n} actualizaciones disponibles
-	ArtCraft on GitHub	ArtCraft en GitHub
-	ArtCraft on {name}	ArtCraft en {name}
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Iridium Launcher {version} está disponible.
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} actualización disponible|Iridium Launcher · {n} actualizaciones disponibles
+	Iridium on GitHub	Iridium en GitHub
+	Iridium on {name}	Iridium en {name}
 month	Aug	ago.
 	Auto	Automático
 	Automatically download and install updates	Descargar e instalar actualizaciones automáticamente
@@ -120,7 +120,7 @@ filter	Installed	Instaladas
 	Installing…	Instalando…
 figcraft	Interface design and prototyping	Diseño de interfaces y prototipos
 month	Jan	ene.
-	Join the ArtCraft community on Discord	Únete a la comunidad de ArtCraft en Discord
+	Join the Iridium community on Discord	Únete a la comunidad de Iridium en Discord
 	Join the Discord	Únete al Discord
 month	Jul	jul.
 month	Jun	jun.
@@ -138,7 +138,7 @@ column	Latest	Última
 	Like {name}	Al estilo de {name}
 	link	enlace
 @id	linux.preferred_kind	Instalar las aplicaciones nuevas como
-	Loading ArtCraft Launcher…	Cargando ArtCraft Launcher…
+	Loading Iridium Launcher…	Cargando Iridium Launcher…
 	Loading pictures…	Cargando imágenes…
 month	Mar	mar.
 	Match system	Igual que el sistema
@@ -161,7 +161,7 @@ effectcraft	Motion graphics and visual effects	Gráficos en movimiento y efectos
 month	Nov	nov.
 month	Oct	oct.
 	Only when I ask	Solo cuando lo pida
-	Open ArtCraft Launcher to update.	Abre ArtCraft Launcher para actualizar.
+	Open Iridium Launcher to update.	Abre Iridium Launcher para actualizar.
 	Open on GitHub	Abrir en GitHub
 	Open Source Tools for Creatives, Makers, and Builders	Herramientas de código abierto para creativos, makers y constructores
 designcraft	Page layout and publishing	Maquetación y publicación
@@ -172,8 +172,8 @@ lightcraft	Photo library and raw development	Fototeca y revelado RAW
 	Portable (.zip)	Portátil (.zip)
 deckcraft	Presentations and slide shows	Presentaciones y diapositivas
 	Previous picture (←)	Imagen anterior (←)
-	Questions, ideas and news from the ArtCraft team	Preguntas, ideas y noticias del equipo de ArtCraft
-	Quit ArtCraft Launcher	Salir de ArtCraft Launcher
+	Questions, ideas and news from the Iridium team	Preguntas, ideas y noticias del equipo de Iridium
+	Quit Iridium Launcher	Salir de Iridium Launcher
 pdfcraft	Reading, organizing and protecting PDFs	Leer, organizar y proteger PDF
 	Reconnecting…	Reconectando…
 soundcraft	Recording, editing and mixing audio	Grabación, edición y mezcla de audio
@@ -193,10 +193,10 @@ column	Released	Publicada
 	Search apps	Buscar aplicaciones
 month	Sep	sept.
 @id	settings.open	Ajustes
-@id	settings.quit	Salir de ArtCraft Launcher
+@id	settings.quit	Salir de Iridium Launcher
 	Show apps as a table	Mostrar las aplicaciones como tabla
 	Show apps as cards	Mostrar las aplicaciones como tarjetas
-	Show ArtCraft Launcher	Mostrar ArtCraft Launcher
+	Show Iridium Launcher	Mostrar Iridium Launcher
 	Show in Explorer	Mostrar en el Explorador
 	Show in Files	Mostrar en Archivos
 	Show in Finder	Mostrar en el Finder
@@ -209,7 +209,7 @@ month	Sep	sept.
 @id	sort.status	Estado
 @id	sort.suite	Orden de la suite
 gridcraft	Spreadsheets and data	Hojas de cálculo y datos
-	Start ArtCraft Launcher when I log in	Abrir ArtCraft Launcher al iniciar sesión
+	Start Iridium Launcher when I log in	Abrir Iridium Launcher al iniciar sesión
 	Stop waiting; the update can be started again later	Dejar de esperar; la actualización se puede volver a iniciar más tarde
 	Suite order	Orden de la suite
 	System default	Predeterminada del sistema
@@ -222,7 +222,7 @@ gridcraft	Spreadsheets and data	Hojas de cálculo y datos
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	Estas notas no se descargaron (se alcanzó el límite de solicitudes de GitHub). Están en la página de la versión.
 @msg	this release has no AppImage for a custom install folder	esta versión no tiene un AppImage para una carpeta de instalación personalizada
 @id	tray.close_to_tray	Seguir abierto en la bandeja del sistema al cerrar la ventana
-@id	tray.login_item	Abrir ArtCraft Launcher al iniciar sesión
+@id	tray.login_item	Abrir Iridium Launcher al iniciar sesión
 @id	tray.show_on_current_desktop	Mostrar la ventana en el escritorio actual
 	Unhide App	Mostrar aplicación
 	Uninstall	Desinstalar
@@ -256,7 +256,7 @@ filmcraft	Video editing, color and sound	Edición de video, color y sonido
 	Waiting for other installs…	Esperando a otras instalaciones…
 	Website (coming soon)	Sitio web (próximamente)
 	What's new	Novedades
-	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Si está activado, abrir ArtCraft Launcher desde la barra de menús lleva su ventana al escritorio en el que estás. Si está desactivado, macOS te cambia al escritorio en el que estaba la ventana.
+	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Si está activado, abrir Iridium Launcher desde la barra de menús lleva su ventana al escritorio en el que estás. Si está desactivado, macOS te cambia al escritorio en el que estaba la ventana.
 	Windows will remove it like any installed program. Your documents and settings stay.	Windows la quitará como cualquier programa instalado. Tus documentos y ajustes se conservan.
 wordcraft	Writing and document design	Escritura y diseño de documentos
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	El gestor de paquetes del sistema la quitará y puede pedirte la contraseña. Tus documentos y ajustes se conservan.
@@ -281,7 +281,7 @@ wordcraft	Writing and document design	Escritura y diseño de documentos
 @plural	{n} day ago|{n} days ago	hace {n} día|hace {n} días
 @plural	{n} h ago|{n} h ago	hace {n} h|hace {n} h
 @plural	{n} min ago|{n} min ago	hace {n} min|hace {n} min
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} ya existe y no fue instalado por ArtCraft Launcher
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} ya existe y no fue instalado por Iridium Launcher
 	{path} already exists. Installing {name} will overwrite it.	{path} ya existe. Instalar {name} lo sobrescribirá.
 	{version} installed → {latest} released	{version} instalada → {latest} publicada
 	⊞  Grid	⊞  Cuadrícula

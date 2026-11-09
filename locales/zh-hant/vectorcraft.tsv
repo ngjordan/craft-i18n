@@ -1,4 +1,4 @@
-# 繁體中文 (zh-hant) interface catalog for VectorCraft.
+# 繁體中文 (zh-hant) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -113,7 +113,7 @@
 	A lower value follows the stroke closely; a higher one gives fewer points and smoother curves.	數值較小時會貼近筆畫，較大時則錨點較少、曲線較平滑。
 	A new preset starting from the selected one	以所選預設集為基礎建立新預設集
 	A saved copy of the selected preset	所選預設集的已儲存拷貝
-	About VectorCraft	關於 VectorCraft
+	About Iridium	關於 Iridium
 	above	以上
 	Above Text	文字上方
 	Absolute Position	絕對位置
@@ -216,7 +216,7 @@ file-filter	All readable files	所有可讀取的檔案
 	Appearance of Black	黑色外觀
 	Appearance Panel	外觀面板
 	Appearance panel	外觀面板
-	Applies the next time VectorCraft starts.	下次啟動 VectorCraft 時生效。
+	Applies the next time Iridium starts.	下次啟動 Iridium 時生效。
 	Applies when the linked file is relinked or updated.	重新連結或更新連結檔案時套用。
 	Apply Brush	套用筆刷
 	Apply Effect	套用效果
@@ -857,7 +857,7 @@ axis	Both	兩者
 	DXF Options Dialog	DXF 選項對話框
 	e.g. 1-3, 5	例如 1-3, 5
 	Each Design Represents:	每個設計代表：
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	檔案中的每個項目都會對應到 VectorCraft 的工具、指令或面板。請檢查對應結果，並回答其餘項目。
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	檔案中的每個項目都會對應到 Iridium 的工具、指令或面板。請檢查對應結果，並回答其餘項目。
 	Each page prints as one image, at the document's raster effects resolution.	每頁會以文件的點陣效果解析度列印為單一影像。
 	Earth Tones	大地色系
 	East Asian Type	東亞文字
@@ -1257,7 +1257,7 @@ file-filter	Flattener presets	平面化預設集
 	Hide Thumbnail	隱藏縮圖
 	Hide Thumbnails	隱藏縮圖
 	Hide Transparency Grid	隱藏透明度格點
-	Hide VectorCraft	隱藏 VectorCraft
+	Hide Iridium	隱藏 Iridium
 	High (300 ppi)	高 (300 ppi)
 	High Performance (discrete)	高效能 (獨立顯示卡)
 	Highlight Alternate Glyphs	醒目提示替代字符
@@ -1330,7 +1330,7 @@ axis	Horizontal	水平
 	In Tangent Handles	內側切線控制把手
 	In the File	檔案中的名稱
 	In the selected objects	在選取的物件中
-	In VectorCraft	VectorCraft 中的對應
+	In Iridium	Iridium 中的對應
 	Include Blacks with CMY:	包含 CMY 的黑色：
 	Include Bleed	包含出血
 	Include Cmy Blacks	包含 CMY 黑色
@@ -1381,7 +1381,7 @@ mark-style	Japanese	日式
 	JavaScript Files	JavaScript 檔案
 	JavaScript:	JavaScript：
 	Join Our Discord	加入我們的 Discord
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	加入 Discord 上的 ArtCraft 社群 (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	加入 Discord 上的 Iridium 社群 (discord.gg/artcraft)
 	Join the lines of each paragraph	合併每個段落的各行
 	Join Tool	連接工具
 	Joins	轉角
@@ -1890,7 +1890,7 @@ lighting	Light	光源
 	Open Swatch Library	開啟色票資料庫
 	Open the URL in the web browser	在網頁瀏覽器中開啟網址
 	Opened with {} note(s): {}	已開啟，附 {} 則附註：{}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	開啟時略過了 VectorCraft 尚無法讀取的內容（{what}），取代該檔案會永久遺失這些內容。若要保留，請以其他名稱儲存。
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	開啟時略過了 Iridium 尚無法讀取的內容（{what}），取代該檔案會永久遺失這些內容。若要保留，請以其他名稱儲存。
 	Opens files in other apps	在其他應用程式中開啟檔案
 	Opens network connections	開啟網路連線
 	Optical Margin Alignment	視覺邊界對齊
@@ -1957,7 +1957,7 @@ imageTrace	Outline	輪廓
 	Paragraph Style	段落樣式
 	Paragraph Style Options	段落樣式選項
 	Paragraph Symbol	段落符號
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	ArtCraft 的一部分。MIT OR Apache-2.0。字體：Source Sans 3、Inter、JetBrains Mono (OFL)。圖示：Lucide (ISC) + VectorCraft。
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Iridium 的一部分。MIT OR Apache-2.0。字體：Source Sans 3、Inter、JetBrains Mono (OFL)。圖示：Lucide (ISC) + Iridium。
 	Paste Design	貼上設計
 	Paste in Back	貼至後方
 	Paste in Front	貼至前方
@@ -2124,7 +2124,7 @@ file-filter	Print presets	列印預設集
 	Quality:	品質：
 	Quarter Space	四分之一空格
 	Quickly start a new file	快速開始新檔案
-	Quit VectorCraft	結束 VectorCraft
+	Quit Iridium	結束 Iridium
 	Radar Graph Tool	雷達圖工具
 gradient-kind	Radial	放射狀
 	Radial Dividers:	徑向分隔線：
@@ -2776,7 +2776,7 @@ effect	Soft	柔和
 	Standard:	標準：
 	Star Tool	星形工具
 	Start arrowhead	起點箭頭
-	Start from VectorCraft Defaults	從 VectorCraft 預設值開始
+	Start from Iridium Defaults	從 Iridium 預設值開始
 	Start Global Edit	開始整體編輯
 	Start Tile	起點拼貼
 	Start:	起點：
@@ -2898,7 +2898,7 @@ file-filter	Templates	範本
 	The edge of the paper the printer can't reach: the art goes inside it, and the preview shows it dashed.	印表機無法觸及的紙張邊緣：圖稿會放在其內側，預覽中會以虛線顯示。
 	The file is too large to read in full, so only its first part is listed.	檔案太大，無法完整讀取，因此只列出開頭的部分。
 	The file writes keys and modifiers as codes. Check the proposed meanings and answer the codes that are not known yet.	檔案以代碼記錄按鍵與輔助鍵。請檢查建議的意義，並回答尚未得知的代碼。
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	儲存面板中的名稱是「{typed}」，VectorCraft 隨後加上了檔案類型的副檔名。取代該檔案會覆寫其內容。
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	儲存面板中的名稱是「{typed}」，Iridium 隨後加上了檔案類型的副檔名。取代該檔案會覆寫其內容。
 	The page as it prints	頁面列印時的樣子
 	the preset	該預設集
 	The Print Tiling tool placed the pages.	已由列印拼貼工具放置頁面。
@@ -3132,15 +3132,15 @@ diagnostics	ui	介面
 	Vector Halftone	向量半色調
 	Vector Halftone…	向量半色調…
 	Vector illustration — fast, open, scriptable.	向量插圖：快速、開放、可用指令碼操控。
-	VectorCraft	VectorCraft
-	VectorCraft copies the fonts to {folder}.	VectorCraft 會將字體複製到 {folder}。
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft 上次未正常結束。下列文件有未儲存的變更：
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft 文件：單一鎖定物件，檔案變更時隨之更新。
-	VectorCraft Help…	VectorCraft 說明…
-	VectorCraft on getartcraft.com	getartcraft.com 上的 VectorCraft
-	VectorCraft on GitHub	GitHub 上的 VectorCraft
-	VectorCraft read this script without running it.	VectorCraft 已讀取此指令碼，但沒有執行。
-file-filter	VectorCraft Template	VectorCraft 範本
+	Iridium	Iridium
+	Iridium copies the fonts to {folder}.	Iridium 會將字體複製到 {folder}。
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium 上次未正常結束。下列文件有未儲存的變更：
+	Iridium documents: one locked object, updated when the file changes.	Iridium 文件：單一鎖定物件，檔案變更時隨之更新。
+	Iridium Help…	Iridium 說明…
+	Iridium on getartcraft.com	getartcraft.com 上的 Iridium
+	Iridium on GitHub	GitHub 上的 Iridium
+	Iridium read this script without running it.	Iridium 已讀取此指令碼，但沒有執行。
+file-filter	Iridium Template	Iridium 範本
 	Vectors	向量
 	Version {version} — open-source vector illustration in pure Rust.	版本 {version} — 以純 Rust 打造的開放原始碼向量插畫軟體。
 	Version:	版本：
@@ -3177,7 +3177,7 @@ axis	Vertical	垂直
 	Web Snap:	網頁靠齊：
 	Weight	寬度
 	Weight:	寬度：
-	Welcome to VectorCraft	歡迎使用 VectorCraft
+	Welcome to Iridium	歡迎使用 Iridium
 	When pasting text	貼上文字時
 	Widget Position:	Widget 位置：
 	Width Point	寬度點

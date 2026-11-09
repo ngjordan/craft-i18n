@@ -1,4 +1,4 @@
-# ქართული (ka) interface catalog for VectorCraft.
+# ქართული (ka) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -154,7 +154,7 @@
 @msg	`{_1}` is no save command	`{_1}` შენახვის ბრძანება არ არის
 @msg	`{area}` is no recovery area name	`{area}` აღდგენის არის სახელი არ არის
 @msg	`{color}` is not a colour (#rrggbb or a preset name)	`{color}` ფერი არ არის (#rrggbb ან პრესეტის სახელი)
-@msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	`{file}` არ არის VectorCraft-ის დოკუმენტი, PDF ან PDF-თან თავსებადი .ai ფაილი
+@msg	`{file}` isn't a Iridium document, a PDF or a PDF-compatible .ai file	`{file}` არ არის Iridium-ის დოკუმენტი, PDF ან PDF-თან თავსებადი .ai ფაილი
 @msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` ბიბლიოთეკის პანელი არ არის (იხ. window.swatchLibrary)
 @msg	`{id}` has no envelope dialog	`{id}`-ს გარსის დიალოგი არ აქვს
 @msg	`{keep}` is not a side of this axis	`{keep}` ამ ღერძის მხარე არ არის
@@ -242,7 +242,7 @@
 	A5	A5
 	A6	A6
 	About	პროგრამის შესახებ
-	About VectorCraft	VectorCraft-ის შესახებ
+	About Iridium	Iridium-ის შესახებ
 	above	ზემოთ
 	Above Text	ტექსტის ზემოთ
 	Absolute	აბსოლუტური
@@ -363,7 +363,7 @@ file-filter	All readable files	ყველა წაკითხვადი �
 	Amount:	რაოდენობა:
 @msg	an image has no pixels and was left out	გამოსახულება, რომელსაც პიქსელები არ აქვს, გამოტოვდა
 @msg	an image of {w} × {h} pixels is too large to draw	{w} × {h} პიქსელის გამოსახულება დასახატად ზედმეტად დიდია
-@msg	an image VectorCraft can't read was left out	გამოსახულება, რომელსაც VectorCraft ვერ კითხულობს, გამოტოვებულია
+@msg	an image Iridium can't read was left out	გამოსახულება, რომელსაც Iridium ვერ კითხულობს, გამოტოვებულია
 @msg	an image whose data is cut short was left out	გამოსახულება, რომლის მონაცემებიც შეკვეცილია, გამოტოვებულია
 @msg	an object can't be read	ობიექტის წაკითხვა ვერ ხერხდება
 @msg	an object in perspective would leave the edited grid	პერსპექტივაში მყოფი ობიექტი რედაქტირებულ ბადეს დატოვებდა
@@ -402,7 +402,7 @@ theme	Appearance	იერსახე
 	Appearance Panel	იერსახის პანელი
 	Appearance panel	იერსახის პანელი
 	Applied Filters	გამოყენებული ფილტრები
-	Applies the next time VectorCraft starts.	ძალაში შევა VectorCraft-ის მომდევნო გაშვებისას.
+	Applies the next time Iridium starts.	ძალაში შევა Iridium-ის მომდევნო გაშვებისას.
 	Applies when the linked file is relinked or updated.	მოქმედებს, როცა დაკავშირებული ფაილი ხელახლა უკავშირდება ან ახლდება.
 	Apply	გამოყენება
 	Apply Brush	ფუნჯის გამოყენება
@@ -462,8 +462,8 @@ theme	Appearance	იერსახე
 	Artboard:	სამუშაო დაფა:
 	Artboards	სამუშაო დაფები
 	Artboards: {n}	სამუშაო დაფა: {n}
-	ArtCraft Website	ArtCraft-ის ვებსაიტი
-	ArtCraft website	ArtCraft-ის ვებსაიტი
+	Iridium Website	Iridium-ის ვებსაიტი
+	Iridium website	Iridium-ის ვებსაიტი
 	Artistic	მხატვრული
 	Artwork	ნახატი
 	Artwork Colors	ნახატის ფერები
@@ -688,7 +688,7 @@ axis	Both	ორივე
 @msg	can't parse shortcut `{c}`	მალსახმობის `{c}` ანალიზი ვერ ხერხდება
 @msg	can't parse shortcut `{s}` for `{k}`	მალსახმობის `{s}` ანალიზი `{k}`-სთვის ვერ ხერხდება
 	Can't print these settings: see the Summary	ამ პარამეტრებით ბეჭდვა შეუძლებელია: იხილეთ შეჯამება
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	ვერსიის {0} შენახვა ვერ ხერხდება: VectorCraft წერს ვერსიებს {MIN_VERSION}-დან {VERSION}-მდე
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	ვერსიის {0} შენახვა ვერ ხერხდება: Iridium წერს ვერსიებს {MIN_VERSION}-დან {VERSION}-მდე
 	Can't save “{name}”.	„{name}“ ვერ შეინახა.
 @msg	can't write .{ext} images	.{ext} გამოსახულებების ჩაწერა ვერ ხერხდება
 	Cancel	გაუქმება
@@ -1429,7 +1429,7 @@ axis	Both	ორივე
 	DXF Options Dialog	DXF პარამეტრების დიალოგი
 	e.g. 1-3, 5	მაგ. 1-3, 5
 	Each Design Represents:	თითოეული დიზაინი წარმოადგენს:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	ფაილის თითოეულ ჩანაწერს შეესაბამება VectorCraft-ის ხელსაწყო, ბრძანება ან პანელი. შეამოწმეთ შესაბამისობები და უპასუხეთ დარჩენილს.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	ფაილის თითოეულ ჩანაწერს შეესაბამება Iridium-ის ხელსაწყო, ბრძანება ან პანელი. შეამოწმეთ შესაბამისობები და უპასუხეთ დარჩენილს.
 	Each page prints as one image, at the document's raster effects resolution.	ყოველი გვერდი იბეჭდება ერთ გამოსახულებად, დოკუმენტის რასტრული ეფექტების გარჩევადობით.
 	Earth Tones	მიწის ტონები
 	Ease In	ნელი დასაწყისი
@@ -1690,7 +1690,7 @@ axis	Both	ორივე
 	File Info…	ფაილის ინფორმაცია…
 	File Name:	ფაილის სახელი:
 	File or URL:	ფაილი ან URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	ფაილის ვერსია {0} უფრო ახალია, ვიდრე ამ VectorCraft-ის მხარდაჭერილი ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	ფაილის ვერსია {0} უფრო ახალია, ვიდრე ამ Iridium-ის მხარდაჭერილი ({VERSION})
 	File › Place… brings in an image, linked or embedded.	ფაილი › განთავსება… შემოაქვს გამოსახულება, დაკავშირებული ან ჩაშენებული.
 	Files	ფაილები
 	Files of a PDF standard can't be password-protected.	PDF სტანდარტის ფაილების პაროლით დაცვა შეუძლებელია.
@@ -2022,7 +2022,7 @@ file-filter	Flattener presets	გაბრტყელების პრეს�
 	Hide Thumbnail	ესკიზის დამალვა
 	Hide Thumbnails	ესკიზების დამალვა
 	Hide Transparency Grid	გამჭვირვალობის ბადის დამალვა
-	Hide VectorCraft	VectorCraft-ის დამალვა
+	Hide Iridium	Iridium-ის დამალვა
 	High	მაღალი
 	High (300 ppi)	მაღალი (300 ppi)
 	High Contrast	მაღალი კონტრასტი
@@ -2131,7 +2131,7 @@ effect	Horizontal	ჰორიზონტალური
 	In Tangent Handles	შემავალი მხების სახელურები
 	In the File	ფაილში
 	In the selected objects	მონიშნულ ობიექტებში
-	In VectorCraft	VectorCraft-ში
+	In Iridium	Iridium-ში
 	Inches	დუიმები
 	Include all profiles	ყველა პროფილის ჩართვა
 	Include Blacks with CMY:	შავის ჩართვა CMY-სთან ერთად:
@@ -2210,7 +2210,7 @@ effect	Horizontal	ჰორიზონტალური
 	Invert Mask	ნიღბის ინვერსია
 	Invert Pie	სექტორის შებრუნება
 	Inverted Round	შებრუნებული მომრგვალება
-@msg	is not an image VectorCraft reads	ეს არ არის გამოსახულება, რომელსაც VectorCraft კითხულობს
+@msg	is not an image Iridium reads	ეს არ არის გამოსახულება, რომელსაც Iridium კითხულობს
 	Isolate	იზოლირება
 	Isolate Blending	შერევის იზოლირება
 	Isolate Group	ჯგუფის იზოლირება
@@ -2230,9 +2230,9 @@ effect	Horizontal	ჰორიზონტალური
 @msg	it has too many text objects	მასში ზედმეტად ბევრი ტექსტური ობიექტია
 @msg	it has too many values in a row	მას ერთ რიგში ზედმეტად ბევრი მნიშვნელობა აქვს
 @msg	it has too much text	მასში ზედმეტად ბევრი ტექსტია
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	მას აქვს {_1}, რასაც VectorCraft მისგან ჯერ ვერ კითხულობს
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	ის იყენებს `{at}`-ს, რომელიც VectorCraft-ის PostScript-ის წამკითხველმა არ იცის
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	ის იყენებს `{at}`-ს, რომელიც VectorCraft-ის PostScript-ის წამკითხველმა არ იცის, {procs}-ში
+@msg	it has {_1}, which Iridium doesn't read from it yet	მას აქვს {_1}, რასაც Iridium მისგან ჯერ ვერ კითხულობს
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	ის იყენებს `{at}`-ს, რომელიც Iridium-ის PostScript-ის წამკითხველმა არ იცის
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	ის იყენებს `{at}`-ს, რომელიც Iridium-ის PostScript-ის წამკითხველმა არ იცის, {procs}-ში
 	Italian	იტალიური
 	Italic	დახრილი
 @msg	its editing data doesn't say where its art is	მისი რედაქტირების მონაცემები არ მიუთითებს, სად არის მისი ნახატი
@@ -2260,7 +2260,7 @@ mark-style	Japanese	იაპონური
 @msg	join needs open paths	შეერთებას ღია ტრაექტორიები სჭირდება
 	Join Our Discord	შემოგვიერთდით Discord-ზე
 	Join our Discord	შემოგვიერთდით Discord-ზე
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	შემოუერთდით ArtCraft-ის საზოგადოებას Discord-ზე (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	შემოუერთდით Iridium-ის საზოგადოებას Discord-ზე (discord.gg/artcraft)
 	Join the lines of each paragraph	თითოეული აბზაცის სტრიქონების შეერთება
 	Join Tool	შეერთების ხელსაწყო
 	Joins	შეერთებები
@@ -2283,7 +2283,7 @@ mark-style	Japanese	იაპონური
 	Keep this row's colors (exclude)	ამ სტრიქონის ფერების შენარჩუნება (გამორიცხვა)
 	Keep visible surfaces only when expanding	გაშლისას მხოლოდ ხილული ზედაპირების შენარჩუნება
 	Keep:	შენარჩუნება:
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	დოკუმენტს რედაქტირებადს ტოვებს: VectorCraft PDF-ს ხელახლა ხსნის ყველაფრის შენარჩუნებით. ფაილებისთვის, რომლებსაც კიდევ დაარედაქტირებთ.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	დოკუმენტს რედაქტირებადს ტოვებს: Iridium PDF-ს ხელახლა ხსნის ყველაფრის შენარჩუნებით. ფაილებისთვის, რომლებსაც კიდევ დაარედაქტირებთ.
 	Kerning (0 = Auto)	კერნინგი (0 = ავტო)
 	Key Color:	საკვანძო ფერი:
 	Keyboard Increment	კლავიატურის ბიჯი
@@ -2473,7 +2473,7 @@ lighting	Light	სინათლე
 	Load Texture…	ტექსტურის ჩატვირთვა…
 	Load Variable Library…	ცვლადების ბიბლიოთეკის ჩატვირთვა…
 	Loaded Texture	ჩატვირთული ტექსტურა
-@msg	Loading VectorCraft…	VectorCraft იტვირთება…
+@msg	Loading Iridium…	Iridium იტვირთება…
 	Loads native code	ნატიურ კოდს ტვირთავს
 	Local Libraries	ლოკალური ბიბლიოთეკები
 	Locate Library…	ბიბლიოთეკის მოძებნა…
@@ -2959,8 +2959,8 @@ lighting	Light	სინათლე
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	ეს მალსახმობების ნაკრები არ არის: ტექსტი არ იწყება დახრილი ხაზით დაწყებული სახელითა და გამხსნელი ფიგურული ფრჩხილით
 @msg	not a stored central record	ეს არ არის შენახული ცენტრალური ჩანაწერი
 @msg	not a valid plug-in module: {0}	ეს არ არის პლაგინის სწორი მოდული: {0}
-@msg	not a VectorCraft file: {0}	ეს არ არის VectorCraft-ის ფაილი: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	ეს არ არის VectorCraft-ის მალსახმობების ნაკრები (აკლია `overrides`)
+@msg	not a Iridium file: {0}	ეს არ არის Iridium-ის ფაილი: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	ეს არ არის Iridium-ის მალსახმობების ნაკრები (აკლია `overrides`)
 @msg	not an EMF or WMF file	ეს არ არის EMF ან WMF ფაილი
 	Not followed: outside the script's folder	გამოტოვებულია: სკრიპტის საქაღალდის გარეთაა
 	Not found	ვერ მოიძებნა
@@ -3131,7 +3131,7 @@ lighting	Light	სინათლე
 @msg	Opened with {_1} note(s): {_2}	გაიხსნა, შენიშვნა ({_1}): {_2}
 	Opened with {} note(s): {}	გაიხსნა, შენიშვნა ({}): {}
 @msg	Opened {url}	გაიხსნა {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	გახსნისას გამოტოვდა ის, რისი წაკითხვაც VectorCraft-ს ჯერ არ შეუძლია ({what}), ამიტომ ჩანაცვლება მას სამუდამოდ დაკარგავს. შესანარჩუნებლად შეინახეთ სხვა სახელით.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	გახსნისას გამოტოვდა ის, რისი წაკითხვაც Iridium-ს ჯერ არ შეუძლია ({what}), ამიტომ ჩანაცვლება მას სამუდამოდ დაკარგავს. შესანარჩუნებლად შეინახეთ სხვა სახელით.
 	Opens files in other apps	ფაილებს სხვა აპებში ხსნის
 	Opens network connections	ქსელურ კავშირებს ხსნის
 	Open…	გახსნა…
@@ -3247,7 +3247,7 @@ imageTrace	Outline	კონტური
 	Paragraph Style Options	აბზაცის სტილის პარამეტრები
 	Paragraph Styles	აბზაცის სტილები
 	Paragraph Symbol	აბზაცის სიმბოლო
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	ArtCraft-ის ნაწილი. MIT OR Apache-2.0. შრიფტები: Source Sans 3, Inter, JetBrains Mono (OFL). ხატულები: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Iridium-ის ნაწილი. MIT OR Apache-2.0. შრიფტები: Source Sans 3, Inter, JetBrains Mono (OFL). ხატულები: Lucide (ISC) + Iridium.
 @msg	part of the program isn't valid PostScript text	პროგრამის ნაწილი სწორი PostScript ტექსტი არ არის
 	Password	პაროლი
 	Paste	ჩასმა
@@ -3521,7 +3521,7 @@ file-filter	Print presets	ბეჭდვის პრესეტები
 	Quarter Space	მეოთხედი შორისი
 	Quick Actions	სწრაფი მოქმედებები
 	Quickly start a new file	ახალი ფაილის სწრაფად შექმნა
-	Quit VectorCraft	VectorCraft-იდან გასვლა
+	Quit Iridium	Iridium-იდან გასვლა
 	Radar Graph Tool	რადარული დიაგრამის ხელსაწყო
 	Radial	რადიალური
 gradient-kind	Radial	რადიალური
@@ -4469,7 +4469,7 @@ effect	Soft	რბილი
 	Star Tool	ვარსკვლავის ხელსაწყო
 	Start arrowhead	საწყისი ისრის წვერი
 	Start at:	დაწყება:
-	Start from VectorCraft Defaults	VectorCraft-ის ნაგულისხმევიდან დაწყება
+	Start from Iridium Defaults	Iridium-ის ნაგულისხმევიდან დაწყება
 	Start Global Edit	გლობალური რედაქტირების დაწყება
 	Start Tile	საწყისი ფილა
 	Start:	დასაწყისი:
@@ -4660,7 +4660,7 @@ file-filter	Templates	შაბლონები
 	The bounds of the visible art.	ხილული ნახატის საზღვრები.
 	The cell shows the type object's text as HTML.	უჯრა ტექსტური ობიექტის ტექსტს HTML-ად აჩვენებს.
 @msg	the Color Picker is not open	ფერის ამრჩევი გახსნილი არ არის
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	შეკუმშული ფაილი იმაზე მეტად იშლება, ვიდრე VectorCraft კითხულობს ({_1} მბ დოკუმენტი, {_2} მბ თითო გამოსახულებაზე)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	შეკუმშული ფაილი იმაზე მეტად იშლება, ვიდრე Iridium კითხულობს ({_1} მბ დოკუმენტი, {_2} მბ თითო გამოსახულებაზე)
 @msg	the compressed file unpacks to more than {_1} MB	შეკუმშული ფაილი გაშლისას {_1} MB-ს აჭარბებს
 	The dialog was closed before its file dialog answered	დიალოგი დაიხურა, სანამ მისი ფაილის დიალოგი პასუხს გასცემდა
 @msg	the document has never been saved	დოკუმენტი არასოდეს შენახულა
@@ -4691,7 +4691,7 @@ file-filter	Templates	შაბლონები
 @msg	the file's preview header points outside the file	ფაილის გადახედვის სათაური ფაილის გარეთ მიუთითებს
 @msg	the file's variables and data sets weren't read (variables: {variables}, data sets: {data_sets}): the Variables panel doesn't list them	ფაილის ცვლადებისა და მონაცემთა ნაკრებების წაკითხვა ვერ მოხერხდა (ცვლადები: {variables}, მონაცემთა ნაკრებები: {data_sets}): პანელი „ცვლადები“ მათ არ აჩვენებს
 @msg	the files come to more than 1 GB: add fewer at a time	ფაილები 1 GB-ს აჭარბებს: დაამატეთ ნაკლები ერთდროულად
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	პირველად ნაცდმა გრაფიკულმა პროცესორმა ფანჯარა ვერ აჩვენა, ამიტომ VectorCraft ხელახლა გაეშვა: {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	პირველად ნაცდმა გრაფიკულმა პროცესორმა ფანჯარა ვერ აჩვენა, ამიტომ Iridium ხელახლა გაეშვა: {summary}
 @msg	The graphics were lost and couldn't be restarted.	გრაფიკა დაიკარგა და ხელახლა ვერ გაეშვა.
 @msg	The graphics were lost and have been restarted	გრაფიკა დაიკარგა და ხელახლა გაეშვა
 @msg	the guide is on a hidden or locked layer	დამხმარე ხაზი დამალულ ან ჩაკეტილ შრეზეა
@@ -4703,12 +4703,12 @@ file-filter	Templates	შაბლონები
 @msg	the image's pixels can't be read	გამოსახულების პიქსელების წაკითხვა ვერ ხერხდება
 @msg	the image's pixels don't match its size	გამოსახულების პიქსელები მის ზომას არ ემთხვევა
 	The key color becomes the stroke color. The other colors shift their hue by the same amount and keep their saturation and brightness.	საკვანძო ფერი კონტურის ფერი ხდება. სხვა ფერები ფერთა წრეზე იმდენივეს გადაინაცვლებს, რამდენსაც საკვანძო ფერი, და ინარჩუნებს გაჯერებასა და სიკაშკაშეს.
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	VectorCraft-ის ბოლო გაშვება ფანჯრის გამოჩენამდე შეწყდა (გრაფიკული პროცესორი: {name}), ამიტომ VectorCraft გაეშვა: {summary}. ამ გრაფიკული პროცესორის ხელახლა საცდელად შეცვალეთ პარამეტრები › წარმადობა › გრაფიკული პროცესორი ან გაუშვით WGPU_BACKEND ცვლადის მითითებით
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	VectorCraft-ის ბოლო გაშვება გრაფიკული პროცესორების ჩამოთვლისას შეწყდა, ამიტომ VectorCraft გაეშვა მხოლოდ OpenGL-ით: {summary}. სხვა გრაფიკული ინტერფეისების ხელახლა საცდელად შეცვალეთ პარამეტრები › წარმადობა › გრაფიკული პროცესორი ან გაუშვით WGPU_BACKEND ცვლადის მითითებით
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Iridium-ის ბოლო გაშვება ფანჯრის გამოჩენამდე შეწყდა (გრაფიკული პროცესორი: {name}), ამიტომ Iridium გაეშვა: {summary}. ამ გრაფიკული პროცესორის ხელახლა საცდელად შეცვალეთ პარამეტრები › წარმადობა › გრაფიკული პროცესორი ან გაუშვით WGPU_BACKEND ცვლადის მითითებით
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Iridium-ის ბოლო გაშვება გრაფიკული პროცესორების ჩამოთვლისას შეწყდა, ამიტომ Iridium გაეშვა მხოლოდ OpenGL-ით: {summary}. სხვა გრაფიკული ინტერფეისების ხელახლა საცდელად შეცვალეთ პარამეტრები › წარმადობა › გრაფიკული პროცესორი ან გაუშვით WGPU_BACKEND ცვლადის მითითებით
 @msg	the layer has no objects to clip by	შრეს არ აქვს ობიექტები მოსაჭრელად
 @msg	the layer or group is locked	შრე ან ჯგუფი ჩაკეტილია
 @msg	the layer to flatten into is hidden	შრე, რომელშიც უნდა გაბრტყელდეს, დამალულია
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	შენახვის პანელში სახელი იყო „{typed}“; VectorCraft-მა ფაილის ტიპის გაფართოება დაამატა. ფაილის ჩანაცვლება მის შიგთავსს გადააწერს.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	შენახვის პანელში სახელი იყო „{typed}“; Iridium-მა ფაილის ტიპის გაფართოება დაამატა. ფაილის ჩანაცვლება მის შიგთავსს გადააწერს.
 @msg	the object already has an opacity mask	ობიექტს უკვე აქვს გაუმჭვირვალობის ნიღაბი
 @msg	the object has no geometry	ობიექტს გეომეტრია არ აქვს
 @msg	the object has no opacity mask	ობიექტს გაუმჭვირვალობის ნიღაბი არ აქვს
@@ -4787,7 +4787,7 @@ file-filter	Templates	შაბლონები
 	This library is empty.	ეს ბიბლიოთეკა ცარიელია.
 	This panel is on the roadmap (see the parity plan).	ეს პანელი სამომავლო გეგმაშია (იხ. პარიტეტის გეგმა).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	ამ PostScript ფაილის წაკითხვა ვერ ხერხდება ({why}): შეინახეთ PDF-ად ან SVG-ად იმ აპში, რომელმაც ის შექმნა
-@msg	This shortcut file is in a form VectorCraft can't read.	მალსახმობების ეს ფაილი ისეთ ფორმატშია, რომელსაც VectorCraft ვერ კითხულობს.
+@msg	This shortcut file is in a form Iridium can't read.	მალსახმობების ეს ფაილი ისეთ ფორმატშია, რომელსაც Iridium ვერ კითხულობს.
 	This system has no screen color sampler	ამ სისტემას ეკრანიდან ფერის აღების საშუალება არ აქვს
 @msg	this system has no screen color sampler	ამ სისტემას ეკრანიდან ფერის აღების საშუალება არ აქვს
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	ეს ვექტორიზაცია {max}-ზე მეტ საყრდენ წერტილს შექმნიდა, რასაც დოკუმენტი შეუფერხებლად ვერ აჩვენებს: გაზარდეთ ხმაური, შეამცირეთ ტრაექტორიები ან ფერები, ან აირჩიეთ ნაკლები სიზუსტის პრესეტი
@@ -5102,22 +5102,22 @@ diagnostics	ui	ინტერფეისი
 	Vector Halftone	ვექტორული ნახევარტონი
 	Vector Halftone…	ვექტორული ნახევარტონი…
 	Vector illustration — fast, open, scriptable.	ვექტორული ილუსტრაცია — სწრაფი, ღია, სკრიპტებით მართვადი.
-	VectorCraft copies the fonts to {folder}.	VectorCraft შრიფტებს აკოპირებს აქ: {folder}.
-	VectorCraft Default	VectorCraft-ის ნაგულისხმევი
-	VectorCraft Defaults	VectorCraft-ის ნაგულისხმევი
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft ბოლოს ნორმალურად არ დახურულა. ამ დოკუმენტებს შეუნახავი ცვლილებები ჰქონდა:
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft-ის დოკუმენტები: ერთი ჩაკეტილი ობიექტი, რომელიც ფაილის ცვლილებისას ახლდება.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft არ ეძებს სხვა აპების ან სისტემის საქაღალდეებში: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft არ ეძებს Users-ის Shared ან Public საქაღალდეში: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft-ის გაშვება ვერ მოხერხდა: {e}
-	VectorCraft Generic CMYK (SWOP-like)	VectorCraft-ის ზოგადი CMYK (SWOP-ის მსგავსი)
-	VectorCraft Help…	VectorCraft-ის დახმარება…
-	VectorCraft on getartcraft.com	VectorCraft getartcraft.com-ზე
-	VectorCraft on GitHub	VectorCraft GitHub-ზე
-	VectorCraft read this script without running it.	VectorCraft-მა ეს სკრიპტი წაიკითხა მისი გაშვების გარეშე.
-	VectorCraft Swatches (.vcswatches)	VectorCraft-ის ფერის ნიმუშები (.vcswatches)
-file-filter	VectorCraft Template	VectorCraft-ის შაბლონი
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	VectorCraft-ის შრიფტების საქაღალდე აქ დაყენებული არ არის: მას აყენებს სამაგიდო აპი და vectorcraft-cli
+	Iridium copies the fonts to {folder}.	Iridium შრიფტებს აკოპირებს აქ: {folder}.
+	Iridium Default	Iridium-ის ნაგულისხმევი
+	Iridium Defaults	Iridium-ის ნაგულისხმევი
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium ბოლოს ნორმალურად არ დახურულა. ამ დოკუმენტებს შეუნახავი ცვლილებები ჰქონდა:
+	Iridium documents: one locked object, updated when the file changes.	Iridium-ის დოკუმენტები: ერთი ჩაკეტილი ობიექტი, რომელიც ფაილის ცვლილებისას ახლდება.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium არ ეძებს სხვა აპების ან სისტემის საქაღალდეებში: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium არ ეძებს Users-ის Shared ან Public საქაღალდეში: {path}
+@msg	Iridium failed to start: {e}	Iridium-ის გაშვება ვერ მოხერხდა: {e}
+	Iridium Generic CMYK (SWOP-like)	Iridium-ის ზოგადი CMYK (SWOP-ის მსგავსი)
+	Iridium Help…	Iridium-ის დახმარება…
+	Iridium on getartcraft.com	Iridium getartcraft.com-ზე
+	Iridium on GitHub	Iridium GitHub-ზე
+	Iridium read this script without running it.	Iridium-მა ეს სკრიპტი წაიკითხა მისი გაშვების გარეშე.
+	Iridium Swatches (.vcswatches)	Iridium-ის ფერის ნიმუშები (.vcswatches)
+file-filter	Iridium Template	Iridium-ის შაბლონი
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Iridium-ის შრიფტების საქაღალდე აქ დაყენებული არ არის: მას აყენებს სამაგიდო აპი და vectorcraft-cli
 	Vectors	ვექტორები
 	Version	ვერსია
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	{0} ვერსიის ფაილების შეკუმშვა შეუძლებელია: შეკუმშული ფაილები მხოლოდ {COMPRESSED_SINCE} და უფრო ახალი ვერსიებით იხსნება
@@ -5190,7 +5190,7 @@ effect	Vertical	ვერტიკალური
 	WebP	WebP
 	Weight	სისქე
 	Weight:	სისქე:
-	Welcome to VectorCraft	კეთილი იყოს თქვენი მობრძანება VectorCraft-ში
+	Welcome to Iridium	კეთილი იყოს თქვენი მობრძანება Iridium-ში
 	When pasting text	ტექსტის ჩასმისას
 	White	თეთრი
 	White Intensity	თეთრის ინტენსივობა

@@ -1,4 +1,4 @@
-# Bosanski (bs) interface catalog for PhotoCraft.
+# Bosanski (bs) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -70,7 +70,7 @@
 	A brush preset with this name already exists	Unaprijed postavljena četkica s ovim nazivom već postoji
 	A save to {name} is still running; try again when it finishes	Čuvanje u {name} je još u toku; pokušajte ponovo kad završi
 	A:	A:
-	About PhotoCraft	O PhotoCraftu
+	About Iridium	O Iridiumu
 	About {app}	O aplikaciji {app}
 	Accept and Go to Conflict	Prihvati i idi na konflikt
 	ACES	ACES
@@ -155,7 +155,7 @@
 	Align {what}	Poravnaj: {what}
 	Aligned	Poravnato
 	All Layers No Adjustments	Svi slojevi bez podešavanja
-	All shortcuts reset to PhotoCraft defaults.	Sve prečice su vraćene na zadane vrijednosti PhotoCrafta.
+	All shortcuts reset to Iridium defaults.	Sve prečice su vraćene na zadane vrijednosti Iridiuma.
 	All shortcuts reset to Photoshop defaults.	Sve prečice su vraćene na zadane vrijednosti Photoshopa.
 	All User Slices	Svi korisnički isječci
 	Allow agent control	Dozvoli kontrolu agentu
@@ -851,7 +851,7 @@ cameraData	Date Taken	Datum snimanja
 	Default Features	Zadane mogućnosti
 	Default Foreground and Background Colors	Zadane boje prednjeg plana i pozadine
 	Default Leaves	Zadano lišće
-	Default PhotoCraft Size	Zadana veličina PhotoCrafta
+	Default Iridium Size	Zadana veličina Iridiuma
 	Default Photoshop Size	Zadana veličina Photoshopa
 	Default printer	Zadani štampač
 	Default restored.	Zadano vraćeno.
@@ -1574,7 +1574,7 @@ fontWeight	Italic	Kurziv
 	Its layers need {needed} of GPU memory; the budget leaves them {budget}.	Njegovi slojevi trebaju {needed} GPU memorije; budžet im ostavlja {budget}.
 	Ivy	Bršljan
 	Jag	Nazubljeno
-	Join the ArtCraft Discord ({url})	Pridružite se ArtCraft Discordu ({url})
+	Join the Iridium Discord ({url})	Pridružite se Iridium Discordu ({url})
 	Jpeg quality	Kvalitet JPEG-a
 	Jpg	JPG
 	Justify all	Obostrano poravnaj sve
@@ -1891,7 +1891,7 @@ cameraData	Model	Model
 	My Brushes	Moje četkice
 	name	naziv
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Izvorno prevlačenje i ispuštanje datoteka još nije podržano na Waylandu. Koristite Datoteka › Otvori ili kopirajte sliku u upravitelju datoteka i zalijepite je pomoću {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Izvorno prevlačenje i ispuštanje datoteka još nije podržano na Waylandu. Koristite Datoteka › Otvori ili pokrenite PhotoCraft pod XWaylandom s `WAYLAND_DISPLAY= photocraft`.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Izvorno prevlačenje i ispuštanje datoteka još nije podržano na Waylandu. Koristite Datoteka › Otvori ili pokrenite Iridium pod XWaylandom s `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Izvorno prevlačenje i ispuštanje datoteka nije dostupno
 	Nearest	Najbliže
 	Nearest Neighbor	Najbliži susjed
@@ -2049,7 +2049,7 @@ layerLabel	No Color	Bez boje
 	Operation failed	Operacija nije uspjela
 	Optical	Optičko
 	Option-click to define a source point to clone from	Option-klik za definisanje izvorne tačke za kloniranje
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Ili postavite Postavke › Performanse › Linux server prikaza na X11: PhotoCraft se tada uvijek pokreće pod XWaylandom.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Ili postavite Postavke › Performanse › Linux server prikaza na X11: Iridium se tada uvijek pokreće pod XWaylandom.
 cameraRaw	Orange	Narandžasta
 	orange	narandžasta
 document	Orientation	Orijentacija
@@ -2140,17 +2140,17 @@ document	Orientation	Orijentacija
 	Photo (8 × 10 in)	Fotografija (8 × 10 in)
 	Photo Filter	Foto filter
 	Photo Filter…	Foto filter…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Zadane postavke PhotoCrafta
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft je pronašao vaš skup prečica na tastaturi {set} iz drugog uređivača slika na ovom računaru: {n} njegovih prečica razlikuje se od PhotoCraftovih. Uvesti ga?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft koristi CPU kompozitor slika. Prozor i dalje može koristiti vaš grafički adapter.
-	PhotoCraft keeps retrying; until a save succeeds, preference changes are lost when it closes.	PhotoCraft nastavlja pokušavati; dok čuvanje ne uspije, promjene postavki se gube pri zatvaranju.
-	PhotoCraft Manages Colors	PhotoCraft upravlja bojama
-	PhotoCraft on GitHub	PhotoCraft na GitHubu
-	PhotoCraft Website	Web stranica PhotoCrafta
-	PhotoCraft website	Web stranica PhotoCrafta
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — izvorni uređivač slika otvorenog koda, napisan u Rustu.
-	PhotoCraft — Screen Color Picker	PhotoCraft — birač boja s ekrana
+	Iridium	Iridium
+	Iridium Defaults	Zadane postavke Iridiuma
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium je pronašao vaš skup prečica na tastaturi {set} iz drugog uređivača slika na ovom računaru: {n} njegovih prečica razlikuje se od Iridiumovih. Uvesti ga?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium koristi CPU kompozitor slika. Prozor i dalje može koristiti vaš grafički adapter.
+	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	Iridium nastavlja pokušavati; dok čuvanje ne uspije, promjene postavki se gube pri zatvaranju.
+	Iridium Manages Colors	Iridium upravlja bojama
+	Iridium on GitHub	Iridium na GitHubu
+	Iridium Website	Web stranica Iridiuma
+	Iridium website	Web stranica Iridiuma
+	Iridium — an open-source, native image editor written in Rust.	Iridium — izvorni uređivač slika otvorenog koda, napisan u Rustu.
+	Iridium — Screen Color Picker	Iridium — birač boja s ekrana
 	Photography	Fotografija
 	Photomerge	Photomerge
 	Photomerge…	Photomerge…
@@ -2299,7 +2299,7 @@ cameraRaw	Purple	Ljubičasta
 	Quick Selection Tool	Alat za brzi odabir
 	Quick Sync	Brza sinhronizacija
 	Quit	Izlaz
-	Quit PhotoCraft	Zatvori PhotoCraft
+	Quit Iridium	Zatvori Iridium
 	Quit {app}	Zatvori {app}
 	R G B	R G B
 	R g b	R g b
@@ -2531,7 +2531,7 @@ cameraRaw	Saturation	Zasićenje
 	Save these settings as a Camera Raw .xmp file	Sačuvaj ove postavke kao Camera Raw .xmp datoteku
 	Save these shortcuts as a .kys file	Sačuvaj ove prečice kao .kys datoteku
 	Save these shortcuts as a new set	Sačuvaj ove prečice kao novi skup
-	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	Sačuvajte svoj rad i ponovo pokrenite PhotoCraft da ponovo pokušate GPU ubrzanje. CPU iscrtavanje ostaje aktivno za ovu sesiju.
+	Save your work and restart Iridium to retry GPU acceleration. CPU rendering remains active for this session.	Sačuvajte svoj rad i ponovo pokrenite Iridium da ponovo pokušate GPU ubrzanje. CPU iscrtavanje ostaje aktivno za ovu sesiju.
 	Saved a copy as {path}	Kopija sačuvana kao {path}
 @plural	Saved for Web: {n} file|Saved for Web: {n} files	Sačuvano za web: {n} datoteka|Sačuvano za web: {n} datoteke|Sačuvano za web: {n} datoteka
 	Saved Multichannel	Sačuvano višekanalno
@@ -2949,7 +2949,7 @@ cameraRaw	Texture	Tekstura
 	The transform couldn't be applied.	Transformaciju nije moguće primijeniti.
 	There are too many sets: delete one first.	Previše je skupova: prvo izbrišite jedan.
 	There is no crop size or ratio to save	Nema veličine ili omjera izrezivanja za čuvanje
-	These settings aren't available in PhotoCraft yet.	Ove postavke još nisu dostupne u PhotoCraftu.
+	These settings aren't available in Iridium yet.	Ove postavke još nisu dostupne u Iridiumu.
 	Thin	Tanko
 fontWeight	Thin	Tanko
 	This adjustment ({key}) is kept as imported and can't be edited yet.	Ovo podešavanje ({key}) zadržano je kako je uvezeno i još se ne može uređivati.
@@ -2982,7 +2982,7 @@ cameraRaw	Tint	Preliv
 	Tiny Lens	Sićušni objektiv
 	Titling Alternates	Alternative za naslove
 	To Center	Prema središtu
-	To drop files, start PhotoCraft under XWayland: `{command}`	Da ispuštate datoteke, pokrenite PhotoCraft pod XWaylandom: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Da ispuštate datoteke, pokrenite Iridium pod XWaylandom: `{command}`
 	Toggle count group visibility	Uključi/isključi vidljivost grupe brojanja
 	Toggle Last State	Prebaci na posljednje stanje
 	Toggle Layer Mask Overlay	Uključi/isključi preklop maske sloja
@@ -3236,7 +3236,7 @@ navigator	Zoom	Zumiranje
 	{name} Properties	Svojstva: {name}
 	{name} was changed by another app after it was opened or saved here.	{name} je promijenila druga aplikacija nakon što je ovdje otvoren ili sačuvan.
 @plural	{n} action|{n} actions	{n} akcija|{n} akcije|{n} akcija
-	{n} commands are not in PhotoCraft.	Naredbi kojih nema u PhotoCraftu: {n}.
+	{n} commands are not in Iridium.	Naredbi kojih nema u Iridiumu: {n}.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	Izbrisan je {n} sloj koji je zabilježila ova kompozicija. Ažurirajte kompoziciju ili očistite upozorenje.|Izbrisana su {n} sloja koja je zabilježila ova kompozicija. Ažurirajte kompoziciju ili očistite upozorenje.|Izbrisano je {n} slojeva koje je zabilježila ova kompozicija. Ažurirajte kompoziciju ili očistite upozorenje.
 @plural	{n} layer|{n} layers	{n} sloj|{n} sloja|{n} slojeva
 	{n} of {max} sample points	{n} od {max} tačaka uzorka
@@ -3245,7 +3245,7 @@ navigator	Zoom	Zumiranje
 @plural	{n} sample point removed|{n} sample points removed	Uklonjena {n} tačka uzorka|Uklonjene {n} tačke uzorka|Uklonjeno {n} tačaka uzorka
 @plural	{n} sample|{n} samples	{n} uzorak|{n} uzorka|{n} uzoraka
 @plural	{n} slice|{n} slices	{n} isječak|{n} isječka|{n} isječaka
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} korak još nema ekvivalent u PhotoCraftu|{n} koraka još nemaju ekvivalent u PhotoCraftu|{n} koraka još nema ekvivalent u PhotoCraftu
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} korak još nema ekvivalent u Iridiumu|{n} koraka još nemaju ekvivalent u Iridiumu|{n} koraka još nema ekvivalent u Iridiumu
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Izostavljen {n} korak bez ekvivalenta u Photoshopu|Izostavljena {n} koraka bez ekvivalenta u Photoshopu|Izostavljeno {n} koraka bez ekvivalenta u Photoshopu
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: putanja nije važeći Unicode; preimenujte datoteku i ponovo je otvorite.
 	{set} (modified)	{set} (izmijenjeno)

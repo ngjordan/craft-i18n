@@ -1,4 +1,4 @@
-# Magyar (hu) interface catalog for PhotoCraft.
+# Magyar (hu) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -72,7 +72,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: {prs} PR, {commits} commit, +{added} / −{deleted} sor (Δ {delta}), +{binAdded} / −{binDeleted} bináris elem, {first} – {last}
 	A brush preset with this name already exists	Már van ilyen nevű ecset-előbeállítás
 	A save to {name} is still running; try again when it finishes	Még tart egy mentés ide: {name}; próbáld újra, ha befejeződött
-	About PhotoCraft	A PhotoCraft névjegye
+	About Iridium	A Iridium névjegye
 	About {app}	Névjegy: {app}
 	Accept and Go to Conflict	Elfogadás és ugrás az ütközéshez
 	ACES	ACES
@@ -159,7 +159,7 @@
 	Aligned	Igazított
 	All Layers	Minden réteg
 	All Layers No Adjustments	Minden réteg, korrekciók nélkül
-	All shortcuts reset to PhotoCraft defaults.	Minden billentyűparancs visszaállt a PhotoCraft alapértékére.
+	All shortcuts reset to Iridium defaults.	Minden billentyűparancs visszaállt a Iridium alapértékére.
 	All User Slices	Összes felhasználói szelet
 	Allow agent control	Ágensvezérlés engedélyezése
 	Allow Continue	Folytatás engedélyezése
@@ -235,7 +235,7 @@ cameraRaw	Aqua	Türkiz
 	Artboards to PDF	Rajztáblák PDF-be
 	Artboards to PDF…	Rajztáblák PDF-be…
 	Artboard…	Rajztábla…
-	ArtCraft Website	ArtCraft-weboldal
+	Iridium Website	Iridium-weboldal
 	Artist	Alkotó
 	Ask	Rákérdezés
 	Ask before saving layered tiff	Kérdés rétegzett TIFF mentése előtt
@@ -855,7 +855,7 @@ cameraData	Date Taken	Készítés ideje
 	Default Features	Alapértelmezett funkciók
 	Default Foreground and Background Colors	Alapértelmezett előtér- és háttérszín
 	Default Leaves	Alapértelmezett levelek
-	Default PhotoCraft Size	Alapértelmezett PhotoCraft-méret
+	Default Iridium Size	Alapértelmezett Iridium-méret
 	Default printer	Alapértelmezett nyomtató
 	Default restored.	Alapértelmezés visszaállítva.
 	Defaults	Alapértékek
@@ -1568,7 +1568,7 @@ fontWeight	Italic	Dőlt
 	Its layers need {needed} of GPU memory; the budget leaves them {budget}.	A rétegeknek {needed} GPU-memória kell; a keret {budget} hagy nekik.
 	Ivy	Borostyán
 	Jag	Cakkos
-	Join the ArtCraft Discord ({url})	Csatlakozz az ArtCraft Discord-szerveréhez ({url})
+	Join the Iridium Discord ({url})	Csatlakozz az Iridium Discord-szerveréhez ({url})
 	Jpeg quality	JPEG-minőség
 	Jpg	JPG
 	Justify	Sorkizárt
@@ -1889,7 +1889,7 @@ cameraData	Model	Típus
 	My Brushes	Saját ecsetek
 	name	név
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Wayland alatt a natív fájlbehúzás még nem támogatott. Használd a Fájl › Megnyitás… parancsot, vagy másold a képet a fájlkezelőben, és illeszd be ({paste}).
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	A fájlok natív behúzása Waylanden még nem támogatott. Használd a Fájl › Megnyitás parancsot, vagy futtasd a PhotoCraftot XWaylanden: `WAYLAND_DISPLAY= photocraft`.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	A fájlok natív behúzása Waylanden még nem támogatott. Használd a Fájl › Megnyitás parancsot, vagy futtasd a Iridiumot XWaylanden: `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	A natív fájlbehúzás nem érhető el
 	Nearest Neighbor	Legközelebbi szomszéd
 	Nearest neighbor	Legközelebbi szomszéd
@@ -2047,7 +2047,7 @@ layerLabel	No Color	Nincs szín
 	Optical	Optikai
 	Option-click to define a source point to clone from	Option+kattintással add meg a klónozás forráspontját
 	Options	Beállítósáv
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Vagy állítsd X11-re a Beállítások › Teljesítmény › Linuxos megjelenítőszerver értékét: a PhotoCraft ekkor mindig XWayland alatt indul.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Vagy állítsd X11-re a Beállítások › Teljesítmény › Linuxos megjelenítőszerver értékét: a Iridium ekkor mindig XWayland alatt indul.
 cameraRaw	Orange	Narancs
 	Ordinals	Sorszámnevek
 	Original Ratio	Eredeti arány
@@ -2138,17 +2138,17 @@ cameraRaw	Orange	Narancs
 	Photo (8 × 10 in)	Fotó (8 × 10 in)
 	Photo Filter	Fotószűrő
 	Photo Filter…	Fotószűrő…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	PhotoCraft alapértelmezések
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	A PhotoCraft egy másik képszerkesztő billentyűparancs-készletét találta ezen a számítógépen: {set}. Ebben {n} billentyűparancs eltér a PhotoCraftétól. Importálod?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	A PhotoCraft a CPU-s képösszeállítót használja. Az ablak megjelenítése ettől még használhatja a grafikus adaptert.
-	PhotoCraft keeps retrying; until a save succeeds, preference changes are lost when it closes.	A PhotoCraft tovább próbálkozik; amíg a mentés nem sikerül, a beállítások módosításai bezáráskor elvesznek.
-	PhotoCraft Manages Colors	A PhotoCraft kezeli a színeket
-	PhotoCraft on GitHub	PhotoCraft a GitHubon
-	PhotoCraft Website	PhotoCraft-weboldal
-	PhotoCraft website	PhotoCraft-weboldal
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft – nyílt forráskódú, natív képszerkesztő Rust nyelven.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Képernyő-színválasztó
+	Iridium	Iridium
+	Iridium Defaults	Iridium alapértelmezések
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	A Iridium egy másik képszerkesztő billentyűparancs-készletét találta ezen a számítógépen: {set}. Ebben {n} billentyűparancs eltér a Iridiumétól. Importálod?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	A Iridium a CPU-s képösszeállítót használja. Az ablak megjelenítése ettől még használhatja a grafikus adaptert.
+	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	A Iridium tovább próbálkozik; amíg a mentés nem sikerül, a beállítások módosításai bezáráskor elvesznek.
+	Iridium Manages Colors	A Iridium kezeli a színeket
+	Iridium on GitHub	Iridium a GitHubon
+	Iridium Website	Iridium-weboldal
+	Iridium website	Iridium-weboldal
+	Iridium — an open-source, native image editor written in Rust.	Iridium – nyílt forráskódú, natív képszerkesztő Rust nyelven.
+	Iridium — Screen Color Picker	Iridium — Képernyő-színválasztó
 	Photography	Fotózás
 	Photomerge	Fotóegyesítés
 	Photomerge…	Fotóegyesítés…
@@ -2295,7 +2295,7 @@ cameraRaw	Purple	Lila
 	Quick Selection Tool	Gyorskijelölés
 	Quick Sync	Gyors szinkronizálás
 	Quit	Kilépés
-	Quit PhotoCraft	Kilépés a PhotoCraftból
+	Quit Iridium	Kilépés a Iridiumból
 	Quit {app}	Kilépés: {app}
 	Radial Blur	Sugárirányú elmosás
 	Radial Blur…	Sugárirányú elmosás…
@@ -2529,7 +2529,7 @@ cameraRaw	Roughness	Érdesség
 	Save these settings as a Camera Raw .xmp file	A beállítások mentése Camera Raw .xmp-fájlként
 	Save these shortcuts as a .kys file	A billentyűparancsok mentése .kys fájlként
 	Save these shortcuts as a new set	A billentyűparancsok mentése új készletként
-	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	A GPU-gyorsítás újrapróbálásához mentsd a munkádat, majd indítsd újra a PhotoCraftot. Ebben a munkamenetben a CPU-s megjelenítés marad aktív.
+	Save your work and restart Iridium to retry GPU acceleration. CPU rendering remains active for this session.	A GPU-gyorsítás újrapróbálásához mentsd a munkádat, majd indítsd újra a Iridiumot. Ebben a munkamenetben a CPU-s megjelenítés marad aktív.
 	Saved a copy as {path}	Másolat mentve: {path}
 @plural	Saved for Web: {n} file|Saved for Web: {n} files	Mentés webre: {n} fájl|Mentés webre: {n} fájl
 	Saved Multichannel	Többcsatornásként mentve
@@ -2940,7 +2940,7 @@ cameraRaw	Temperature	Színhőmérséklet
 	The transform couldn't be applied.	Az átalakítás nem alkalmazható.
 	There are too many sets: delete one first.	Túl sok készlet van: előbb töröljön egyet.
 	There is no crop size or ratio to save	Nincs menthető körbevágási méret vagy arány
-	These settings aren't available in PhotoCraft yet.	Ezek a beállítások a PhotoCraftban még nem érhetők el.
+	These settings aren't available in Iridium yet.	Ezek a beállítások a Iridiumban még nem érhetők el.
 	Thin	Hajszálvékony
 fontWeight	Thin	Hajszálvékony
 	This adjustment ({key}) is kept as imported and can't be edited yet.	Ez a korrekció ({key}) importált állapotában marad, és egyelőre nem szerkeszthető.
@@ -2976,7 +2976,7 @@ cameraRaw	Tint	Színezet
 	Title	Title
 	Titling Alternates	Címbetű-változatok
 	To Center	Középre
-	To drop files, start PhotoCraft under XWayland: `{command}`	Fájlok behúzásához indítsd a PhotoCraftot XWayland alatt: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Fájlok behúzásához indítsd a Iridiumot XWayland alatt: `{command}`
 	Toggle count group visibility	Számlálócsoport láthatóságának váltása
 	Toggle Last State	Utolsó állapot váltása
 	Toggle reference point	Viszonyítási pont be/ki
@@ -3230,7 +3230,7 @@ navigator	Zoom	Nagyítás mértéke
 	{name} Properties	Tulajdonságok: {name}
 	{name} was changed by another app after it was opened or saved here.	A(z) {name} fájlt egy másik alkalmazás módosította, miután itt megnyitották vagy mentették.
 @plural	{n} action|{n} actions	{n} művelet|{n} művelet
-	{n} commands are not in PhotoCraft.	{n} parancs nem érhető el a PhotoCraftban.
+	{n} commands are not in Iridium.	{n} parancs nem érhető el a Iridiumban.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	A rétegkompozícióban rögzített rétegek közül {n} törlődött. Frissítsd a rétegkompozíciót, vagy töröld a figyelmeztetést.|A rétegkompozícióban rögzített rétegek közül {n} törlődött. Frissítsd a rétegkompozíciót, vagy töröld a figyelmeztetést.
 @plural	{n} layer|{n} layers	{n} réteg|{n} réteg
 	{n} of {max} sample points	{n} / {max} mintavételi pont
@@ -3239,7 +3239,7 @@ navigator	Zoom	Nagyítás mértéke
 @plural	{n} sample point removed|{n} sample points removed	{n} mintavételi pont eltávolítva|{n} mintavételi pont eltávolítva
 @plural	{n} sample|{n} samples	{n} minta|{n} minta
 @plural	{n} slice|{n} slices	{n} szelet|{n} szelet
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} lépésnek még nincs megfelelője a PhotoCraftban|{n} lépésnek még nincs megfelelője a PhotoCraftban
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} lépésnek még nincs megfelelője a Iridiumban|{n} lépésnek még nincs megfelelője a Iridiumban
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	{n} Photoshop-megfelelő nélküli lépés kihagyva|{n} Photoshop-megfelelő nélküli lépés kihagyva
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: az elérési út nem érvényes Unicode-szöveg. Nevezd át a fájlt, és nyisd meg újra.
 	{set} (modified)	{set} (módosítva)

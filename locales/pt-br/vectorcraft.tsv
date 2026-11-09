@@ -1,4 +1,4 @@
-# Português (Brasil) (pt-br) interface catalog for VectorCraft.
+# Português (Brasil) (pt-br) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -213,7 +213,7 @@
 	A4	A4
 	A5	A5
 	A6	A6
-	About VectorCraft	Sobre o VectorCraft
+	About Iridium	Sobre o Iridium
 	above	acima
 	Above Text	Acima do texto
 	Absolute Position	Posição Absoluta
@@ -309,7 +309,7 @@ file-filter	All readable files	Todos os arquivos legíveis
 	Amber	Âmbar
 	Ambient Light	Luz ambiente
 @msg	an image of {w} × {h} pixels is too large to draw	uma imagem de {w} × {h} pixels é grande demais para ser desenhada
-@msg	an image VectorCraft can't read was left out	uma imagem que o VectorCraft não consegue ler foi omitida
+@msg	an image Iridium can't read was left out	uma imagem que o Iridium não consegue ler foi omitida
 @msg	an image whose data is cut short was left out	uma imagem com dados incompletos foi omitida
 @msg	an object can't be read	não foi possível ler um objeto
 @msg	an object in perspective would leave the edited grid	um objeto em perspectiva sairia da grade editada
@@ -340,7 +340,7 @@ file-filter	All readable files	Todos os arquivos legíveis
 	Appearance of Black	Aparência do Preto
 	Appearance Panel	Painel Aparência
 	Appearance panel	Painel de Aparência
-	Applies the next time VectorCraft starts.	Aplica na próxima inicialização do VectorCraft.
+	Applies the next time Iridium starts.	Aplica na próxima inicialização do Iridium.
 	Applies when the linked file is relinked or updated.	Aplica quando o arquivo vinculado é revinculado ou atualizado.
 	Apply Brush	Aplicar Pincel
 	Apply Effect	Aplicar Efeito
@@ -549,7 +549,7 @@ axis	Both	Ambos
 @msg	can't parse shortcut `{c}`	não foi possível interpretar o atalho `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	não foi possível interpretar o atalho `{s}` de `{k}`
 	Can't print these settings: see the Summary	Não é possível imprimir estas configurações: veja o Resumo
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	não foi possível salvar a versão {0}: o VectorCraft grava as versões {MIN_VERSION} a {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	não foi possível salvar a versão {0}: o Iridium grava as versões {MIN_VERSION} a {VERSION}
 	Can't save “{name}”.	Não é possível salvar “{name}”.
 @msg	can't write .{ext} images	não é possível gravar imagens .{ext}
 	Cancel Export	Cancelar Exportação
@@ -1126,7 +1126,7 @@ axis	Both	Ambos
 	DXF Options Dialog	Diálogo de Opções DXF
 	e.g. 1-3, 5	por exemplo, 1-3, 5
 	Each Design Represents:	Cada Design Representa:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Cada entrada do arquivo é associada a uma ferramenta, comando ou painel do VectorCraft. Confira as correspondências e resolva o que sobrar.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Cada entrada do arquivo é associada a uma ferramenta, comando ou painel do Iridium. Confira as correspondências e resolva o que sobrar.
 	Each page prints as one image, at the document's raster effects resolution.	Cada página imprime como uma imagem, na resolução de efeitos de raster do documento.
 	Earth Tones	Tons de Terra
 	East Asian Type	Tipografia do Leste Asiático
@@ -1332,7 +1332,7 @@ axis	Both	Ambos
 	File Info Dialog	Diálogo de Informações do Arquivo
 	File Name:	Nome do Arquivo:
 	File or URL:	Arquivo ou URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	a versão {0} do arquivo é mais recente do que este VectorCraft suporta ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	a versão {0} do arquivo é mais recente do que este Iridium suporta ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Arquivo › Colocar… traz uma imagem, vinculada ou incorporada.
 	Files of a PDF standard can't be password-protected.	Arquivos de um padrão PDF não podem ser protegidos por senha.
 	Files of this standard tag their colours with ICC profiles.	Os arquivos deste padrão etiquetam suas cores com perfis ICC.
@@ -1586,7 +1586,7 @@ file-filter	Flattener presets	Predefinidos de achatamento
 	Hide Thumbnail	Ocultar Miniatura
 	Hide Thumbnails	Ocultar Miniaturas
 	Hide Transparency Grid	Ocultar Grade de Transparência
-	Hide VectorCraft	Ocultar o VectorCraft
+	Hide Iridium	Ocultar o Iridium
 	High (300 ppi)	Alta (300 ppi)
 	High Contrast	Alto Contraste
 	High Contrast 2	Alto Contraste 2
@@ -1674,7 +1674,7 @@ effect	Horizontal	Horizontal
 	In Tangent Handles	Alças de Tangente de Entrada
 	In the File	No Arquivo
 	In the selected objects	Nos objetos selecionados
-	In VectorCraft	No VectorCraft
+	In Iridium	No Iridium
 	Include all profiles	Incluir todos os perfis
 	Include All Subdirectories	Incluir todos os subdiretórios
 	Include Blacks with CMY:	Incluir Pretos com CMY:
@@ -1737,7 +1737,7 @@ effect	Horizontal	Horizontal
 	Invert Colors	Inverter Cores
 	Invert Pie	Inverter fatia
 	Inverted Round	Arredondado Invertido
-@msg	is not an image VectorCraft reads	não é uma imagem que o VectorCraft lê
+@msg	is not an image Iridium reads	não é uma imagem que o Iridium lê
 	Isolate Blending	Isolar Mesclagem
 	Isolate Group	Isolar Grupo
 	Isolate Selected Group	Isolar Grupo Selecionado
@@ -1756,9 +1756,9 @@ effect	Horizontal	Horizontal
 @msg	it has too many text objects	tem objetos de texto demais
 @msg	it has too many values in a row	tem valores demais em sequência
 @msg	it has too much text	tem texto demais
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	tem {_1}, que o VectorCraft ainda não lê desse arquivo
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	usa `{at}`, que o leitor de PostScript do VectorCraft não conhece
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	usa `{at}`, que o leitor de PostScript do VectorCraft não conhece, em {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	tem {_1}, que o Iridium ainda não lê desse arquivo
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	usa `{at}`, que o leitor de PostScript do Iridium não conhece
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	usa `{at}`, que o leitor de PostScript do Iridium não conhece, em {procs}
 @msg	its editing data doesn't say where its art is	seus dados de edição não indicam onde está a arte
 @msg	its editing data doesn't say where its artboard is	seus dados de edição não indicam onde fica a prancheta
 @msg	its editing data has no layers	seus dados de edição não têm camadas
@@ -1781,7 +1781,7 @@ mark-style	Japanese	Japonesas
 	JavaScript:	JavaScript:
 @msg	join needs open paths	unir exige traçados abertos
 	Join Our Discord	Junte-se ao nosso Discord
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Junte-se à comunidade do ArtCraft no Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Junte-se à comunidade do Iridium no Discord (discord.gg/artcraft)
 	Join the lines of each paragraph	Junte as linhas de cada parágrafo
 	Join Tool	Ferramenta Unir
 	Joins	Junções
@@ -1801,7 +1801,7 @@ mark-style	Japanese	Japonesas
 	Keep the pasted color as a new swatch with a numbered name.	Mantém a cor colada como uma nova amostra com nome numerado.
 	Keep this row's colors (exclude)	Manter as cores desta linha (excluir)
 	Keep visible surfaces only when expanding	Manter apenas as superfícies visíveis ao expandir
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Mantém o documento editável: o VectorCraft reabre o PDF sem perder nada. Para arquivos que você vai editar de novo.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Mantém o documento editável: o Iridium reabre o PDF sem perder nada. Para arquivos que você vai editar de novo.
 	Kerning (0 = Auto)	Entrelinhamento (0 = Automático)
 	Key Color:	Cor-chave:
 	Keyboard Increment	Incremento do Teclado
@@ -1942,7 +1942,7 @@ lighting	Light	Luz
 	Load Text into Clipboard	Carregar Texto na Área de Transferência
 	Load Texture…	Carregar textura…
 	Loaded Texture	Textura carregada
-@msg	Loading VectorCraft…	Carregando o VectorCraft…
+@msg	Loading Iridium…	Carregando o Iridium…
 	Loads native code	Carrega código nativo
 	Local Libraries	Bibliotecas Locais
 	Locate Object	Localizar Objeto
@@ -2339,8 +2339,8 @@ lighting	Light	Luz
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	não é um conjunto de atalhos: o texto não começa com um nome com barra e uma chave de abertura
 @msg	not a stored central record	não é um registro central armazenado
 @msg	not a valid plug-in module: {0}	não é um módulo de plug-in válido: {0}
-@msg	not a VectorCraft file: {0}	não é um arquivo do VectorCraft: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	não é um conjunto de atalhos do VectorCraft (falta `overrides`)
+@msg	not a Iridium file: {0}	não é um arquivo do Iridium: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	não é um conjunto de atalhos do Iridium (falta `overrides`)
 @msg	not an EMF or WMF file	não é um arquivo EMF ou WMF
 	Not followed: outside the script's folder	Ignorado: fora da pasta do script
 	Not found	Não encontrado
@@ -2490,7 +2490,7 @@ lighting	Light	Luz
 @msg	Opened with {_1} note(s): {_2}	Aberto com {_1} observação(ões): {_2}
 	Opened with {} note(s): {}	Aberto com {} observação(ões): {}
 @msg	Opened {url}	{url} aberto
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Ao abri-lo, ficou de fora o que o VectorCraft ainda não consegue ler ({what}), então substituí-lo perde isso para sempre. Salve com outro nome para mantê-lo.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Ao abri-lo, ficou de fora o que o Iridium ainda não consegue ler ({what}), então substituí-lo perde isso para sempre. Salve com outro nome para mantê-lo.
 	Opens files in other apps	Abre arquivos em outros aplicativos
 	Opens network connections	Abre conexões de rede
 	Optical Margin Alignment	Alinhamento de Margem Óptica
@@ -2567,7 +2567,7 @@ imageTrace	Outline	Contorno
 	Paragraph Style	Estilo de Parágrafo
 	Paragraph Style Options	Opções de Estilo de Parágrafo
 	Paragraph Symbol	Símbolo de Parágrafo
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Parte do ArtCraft. MIT OR Apache-2.0. Fontes: Source Sans 3, Inter, JetBrains Mono (OFL). Ícones: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Parte do Iridium. MIT OR Apache-2.0. Fontes: Source Sans 3, Inter, JetBrains Mono (OFL). Ícones: Lucide (ISC) + Iridium.
 	Paste Design	Colar Design
 	Paste in Back	Colar Atrás
 	Paste in Front	Colar na Frente
@@ -2780,7 +2780,7 @@ file-filter	Print presets	Predefinidos de impressão
 	Quality:	Qualidade:
 	Quarter Space	Espaço de Quarto
 	Quickly start a new file	Começar rapidamente um novo arquivo
-	Quit VectorCraft	Sair do VectorCraft
+	Quit Iridium	Sair do Iridium
 	Radar Graph Tool	Ferramenta Gráfico de Radar
 gradient-kind	Radial	Radial
 	Radial Blur	Desfoque Radial
@@ -3560,7 +3560,7 @@ effect	Soft	Suave
 	Standard:	Padrão:
 	Star Tool	Ferramenta Estrela
 	Start arrowhead	Pontas de seta iniciais
-	Start from VectorCraft Defaults	Começar com os Padrões do VectorCraft
+	Start from Iridium Defaults	Começar com os Padrões do Iridium
 	Start Global Edit	Iniciar Edição Global
 	Start Tile	Ladrilho inicial
 	Start:	Início:
@@ -3714,7 +3714,7 @@ file-filter	Templates	Modelos
 	The bounds of the visible art.	Os limites da arte visível.
 	The cell shows the type object's text as HTML.	A célula mostra o texto do objeto de tipo como HTML.
 @msg	the Color Picker is not open	o Seletor de Cores não está aberto
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	o arquivo compactado se expande para mais do que o VectorCraft lê ({_1} MB de documento, {_2} MB por imagem)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	o arquivo compactado se expande para mais do que o Iridium lê ({_1} MB de documento, {_2} MB por imagem)
 @msg	the compressed file unpacks to more than {_1} MB	o arquivo compactado se expande para mais de {_1} MB
 	The dialog was closed before its file dialog answered	O diálogo foi fechado antes que sua caixa de diálogo de arquivos respondesse
 @msg	the document has never been saved	o documento nunca foi salvo
@@ -3744,7 +3744,7 @@ file-filter	Templates	Modelos
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	as camadas do arquivo não foram lidas dos seus dados de edição ({_1}): elas vêm da sua parte PDF
 @msg	the file's preview header points outside the file	o cabeçalho de visualização do arquivo aponta para fora do arquivo
 @msg	the files come to more than 1 GB: add fewer at a time	os arquivos somam mais de 1 GB: adicione menos por vez
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	O processador gráfico tentado primeiro não conseguiu exibir a janela, então o VectorCraft reiniciou em {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	O processador gráfico tentado primeiro não conseguiu exibir a janela, então o Iridium reiniciou em {summary}
 @msg	The graphics were lost and couldn't be restarted.	Os gráficos foram perdidos e não puderam ser reiniciados.
 @msg	The graphics were lost and have been restarted	Os gráficos foram perdidos e reiniciados
 @msg	the guide is on a hidden or locked layer	a guia está em uma camada oculta ou bloqueada
@@ -3755,12 +3755,12 @@ file-filter	Templates	Modelos
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	A imagem foi traçada em {_1} × {_2} pixels, reduzida de {_3} × {_4} (no máximo {_5} megapixels).
 @msg	the image's pixels can't be read	não é possível ler os pixels da imagem
 @msg	the image's pixels don't match its size	os pixels da imagem não correspondem ao seu tamanho
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	A última inicialização do VectorCraft terminou em {name} antes de a janela aparecer, então o VectorCraft iniciou em {summary}. Para tentar esse processador gráfico novamente, altere Preferências › Desempenho › Processador Gráfico ou inicie com a variável WGPU_BACKEND definida
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	A última inicialização do VectorCraft terminou enquanto listava os processadores gráficos, então o VectorCraft iniciou em {summary} apenas com OpenGL. Para tentar as outras interfaces gráficas novamente, altere Preferências › Desempenho › Processador Gráfico ou inicie com a variável WGPU_BACKEND definida
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	A última inicialização do Iridium terminou em {name} antes de a janela aparecer, então o Iridium iniciou em {summary}. Para tentar esse processador gráfico novamente, altere Preferências › Desempenho › Processador Gráfico ou inicie com a variável WGPU_BACKEND definida
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	A última inicialização do Iridium terminou enquanto listava os processadores gráficos, então o Iridium iniciou em {summary} apenas com OpenGL. Para tentar as outras interfaces gráficas novamente, altere Preferências › Desempenho › Processador Gráfico ou inicie com a variável WGPU_BACKEND definida
 @msg	the layer has no objects to clip by	a camada não tem objetos para recortar
 @msg	the layer or group is locked	a camada ou o grupo está bloqueado
 @msg	the layer to flatten into is hidden	a camada de destino do achatamento está oculta
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	O nome no painel de salvamento era “{typed}”, e o VectorCraft adicionou a extensão do tipo de arquivo. Substituir o arquivo sobrescreve o conteúdo.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	O nome no painel de salvamento era “{typed}”, e o Iridium adicionou a extensão do tipo de arquivo. Substituir o arquivo sobrescreve o conteúdo.
 @msg	the object already has an opacity mask	o objeto já tem uma máscara de opacidade
 @msg	the object has no geometry	o objeto não tem geometria
 @msg	the object has no opacity mask	o objeto não tem máscara de opacidade
@@ -3824,7 +3824,7 @@ file-filter	Templates	Modelos
 	This library is empty.	Esta biblioteca está vazia.
 	This panel is on the roadmap (see the parity plan).	Este painel está no roadmap (veja o plano de paridade).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	este arquivo PostScript não pode ser lido ({why}): salve-o como PDF ou SVG no aplicativo que o criou
-@msg	This shortcut file is in a form VectorCraft can't read.	Este arquivo de atalhos está em um formato que o VectorCraft não consegue ler.
+@msg	This shortcut file is in a form Iridium can't read.	Este arquivo de atalhos está em um formato que o Iridium não consegue ler.
 	This system has no screen color sampler	Este sistema não tem coletor de cores da tela
 @msg	this system has no screen color sampler	este sistema não tem coletor de cores da tela
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	esta vetorização geraria mais de {max} pontos de ancoragem, mais do que o documento consegue exibir com fluidez: aumente Ruído, reduza Traçados ou Cores, ou escolha uma predefinição de menor fidelidade
@@ -4096,22 +4096,22 @@ diagnostics	ui	interface
 	Vector Halftone	Meio-tom Vetorial
 	Vector Halftone…	Meio-tom Vetorial…
 	Vector illustration — fast, open, scriptable.	Ilustração vetorial — rápida, aberta, scriptável.
-	VectorCraft copies the fonts to {folder}.	O VectorCraft copia as fontes para {folder}.
-	VectorCraft Default	Padrão do VectorCraft
-	VectorCraft Defaults	Padrões do VectorCraft
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	O VectorCraft não fechou normalmente da última vez. Estes documentos tinham alterações não salvas:
-	VectorCraft documents: one locked object, updated when the file changes.	Documentos do VectorCraft: um objeto bloqueado, atualizado quando o arquivo muda.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	O VectorCraft não pesquisa pastas de outros aplicativos nem do sistema: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	O VectorCraft não pesquisa a pasta Compartilhado ou Público em Usuários: {path}
-@msg	VectorCraft failed to start: {e}	Falha ao iniciar o VectorCraft: {e}
-	VectorCraft Generic CMYK (SWOP-like)	CMYK Genérico do VectorCraft (tipo SWOP)
-	VectorCraft Help…	Ajuda do VectorCraft…
-	VectorCraft on getartcraft.com	VectorCraft em getartcraft.com
-	VectorCraft on GitHub	VectorCraft no GitHub
-	VectorCraft read this script without running it.	O VectorCraft leu este script sem executá-lo.
-	VectorCraft Swatches (.vcswatches)	Amostras do VectorCraft (.vcswatches)
-file-filter	VectorCraft Template	Modelo do VectorCraft
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	A pasta Fontes do VectorCraft não está definida aqui: o aplicativo para desktop e o vectorcraft-cli a definem
+	Iridium copies the fonts to {folder}.	O Iridium copia as fontes para {folder}.
+	Iridium Default	Padrão do Iridium
+	Iridium Defaults	Padrões do Iridium
+	Iridium didn't quit normally last time. These documents had unsaved changes:	O Iridium não fechou normalmente da última vez. Estes documentos tinham alterações não salvas:
+	Iridium documents: one locked object, updated when the file changes.	Documentos do Iridium: um objeto bloqueado, atualizado quando o arquivo muda.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	O Iridium não pesquisa pastas de outros aplicativos nem do sistema: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	O Iridium não pesquisa a pasta Compartilhado ou Público em Usuários: {path}
+@msg	Iridium failed to start: {e}	Falha ao iniciar o Iridium: {e}
+	Iridium Generic CMYK (SWOP-like)	CMYK Genérico do Iridium (tipo SWOP)
+	Iridium Help…	Ajuda do Iridium…
+	Iridium on getartcraft.com	Iridium em getartcraft.com
+	Iridium on GitHub	Iridium no GitHub
+	Iridium read this script without running it.	O Iridium leu este script sem executá-lo.
+	Iridium Swatches (.vcswatches)	Amostras do Iridium (.vcswatches)
+file-filter	Iridium Template	Modelo do Iridium
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	A pasta Fontes do Iridium não está definida aqui: o aplicativo para desktop e o vectorcraft-cli a definem
 	Vectors	Vetores
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	arquivos da versão {0} não podem ser compactados: somente a versão {COMPRESSED_SINCE} e posteriores abrem arquivos compactados
 	Version {version} — open-source vector illustration in pure Rust.	Versão {version} — ilustração vetorial de código aberto em Rust puro.
@@ -4168,7 +4168,7 @@ effect	Vertical	Vertical
 	Web Snap:	Web Snap:
 	WebP	WebP
 	Weight:	Peso:
-	Welcome to VectorCraft	Bem-vindo ao VectorCraft
+	Welcome to Iridium	Bem-vindo ao Iridium
 	When pasting text	Ao colar texto
 	Widget Position:	Posição do Widget:
 @msg	width and height are at least 1 pixel	largura e altura têm pelo menos 1 pixel

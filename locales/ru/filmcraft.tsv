@@ -1,4 +1,4 @@
-# Русский (ru) interface catalog for FilmCraft.
+# Русский (ru) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -11,7 +11,7 @@
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
 
-	About FilmCraft	О FilmCraft
+	About Iridium	О Iridium
 	Add Audio Submix Track	Добавить дорожку подмикширования звука
 	Add Caption at Playhead	Добавить субтитр в позиции курсора воспроизведения
 	Add Chapter Marker…	Добавить маркер главы…
@@ -121,9 +121,9 @@
 	Field Options…	Параметры полей…
 	File…	Файл…
 	Fill frame	Заполнить кадр
-	FilmCraft Help…	Справка FilmCraft…
-	FilmCraft on getartcraft.com	FilmCraft на getartcraft.com
-	FilmCraft on GitHub	FilmCraft на GitHub
+	Iridium Help…	Справка Iridium…
+	Iridium on getartcraft.com	Iridium на getartcraft.com
+	Iridium on GitHub	Iridium на GitHub
 	Fit to frame	Вписать в кадр
 	Flatten	Свести
 	Focus	Focus
@@ -164,7 +164,7 @@
 	Insert Frame Hold Segment	Вставить сегмент стоп-кадра
 	Install Motion Graphics Template…	Установить шаблон анимированной графики…
 	Interpret Footage…	Интерпретировать материал…
-	Join the ArtCraft Discord…	Присоединиться к ArtCraft Discord…
+	Join the Iridium Discord…	Присоединиться к Iridium Discord…
 	Join us on Discord	Join us on Discord
 	Labels	Labels
 	Labels…	Метки…
@@ -270,7 +270,7 @@
 	Select Next Layer	Выбрать следующий слой
 	Select Previous Graphic	Выбрать предыдущий графический элемент
 	Select Previous Layer	Выбрать предыдущий слой
-	Selection as FilmCraft Project…	Выделение как проект FilmCraft…
+	Selection as Iridium Project…	Выделение как проект Iridium…
 	Selection Follows Playhead	Выделение следует за курсором воспроизведения
 	Selection…	Выделение…
 	Send to Back	Переместить на задний план

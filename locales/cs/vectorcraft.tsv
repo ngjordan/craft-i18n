@@ -1,4 +1,4 @@
-# Čeština (cs) interface catalog for VectorCraft.
+# Čeština (cs) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -129,7 +129,7 @@
 	[Press Quality]	[Kvalita pro tiskový stroj]
 	[Smallest File Size]	[Nejmenší velikost souboru]
 	[Unnamed]	[Bez názvu]
-	[VectorCraft Default]	[Výchozí VectorCraft]
+	[Iridium Default]	[Výchozí Iridium]
 @msg	`aspect` must be a number (%)	`aspect` musí být číslo (%)
 @msg	`at` must be [x, y]	`at` musí být [x, y]
 @msg	`color` must be a colour	`color` musí být barva
@@ -222,7 +222,7 @@
 	A3	A3
 	A4	A4
 	A5	A5
-	About VectorCraft	O aplikaci VectorCraft
+	About Iridium	O aplikaci Iridium
 	above	nad
 	Above Text	Nad textem
 	Absolute Position	Absolutní pozice
@@ -314,7 +314,7 @@ file-filter	All readable files	Všechny čitelné soubory
 	Amber	Jantarová
 	Ambient Light	Okolní světlo
 @msg	an image of {w} × {h} pixels is too large to draw	obraz o velikosti {w} × {h} obrazových bodů je příliš velký na vykreslení
-@msg	an image VectorCraft can't read was left out	obrázek, který VectorCraft neumí přečíst, byl vynechán
+@msg	an image Iridium can't read was left out	obrázek, který Iridium neumí přečíst, byl vynechán
 @msg	an image whose data is cut short was left out	obrázek s useknutými daty byl vynechán
 @msg	an object can't be read	objekt nelze přečíst
 @msg	an object in perspective would leave the edited grid	objekt v perspektivě by opustil upravovanou mřížku
@@ -345,7 +345,7 @@ file-filter	All readable files	Všechny čitelné soubory
 	Appearance of Black	Vzhled černé
 	Appearance Panel	Panel Vzhled
 	Appearance panel	Panel Vzhled
-	Applies the next time VectorCraft starts.	Projeví se při příštím spuštění VectorCraftu.
+	Applies the next time Iridium starts.	Projeví se při příštím spuštění Iridiumu.
 	Applies when the linked file is relinked or updated.	Platí při opětovném propojení nebo aktualizaci propojeného souboru.
 	Apply Brush	Použít štětec
 	Apply Effect	Použít efekt
@@ -551,7 +551,7 @@ axis	Both	Obě
 @msg	can't parse shortcut `{c}`	klávesovou zkratku `{c}` nelze analyzovat
 @msg	can't parse shortcut `{s}` for `{k}`	klávesovou zkratku `{s}` pro `{k}` nelze analyzovat
 	Can't print these settings: see the Summary	S tímto nastavením nelze tisknout: viz Souhrn
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	verzi {0} nelze uložit: VectorCraft zapisuje verze {MIN_VERSION} až {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	verzi {0} nelze uložit: Iridium zapisuje verze {MIN_VERSION} až {VERSION}
 	Can't save “{name}”.	„{name}“ nelze uložit.
 @msg	can't write .{ext} images	obrázky .{ext} nelze zapisovat
 	Cancel Export	Zrušit export
@@ -985,7 +985,7 @@ axis	Both	Obě
 	Dialog	Dialogové okno
 	Diamond (open)	Kosočtverec (otevřený)
 	Differences from [Default]:	Rozdíly oproti [Výchozí]:
-	Differences from VectorCraft Default:	Rozdíly oproti přednastavení Výchozí VectorCraft:
+	Differences from Iridium Default:	Rozdíly oproti přednastavení Výchozí Iridium:
 	Differences from {preset}:	Rozdíly oproti {preset}:
 	Diffuse Glow…	Rozptýlená záře…
 	Dim Copies to:	Ztlumit kopie na:
@@ -1129,7 +1129,7 @@ axis	Both	Obě
 	DXF Options Dialog	Dialogové okno Možnosti DXF
 	e.g. 1-3, 5	např. 1-3, 5
 	Each Design Represents:	Každý návrh představuje:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Každá položka souboru je přiřazena k nástroji, příkazu nebo panelu VectorCraftu. Zkontrolujte přiřazení a doplňte, co zbývá.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Každá položka souboru je přiřazena k nástroji, příkazu nebo panelu Iridiumu. Zkontrolujte přiřazení a doplňte, co zbývá.
 	Each page prints as one image, at the document's raster effects resolution.	Každá stránka se tiskne jako jeden obraz v rozlišení rastrových efektů dokumentu.
 	Earth Tones	Zemité tóny
 	East Asian Type	Východoasijské písmo
@@ -1335,7 +1335,7 @@ axis	Both	Obě
 	File Info Dialog	Dialogové okno Informace o souboru
 	File Name:	Název souboru:
 	File or URL:	Soubor nebo URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	verze souboru {0} je novější, než tento VectorCraft podporuje ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	verze souboru {0} je novější, než tento Iridium podporuje ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Soubor › Umístit… přidá obrázek, propojený nebo vložený.
 	Files of a PDF standard can't be password-protected.	Soubory podle standardu PDF nelze chránit heslem.
 	Files of this standard tag their colours with ICC profiles.	Soubory tohoto standardu označují své barvy profily ICC.
@@ -1587,7 +1587,7 @@ file-filter	Flattener presets	Přednastavení sloučení průhlednosti
 	Hide Thumbnail	Skrýt miniaturu
 	Hide Thumbnails	Skrýt miniatury
 	Hide Transparency Grid	Skrýt mřížku průhlednosti
-	Hide VectorCraft	Skrýt VectorCraft
+	Hide Iridium	Skrýt Iridium
 	High (300 ppi)	Vysoké (300 ppi)
 	High Contrast	Vysoký kontrast
 	High Contrast 2	Vysoký kontrast 2
@@ -1675,7 +1675,7 @@ effect	Horizontal	Vodorovný
 	In Tangent Handles	Vstupní tečné úchyty
 	In the File	V souboru
 	In the selected objects	Ve vybraných objektech
-	In VectorCraft	Ve VectorCraftu
+	In Iridium	Ve Iridiumu
 	Include all profiles	Zahrnout všechny profily
 	Include Blacks with CMY:	Zahrnout černé s CMY:
 	Include Bleed	Zahrnout spadávku
@@ -1737,7 +1737,7 @@ effect	Horizontal	Vodorovný
 	Invert Colors	Invertovat barvy
 	Invert Pie	Obrátit výseč
 	Inverted Round	Obráceně zaoblený
-@msg	is not an image VectorCraft reads	není obraz, který VectorCraft umí přečíst
+@msg	is not an image Iridium reads	není obraz, který Iridium umí přečíst
 	Isolate Blending	Izolovat míchání
 	Isolate Group	Izolovat skupinu
 	Isolate Selected Group	Izolovat vybranou skupinu
@@ -1756,9 +1756,9 @@ effect	Horizontal	Vodorovný
 @msg	it has too many text objects	má příliš mnoho textových objektů
 @msg	it has too many values in a row	má příliš mnoho hodnot v řadě
 @msg	it has too much text	má příliš mnoho textu
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	obsahuje {_1}, což z něj VectorCraft zatím nečte
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	používá `{at}`, které čtečka PostScriptu ve VectorCraftu nezná
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	používá `{at}`, které čtečka PostScriptu ve VectorCraftu nezná, v {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	obsahuje {_1}, což z něj Iridium zatím nečte
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	používá `{at}`, které čtečka PostScriptu ve Iridiumu nezná
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	používá `{at}`, které čtečka PostScriptu ve Iridiumu nezná, v {procs}
 @msg	its editing data doesn't say where its art is	z jeho dat pro úpravy není zřejmé, kde je kresba
 @msg	its editing data doesn't say where its artboard is	z jeho dat pro úpravy není zřejmé, kde je pracovní plocha
 @msg	its editing data has no layers	jeho data pro úpravy nemají žádné vrstvy
@@ -1781,7 +1781,7 @@ mark-style	Japanese	Japonské
 	JavaScript:	JavaScript:
 @msg	join needs open paths	spojení vyžaduje otevřené cesty
 	Join Our Discord	Připojit se k našemu Discordu
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Připojte se ke komunitě ArtCraft na Discordu (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Připojte se ke komunitě Iridium na Discordu (discord.gg/artcraft)
 	Join the lines of each paragraph	Spojit řádky každého odstavce
 	Join Tool	Nástroj Spojení
 	Joins	Spoje
@@ -1801,7 +1801,7 @@ mark-style	Japanese	Japonské
 	Keep the pasted color as a new swatch with a numbered name.	Ponechat vloženou barvu jako novou položku vzorníku s očíslovaným názvem.
 	Keep this row's colors (exclude)	Ponechat barvy tohoto řádku (vyloučit)
 	Keep visible surfaces only when expanding	Při rozložení ponechat pouze viditelné povrchy
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Zachová možnost úprav dokumentu: VectorCraft znovu otevře PDF bez ztráty dat. Pro soubory, které budete znovu upravovat.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Zachová možnost úprav dokumentu: Iridium znovu otevře PDF bez ztráty dat. Pro soubory, které budete znovu upravovat.
 	Kerning (0 = Auto)	Vyrovnání párů (0 = automaticky)
 	Key Color:	Klíčová barva:
 	Keyboard Increment	Krok klávesnice
@@ -1938,7 +1938,7 @@ lighting	Light	Světlo
 	Load Text into Clipboard	Načíst text do schránky
 	Load Texture…	Načíst texturu…
 	Loaded Texture	Načtená textura
-@msg	Loading VectorCraft…	Načítání VectorCraftu…
+@msg	Loading Iridium…	Načítání Iridiumu…
 	Loads native code	Načítá nativní kód
 	Local Libraries	Místní knihovny
 	Locate Object	Najít objekt
@@ -2335,8 +2335,8 @@ lighting	Light	Světlo
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	nejde o sadu klávesových zkratek: text nezačíná názvem s lomítkem a otevírací složenou závorkou
 @msg	not a stored central record	nejde o uložený centrální záznam
 @msg	not a valid plug-in module: {0}	neplatný modul zásuvného modulu: {0}
-@msg	not a VectorCraft file: {0}	nejde o soubor VectorCraft: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	nejde o sadu klávesových zkratek VectorCraft (chybí `overrides`)
+@msg	not a Iridium file: {0}	nejde o soubor Iridium: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	nejde o sadu klávesových zkratek Iridium (chybí `overrides`)
 @msg	not an EMF or WMF file	nejde o soubor EMF ani WMF
 	Not followed: outside the script's folder	Přeskočeno: mimo složku skriptu
 	Not found	Nenalezeno
@@ -2484,7 +2484,7 @@ lighting	Light	Světlo
 @msg	Opened with {_1} note(s): {_2}	Otevřeno, poznámky ({_1}): {_2}
 	Opened with {} note(s): {}	Otevřeno, poznámky ({}): {}
 @msg	Opened {url}	Otevřeno {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Při otevírání bylo vynecháno, co VectorCraft zatím neumí přečíst ({what}), takže nahrazením se to nenávratně ztratí. Chcete-li to zachovat, uložte dokument pod jiným názvem.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Při otevírání bylo vynecháno, co Iridium zatím neumí přečíst ({what}), takže nahrazením se to nenávratně ztratí. Chcete-li to zachovat, uložte dokument pod jiným názvem.
 	Opens files in other apps	Otevírá soubory v jiných aplikacích
 	Opens network connections	Otevírá síťová připojení
 	Optical Margin Alignment	Optické zarovnání okrajů
@@ -2560,8 +2560,8 @@ imageTrace	Outline	Obrys
 	Paragraph Style	Styl odstavce
 	Paragraph Style Options	Možnosti stylu odstavce
 	Paragraph Symbol	Symbol odstavce
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Součást ArtCraft. MIT OR Apache-2.0. Písma: Source Sans 3, Inter, JetBrains Mono (OFL). Ikony: Lucide (ISC) + VectorCraft.
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	Součást ArtCraft. MIT OR Apache-2.0. Písma: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikony: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Součást Iridium. MIT OR Apache-2.0. Písma: Source Sans 3, Inter, JetBrains Mono (OFL). Ikony: Lucide (ISC) + Iridium.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Součást Iridium. MIT OR Apache-2.0. Písma: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikony: Lucide (ISC) + Iridium.
 	Paste Design	Vložit návrh
 	Paste in Back	Vložit dozadu
 	Paste in Front	Vložit dopředu
@@ -2776,7 +2776,7 @@ file-filter	Print presets	Přednastavení tisku
 	Quality:	Kvalita:
 	Quarter Space	Čtvrtinová mezera
 	Quickly start a new file	Rychle začít nový soubor
-	Quit VectorCraft	Ukončit VectorCraft
+	Quit Iridium	Ukončit Iridium
 	Radar Graph Tool	Nástroj Paprskový graf
 gradient-kind	Radial	Kruhový
 	Radial Dividers:	Radiální dělicí čáry:
@@ -3557,7 +3557,7 @@ effect	Soft	Měkký
 	Standard:	Standard:
 	Star Tool	Nástroj Hvězda
 	Start arrowhead	Počáteční šipka
-	Start from VectorCraft Defaults	Vycházet z výchozích zkratek VectorCraftu
+	Start from Iridium Defaults	Vycházet z výchozích zkratek Iridiumu
 	Start Global Edit	Zahájit globální úpravy
 	Start Tile	Počáteční dlaždice
 	Start:	Začátek:
@@ -3707,7 +3707,7 @@ file-filter	Templates	Šablony
 	The bounds of the visible art.	Hranice viditelné kresby.
 	The cell shows the type object's text as HTML.	Buňka zobrazuje text textového objektu jako HTML.
 @msg	the Color Picker is not open	Výběr barvy není otevřený
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	komprimovaný soubor se rozbalí na více, než VectorCraft přečte ({_1} MB dokumentu, {_2} MB na obrázek)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	komprimovaný soubor se rozbalí na více, než Iridium přečte ({_1} MB dokumentu, {_2} MB na obrázek)
 @msg	the compressed file unpacks to more than {_1} MB	komprimovaný soubor se rozbalí na více než {_1} MB
 	The dialog was closed before its file dialog answered	Dialogové okno se zavřelo dřív, než odpovědělo jeho dialogové okno souboru
 @msg	the document has never been saved	dokument nebyl nikdy uložen
@@ -3737,7 +3737,7 @@ file-filter	Templates	Šablony
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	vrstvy souboru nebyly načteny z jeho dat pro úpravy ({_1}): pocházejí z jeho části PDF
 @msg	the file's preview header points outside the file	hlavička náhledu souboru ukazuje mimo soubor
 @msg	the files come to more than 1 GB: add fewer at a time	soubory mají dohromady více než 1 GB: přidávejte jich méně najednou
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Grafický procesor zkoušený jako první nedokázal zobrazit okno, proto se VectorCraft znovu spustil na {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Grafický procesor zkoušený jako první nedokázal zobrazit okno, proto se Iridium znovu spustil na {summary}
 @msg	The graphics were lost and couldn't be restarted.	Grafika byla ztracena a nepodařilo se ji restartovat.
 @msg	The graphics were lost and have been restarted	Grafika byla ztracena a byla restartována
 @msg	the guide is on a hidden or locked layer	vodítko je ve skryté nebo zamčené vrstvě
@@ -3748,12 +3748,12 @@ file-filter	Templates	Šablony
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	Obraz byl vektorizován v rozlišení {_1} × {_2} pixelů, zmenšený z {_3} × {_4} (nejvýše {_5} megapixelů).
 @msg	the image's pixels can't be read	pixely obrazu nelze přečíst
 @msg	the image's pixels don't match its size	obrazové body obrazu neodpovídají jeho velikosti
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Poslední spuštění aplikace VectorCraft skončilo na {name} dřív, než se zobrazilo okno, proto se spustila na {summary}. Chcete-li tento grafický procesor zkusit znovu, změňte Předvolby › Výkon › Grafický procesor nebo ji spusťte s nastavenou proměnnou WGPU_BACKEND
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Poslední spuštění aplikace VectorCraft skončilo během zjišťování grafických procesorů, proto se spustila na {summary} jen s OpenGL. Chcete-li znovu zkusit ostatní grafická rozhraní, změňte Předvolby › Výkon › Grafický procesor nebo ji spusťte s nastavenou proměnnou WGPU_BACKEND
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Poslední spuštění aplikace Iridium skončilo na {name} dřív, než se zobrazilo okno, proto se spustila na {summary}. Chcete-li tento grafický procesor zkusit znovu, změňte Předvolby › Výkon › Grafický procesor nebo ji spusťte s nastavenou proměnnou WGPU_BACKEND
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Poslední spuštění aplikace Iridium skončilo během zjišťování grafických procesorů, proto se spustila na {summary} jen s OpenGL. Chcete-li znovu zkusit ostatní grafická rozhraní, změňte Předvolby › Výkon › Grafický procesor nebo ji spusťte s nastavenou proměnnou WGPU_BACKEND
 @msg	the layer has no objects to clip by	vrstva nemá žádné objekty, podle kterých by šlo ořezávat
 @msg	the layer or group is locked	vrstva nebo skupina je zamčená
 @msg	the layer to flatten into is hidden	vrstva, do které se má sloučit, je skrytá
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Název v panelu ukládání byl „{typed}“ a VectorCraft přidal příponu typu souboru. Nahrazením souboru se přepíše jeho obsah.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Název v panelu ukládání byl „{typed}“ a Iridium přidal příponu typu souboru. Nahrazením souboru se přepíše jeho obsah.
 @msg	the object already has an opacity mask	objekt už má masku krytí
 @msg	the object has no geometry	objekt nemá žádnou geometrii
 @msg	the object has no opacity mask	objekt nemá masku krytí
@@ -3818,7 +3818,7 @@ file-filter	Templates	Šablony
 	This library is empty.	Tato knihovna je prázdná.
 	This panel is on the roadmap (see the parity plan).	Tento panel je v plánu (viz plán parity).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	tento soubor PostScript nelze přečíst ({why}): uložte jej jako PDF nebo SVG v aplikaci, ve které vznikl
-@msg	This shortcut file is in a form VectorCraft can't read.	Tento soubor klávesových zkratek je ve formátu, který VectorCraft neumí přečíst.
+@msg	This shortcut file is in a form Iridium can't read.	Tento soubor klávesových zkratek je ve formátu, který Iridium neumí přečíst.
 	This system has no screen color sampler	Tento systém nemá nástroj pro nabírání barvy z obrazovky
 @msg	this system has no screen color sampler	tento systém nemá nástroj pro nabírání barvy z obrazovky
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	tato vektorizace by vytvořila více než {max} kotevních bodů, víc, než dokument plynule zobrazí: zvyšte Šum, snižte Cesty nebo Barvy, nebo zvolte přednastavení s nižší věrností
@@ -4087,22 +4087,22 @@ diagnostics	ui	rozhraní
 	Vector Halftone	Vektorový polotón
 	Vector Halftone…	Vektorový polotón…
 	Vector illustration — fast, open, scriptable.	Vektorová ilustrace — rychlá, otevřená, skriptovatelná.
-	VectorCraft copies the fonts to {folder}.	VectorCraft zkopíruje písma do {folder}.
-	VectorCraft Default	Výchozí VectorCraft
-	VectorCraft Defaults	Výchozí VectorCraft
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft se minule neukončil normálně. Tyto dokumenty měly neuložené změny:
-	VectorCraft documents: one locked object, updated when the file changes.	Dokumenty VectorCraft: jeden zamčený objekt, aktualizovaný při změně souboru.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft neprohledává složky jiných aplikací ani systému: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft neprohledává složku Shared ani Public ve složce Users: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft se nepodařilo spustit: {e}
-	VectorCraft Generic CMYK (SWOP-like)	VectorCraft obecný CMYK (podobný SWOP)
-	VectorCraft Help…	Nápověda VectorCraft…
-	VectorCraft on getartcraft.com	VectorCraft na getartcraft.com
-	VectorCraft on GitHub	VectorCraft na GitHubu
-	VectorCraft read this script without running it.	VectorCraft tento skript přečetl, aniž by ho spustil.
-	VectorCraft Swatches (.vcswatches)	Vzorník VectorCraft (.vcswatches)
-file-filter	VectorCraft Template	Šablona VectorCraft
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	složka Fonts VectorCraftu zde není nastavena: nastavuje ji desktopová aplikace a vectorcraft-cli
+	Iridium copies the fonts to {folder}.	Iridium zkopíruje písma do {folder}.
+	Iridium Default	Výchozí Iridium
+	Iridium Defaults	Výchozí Iridium
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium se minule neukončil normálně. Tyto dokumenty měly neuložené změny:
+	Iridium documents: one locked object, updated when the file changes.	Dokumenty Iridium: jeden zamčený objekt, aktualizovaný při změně souboru.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium neprohledává složky jiných aplikací ani systému: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium neprohledává složku Shared ani Public ve složce Users: {path}
+@msg	Iridium failed to start: {e}	Iridium se nepodařilo spustit: {e}
+	Iridium Generic CMYK (SWOP-like)	Iridium obecný CMYK (podobný SWOP)
+	Iridium Help…	Nápověda Iridium…
+	Iridium on getartcraft.com	Iridium na getartcraft.com
+	Iridium on GitHub	Iridium na GitHubu
+	Iridium read this script without running it.	Iridium tento skript přečetl, aniž by ho spustil.
+	Iridium Swatches (.vcswatches)	Vzorník Iridium (.vcswatches)
+file-filter	Iridium Template	Šablona Iridium
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	složka Fonts Iridiumu zde není nastavena: nastavuje ji desktopová aplikace a vectorcraft-cli
 	Vectors	Vektory
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	soubory verze {0} nelze komprimovat: komprimované soubory otevírá až verze {COMPRESSED_SINCE} a novější
 	Version {version} — open-source vector illustration in pure Rust.	Verze {version} — open-source vektorová ilustrace v čistém Rustu.
@@ -4158,7 +4158,7 @@ effect	Vertical	Svislý
 	Web Snap:	Přichytávání k webovým barvám:
 	WebP	WebP
 	Weight:	Tloušťka:
-	Welcome to VectorCraft	Vítejte ve VectorCraftu
+	Welcome to Iridium	Vítejte ve Iridiumu
 	When pasting text	Při vkládání textu
 	Widget Position:	Poloha ovladače:
 @msg	width and height are at least 1 pixel	šířka i výška jsou alespoň 1 obrazový bod

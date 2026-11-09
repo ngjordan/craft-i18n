@@ -1,4 +1,4 @@
-# 繁體中文 (zh-hant) interface catalog for PhotoCraft.
+# 繁體中文 (zh-hant) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -63,7 +63,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}：{prs} 個 PR，{commits} 次提交，行 +{added} / −{deleted}（Δ {delta}），二進位檔 +{binAdded} / −{binDeleted}，{first} – {last}
 	A brush preset with this name already exists	已有相同名稱的筆刷預設集
 	A save to {name} is still running; try again when it finishes	仍在儲存到 {name}；請在完成後再試一次
-	About PhotoCraft	關於 PhotoCraft
+	About Iridium	關於 Iridium
 	Accept and Go to Conflict	接受並前往衝突
 	Action	動作
 	Action playback stopped	動作播放已停止
@@ -117,7 +117,7 @@
 	Align {what}	對齊{what}
 	Aligned	對齊
 	All Layers No Adjustments	所有圖層（不含調整）
-	All shortcuts reset to PhotoCraft defaults.	所有快速鍵已重設為 PhotoCraft 預設值。
+	All shortcuts reset to Iridium defaults.	所有快速鍵已重設為 Iridium 預設值。
 	All User Slices	所有使用者切片
 	Allow agent control	允許代理程式控制
 	Allow Continue	允許繼續
@@ -591,7 +591,7 @@ cameraData	Date Taken	拍攝日期
 	Decrease Brush Size	縮小筆刷大小
 	Default colours (D)	預設顏色 (D)
 	Default Features	預設功能
-	Default PhotoCraft Size	預設 PhotoCraft 尺寸
+	Default Iridium Size	預設 Iridium 尺寸
 	Default printer	預設印表機
 	Default restored.	已還原預設值。
 	Define	定義
@@ -1363,7 +1363,7 @@ cameraData	Model	型號
 	Opening…	正在開啟…
 	Optical	視覺
 	Option-click to define a source point to clone from	按住 Option 並按一下以定義仿製來源點
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	或將 偏好設定 › 效能 › Linux 顯示伺服器 設為 X11：PhotoCraft 之後一律在 XWayland 下啟動。
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	或將 偏好設定 › 效能 › Linux 顯示伺服器 設為 X11：Iridium 之後一律在 XWayland 下啟動。
 	Original Ratio	原始比例
 	Ornaments	裝飾字
 	Other…	其他…
@@ -1422,16 +1422,16 @@ cameraData	Model	型號
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	透視彎曲：沿影像透視繪製平面，然後切換到彎曲
 	Photo Filter	相片濾鏡
 	Photo Filter…	相片濾鏡…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	PhotoCraft 預設值
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft 在這台電腦上找到你在其他影像編輯器中的鍵盤快速鍵集 {set}：其中 {n} 個快速鍵與 PhotoCraft 不同。要匯入嗎？
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft 正使用 CPU 合成影像。視窗仍可能使用您的顯示卡。
-	PhotoCraft Manages Colors	PhotoCraft 管理色彩
-	PhotoCraft on GitHub	GitHub 上的 PhotoCraft
-	PhotoCraft Website	PhotoCraft 網站
-	PhotoCraft website	PhotoCraft 網站
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — 以 Rust 撰寫的開放原始碼原生影像編輯器。
-	PhotoCraft — Screen Color Picker	PhotoCraft — 螢幕取色器
+	Iridium	Iridium
+	Iridium Defaults	Iridium 預設值
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium 在這台電腦上找到你在其他影像編輯器中的鍵盤快速鍵集 {set}：其中 {n} 個快速鍵與 Iridium 不同。要匯入嗎？
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium 正使用 CPU 合成影像。視窗仍可能使用您的顯示卡。
+	Iridium Manages Colors	Iridium 管理色彩
+	Iridium on GitHub	GitHub 上的 Iridium
+	Iridium Website	Iridium 網站
+	Iridium website	Iridium 網站
+	Iridium — an open-source, native image editor written in Rust.	Iridium — 以 Rust 撰寫的開放原始碼原生影像編輯器。
+	Iridium — Screen Color Picker	Iridium — 螢幕取色器
 	Photography	攝影
 	Photomerge…	Photomerge…
 	Pick a screen pixel or press Esc to cancel	選取螢幕像素或按 Esc 取消
@@ -1968,7 +1968,7 @@ curves	Smooth	平滑
 	The transform couldn't be applied.	無法套用變形。
 	There are too many sets: delete one first.	組合太多：請先刪除一個。
 	There is no crop size or ratio to save	沒有可儲存的裁切尺寸或比例
-	These settings aren't available in PhotoCraft yet.	這些設定在 PhotoCraft 中尚未提供。
+	These settings aren't available in Iridium yet.	這些設定在 Iridium 中尚未提供。
 	Thickness	Thickness
 	Thin	極細
 fontWeight	Thin	極細
@@ -1990,7 +1990,7 @@ cameraRaw	Tint	色偏
 	Tiny	極小
 	Title	Title
 	Titling Alternates	標題替代字
-	To drop files, start PhotoCraft under XWayland: `{command}`	若要拖放檔案，請在 XWayland 下啟動 PhotoCraft：`{command}`
+	To drop files, start Iridium under XWayland: `{command}`	若要拖放檔案，請在 XWayland 下啟動 Iridium：`{command}`
 	Toggle count group visibility	切換計算群組可見度
 	Toggle Last State	切換最後狀態
 	Toggle text orientation	切換文字方向
@@ -2145,7 +2145,7 @@ cameraRaw	Whites	白色色階
 	{name} Properties	{name} 內容
 	{name} was changed by another app after it was opened or saved here.	{name} 在此處開啟或儲存後已被其他 App 更改。
 @plural	{n} action|{n} actions	{n} 個動作
-	{n} commands are not in PhotoCraft.	{n} 個命令在 PhotoCraft 中不存在。
+	{n} commands are not in Iridium.	{n} 個命令在 Iridium 中不存在。
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	此構圖記錄的 {n} 個圖層已刪除。請更新構圖，或清除警告。
 @plural	{n} layer|{n} layers	{n} 個圖層
 	{n} of {max} sample points	{max} 個取樣點中的 {n} 個
@@ -2154,7 +2154,7 @@ cameraRaw	Whites	白色色階
 @plural	{n} sample point removed|{n} sample points removed	已移除 {n} 個取樣點
 @plural	{n} sample|{n} samples	{n} 個取樣
 @plural	{n} slice|{n} slices	{n} 個切片
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} 個步驟在 PhotoCraft 中尚無對應功能
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} 個步驟在 Iridium 中尚無對應功能
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	已略過 {n} 個沒有 Photoshop 對應功能的步驟
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}：路徑不是有效的 Unicode；請重新命名檔案後再開啟。
 	{set} (modified)	{set}（已修改）

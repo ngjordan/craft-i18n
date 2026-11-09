@@ -1,4 +1,4 @@
-# Українська (uk) interface catalog for FilmCraft.
+# Українська (uk) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -12,7 +12,7 @@
 # consulted or copied; add entries the same way.
 
 	About	About
-	About FilmCraft	Про FilmCraft
+	About Iridium	Про Iridium
 	Add Audio Submix Track	Додати доріжку підміксу аудіо
 	Add Caption at Playhead	Додати субтитр у позиції курсора відтворення
 	Add Chapter Marker…	Додати маркер розділу…
@@ -119,9 +119,9 @@
 	Field Options…	Параметри полів…
 	File…	Файл…
 	Fill frame	Заповнити кадр
-	FilmCraft Help…	Довідка FilmCraft…
-	FilmCraft on getartcraft.com	FilmCraft на getartcraft.com
-	FilmCraft on GitHub	FilmCraft на GitHub
+	Iridium Help…	Довідка Iridium…
+	Iridium on getartcraft.com	Iridium на getartcraft.com
+	Iridium on GitHub	Iridium на GitHub
 	Fit to frame	Умістити в кадр
 	Forest	Лісовий
 	Frame Blending	Змішування кадрів
@@ -263,7 +263,7 @@
 	Select Next Layer	Вибрати наступний шар
 	Select Previous Graphic	Вибрати попередній графічний елемент
 	Select Previous Layer	Вибрати попередній шар
-	Selection as FilmCraft Project…	Виділення як проєкт FilmCraft…
+	Selection as Iridium Project…	Виділення як проєкт Iridium…
 	Selection Follows Playhead	Виділення слідує за курсором відтворення
 	Selection…	Виділення…
 	Sequence	Секвенція

@@ -1,4 +1,4 @@
-# Galego (gl) interface catalog for ArtCraft Launcher.
+# Galego (gl) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	Aplicación
 	Apps you hid	Aplicacións que ocultou
 month	Apr	Abr
 	Arch package (.pkg.tar.zst)	Paquete de Arch (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} está dispoñíbel.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} actualización dispoñíbel|ArtCraft Launcher · {n} actualizacións dispoñíbeis
-	ArtCraft on GitHub	ArtCraft en GitHub
-	ArtCraft on {name}	ArtCraft en {name}
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Iridium Launcher {version} está dispoñíbel.
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} actualización dispoñíbel|Iridium Launcher · {n} actualizacións dispoñíbeis
+	Iridium on GitHub	Iridium en GitHub
+	Iridium on {name}	Iridium en {name}
 month	Aug	Ago
 	Automatically download and install updates	Descargar e instalar actualizacións automaticamente
 	Available to install	Dispoñíbel para instalar
@@ -119,7 +119,7 @@ filter	Installed	Instaladas
 	Installing…	Instalando…
 figcraft	Interface design and prototyping	Deseño de interfaces e prototipado
 month	Jan	Xan
-	Join the ArtCraft community on Discord	Únase á comunidade de ArtCraft en Discord
+	Join the Iridium community on Discord	Únase á comunidade de Iridium en Discord
 	Join the Discord	Únase ao Discord
 month	Jul	Xul
 month	Jun	Xuñ
@@ -137,7 +137,7 @@ column	Latest	Última
 	Like {name}	Como {name}
 	link	ligazón
 @id	linux.preferred_kind	Formato preferido en Linux
-	Loading ArtCraft Launcher…	Cargando ArtCraft Launcher…
+	Loading Iridium Launcher…	Cargando Iridium Launcher…
 	Loading pictures…	Cargando imaxes…
 month	Mar	Mar
 	Match system	Coincidir co sistema
@@ -159,7 +159,7 @@ effectcraft	Motion graphics and visual effects	Grafismo animado e efectos visuai
 month	Nov	Nov
 month	Oct	Out
 	Only when I ask	Só cando o solicite
-	Open ArtCraft Launcher to update.	Abra ArtCraft Launcher para actualizar.
+	Open Iridium Launcher to update.	Abra Iridium Launcher para actualizar.
 	Open on GitHub	Abrir en GitHub
 	Open Source Tools for Creatives, Makers, and Builders	Ferramentas de código aberto para creadores, desenvolvedores e creadores
 designcraft	Page layout and publishing	Maquetación de páxinas e publicación
@@ -170,8 +170,8 @@ lightcraft	Photo library and raw development	Fototeca e revelado de raw
 	Portable (.zip)	Portábel (.zip)
 deckcraft	Presentations and slide shows	Presentacións e pases de diapositivas
 	Previous picture (←)	Imaxe anterior (←)
-	Questions, ideas and news from the ArtCraft team	Preguntas, ideas e novas do equipo de ArtCraft
-	Quit ArtCraft Launcher	Saír de ArtCraft Launcher
+	Questions, ideas and news from the Iridium team	Preguntas, ideas e novas do equipo de Iridium
+	Quit Iridium Launcher	Saír de Iridium Launcher
 pdfcraft	Reading, organizing and protecting PDFs	Lectura, organización e protección de PDF
 	Reconnecting…	Reconectando…
 soundcraft	Recording, editing and mixing audio	Gravación, edición e mestura de son
@@ -191,10 +191,10 @@ column	Released	Publicado
 	Search apps	Buscar aplicacións
 month	Sep	Set
 @id	settings.open	Preferencias
-@id	settings.quit	Saír de ArtCraft Launcher
+@id	settings.quit	Saír de Iridium Launcher
 	Show apps as a table	Amosar aplicacións en táboa
 	Show apps as cards	Amosar aplicacións en tarxetas
-	Show ArtCraft Launcher	Amosar ArtCraft Launcher
+	Show Iridium Launcher	Amosar Iridium Launcher
 	Show in Explorer	Amosar no Explorador
 	Show in Files	Amosar en Ficheiros
 	Show in Finder	Amosar no Finder
@@ -207,7 +207,7 @@ month	Sep	Set
 @id	sort.status	Estado
 @id	sort.suite	Orde da suite
 gridcraft	Spreadsheets and data	Follas de cálculo e datos
-	Start ArtCraft Launcher when I log in	Iniciar ArtCraft Launcher ao iniciar sesión
+	Start Iridium Launcher when I log in	Iniciar Iridium Launcher ao iniciar sesión
 	Stop waiting; the update can be started again later	Deter a espera; a actualización pódese reiniciar máis tarde
 	Suite order	Orde da suite
 	System default	Predeterminado do sistema
@@ -279,7 +279,7 @@ wordcraft	Writing and document design	Redacción e deseño de documentos
 @plural	{n} day ago|{n} days ago	hai {n} día|hai {n} días
 @plural	{n} h ago|{n} h ago	hai {n} h|hai {n} h
 @plural	{n} min ago|{n} min ago	hai {n} min|hai {n} min
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} xa existe e non foi instalado por ArtCraft Launcher
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} xa existe e non foi instalado por Iridium Launcher
 	{path} already exists. Installing {name} will overwrite it.	{path} xa existe. Se instala {name} sobrescribirase.
 	{version} installed → {latest} released	{version} instalada → {latest} publicada
 	⊞  Grid	⊞  Grella

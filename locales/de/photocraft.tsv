@@ -1,4 +1,4 @@
-# Deutsch (de) interface catalog for PhotoCraft.
+# Deutsch (de) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -64,7 +64,7 @@
 	A brush preset with this name already exists	Eine Pinselvorgabe mit diesem Namen ist bereits vorhanden
 	A save to {name} is still running; try again when it finishes	{name} wird noch gespeichert; versuchen Sie es erneut, wenn der Vorgang abgeschlossen ist
 	A:	Wi:
-	About PhotoCraft	Über PhotoCraft
+	About Iridium	Über Iridium
 	Accept and Go to Conflict	Übernehmen und zum Konflikt
 	Action	Aktion
 	Action playback stopped	Aktionswiedergabe angehalten
@@ -122,7 +122,7 @@
 	Align {what}	{what} ausrichten
 	Aligned	Ausgerichtet
 	All Layers No Adjustments	Alle Ebenen ohne Einstellungen
-	All shortcuts reset to PhotoCraft defaults.	Alle Kurzbefehle wurden auf die PhotoCraft-Standards zurückgesetzt.
+	All shortcuts reset to Iridium defaults.	Alle Kurzbefehle wurden auf die Iridium-Standards zurückgesetzt.
 	All User Slices	Alle Benutzer-Slices
 	Allow agent control	Agentensteuerung erlauben
 	Allow Continue	Fortsetzen erlauben
@@ -662,7 +662,7 @@ cameraData	Date Taken	Aufnahmedatum
 	Default Features	Standardfunktionen
 	Default Foreground and Background Colors	Standardfarben für Vorder- und Hintergrund
 	Default Leaves	Standardblätter
-	Default PhotoCraft Size	Standard-PhotoCraft-Größe
+	Default Iridium Size	Standard-Iridium-Größe
 	Default printer	Standarddrucker
 	Default restored.	Standard wiederhergestellt.
 	Define	Definieren
@@ -1199,8 +1199,8 @@ fontWeight	Italic	Kursiv
 	Its layers need {needed} of GPU memory; the budget leaves them {budget}.	Die Ebenen brauchen {needed} GPU-Speicher; das Budget lässt ihnen {budget}.
 	Ivy	Efeu
 	Jag	Zacken
-	Join the ArtCraft Discord ({url})	Dem ArtCraft-Discord beitreten ({url})
-	Join the ArtCraft Discord…	ArtCraft-Discord beitreten…
+	Join the Iridium Discord ({url})	Dem Iridium-Discord beitreten ({url})
+	Join the Iridium Discord…	Iridium-Discord beitreten…
 	Jpeg quality	JPEG-Qualität
 	Jpg	JPG
 	Justification	Blocksatz
@@ -1547,7 +1547,7 @@ layerLabel	No Color	Keine Farbe
 	Opening…	Öffnen…
 	Optical	Optisch
 	Option-click to define a source point to clone from	Options-Klick definiert eine Klonquelle
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Oder stelle Voreinstellungen › Leistung › Linux-Anzeigeserver auf X11: PhotoCraft startet dann immer unter XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Oder stelle Voreinstellungen › Leistung › Linux-Anzeigeserver auf X11: Iridium startet dann immer unter XWayland.
 	Ordinals	Ordnungszahlen
 	Original Ratio	Originalverhältnis
 	Ornaments	Ornamente
@@ -1614,16 +1614,16 @@ layerLabel	No Color	Keine Farbe
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	Perspektivische Verkrümmung: zeichne Flächen entlang der Bildperspektive, wechsle dann zu Verkrümmen
 	Photo Filter	Foto-Filter
 	Photo Filter…	Foto-Filter…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	PhotoCraft-Standard
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft hat auf diesem Computer deinen Tastaturbefehlssatz {set} aus einem anderen Bildbearbeitungsprogramm gefunden: {n} seiner Tastaturbefehle weichen von denen in PhotoCraft ab. Importieren?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft nutzt den CPU-Bildkompositor. Das Fenster kann weiterhin deinen Grafikadapter verwenden.
-	PhotoCraft Manages Colors	PhotoCraft verwaltet die Farben
-	PhotoCraft on GitHub	PhotoCraft auf GitHub
-	PhotoCraft Website	PhotoCraft-Website
-	PhotoCraft website	PhotoCraft-Website
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — ein nativer Open-Source-Bildeditor, geschrieben in Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Bildschirmfarbenauswahl
+	Iridium	Iridium
+	Iridium Defaults	Iridium-Standard
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium hat auf diesem Computer deinen Tastaturbefehlssatz {set} aus einem anderen Bildbearbeitungsprogramm gefunden: {n} seiner Tastaturbefehle weichen von denen in Iridium ab. Importieren?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium nutzt den CPU-Bildkompositor. Das Fenster kann weiterhin deinen Grafikadapter verwenden.
+	Iridium Manages Colors	Iridium verwaltet die Farben
+	Iridium on GitHub	Iridium auf GitHub
+	Iridium Website	Iridium-Website
+	Iridium website	Iridium-Website
+	Iridium — an open-source, native image editor written in Rust.	Iridium — ein nativer Open-Source-Bildeditor, geschrieben in Rust.
+	Iridium — Screen Color Picker	Iridium — Bildschirmfarbenauswahl
 	Photography	Fotografie
 	Photomerge…	Photomerge…
 	Pick a screen pixel or press Esc to cancel	Ein Bildschirmpixel auswählen oder mit Esc abbrechen
@@ -2242,7 +2242,7 @@ curves	Smooth	Glätten
 	The transform couldn't be applied.	Die Transformation konnte nicht angewendet werden.
 	There are too many sets: delete one first.	Zu viele Sätze: Löschen Sie zuerst einen.
 	There is no crop size or ratio to save	Es gibt keine Freistellungsgröße und kein Seitenverhältnis zum Speichern
-	These settings aren't available in PhotoCraft yet.	Diese Einstellungen gibt es in PhotoCraft noch nicht.
+	These settings aren't available in Iridium yet.	Diese Einstellungen gibt es in Iridium noch nicht.
 	Thickness	Dicke
 	Thin	Dünn
 fontWeight	Thin	Haarfein
@@ -2265,7 +2265,7 @@ fontWeight	Thin	Haarfein
 	Tiny	Winzig
 	Titling Alternates	Titel-Alternativen
 	To Center	Zur Mitte
-	To drop files, start PhotoCraft under XWayland: `{command}`	Um Dateien abzulegen, starte PhotoCraft unter XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Um Dateien abzulegen, starte Iridium unter XWayland: `{command}`
 	Toggle count group visibility	Sichtbarkeit der Zählergruppe umschalten
 	Toggle Last State	Letzten Status umschalten
 	Toggle Layer Mask Overlay	Ebenenmasken-Überlagerung umschalten
@@ -2457,7 +2457,7 @@ fontWeight	Thin	Haarfein
 	{name} Properties	{name}-Eigenschaften
 	{name} was changed by another app after it was opened or saved here.	{name} wurde von einer anderen App geändert, nachdem es hier geöffnet oder gespeichert wurde.
 @plural	{n} action|{n} actions	{n} Aktion|{n} Aktionen
-	{n} commands are not in PhotoCraft.	{n} Befehle gibt es in PhotoCraft nicht.
+	{n} commands are not in Iridium.	{n} Befehle gibt es in Iridium nicht.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	{n} von dieser Komposition erfasste Ebene wurde gelöscht. Aktualisiere die Komposition oder lösche die Warnung.|{n} von dieser Komposition erfasste Ebenen wurden gelöscht. Aktualisiere die Komposition oder lösche die Warnung.
 @plural	{n} layer|{n} layers	{n} Ebene|{n} Ebenen
 	{n} of {max} sample points	{n} von {max} Messpunkten
@@ -2466,7 +2466,7 @@ fontWeight	Thin	Haarfein
 @plural	{n} sample point removed|{n} sample points removed	{n} Messpunkt entfernt|{n} Messpunkte entfernt
 @plural	{n} sample|{n} samples	{n} Probe|{n} Proben
 @plural	{n} slice|{n} slices	{n} Slice|{n} Slices
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} Schritt hat noch keine Entsprechung in PhotoCraft|{n} Schritte haben noch keine Entsprechung in PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} Schritt hat noch keine Entsprechung in Iridium|{n} Schritte haben noch keine Entsprechung in Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	{n} Schritt ohne Photoshop-Entsprechung ausgelassen|{n} Schritte ohne Photoshop-Entsprechung ausgelassen
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: Der Dateipfad enthält ungültige Zeichen. Benenne die Datei um und öffne sie erneut.
 	{set} (modified)	{set} (geändert)

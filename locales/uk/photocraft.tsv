@@ -1,4 +1,4 @@
-# Українська (uk) interface catalog for PhotoCraft.
+# Українська (uk) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -71,7 +71,7 @@
 	A brush preset with this name already exists	Набір пензля з такою назвою вже існує
 	A save to {name} is still running; try again when it finishes	Збереження в {name} ще триває; спробуйте ще раз, коли воно завершиться
 	About	Про програму
-	About PhotoCraft	Про PhotoCraft
+	About Iridium	Про Iridium
 	About {app}	Про {app}
 	Absolute	Абсолютний
 	Accented Edges	Акцентовані краї
@@ -153,7 +153,7 @@
 	All	Усе
 	All Caps	Усі великі
 	All Layers No Adjustments	Усі шари без коригувань
-	All shortcuts reset to PhotoCraft defaults.	Усі клавіатурні скорочення скинуто до типових значень PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Усі клавіатурні скорочення скинуто до типових значень Iridium.
 	All User Slices	Усі користувацькі фрагменти
 	Allow agent control	Дозволити керування агентом
 	Allow Continue	Дозволити продовження
@@ -812,7 +812,7 @@ cameraData	Date Taken	Дата зйомки
 	Default colours (D)	Типові кольори (D)
 	Default Features	Типові можливості
 	Default Leaves	Типове листя
-	Default PhotoCraft Size	Типовий розмір PhotoCraft
+	Default Iridium Size	Типовий розмір Iridium
 	Default printer	Типовий принтер
 	Default restored.	Типове значення відновлено.
 	Defaults restored.	Типові значення відновлено.
@@ -1931,7 +1931,7 @@ layerLabel	No Color	Без кольору
 	Optical	Оптичний
 	Optimized	Оптимізований
 	Option-click to define a source point to clone from	Option+клацання, щоб визначити точку джерела клонування
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Або виберіть X11 у Налаштування › Продуктивність › Сервер відображення Linux: PhotoCraft завжди запускатиметься під XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Або виберіть X11 у Налаштування › Продуктивність › Сервер відображення Linux: Iridium завжди запускатиметься під XWayland.
 cameraRaw	Orange	Оранжевий
 	Ordinals	Порядкові числа
 	Original Ratio	Початкові пропорції
@@ -2019,16 +2019,16 @@ cameraRaw	Orange	Оранжевий
 	Photo (8 × 10 in)	Фото (8 × 10 дюймів)
 	Photo Filter	Фотофільтр
 	Photo Filter…	Фотофільтр…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Стандартні PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft знайшов на цьому комп'ютері ваш набір сполучень клавіш {set} з іншого графічного редактора: сполучень, що відрізняються від PhotoCraft: {n}. Імпортувати його?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft використовує компонувальник зображень CPU. Вікно може й далі використовувати ваш графічний адаптер.
-	PhotoCraft Manages Colors	PhotoCraft керує кольорами
-	PhotoCraft on GitHub	PhotoCraft на GitHub
-	PhotoCraft Website	Вебсайт PhotoCraft
-	PhotoCraft website	Вебсайт PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — нативний редактор зображень із відкритим кодом, написаний на Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Піпетка кольору екрана
+	Iridium	Iridium
+	Iridium Defaults	Стандартні Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium знайшов на цьому комп'ютері ваш набір сполучень клавіш {set} з іншого графічного редактора: сполучень, що відрізняються від Iridium: {n}. Імпортувати його?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium використовує компонувальник зображень CPU. Вікно може й далі використовувати ваш графічний адаптер.
+	Iridium Manages Colors	Iridium керує кольорами
+	Iridium on GitHub	Iridium на GitHub
+	Iridium Website	Вебсайт Iridium
+	Iridium website	Вебсайт Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — нативний редактор зображень із відкритим кодом, написаний на Rust.
+	Iridium — Screen Color Picker	Iridium — Піпетка кольору екрана
 	Photography	Фотографія
 	Photomerge	Об'єднати фотографії
 	Photomerge…	Об'єднати фотографії…
@@ -2769,7 +2769,7 @@ cameraRaw	Temperature	Температура
 	The transform couldn't be applied.	Не вдалося застосувати трансформування.
 	There are too many sets: delete one first.	Забагато наборів: спершу видаліть один.
 	There is no crop size or ratio to save	Немає розміру чи співвідношення сторін кадрування для збереження
-	These settings aren't available in PhotoCraft yet.	Ці параметри ще недоступні у PhotoCraft.
+	These settings aren't available in Iridium yet.	Ці параметри ще недоступні у Iridium.
 	Thin	Тонкий
 fontWeight	Thin	Тонкий
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	Шарам цього документа потрібно {needed}, але займати вони можуть {budget}: увесь документ перемальовується на CPU
@@ -2801,7 +2801,7 @@ cameraRaw	Tint	Відтінок
 	Title	Title
 	Titling Alternates	Заголовкові альтернативи
 	To Center	До центру
-	To drop files, start PhotoCraft under XWayland: `{command}`	Щоб перетягувати файли, запустіть PhotoCraft під XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Щоб перетягувати файли, запустіть Iridium під XWayland: `{command}`
 	Toggle count group visibility	Перемкнути видимість групи підрахунку
 	Toggle Last State	Перемкнути останній стан
 	Toggle reference point	Перемкнути опорну точку
@@ -3033,7 +3033,7 @@ cameraRaw	Yellow	Жовтий
 	{name} Properties	Властивості: {name}
 	{name} was changed by another app after it was opened or saved here.	Файл {name} змінила інша програма після того, як його тут відкрили або зберегли.
 @plural	{n} action|{n} actions	{n} операція|{n} операції|{n} операцій
-	{n} commands are not in PhotoCraft.	Команд, яких немає в PhotoCraft: {n}.
+	{n} commands are not in Iridium.	Команд, яких немає в Iridium: {n}.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	Видалено {n} шар, записаний у цій композиції. Оновіть композицію або скиньте попередження.|Видалено {n} шари, записані в цій композиції. Оновіть композицію або скиньте попередження.|Видалено {n} шарів, записаних у цій композиції. Оновіть композицію або скиньте попередження.
 @plural	{n} Layer|{n} Layers	{n} Шар|{n} Шари|{n} Шарів
 @plural	{n} layer|{n} layers	{n} шар|{n} шари|{n} шарів
@@ -3043,7 +3043,7 @@ cameraRaw	Yellow	Жовтий
 @plural	{n} sample point removed|{n} sample points removed	Вилучено {n} точку вимірювання|Вилучено {n} точки вимірювання|Вилучено {n} точок вимірювання
 @plural	{n} sample|{n} samples	{n} зразок|{n} зразки|{n} зразків
 @plural	{n} slice|{n} slices	{n} фрагмент|{n} фрагменти|{n} фрагментів
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} крок ще не має відповідника в PhotoCraft|{n} кроки ще не мають відповідника в PhotoCraft|{n} кроків ще не мають відповідника в PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} крок ще не має відповідника в Iridium|{n} кроки ще не мають відповідника в Iridium|{n} кроків ще не мають відповідника в Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Пропущено {n} крок без відповідника в Photoshop|Пропущено {n} кроки без відповідника в Photoshop|Пропущено {n} кроків без відповідника в Photoshop
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: шлях не є коректним Unicode; перейменуйте файл і відкрийте його знову.
 	{set} (modified)	{set} (змінено)

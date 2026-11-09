@@ -1,4 +1,4 @@
-# Italiano (it) interface catalog for PhotoCraft.
+# Italiano (it) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -70,7 +70,7 @@
 	A brush preset with this name already exists	Esiste già un predefinito pennello con questo nome
 	A save to {name} is still running; try again when it finishes	Un salvataggio in {name} è ancora in corso; riprova quando termina
 	A:	A:
-	About PhotoCraft	Informazioni su PhotoCraft
+	About Iridium	Informazioni su Iridium
 	About {app}	Informazioni su {app}
 	Accept and Go to Conflict	Accetta e vai al conflitto
 	ACES	ACES
@@ -157,7 +157,7 @@
 	Aligned	Allineato
 	All	Tutto
 	All Layers No Adjustments	Tutti i livelli senza regolazioni
-	All shortcuts reset to PhotoCraft defaults.	Tutte le scorciatoie ripristinate ai predefiniti di PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Tutte le scorciatoie ripristinate ai predefiniti di Iridium.
 	All shortcuts reset to Photoshop defaults.	Tutte le scorciatoie ripristinate ai predefiniti di Photoshop.
 	All User Slices	Tutte le sezioni utente
 	Allow agent control	Consenti controllo agente
@@ -240,7 +240,7 @@ cameraRaw	Aqua	Acqua
 	Artboards to PDF	Tavole da disegno in PDF
 	Artboards to PDF…	Tavole da disegno in PDF…
 	Artboard…	Tavola da disegno…
-	ArtCraft Website	Sito web ArtCraft
+	Iridium Website	Sito web Iridium
 	Artist	Artista
 	Ask	Chiedi
 	Ask before saving layered tiff	Chiedi prima di salvare TIFF con livelli
@@ -874,7 +874,7 @@ cameraData	Date Taken	Data di scatto
 	Default Features	Funzionalità predefinite
 	Default Foreground and Background Colors	Colori di primo piano e sfondo predefiniti
 	Default Leaves	Foglie predefinite
-	Default PhotoCraft Size	Dimensione predefinita PhotoCraft
+	Default Iridium Size	Dimensione predefinita Iridium
 	Default Photoshop Size	Dimensione predefinita di Photoshop
 	Default printer	Stampante predefinita
 	Default restored.	Predefinito ripristinato.
@@ -1624,7 +1624,7 @@ fontWeight	Italic	Corsivo
 	Its layers need {needed} of GPU memory; the budget leaves them {budget}.	I livelli richiedono {needed} di memoria GPU; il budget ne lascia {budget}.
 	Ivy	Edera
 	Jag	Frastagliato
-	Join the ArtCraft Discord ({url})	Unisciti al Discord di ArtCraft ({url})
+	Join the Iridium Discord ({url})	Unisciti al Discord di Iridium ({url})
 	Join us on Discord	Unisciti al nostro Discord
 	Jpeg quality	Qualità JPEG
 	Jpg	JPG
@@ -1954,7 +1954,7 @@ cameraData	Model	Modello
 	My Brushes	I miei pennelli
 	name	nome
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Il drag-and-drop nativo non è ancora supportato su Wayland. Usa File › Apri, oppure copia l'immagine nel file manager e incollala con {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Il drag-and-drop nativo dei file non è ancora supportato su Wayland. Usa File › Apri, oppure avvia PhotoCraft sotto XWayland con `WAYLAND_DISPLAY= photocraft`.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Il drag-and-drop nativo dei file non è ancora supportato su Wayland. Usa File › Apri, oppure avvia Iridium sotto XWayland con `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Il drag-and-drop nativo file non è disponibile su Wayland
 	Nearest	Vicino più prossimo
 	Nearest Neighbor	Vicino più prossimo
@@ -2114,7 +2114,7 @@ layerLabel	No Color	Nessun colore
 	Operation failed	Operazione non riuscita
 	Optical	Ottico
 	Option-click to define a source point to clone from	Opzione-clic per definire un punto sorgente da clonare
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Oppure imposta Preferenze › Prestazioni › Server grafico Linux su X11: PhotoCraft partirà sempre sotto XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Oppure imposta Preferenze › Prestazioni › Server grafico Linux su X11: Iridium partirà sempre sotto XWayland.
 cameraRaw	Orange	Arancioni
 	orange	arancione
 document	Orientation	Orientamento
@@ -2207,17 +2207,17 @@ document	Orientation	Orientamento
 	Photo (8 × 10 in)	Foto (8 × 10 in)
 	Photo Filter	Filtro fotografico
 	Photo Filter…	Filtro fotografico…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Predefiniti di PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft ha trovato su questo computer il tuo set di scorciatoie da tastiera {set} di un altro editor di immagini: {n} delle sue scorciatoie differiscono da quelle di PhotoCraft. Importarlo?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft sta componendo immagini su CPU. La finestra può ancora usare adattatore grafico.
-	PhotoCraft keeps retrying; until a save succeeds, preference changes are lost when it closes.	PhotoCraft continua a riprovare; finché un salvataggio non riesce, le modifiche alle preferenze andranno perse alla chiusura.
-	PhotoCraft Manages Colors	PhotoCraft gestisce i colori
-	PhotoCraft on GitHub	PhotoCraft su GitHub
-	PhotoCraft Website	Sito web PhotoCraft
-	PhotoCraft website	Sito web PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — editor immagini nativo open-source scritto in Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Selettore colore schermo
+	Iridium	Iridium
+	Iridium Defaults	Predefiniti di Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium ha trovato su questo computer il tuo set di scorciatoie da tastiera {set} di un altro editor di immagini: {n} delle sue scorciatoie differiscono da quelle di Iridium. Importarlo?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium sta componendo immagini su CPU. La finestra può ancora usare adattatore grafico.
+	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	Iridium continua a riprovare; finché un salvataggio non riesce, le modifiche alle preferenze andranno perse alla chiusura.
+	Iridium Manages Colors	Iridium gestisce i colori
+	Iridium on GitHub	Iridium su GitHub
+	Iridium Website	Sito web Iridium
+	Iridium website	Sito web Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — editor immagini nativo open-source scritto in Rust.
+	Iridium — Screen Color Picker	Iridium — Selettore colore schermo
 	Photography	Fotografia
 	Photomerge	Photomerge
 	Photomerge…	Photomerge…
@@ -2371,7 +2371,7 @@ cameraRaw	Purple	Viola
 	Quick Selection Tool	Strumento Selezione rapida
 	Quick Sync	Sincronizzazione rapida
 	Quit	Esci
-	Quit PhotoCraft	Esci da PhotoCraft
+	Quit Iridium	Esci da Iridium
 	Quit {app}	Esci da {app}
 	R G B	RGB
 	R g b	RGB
@@ -2607,7 +2607,7 @@ cameraRaw	Saturation	Saturazione
 	Save these settings as a Camera Raw .xmp file	Salva queste impostazioni come file .xmp di Camera Raw
 	Save these shortcuts as a .kys file	Salva queste scorciatoie come file .kys
 	Save these shortcuts as a new set	Salva queste scorciatoie come nuovo set
-	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	Salva il lavoro e riavvia PhotoCraft per riprovare l'accelerazione GPU. Per questa sessione resta attivo il rendering su CPU.
+	Save your work and restart Iridium to retry GPU acceleration. CPU rendering remains active for this session.	Salva il lavoro e riavvia Iridium per riprovare l'accelerazione GPU. Per questa sessione resta attivo il rendering su CPU.
 	Saved a copy as {path}	Copia salvata come {path}
 @plural	Saved for Web: {n} file|Saved for Web: {n} files	Salvato per il Web: {n} file|Salvato per il Web: {n} file
 	Saved Multichannel	Multicanale salvato
@@ -3046,7 +3046,7 @@ cameraRaw	Texture	Texture
 	The transform couldn't be applied.	Impossibile applicare la trasformazione.
 	There are too many sets: delete one first.	Ci sono troppi set: eliminane prima uno.
 	There is no crop size or ratio to save	Non c'è nessuna dimensione o proporzione di ritaglio da salvare
-	These settings aren't available in PhotoCraft yet.	Queste impostazioni non sono ancora disponibili in PhotoCraft.
+	These settings aren't available in Iridium yet.	Queste impostazioni non sono ancora disponibili in Iridium.
 	Thin	Sottile
 fontWeight	Thin	Sottile
 	This adjustment ({key}) is kept as imported and can't be edited yet.	Questa regolazione ({key}) resta come è stata importata e non si può ancora modificare.
@@ -3079,7 +3079,7 @@ cameraRaw	Tint	Tinta
 	Tiny Lens	Lente minuscola
 	Titling Alternates	Alternative per titoli
 	To Center	Verso il centro
-	To drop files, start PhotoCraft under XWayland: `{command}`	Per trascinare file, avvia PhotoCraft sotto XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Per trascinare file, avvia Iridium sotto XWayland: `{command}`
 	Toggle count group visibility	Alterna visibilità gruppo conteggio
 	Toggle Last State	Alterna ultimo stato
 	Toggle Layer Mask Overlay	Mostra/nascondi sovrapposizione maschera di livello
@@ -3342,7 +3342,7 @@ navigator	Zoom	Zoom
 	{name} Properties	Proprietà {name}
 	{name} was changed by another app after it was opened or saved here.	{name} è stato modificato da un'altra app dopo essere stato aperto o salvato qui.
 @plural	{n} action|{n} actions	{n} azione|{n} azioni
-	{n} commands are not in PhotoCraft.	{n} comandi non esistono in PhotoCraft.
+	{n} commands are not in Iridium.	{n} comandi non esistono in Iridium.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	{n} livello registrato da questa composizione è stato eliminato. Aggiorna la composizione o cancella l'avviso.|{n} livelli registrati da questa composizione sono stati eliminati. Aggiorna la composizione o cancella l'avviso.
 @plural	{n} layer|{n} layers	{n} livello|{n} livelli
 	{n} of {max} sample points	{n} di {max} punti di campionamento
@@ -3351,7 +3351,7 @@ navigator	Zoom	Zoom
 @plural	{n} sample point removed|{n} sample points removed	{n} punto di campionamento rimosso|{n} punti di campionamento rimossi
 @plural	{n} sample|{n} samples	{n} campione|{n} campioni
 @plural	{n} slice|{n} slices	{n} sezione|{n} sezioni
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} passaggio non ha ancora un equivalente in PhotoCraft|{n} passaggi non hanno ancora un equivalente in PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} passaggio non ha ancora un equivalente in Iridium|{n} passaggi non hanno ancora un equivalente in Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Omesso {n} passaggio senza equivalente in Photoshop|Omessi {n} passaggi senza equivalente in Photoshop
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: il percorso non è Unicode valido; rinomina il file e riaprilo.
 	{set} (modified)	{set} (modificato)

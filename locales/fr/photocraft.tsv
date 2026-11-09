@@ -1,4 +1,4 @@
-# Français (fr) interface catalog for PhotoCraft.
+# Français (fr) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -69,7 +69,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login} : {prs} PR, {commits} commits, +{added} / −{deleted} lignes (Δ {delta}), +{binAdded} / −{binDeleted} fichiers binaires, {first} – {last}
 	A brush preset with this name already exists	Un préréglage de pinceau porte déjà ce nom
 	A save to {name} is still running; try again when it finishes	Un enregistrement de {name} est encore en cours ; réessayez lorsqu’il sera terminé
-	About PhotoCraft	À propos de PhotoCraft
+	About Iridium	À propos de Iridium
 	Absolute Colorimetric	Colorimétrie absolue
 	Accept and Go to Conflict	Accepter et aller au conflit
 	ACES	ACES
@@ -143,7 +143,7 @@
 	Aligned	Aligné
 	All	Tout
 	All Layers No Adjustments	Tous les calques sans ajustements
-	All shortcuts reset to PhotoCraft defaults.	Tous les raccourcis ont été réinitialisés aux valeurs par défaut de PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Tous les raccourcis ont été réinitialisés aux valeurs par défaut de Iridium.
 	All User Slices	Toutes les tranches utilisateur
 	Allow agent control	Autoriser le pilotage par des agents
 	Allow Continue	Autoriser la poursuite
@@ -692,7 +692,7 @@ cameraData	Date Taken	Date de prise de vue
 	Decrease Brush Size	Réduire la taille du pinceau
 	Default colours (D)	Couleurs par défaut (D)
 	Default Features	Fonctionnalités par défaut
-	Default PhotoCraft Size	Taille PhotoCraft par défaut
+	Default Iridium Size	Taille Iridium par défaut
 	Default printer	Imprimante par défaut
 	Default restored.	Valeurs par défaut rétablies.
 	Defaults restored.	Valeurs par défaut rétablies.
@@ -1611,7 +1611,7 @@ cameraData	Model	Modèle
 	Operation	Opération
 	Optical	Optique
 	Option-click to define a source point to clone from	Option-clic pour définir le point source du clonage
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Ou réglez Préférences › Performances › Serveur d'affichage Linux sur X11 : PhotoCraft démarre alors toujours sous XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Ou réglez Préférences › Performances › Serveur d'affichage Linux sur X11 : Iridium démarre alors toujours sous XWayland.
 	Original Ratio	Proportions d'origine
 	Ornaments	Ornements
 	Other	Autres
@@ -1684,16 +1684,16 @@ cameraData	Model	Modèle
 	Photo (8 × 10 in)	Photo (8 × 10 po)
 	Photo Filter	Filtre photo
 	Photo Filter…	Filtre photo…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Valeurs par défaut de PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft a trouvé sur cet ordinateur votre jeu de raccourcis clavier {set} provenant d'un autre éditeur d'images : {n} de ses raccourcis diffèrent de ceux de PhotoCraft. L'importer ?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft utilise le compositeur d'images CPU. La fenêtre peut encore utiliser votre carte graphique.
-	PhotoCraft Manages Colors	PhotoCraft gère les couleurs
-	PhotoCraft on GitHub	PhotoCraft sur GitHub
-	PhotoCraft Website	Site web de PhotoCraft
-	PhotoCraft website	Site web de PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — un éditeur d'images natif et libre, écrit en Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Sélecteur de couleur d'écran
+	Iridium	Iridium
+	Iridium Defaults	Valeurs par défaut de Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium a trouvé sur cet ordinateur votre jeu de raccourcis clavier {set} provenant d'un autre éditeur d'images : {n} de ses raccourcis diffèrent de ceux de Iridium. L'importer ?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium utilise le compositeur d'images CPU. La fenêtre peut encore utiliser votre carte graphique.
+	Iridium Manages Colors	Iridium gère les couleurs
+	Iridium on GitHub	Iridium sur GitHub
+	Iridium Website	Site web de Iridium
+	Iridium website	Site web de Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — un éditeur d'images natif et libre, écrit en Rust.
+	Iridium — Screen Color Picker	Iridium — Sélecteur de couleur d'écran
 	Photography	Photographie
 	Photomerge…	Photomerge…
 	Pick a screen pixel or press Esc to cancel	Choisissez un pixel à l’écran ou appuyez sur Échap pour annuler
@@ -2310,7 +2310,7 @@ curves	Smooth	Lisser
 	The transform couldn't be applied.	Impossible d'appliquer la transformation.
 	There are too many sets: delete one first.	Il y a trop de jeux : supprimez-en un d’abord.
 	There is no crop size or ratio to save	Aucune taille ni proportion de recadrage à enregistrer
-	These settings aren't available in PhotoCraft yet.	Ces paramètres ne sont pas encore disponibles dans PhotoCraft.
+	These settings aren't available in Iridium yet.	Ces paramètres ne sont pas encore disponibles dans Iridium.
 	Thin	Fin
 fontWeight	Thin	Ultrafin
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	Les calques de ce document ont besoin de {needed} mais peuvent occuper {budget} : le document entier se redessine sur le CPU
@@ -2332,7 +2332,7 @@ fontWeight	Thin	Ultrafin
 cameraRaw	Tint	Teinte
 	Tiny	Minuscule
 	Titling Alternates	Variantes de titrage
-	To drop files, start PhotoCraft under XWayland: `{command}`	Pour déposer des fichiers, lancez PhotoCraft sous XWayland : `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Pour déposer des fichiers, lancez Iridium sous XWayland : `{command}`
 	Toggle count group visibility	Afficher/masquer le groupe de comptage
 	Toggle Last State	Basculer sur le dernier état
 	Toggle reference point	Afficher/masquer le point de référence
@@ -2511,11 +2511,11 @@ cameraRaw	Tint	Teinte
 	{name} Properties	Propriétés de {name}
 	{name} was changed by another app after it was opened or saved here.	{name} a été modifié par une autre application après avoir été ouvert ou enregistré ici.
 @plural	{n} action|{n} actions	{n} action|{n} actions
-	{n} commands are not in PhotoCraft.	{n} commandes n'existent pas dans PhotoCraft.
+	{n} commands are not in Iridium.	{n} commandes n'existent pas dans Iridium.
 @plural	{n} layer|{n} layers	{n} calque|{n} calques
 	{n} of {max} sample points	{n} sur {max} points d'échantillonnage
 @plural	{n} sample|{n} samples	{n} échantillon|{n} échantillons
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} étape n’a pas encore d’équivalent dans PhotoCraft|{n} étapes n’ont pas encore d’équivalent dans PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} étape n’a pas encore d’équivalent dans Iridium|{n} étapes n’ont pas encore d’équivalent dans Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	{n} étape sans équivalent Photoshop omise|{n} étapes sans équivalent Photoshop omises
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path} : le chemin n’est pas un Unicode valide ; renommez le fichier puis rouvrez-le.
 	{set} (modified)	{set} (modifié)

@@ -1,4 +1,4 @@
-# Ελληνικά (el) interface catalog for FilmCraft.
+# Ελληνικά (el) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -55,7 +55,7 @@
 	5.1 panner (drag the puck; double-click: front centre)	Πανοραμικός έλεγχος 5.1 (σύρετε τον δείκτη· διπλό κλικ: μπροστά κέντρο)
 	50-300mm Zoom	Ζουμ 50-300mm
 	A boxed label with a round pointer; move the label and the pointer follows.	Ετικέτα σε πλαίσιο με στρογγυλό δείκτη· μετακινήστε την ετικέτα και ο δείκτης ακολουθεί.
-	A clean-room, pure-Rust non-linear video editor. Part of the ArtCraft family.	Μη γραμμικός επεξεργαστής βίντεο, γραμμένος από την αρχή αποκλειστικά σε Rust. Μέλος της οικογένειας ArtCraft.
+	A clean-room, pure-Rust non-linear video editor. Part of the Iridium family.	Μη γραμμικός επεξεργαστής βίντεο, γραμμένος από την αρχή αποκλειστικά σε Rust. Μέλος της οικογένειας Iridium.
 	A cut sequence with transitions, effects and music	Μονταρισμένη ακολουθία με μεταβάσεις, εφέ και μουσική
 	A file dialog is already open	Ένα παράθυρο αρχείων είναι ήδη ανοιχτό
 	A news-style line that crawls in from the right and leaves at the left.	Γραμμή ειδήσεων που μπαίνει από δεξιά και φεύγει από αριστερά.
@@ -64,7 +64,7 @@
 	AAC Audio	Ήχος AAC
 	AAC Audio 48 kHz 320 kbps	Ήχος AAC 48 kHz 320 kbps
 	AAF Export Settings	Ρυθμίσεις εξαγωγής AAF
-	About FilmCraft	Σχετικά με το FilmCraft
+	About Iridium	Σχετικά με το Iridium
 	Accent Color	Χρώμα έμφασης
 	Accessible color contrast	Προσβάσιμη αντίθεση χρωμάτων
 	Action and Title Safe Areas	Ασφαλείς περιοχές δράσης και τίτλων
@@ -272,7 +272,7 @@
 	Automatically save projects	Αυτόματη αποθήκευση έργων
 	Automatically transcribe clips	Αυτόματη απομαγνητοφώνηση κλιπ
 	Automation Keyframe Optimization	Βελτιστοποίηση καρέ-κλειδιών αυτοματισμού
-	AV1 needs a hardware encoder; none was found on this machine, and FilmCraft has no software AV1 encoder yet.	Το AV1 χρειάζεται κωδικοποιητή υλικού, δεν βρέθηκε κανένας σε αυτόν τον υπολογιστή και το FilmCraft δεν έχει ακόμη κωδικοποιητή AV1 λογισμικού.
+	AV1 needs a hardware encoder; none was found on this machine, and Iridium has no software AV1 encoder yet.	Το AV1 χρειάζεται κωδικοποιητή υλικού, δεν βρέθηκε κανένας σε αυτόν τον υπολογιστή και το Iridium δεν έχει ακόμη κωδικοποιητή AV1 λογισμικού.
 	Average Data Rate	Μέσος ρυθμός δεδομένων
 	Avid-style OP-Atom: DNxHR HQ picture file plus one 24-bit 48 kHz PCM file per channel (_A1, _A2…)	OP-Atom τύπου Avid: αρχείο εικόνας DNxHR HQ και ένα αρχείο PCM 24-bit 48 kHz ανά κανάλι (_A1, _A2…)
 	Background Corner Radius	Ακτίνα γωνίας φόντου
@@ -424,7 +424,7 @@
 	Ch. {n}	Καν. {n}
 	Change Mask	Αλλαγή μάσκας
 	Change to Color	Αλλαγή σε χρώμα
-	Changes are copied in the background a moment after each edit. If FilmCraft quits unexpectedly, they are offered the next time it starts.	Οι αλλαγές αντιγράφονται στο παρασκήνιο λίγο μετά από κάθε επεξεργασία. Αν το FilmCraft κλείσει απροσδόκητα, θα σας προταθούν την επόμενη φορά που θα ξεκινήσει.
+	Changes are copied in the background a moment after each edit. If Iridium quits unexpectedly, they are offered the next time it starts.	Οι αλλαγές αντιγράφονται στο παρασκήνιο λίγο μετά από κάθε επεξεργασία. Αν το Iridium κλείσει απροσδόκητα, θα σας προταθούν την επόμενη φορά που θα ξεκινήσει.
 	Channel Blur	Θόλωμα καναλιού
 	Channel Format:	Μορφή καναλιών:
 	Channel Mix	Μίξη καναλιών
@@ -940,16 +940,16 @@
 	Film Dissolve (Legacy)	Κινηματογραφική διάλυση (παλαιού τύπου)
 	Film Emulation	Προσομοίωση φιλμ
 	Film Roll	Ρολό φιλμ
-	FilmCraft always composites in linear light	Το FilmCraft κάνει πάντα σύνθεση σε γραμμικό φως
-	FilmCraft Graphics Template	Πρότυπο γραφικών FilmCraft
-	FilmCraft Help…	Βοήθεια FilmCraft…
-	FilmCraft hit an error	Το FilmCraft αντιμετώπισε σφάλμα
-	FilmCraft keeps the rest of the RAM free for other applications.	Το FilmCraft αφήνει την υπόλοιπη μνήμη RAM ελεύθερη για άλλες εφαρμογές.
-	FilmCraft on getartcraft.com	Το FilmCraft στο getartcraft.com
-	FilmCraft on GitHub	Το FilmCraft στο GitHub
-	FilmCraft Project	Έργο FilmCraft
-	FilmCraft quit unexpectedly while “{name}” had unsaved changes.	Το FilmCraft τερματίστηκε απροσδόκητα ενώ το «{name}» είχε μη αποθηκευμένες αλλαγές.
-	FilmCraft was closed while “{name}” had unsaved changes.	Το FilmCraft έκλεισε ενώ το «{name}» είχε μη αποθηκευμένες αλλαγές.
+	Iridium always composites in linear light	Το Iridium κάνει πάντα σύνθεση σε γραμμικό φως
+	Iridium Graphics Template	Πρότυπο γραφικών Iridium
+	Iridium Help…	Βοήθεια Iridium…
+	Iridium hit an error	Το Iridium αντιμετώπισε σφάλμα
+	Iridium keeps the rest of the RAM free for other applications.	Το Iridium αφήνει την υπόλοιπη μνήμη RAM ελεύθερη για άλλες εφαρμογές.
+	Iridium on getartcraft.com	Το Iridium στο getartcraft.com
+	Iridium on GitHub	Το Iridium στο GitHub
+	Iridium Project	Έργο Iridium
+	Iridium quit unexpectedly while “{name}” had unsaved changes.	Το Iridium τερματίστηκε απροσδόκητα ενώ το «{name}» είχε μη αποθηκευμένες αλλαγές.
+	Iridium was closed while “{name}” had unsaved changes.	Το Iridium έκλεισε ενώ το «{name}» είχε μη αποθηκευμένες αλλαγές.
 	Filter and EQ	Φίλτρο και ισοστάθμιση
 	Filter Frequency	Συχνότητα φίλτρου
 	Filter Resonance	Συντονισμός φίλτρου
@@ -1123,7 +1123,7 @@
 	H.264 at the sequence's frame size and rate; 0.05 bits per pixel	H.264 στο μέγεθος και τον ρυθμό καρέ της ακολουθίας· 0.05 bit ανά pixel
 	H.264 at the sequence's frame size and rate; 0.1 bits per pixel	H.264 στο μέγεθος και τον ρυθμό καρέ της ακολουθίας· 0.1 bit ανά pixel
 	H.264 at the sequence's frame size and rate; bitrate adapts to the frame size (0.2 bits per pixel)	H.264 στο μέγεθος και τον ρυθμό καρέ της ακολουθίας· ο ρυθμός bit προσαρμόζεται στο μέγεθος καρέ (0.2 bit ανά pixel)
-	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and FilmCraft has no software H.265 encoder yet. Choose H.264 or ProRes instead.	Το H.265 (HEVC) χρειάζεται κωδικοποιητή υλικού (NVENC σε GPU της NVIDIA, VideoToolbox στο macOS), δεν βρέθηκε κανένας σε αυτόν τον υπολογιστή και το FilmCraft δεν έχει ακόμη κωδικοποιητή H.265 λογισμικού. Επιλέξτε H.264 ή ProRes.
+	H.265 (HEVC) needs a hardware encoder (NVENC on NVIDIA GPUs, VideoToolbox on macOS); none was found on this machine, and Iridium has no software H.265 encoder yet. Choose H.264 or ProRes instead.	Το H.265 (HEVC) χρειάζεται κωδικοποιητή υλικού (NVENC σε GPU της NVIDIA, VideoToolbox στο macOS), δεν βρέθηκε κανένας σε αυτόν τον υπολογιστή και το Iridium δεν έχει ακόμη κωδικοποιητή H.265 λογισμικού. Επιλέξτε H.264 ή ProRes.
 	Half Saturation	Μισός κορεσμός
 	Handle Frames:	Καρέ περιθωρίου:
 	Hard Clip	Σκληρός ψαλιδισμός
@@ -1133,8 +1133,8 @@
 	Hardware (AV1 has no software encoder)	Υλικό (το AV1 δεν έχει κωδικοποιητή λογισμικού)
 	Hardware (H.265 has no software encoder)	Υλικό (το H.265 δεν έχει κωδικοποιητή λογισμικού)
 	Hardware decoding	Αποκωδικοποίηση με υλικό
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Αποκωδικοποίηση με υλικό: η επιλογή Αυτόματο χρησιμοποιεί τον αποκωδικοποιητή βίντεο του συστήματος (VideoToolbox στο macOS, Media Foundation στα Windows, VA-API για H.264 και HEVC στο Linux) για τις ροές που υποστηρίζει, και τον αποκωδικοποιητή του FilmCraft για όλα τα υπόλοιπα ή αν το υλικό αποτύχει. Τα πολυμέσα που είναι ήδη ανοιχτά κρατούν τον αποκωδικοποιητή τους μέχρι να ανοιχτούν ξανά.
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Αποκωδικοποίηση με υλικό: η επιλογή Αυτόματο χρησιμοποιεί τον αποκωδικοποιητή βίντεο του συστήματος (VideoToolbox στο macOS, Media Foundation στα Windows, VA-API ή NVDEC για H.264 και HEVC στο Linux) για τις ροές που υποστηρίζει, και τον αποκωδικοποιητή του FilmCraft για όλα τα υπόλοιπα ή αν το υλικό αποτύχει. Τα πολυμέσα που είναι ήδη ανοιχτά κρατούν τον αποκωδικοποιητή τους μέχρι να ανοιχτούν ξανά.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API for H.264 and HEVC on Linux) for the streams it supports, and Iridium's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Αποκωδικοποίηση με υλικό: η επιλογή Αυτόματο χρησιμοποιεί τον αποκωδικοποιητή βίντεο του συστήματος (VideoToolbox στο macOS, Media Foundation στα Windows, VA-API για H.264 και HEVC στο Linux) για τις ροές που υποστηρίζει, και τον αποκωδικοποιητή του Iridium για όλα τα υπόλοιπα ή αν το υλικό αποτύχει. Τα πολυμέσα που είναι ήδη ανοιχτά κρατούν τον αποκωδικοποιητή τους μέχρι να ανοιχτούν ξανά.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and Iridium's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Αποκωδικοποίηση με υλικό: η επιλογή Αυτόματο χρησιμοποιεί τον αποκωδικοποιητή βίντεο του συστήματος (VideoToolbox στο macOS, Media Foundation στα Windows, VA-API ή NVDEC για H.264 και HEVC στο Linux) για τις ροές που υποστηρίζει, και τον αποκωδικοποιητή του Iridium για όλα τα υπόλοιπα ή αν το υλικό αποτύχει. Τα πολυμέσα που είναι ήδη ανοιχτά κρατούν τον αποκωδικοποιητή τους μέχρι να ανοιχτούν ξανά.
 	HD Anamorphic 1080 (1.333)	HD αναμορφικό 1080 (1.333)
 	HDR Graphics White (Nits)	Λευκό γραφικών HDR (nits)
 	HDR Range	Εύρος HDR
@@ -1146,7 +1146,7 @@
 	Heading	Επικεφαλίδα
 	Hide All Caption Tracks	Απόκρυψη όλων των τροχιών υποτίτλων
 	Hide Back Face	Απόκρυψη πίσω όψης
-	Hide FilmCraft	Απόκρυψη FilmCraft
+	Hide Iridium	Απόκρυψη Iridium
 	High contrast with held highlights and deep shadows	Υψηλή αντίθεση με συγκρατημένα φωτεινά σημεία και βαθιές σκιές
 	High Cutoff	Υψηλή αποκοπή
 	High Frequency Cut	Αποκοπή υψηλών συχνοτήτων
@@ -1277,7 +1277,7 @@
 	Iris Rotation	Περιστροφή ίριδας
 	Iris Round	Ίριδα στρογγυλή
 	Iris Shape	Σχήμα ίριδας
-	Join the ArtCraft Discord (discord.gg/artcraft)	Γίνετε μέλος στο Discord του ArtCraft (discord.gg/artcraft)
+	Join the Iridium Discord (discord.gg/artcraft)	Γίνετε μέλος στο Discord του Iridium (discord.gg/artcraft)
 	Join Through Edits	Ένωση περιττών τομών
 	JPEG Sequence	Ακολουθία JPEG
 	Kaleidoscope	Καλειδοσκόπιο
@@ -1667,7 +1667,7 @@
 	No model credits were built into this copy.	Αυτό το αντίγραφο δεν περιέχει αναφορές μοντέλων.
 	No Motion	Χωρίς κίνηση
 	No multi-camera clip at the playhead	Δεν υπάρχει κλιπ πολυκάμερας στην κεφαλή αναπαραγωγής
-	No plugins are installed. Changes will take effect the next time you start FilmCraft.	Δεν υπάρχουν εγκατεστημένα πρόσθετα. Οι αλλαγές θα ισχύσουν την επόμενη φορά που θα ξεκινήσετε το FilmCraft.
+	No plugins are installed. Changes will take effect the next time you start Iridium.	Δεν υπάρχουν εγκατεστημένα πρόσθετα. Οι αλλαγές θα ισχύσουν την επόμενη φορά που θα ξεκινήσετε το Iridium.
 	No saved guide templates.	Δεν υπάρχουν αποθηκευμένα πρότυπα οδηγών.
 	No Scroll	Χωρίς κύλιση
 	No templates match.	Κανένα πρότυπο δεν ταιριάζει.
@@ -1686,8 +1686,8 @@
 	not available in this session	δεν είναι διαθέσιμο σε αυτή τη συνεδρία
 	Not matched yet	Δεν έχει αντιστοιχιστεί ακόμη
 	Not Now	Όχι τώρα
-	Not supported by FilmCraft's encoders yet	Δεν υποστηρίζεται ακόμη από τους κωδικοποιητές του FilmCraft
-	Not supported in FilmCraft yet	Δεν υποστηρίζεται ακόμη στο FilmCraft
+	Not supported by Iridium's encoders yet	Δεν υποστηρίζεται ακόμη από τους κωδικοποιητές του Iridium
+	Not supported in Iridium yet	Δεν υποστηρίζεται ακόμη στο Iridium
 	Notch 1	Εγκοπή 1
 	Notch 2	Εγκοπή 2
 	Notch 3	Εγκοπή 3
@@ -1959,7 +1959,7 @@
 	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4) με κανάλι άλφα, PCM 24-bit 48 kHz
 	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4), PCM 24-bit 48 kHz
 	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), PCM 24-bit 48 kHz
-	Quit FilmCraft	Έξοδος από το FilmCraft
+	Quit Iridium	Έξοδος από το Iridium
 	Radial Ramp	Ακτινική κλίση
 	Radial Wipe	Ακτινικό σκούπισμα
 	Radial Wipe (Legacy)	Ακτινικό σκούπισμα (παλαιού τύπου)
@@ -2159,7 +2159,7 @@
 	Save Preset	Αποθήκευση προκαθορισμένης ρύθμισης
 	Save preset as:	Αποθήκευση προκαθορισμένης ρύθμισης ως:
 	Save Project	Αποθήκευση έργου
-	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	Αποθηκεύτηκε ως πρότυπο γραφικών FilmCraft (.fcgt) στον φάκελο προτύπων σας.
+	Saved as a Iridium graphics template (.fcgt) in your templates folder.	Αποθηκεύτηκε ως πρότυπο γραφικών Iridium (.fcgt) στον φάκελο προτύπων σας.
 	Saved preset “{name}”	Αποθηκεύτηκε η προκαθορισμένη ρύθμιση «{name}»
 	Saved template {path}	Αποθηκεύτηκε το πρότυπο {path}
 	Saves the view, columns, sort, thumbnail and font size.	Αποθηκεύει την προβολή, τις στήλες, την ταξινόμηση, τη μικρογραφία και το μέγεθος γραμματοσειράς.
@@ -2235,7 +2235,7 @@
 	Select to Segment End	Επιλογή έως το τέλος του τμήματος
 	Select to Segment Start	Επιλογή έως την αρχή του τμήματος
 	Selected: {command}	Επιλέχθηκε: {command}
-	Selection as FilmCraft Project…	Επιλογή ως έργο FilmCraft…
+	Selection as Iridium Project…	Επιλογή ως έργο Iridium…
 	Selection Follows Playhead	Η επιλογή ακολουθεί την κεφαλή αναπαραγωγής
 	Selection Order	Σειρά επιλογής
 	Selection…	Επιλογή…
@@ -2337,7 +2337,7 @@
 	Show/Hide Tracks	Εμφάνιση/απόκρυψη τροχιών
 	Show/Hide Tracks…	Εμφάνιση/απόκρυψη τροχιών…
 	Shows a report on this computer.	Εμφανίζει μια αναφορά για αυτόν τον υπολογιστή.
-	Shows the version, community links and credits in a FilmCraft window.	Εμφανίζει την έκδοση, τους συνδέσμους της κοινότητας και τις αναφορές σε ένα παράθυρο του FilmCraft.
+	Shows the version, community links and credits in a Iridium window.	Εμφανίζει την έκδοση, τους συνδέσμους της κοινότητας και τις αναφορές σε ένα παράθυρο του Iridium.
 	Shrink	Συρρίκνωση
 	Shutter Angle	Γωνία κλείστρου
 	Shuttle Left	Γρήγορη μετακίνηση αριστερά
@@ -2575,7 +2575,7 @@
 	TextPanel	Πλαίσιο κειμένου
 	The default graphics are used from the next start.	Τα προεπιλεγμένα γραφικά θα χρησιμοποιηθούν από την επόμενη εκκίνηση.
 	The language changed but could not be saved: {e}	Η γλώσσα άλλαξε αλλά δεν ήταν δυνατή η αποθήκευση: {e}
-	The media cache holds render previews of unsaved projects and other files FilmCraft can recreate. Deleting them is always safe; FilmCraft rebuilds them as needed.	Η cache πολυμέσων περιέχει προεπισκοπήσεις απόδοσης μη αποθηκευμένων έργων και άλλα αρχεία που το FilmCraft μπορεί να δημιουργήσει ξανά. Η διαγραφή τους είναι πάντα ασφαλής· το FilmCraft τα ξαναδημιουργεί όταν χρειάζεται.
+	The media cache holds render previews of unsaved projects and other files Iridium can recreate. Deleting them is always safe; Iridium rebuilds them as needed.	Η cache πολυμέσων περιέχει προεπισκοπήσεις απόδοσης μη αποθηκευμένων έργων και άλλα αρχεία που το Iridium μπορεί να δημιουργήσει ξανά. Η διαγραφή τους είναι πάντα ασφαλής· το Iridium τα ξαναδημιουργεί όταν χρειάζεται.
 	The project had not been saved yet.	Το έργο δεν είχε αποθηκευτεί ακόμη.
 	The selected clips have different audio types. Assign one type to edit them together.	Τα επιλεγμένα κλιπ έχουν διαφορετικούς τύπους ήχου. Αναθέστε έναν τύπο για να τα επεξεργαστείτε μαζί.
 	The sequence has no caption track.	Η ακολουθία δεν έχει τροχιά υποτίτλων.

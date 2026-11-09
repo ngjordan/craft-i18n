@@ -1,4 +1,4 @@
-# Tiếng Việt (vi) interface catalog for PhotoCraft.
+# Tiếng Việt (vi) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -64,7 +64,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: {prs} PR, {commits} commit, dòng +{added} / −{deleted} (Δ {delta}), tài sản nhị phân +{binAdded} / −{binDeleted}, {first} – {last}
 	A brush preset with this name already exists	Đã có thiết lập sẵn cọ với tên này
 	A save to {name} is still running; try again when it finishes	Đang lưu {name}; thử lại khi hoàn tất
-	About PhotoCraft	Giới thiệu PhotoCraft
+	About Iridium	Giới thiệu Iridium
 	Accented Edges	Viền nhấn
 	Accept and Go to Conflict	Chấp nhận và đến xung đột
 	Action	Thao tác
@@ -130,7 +130,7 @@
 	Aligned	Căn chỉnh
 	All Caps	Chữ hoa
 	All Layers No Adjustments	Mọi lớp không điều chỉnh
-	All shortcuts reset to PhotoCraft defaults.	Đã đặt lại mọi phím tắt về mặc định PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Đã đặt lại mọi phím tắt về mặc định Iridium.
 	All shortcuts reset to Photoshop defaults.	Tất cả phím tắt đã được đặt lại về mặc định Photoshop.
 	All User Slices	Mọi lát cắt người dùng
 	Allow agent control	Cho phép agent điều khiển
@@ -750,7 +750,7 @@ cameraData	Date Taken	Ngày chụp
 	Default Features	Tính năng mặc định
 	Default Foreground and Background Colors	Màu trước và màu sau mặc định
 	Default Leaves	Lá mặc định
-	Default PhotoCraft Size	Kích thước mặc định của PhotoCraft
+	Default Iridium Size	Kích thước mặc định của Iridium
 	Default Photoshop Size	Kích thước Photoshop mặc định
 	Default printer	Máy in mặc định
 	Default restored.	Đã khôi phục mặc định.
@@ -1664,7 +1664,7 @@ cameraData	Model	Kiểu máy
 	My Brushes	Cọ của tôi
 	name	tên
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Chưa hỗ trợ kéo-thả tệp gốc trên Wayland. Hãy dùng Tệp › Mở, hoặc sao chép ảnh trong trình quản lý tệp và dán bằng {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Kéo thả tệp gốc chưa được hỗ trợ trên Wayland. Dùng Tệp › Mở, hoặc chạy PhotoCraft dưới XWayland với `WAYLAND_DISPLAY= photocraft`.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Kéo thả tệp gốc chưa được hỗ trợ trên Wayland. Dùng Tệp › Mở, hoặc chạy Iridium dưới XWayland với `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Kéo thả tệp gốc không khả dụng
 	Navigator	Điều hướng
 	Nearest Neighbor	Nearest Neighbor
@@ -1791,7 +1791,7 @@ cameraData	Model	Kiểu máy
 	Optimized	Tối ưu
 	Option-click to define a source point to clone from	Option+nhấp để chỉ định điểm nguồn nhân bản
 	Options	Thanh tùy chọn
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Hoặc đặt Tùy chọn › Hiệu năng › Máy chủ hiển thị Linux thành X11: PhotoCraft sẽ luôn khởi chạy dưới XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Hoặc đặt Tùy chọn › Hiệu năng › Máy chủ hiển thị Linux thành X11: Iridium sẽ luôn khởi chạy dưới XWayland.
 cameraRaw	Orange	Cam
 	orange	Cam
 	Orientation	Hướng chữ
@@ -1873,16 +1873,16 @@ document	Orientation	Hướng trang
 	Phone	Điện thoại
 	Photo Filter	Bộ lọc ảnh
 	Photo Filter…	Bộ lọc ảnh…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Mặc định của PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft tìm thấy bộ phím tắt {set} từ trình chỉnh sửa ảnh khác trên máy này: {n} phím tắt khác với PhotoCraft. Nhập vào?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft đang dùng bộ kết hợp ảnh CPU. Cửa sổ vẫn có thể dùng bộ điều hợp đồ họa của bạn.
-	PhotoCraft Manages Colors	PhotoCraft quản lý màu
-	PhotoCraft on GitHub	PhotoCraft trên GitHub
-	PhotoCraft Website	Trang web PhotoCraft
-	PhotoCraft website	Trang web PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — trình chỉnh sửa ảnh gốc mã nguồn mở viết bằng Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Bộ chọn màu màn hình
+	Iridium	Iridium
+	Iridium Defaults	Mặc định của Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium tìm thấy bộ phím tắt {set} từ trình chỉnh sửa ảnh khác trên máy này: {n} phím tắt khác với Iridium. Nhập vào?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium đang dùng bộ kết hợp ảnh CPU. Cửa sổ vẫn có thể dùng bộ điều hợp đồ họa của bạn.
+	Iridium Manages Colors	Iridium quản lý màu
+	Iridium on GitHub	Iridium trên GitHub
+	Iridium Website	Trang web Iridium
+	Iridium website	Trang web Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — trình chỉnh sửa ảnh gốc mã nguồn mở viết bằng Rust.
+	Iridium — Screen Color Picker	Iridium — Bộ chọn màu màn hình
 	Photography	Nhiếp ảnh
 	Photomerge	Ghép ảnh
 	Photomerge…	Photomerge…
@@ -2608,7 +2608,7 @@ cameraRaw	Texture	Kết cấu
 	The transform couldn't be applied.	Không thể áp dụng phép biến đổi.
 	There are too many sets: delete one first.	Có quá nhiều bộ: hãy xóa một bộ trước.
 	There is no crop size or ratio to save	Không có kích thước hoặc tỷ lệ cắt để lưu
-	These settings aren't available in PhotoCraft yet.	Các thiết lập này chưa có trong PhotoCraft.
+	These settings aren't available in Iridium yet.	Các thiết lập này chưa có trong Iridium.
 	Thin	Mỏng
 fontWeight	Thin	Mỏng
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	Các lớp của tài liệu này cần {needed} nhưng chỉ được dùng {budget}: vẽ lại toàn bộ tài liệu dùng CPU
@@ -2637,7 +2637,7 @@ cameraRaw	Tint	Sắc độ
 	Title	Title
 	Titling Alternates	Thay thế tiêu đề
 	To Center	Về tâm
-	To drop files, start PhotoCraft under XWayland: `{command}`	Để thả tệp, hãy khởi chạy PhotoCraft dưới XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Để thả tệp, hãy khởi chạy Iridium dưới XWayland: `{command}`
 	Toggle count group visibility	Hiện/ẩn nhóm đếm
 	Toggle Last State	Chuyển trạng thái trước
 	Toggle text orientation	Đổi hướng chữ
@@ -2856,7 +2856,7 @@ cameraRaw	Yellow	Vàng
 	{name} Properties	Thuộc tính {name}
 	{name} was changed by another app after it was opened or saved here.	{name} đã bị một ứng dụng khác thay đổi sau khi được mở hoặc lưu ở đây.
 @plural	{n} action|{n} actions	{n} hành động
-	{n} commands are not in PhotoCraft.	{n} lệnh không có trong PhotoCraft.
+	{n} commands are not in Iridium.	{n} lệnh không có trong Iridium.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	{n} lớp được ghi trong tổ hợp này đã bị xóa. Hãy cập nhật tổ hợp hoặc xóa cảnh báo.
 @plural	{n} layer|{n} layers	{n} lớp
 	{n} of {max} sample points	{n} trên {max} điểm lấy mẫu
@@ -2865,7 +2865,7 @@ cameraRaw	Yellow	Vàng
 @plural	{n} sample point removed|{n} sample points removed	Đã xóa {n} điểm lấy mẫu
 @plural	{n} sample|{n} samples	{n} mẫu
 @plural	{n} slice|{n} slices	{n} lát cắt
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} bước chưa có chức năng tương ứng trong PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} bước chưa có chức năng tương ứng trong Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Đã bỏ qua {n} bước không có chức năng tương ứng trong Photoshop
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: đường dẫn không phải Unicode hợp lệ; hãy đổi tên tệp và mở lại.
 	{set} (modified)	{set} (đã sửa đổi)

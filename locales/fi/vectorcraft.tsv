@@ -1,4 +1,4 @@
-# Suomi (fi) interface catalog for VectorCraft.
+# Suomi (fi) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -130,7 +130,7 @@
 	[Press Quality]	[Painolaatu]
 	[Smallest File Size]	[Pienin tiedostokoko]
 	[Unnamed]	[Nimetön]
-	[VectorCraft Default]	[VectorCraft-oletus]
+	[Iridium Default]	[Iridium-oletus]
 @msg	`aspect` must be a number (%)	`aspect` on oltava luku (%)
 @msg	`at` must be [x, y]	`at` on oltava [x, y]
 @msg	`color` must be a colour	`color` on oltava väri
@@ -224,7 +224,7 @@
 	A4	A4
 	A5	A5
 	A6	A6
-	About VectorCraft	Tietoja VectorCraftista
+	About Iridium	Tietoja Iridiumista
 	above	yläpuolella
 	Above Text	Tekstin yläpuolella
 	Absolute Position	Absoluuttinen sijainti
@@ -315,7 +315,7 @@ file-filter	All readable files	Kaikki luettavat tiedostot
 	Amber	Meripihka
 	Ambient Light	Ympäristövalo
 @msg	an image of {w} × {h} pixels is too large to draw	kuva, jonka koko on {w} × {h} pikseliä, on liian suuri piirrettäväksi
-@msg	an image VectorCraft can't read was left out	kuva, jota VectorCraft ei voi lukea, jätettiin pois
+@msg	an image Iridium can't read was left out	kuva, jota Iridium ei voi lukea, jätettiin pois
 @msg	an image whose data is cut short was left out	kuva, jonka data on katkennut, jätettiin pois
 @msg	an object can't be read	objektia ei voi lukea
 @msg	an object in perspective would leave the edited grid	perspektiivissä oleva objekti poistuisi muokatusta ruudukosta
@@ -346,7 +346,7 @@ file-filter	All readable files	Kaikki luettavat tiedostot
 	Appearance of Black	Mustan ulkoasu
 	Appearance Panel	Ulkoasupaneeli
 	Appearance panel	Ulkoasu-paneeli
-	Applies the next time VectorCraft starts.	Tulee voimaan, kun VectorCraft käynnistetään seuraavan kerran.
+	Applies the next time Iridium starts.	Tulee voimaan, kun Iridium käynnistetään seuraavan kerran.
 	Applies when the linked file is relinked or updated.	Koskee tilannetta, jossa linkitetty tiedosto linkitetään uudelleen tai päivitetään.
 	Apply Brush	Käytä sivellintä
 	Apply Effect	Käytä tehostetta
@@ -550,7 +550,7 @@ axis	Both	Molemmat
 @msg	can't parse shortcut `{c}`	pikanäppäintä `{c}` ei voi jäsentää
 @msg	can't parse shortcut `{s}` for `{k}`	pikanäppäintä `{s}` kohteelle `{k}` ei voi jäsentää
 	Can't print these settings: see the Summary	Näillä asetuksilla ei voi tulostaa: katso Yhteenveto
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	versiota {0} ei voi tallentaa: VectorCraft kirjoittaa versioita {MIN_VERSION}–{VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	versiota {0} ei voi tallentaa: Iridium kirjoittaa versioita {MIN_VERSION}–{VERSION}
 	Can't save “{name}”.	Kohdetta ”{name}” ei voi tallentaa.
 @msg	can't write .{ext} images	.{ext}-kuvia ei voi kirjoittaa
 	Cancel Export	Peruuta vienti
@@ -981,7 +981,7 @@ axis	Both	Molemmat
 	Dialog	Valintaikkuna
 	Diamond (open)	Vinoneliö (avoin)
 	Differences from [Default]:	Erot esiasetukseen [Oletus]:
-	Differences from VectorCraft Default:	Erot esiasetukseen VectorCraft-oletus:
+	Differences from Iridium Default:	Erot esiasetukseen Iridium-oletus:
 	Differences from {preset}:	Erot esiasetukseen {preset}:
 	Diffuse Glow…	Hajautettu hehku…
 	Dim Copies to:	Himmennä kopiot:
@@ -1120,7 +1120,7 @@ axis	Both	Molemmat
 	DXF Options Dialog	DXF-asetusten valintaikkuna
 	e.g. 1-3, 5	esim. 1-3, 5
 	Each Design Represents:	Kukin malli vastaa:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Tiedoston jokainen merkintä vastaa VectorCraftin työkalua, komentoa tai paneelia. Tarkista vastaavuudet ja vastaa jäljelle jääviin.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Tiedoston jokainen merkintä vastaa Iridiumin työkalua, komentoa tai paneelia. Tarkista vastaavuudet ja vastaa jäljelle jääviin.
 	Each page prints as one image, at the document's raster effects resolution.	Jokainen sivu tulostetaan yhtenä kuvana asiakirjan rasteritehosteiden tarkkuudella.
 	Earth Tones	Maanläheiset sävyt
 	East Asian Type	Itä-Aasian teksti
@@ -1326,7 +1326,7 @@ axis	Both	Molemmat
 	File Info Dialog	Tiedoston tiedot -valintaikkuna
 	File Name:	Tiedostonimi:
 	File or URL:	Tiedosto tai URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	tiedostoversio {0} on uudempi kuin tämä VectorCraft tukee ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	tiedostoversio {0} on uudempi kuin tämä Iridium tukee ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Tiedosto › Sijoita… tuo kuvan linkitettynä tai upotettuna.
 	Files of a PDF standard can't be password-protected.	PDF-standardin mukaisia tiedostoja ei voi suojata salasanalla.
 	Files of this standard tag their colours with ICC profiles.	Tämän standardin tiedostot merkitsevät värinsä ICC-profiileilla.
@@ -1575,7 +1575,7 @@ file-filter	Flattener presets	Litistyksen esiasetukset
 	Hide Thumbnail	Piilota pikkukuva
 	Hide Thumbnails	Piilota pikkukuvat
 	Hide Transparency Grid	Piilota läpinäkyvyysruudukko
-	Hide VectorCraft	Piilota VectorCraft
+	Hide Iridium	Piilota Iridium
 	High (300 ppi)	Korkea (300 ppi)
 	High Contrast	Suuri kontrasti
 	High Contrast 2	Suuri kontrasti 2
@@ -1663,7 +1663,7 @@ effect	Horizontal	Vaaka
 	In Tangent Handles	Sisääntulon tangenttikahvat
 	In the File	Tiedostossa
 	In the selected objects	Valituissa objekteissa
-	In VectorCraft	VectorCraftissa
+	In Iridium	Iridiumissa
 	Include all profiles	Sisällytä kaikki profiilit
 	Include Blacks with CMY:	Sisällytä mustat CMY:n kanssa:
 	Include Bleed	Sisällytä leikkuuvara
@@ -1724,7 +1724,7 @@ effect	Horizontal	Vaaka
 	Invert Colors	Käännä värit
 	Invert Pie	Käännä sektori
 	Inverted Round	Käänteinen pyöreä
-@msg	is not an image VectorCraft reads	ei ole kuva, jota VectorCraft lukee
+@msg	is not an image Iridium reads	ei ole kuva, jota Iridium lukee
 	Isolate Blending	Eristä sekoitus
 	Isolate Group	Eristä ryhmä
 	Isolate Selected Group	Eristä valittu ryhmä
@@ -1743,9 +1743,9 @@ effect	Horizontal	Vaaka
 @msg	it has too many text objects	siinä on liikaa tekstiobjekteja
 @msg	it has too many values in a row	siinä on liian monta arvoa rivissä
 @msg	it has too much text	siinä on liikaa tekstiä
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	siinä on {_1}, jota VectorCraft ei vielä lue siitä
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	se käyttää kohdetta `{at}`, jota VectorCraftin PostScript-lukija ei tunne
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	se käyttää kohdetta `{at}`, jota VectorCraftin PostScript-lukija ei tunne, proseduurissa {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	siinä on {_1}, jota Iridium ei vielä lue siitä
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	se käyttää kohdetta `{at}`, jota Iridiumin PostScript-lukija ei tunne
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	se käyttää kohdetta `{at}`, jota Iridiumin PostScript-lukija ei tunne, proseduurissa {procs}
 @msg	its editing data doesn't say where its art is	sen muokkaustiedoista ei selviä kuvituksen sijainti
 @msg	its editing data doesn't say where its artboard is	sen muokkaustiedoista ei selviä piirtoalustan sijainti
 @msg	its editing data has no layers	sen muokkaustiedoissa ei ole tasoja
@@ -1768,7 +1768,7 @@ mark-style	Japanese	Japanilainen
 	JavaScript:	JavaScript:
 @msg	join needs open paths	liittäminen vaatii avoimia polkuja
 	Join Our Discord	Liity Discordiimme
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Liity ArtCraft-yhteisöön Discordissa (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Liity Iridium-yhteisöön Discordissa (discord.gg/artcraft)
 	Join the lines of each paragraph	Yhdistä kunkin kappaleen rivit
 	Join Tool	Liitostyökalu
 	Joins	Liitokset
@@ -1788,7 +1788,7 @@ mark-style	Japanese	Japanilainen
 	Keep the pasted color as a new swatch with a numbered name.	Säilytä liitetty väri uutena värimallina numeroidulla nimellä.
 	Keep this row's colors (exclude)	Säilytä tämän rivin värit (jätä pois)
 	Keep visible surfaces only when expanding	Säilytä laajennettaessa vain näkyvät pinnat
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Pitää asiakirjan muokattavana: VectorCraft avaa PDF:n uudelleen ilman menetyksiä. Tiedostoille, joita muokataan uudelleen.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Pitää asiakirjan muokattavana: Iridium avaa PDF:n uudelleen ilman menetyksiä. Tiedostoille, joita muokataan uudelleen.
 	Kerning (0 = Auto)	Parivälistys (0 = automaattinen)
 	Key Color:	Avainväri:
 	Keyboard Increment	Näppäimistön lisäys
@@ -1924,7 +1924,7 @@ lighting	Light	Valo
 	Load Text into Clipboard	Lataa teksti leikepöydälle
 	Load Texture…	Lataa tekstuuri…
 	Loaded Texture	Ladattu tekstuuri
-@msg	Loading VectorCraft…	Ladataan VectorCraftia…
+@msg	Loading Iridium…	Ladataan Iridiumia…
 	Loads native code	Lataa natiivikoodia
 	Local Libraries	Paikalliset kirjastot
 	Locate Object	Paikanna objekti
@@ -2316,8 +2316,8 @@ lighting	Light	Valo
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	ei pikanäppäinjoukko: teksti ei ala vinoviivalla alkavalla nimellä ja avaavalla aaltosulkeella
 @msg	not a stored central record	ei tallennettu keskushakemistotietue
 @msg	not a valid plug-in module: {0}	ei kelvollinen laajennusmoduuli: {0}
-@msg	not a VectorCraft file: {0}	ei VectorCraft-tiedosto: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	ei VectorCraftin pikanäppäinjoukko (`overrides` puuttuu)
+@msg	not a Iridium file: {0}	ei Iridium-tiedosto: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	ei Iridiumin pikanäppäinjoukko (`overrides` puuttuu)
 @msg	not an EMF or WMF file	ei EMF- tai WMF-tiedosto
 	Not followed: outside the script's folder	Ei seurattu: komentosarjan kansion ulkopuolella
 	Not found	Ei löytynyt
@@ -2465,7 +2465,7 @@ lighting	Light	Valo
 @msg	Opened with {_1} note(s): {_2}	Avattiin, {_1} huomautus(ta): {_2}
 	Opened with {} note(s): {}	Avattu, huomautuksia {}: {}
 @msg	Opened {url}	Avattiin {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Avattaessa jätettiin pois se, mitä VectorCraft ei vielä osaa lukea ({what}), joten korvaaminen hävittää sen pysyvästi. Säilytä se tallentamalla toisella nimellä.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Avattaessa jätettiin pois se, mitä Iridium ei vielä osaa lukea ({what}), joten korvaaminen hävittää sen pysyvästi. Säilytä se tallentamalla toisella nimellä.
 	Opens files in other apps	Avaa tiedostoja muissa sovelluksissa
 	Opens network connections	Avaa verkkoyhteyksiä
 	Optical Margin Alignment	Optinen reunustasaus
@@ -2539,8 +2539,8 @@ imageTrace	Outline	Ääriviiva
 	Paragraph Style	Kappaletyyli
 	Paragraph Style Options	Kappaletyylin asetukset
 	Paragraph Symbol	Kappalemerkki
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Osa ArtCraftia. MIT OR Apache-2.0. Fontit: Source Sans 3, Inter, JetBrains Mono (OFL). Kuvakkeet: Lucide (ISC) + VectorCraft.
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	Osa ArtCraftia. MIT OR Apache-2.0. Fontit: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Kuvakkeet: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Osa Iridiumia. MIT OR Apache-2.0. Fontit: Source Sans 3, Inter, JetBrains Mono (OFL). Kuvakkeet: Lucide (ISC) + Iridium.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Osa Iridiumia. MIT OR Apache-2.0. Fontit: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Kuvakkeet: Lucide (ISC) + Iridium.
 	Paste Design	Liitä malli
 	Paste in Back	Liitä taakse
 	Paste in Front	Liitä eteen
@@ -2756,7 +2756,7 @@ file-filter	Print presets	Tulostuksen esiasetukset
 	Quality:	Laatu:
 	Quarter Space	Neljäsosaväli
 	Quickly start a new file	Aloita uusi tiedosto nopeasti
-	Quit VectorCraft	Lopeta VectorCraft
+	Quit Iridium	Lopeta Iridium
 	Radar Graph Tool	Tutkakaaviotyökalu
 gradient-kind	Radial	Säteittäinen
 	Radial Dividers:	Säteittäiset jakajat:
@@ -3537,7 +3537,7 @@ effect	Soft	Pehmeä
 	Standard:	Standardi:
 	Star Tool	Tähtityökalu
 	Start arrowhead	Alkunuolenkärki
-	Start from VectorCraft Defaults	Aloita VectorCraftin oletuksista
+	Start from Iridium Defaults	Aloita Iridiumin oletuksista
 	Start Global Edit	Aloita yleismuokkaus
 	Start Tile	Alkuruutu
 	Start:	Alku:
@@ -3688,7 +3688,7 @@ file-filter	Templates	Mallit
 	The bounds of the visible art.	Näkyvän kuvituksen rajat.
 	The cell shows the type object's text as HTML.	Solu näyttää tekstiobjektin tekstin HTML-muodossa.
 @msg	the Color Picker is not open	värinvalitsin ei ole auki
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	pakattu tiedosto purkautuu suuremmaksi kuin VectorCraft lukee ({_1} MB asiakirjaa, {_2} MB kuvaa kohden)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	pakattu tiedosto purkautuu suuremmaksi kuin Iridium lukee ({_1} MB asiakirjaa, {_2} MB kuvaa kohden)
 @msg	the compressed file unpacks to more than {_1} MB	pakattu tiedosto purkautuu yli {_1} megatavuksi
 	The dialog was closed before its file dialog answered	Valintaikkuna suljettiin ennen kuin sen tiedostovalintaikkuna vastasi
 @msg	the document has never been saved	asiakirjaa ei ole koskaan tallennettu
@@ -3718,7 +3718,7 @@ file-filter	Templates	Mallit
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	tiedoston tasoja ei luettu sen muokkaustiedoista ({_1}): ne tulevat sen PDF-osasta
 @msg	the file's preview header points outside the file	tiedoston esikatseluotsake osoittaa tiedoston ulkopuolelle
 @msg	the files come to more than 1 GB: add fewer at a time	tiedostojen koko on yli 1 GB: lisää vähemmän kerrallaan
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Ensin kokeiltu grafiikkasuoritin ei pystynyt näyttämään ikkunaa, joten VectorCraft käynnistyi uudelleen: {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Ensin kokeiltu grafiikkasuoritin ei pystynyt näyttämään ikkunaa, joten Iridium käynnistyi uudelleen: {summary}
 @msg	The graphics were lost and couldn't be restarted.	Grafiikka menetettiin, eikä sitä voitu käynnistää uudelleen.
 @msg	The graphics were lost and have been restarted	Grafiikka menetettiin ja se käynnistettiin uudelleen
 @msg	the guide is on a hidden or locked layer	apuviiva on piilotetulla tai lukitulla tasolla
@@ -3729,12 +3729,12 @@ file-filter	Templates	Mallit
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	Kuva jäljitettiin kokoon {_1} × {_2} kuvapistettä pienennettynä koosta {_3} × {_4} (enintään {_5} megapikseliä).
 @msg	the image's pixels can't be read	kuvan pikseleitä ei voi lukea
 @msg	the image's pixels don't match its size	kuvan pikselit eivät vastaa sen kokoa
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	VectorCraftin edellinen käynnistys päättyi grafiikkasuorittimella {name} ennen kuin sen ikkuna tuli näkyviin, joten se käynnistyi: {summary}. Jos haluat kokeilla tätä grafiikkasuoritinta uudelleen, muuta kohtaa Asetukset › Suorituskyky › Grafiikkasuoritin tai käynnistä WGPU_BACKEND-muuttuja asetettuna
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	VectorCraftin edellinen käynnistys päättyi grafiikkasuorittimien luetteloinnin aikana, joten se käynnistyi pelkällä OpenGL:llä: {summary}. Jos haluat kokeilla muita grafiikkataustoja uudelleen, muuta kohtaa Asetukset › Suorituskyky › Grafiikkasuoritin tai käynnistä WGPU_BACKEND-muuttuja asetettuna
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Iridiumin edellinen käynnistys päättyi grafiikkasuorittimella {name} ennen kuin sen ikkuna tuli näkyviin, joten se käynnistyi: {summary}. Jos haluat kokeilla tätä grafiikkasuoritinta uudelleen, muuta kohtaa Asetukset › Suorituskyky › Grafiikkasuoritin tai käynnistä WGPU_BACKEND-muuttuja asetettuna
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Iridiumin edellinen käynnistys päättyi grafiikkasuorittimien luetteloinnin aikana, joten se käynnistyi pelkällä OpenGL:llä: {summary}. Jos haluat kokeilla muita grafiikkataustoja uudelleen, muuta kohtaa Asetukset › Suorituskyky › Grafiikkasuoritin tai käynnistä WGPU_BACKEND-muuttuja asetettuna
 @msg	the layer has no objects to clip by	tasolla ei ole objekteja, joilla leikata
 @msg	the layer or group is locked	taso tai ryhmä on lukittu
 @msg	the layer to flatten into is hidden	taso, johon litistetään, on piilotettu
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Tallennusikkunan nimi oli ”{typed}”, ja VectorCraft lisäsi tiedostotyypin tunnisteen. Tiedoston korvaaminen kirjoittaa sen sisällön yli.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Tallennusikkunan nimi oli ”{typed}”, ja Iridium lisäsi tiedostotyypin tunnisteen. Tiedoston korvaaminen kirjoittaa sen sisällön yli.
 @msg	the object already has an opacity mask	objektilla on jo peittävyysmaski
 @msg	the object has no geometry	objektilla ei ole geometriaa
 @msg	the object has no opacity mask	objektilla ei ole peittävyysmaskia
@@ -3800,7 +3800,7 @@ file-filter	Templates	Mallit
 	This library is empty.	Tämä kirjasto on tyhjä.
 	This panel is on the roadmap (see the parity plan).	Tämä paneeli on suunnitteilla (katso yhdenmukaisuussuunnitelma).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	tätä PostScript-tiedostoa ei voi lukea ({why}): tallenna se PDF- tai SVG-muodossa sovelluksessa, jolla se tehtiin
-@msg	This shortcut file is in a form VectorCraft can't read.	Tämä pikanäppäintiedosto on muodossa, jota VectorCraft ei pysty lukemaan.
+@msg	This shortcut file is in a form Iridium can't read.	Tämä pikanäppäintiedosto on muodossa, jota Iridium ei pysty lukemaan.
 	This system has no screen color sampler	Tässä järjestelmässä ei ole värin poimintaa näytöltä
 @msg	this system has no screen color sampler	tässä järjestelmässä ei ole värin poimintaa näytöltä
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	tämä jäljitys tuottaisi yli {max} ankkuripistettä, enemmän kuin asiakirja näyttää sujuvasti: nosta kohinaa, vähennä polkuja tai värejä tai valitse epätarkempi esiasetus
@@ -4064,22 +4064,22 @@ diagnostics	ui	käyttöliittymä
 	Vector Halftone	Vektorirasteri
 	Vector Halftone…	Vektorirasterointi…
 	Vector illustration — fast, open, scriptable.	Vektorikuvitusta – nopea, avoin, skriptattava.
-	VectorCraft copies the fonts to {folder}.	VectorCraft kopioi fontit kansioon {folder}.
-	VectorCraft Default	VectorCraft-oletus
-	VectorCraft Defaults	VectorCraftin oletukset
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft ei sulkeutunut normaalisti viime kerralla. Näissä asiakirjoissa oli tallentamattomia muutoksia:
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft-asiakirjat: yksi lukittu objekti, joka päivittyy tiedoston muuttuessa.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft ei hae muiden sovellusten tai järjestelmän kansioista: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft ei hae Users-kansion Shared- tai Public-kansiosta: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraftin käynnistys epäonnistui: {e}
-	VectorCraft Generic CMYK (SWOP-like)	VectorCraftin yleinen CMYK (SWOP-tyyppinen)
-	VectorCraft Help…	VectorCraft-ohje…
-	VectorCraft on getartcraft.com	VectorCraft getartcraft.comissa
-	VectorCraft on GitHub	VectorCraft GitHubissa
-	VectorCraft read this script without running it.	VectorCraft luki tämän komentosarjan suorittamatta sitä.
-	VectorCraft Swatches (.vcswatches)	VectorCraft-värimallit (.vcswatches)
-file-filter	VectorCraft Template	VectorCraft-malli
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	VectorCraftin Fonts-kansiota ei ole määritetty täällä: työpöytäsovellus ja vectorcraft-cli määrittävät sen
+	Iridium copies the fonts to {folder}.	Iridium kopioi fontit kansioon {folder}.
+	Iridium Default	Iridium-oletus
+	Iridium Defaults	Iridiumin oletukset
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium ei sulkeutunut normaalisti viime kerralla. Näissä asiakirjoissa oli tallentamattomia muutoksia:
+	Iridium documents: one locked object, updated when the file changes.	Iridium-asiakirjat: yksi lukittu objekti, joka päivittyy tiedoston muuttuessa.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium ei hae muiden sovellusten tai järjestelmän kansioista: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium ei hae Users-kansion Shared- tai Public-kansiosta: {path}
+@msg	Iridium failed to start: {e}	Iridiumin käynnistys epäonnistui: {e}
+	Iridium Generic CMYK (SWOP-like)	Iridiumin yleinen CMYK (SWOP-tyyppinen)
+	Iridium Help…	Iridium-ohje…
+	Iridium on getartcraft.com	Iridium getartcraft.comissa
+	Iridium on GitHub	Iridium GitHubissa
+	Iridium read this script without running it.	Iridium luki tämän komentosarjan suorittamatta sitä.
+	Iridium Swatches (.vcswatches)	Iridium-värimallit (.vcswatches)
+file-filter	Iridium Template	Iridium-malli
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Iridiumin Fonts-kansiota ei ole määritetty täällä: työpöytäsovellus ja vectorcraft-cli määrittävät sen
 	Vectors	Vektorit
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	version {0} tiedostoja ei voi pakata: pakattuja tiedostoja voi avata vain versiosta {COMPRESSED_SINCE} alkaen
 	Version {version} — open-source vector illustration in pure Rust.	Versio {version} — avoimen lähdekoodin vektorikuvitusohjelma puhtaalla Rustilla.
@@ -4138,7 +4138,7 @@ effect	Vertical	Pysty
 	Web Snap:	Verkkotartunta:
 	WebP	WebP
 	Weight:	Paksuus:
-	Welcome to VectorCraft	Tervetuloa VectorCraftiin
+	Welcome to Iridium	Tervetuloa Iridiumiin
 	When pasting text	Liitettäessä tekstiä
 	Widget Position:	Pienoisohjelman sijainti:
 @msg	width and height are at least 1 pixel	leveys ja korkeus ovat vähintään 1 pikseli

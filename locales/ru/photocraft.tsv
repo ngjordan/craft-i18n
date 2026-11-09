@@ -1,4 +1,4 @@
-# Русский (ru) interface catalog for PhotoCraft.
+# Русский (ru) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -68,7 +68,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: PR: {prs}, коммиты: {commits}, строки +{added} / −{deleted} (Δ {delta}), двоичные файлы +{binAdded} / −{binDeleted}, {first} – {last}
 	A brush preset with this name already exists	Набор параметров кисти с таким именем уже существует
 	A save to {name} is still running; try again when it finishes	Сохранение в {name} ещё выполняется; повторите попытку после его завершения
-	About PhotoCraft	О программе PhotoCraft
+	About Iridium	О программе Iridium
 	Absolute	Абсолютный
 	Accept and Go to Conflict	Принять и перейти к конфликту
 	Accurate	Точно
@@ -136,7 +136,7 @@
 	Aligned	Выровнено
 	All	Всё
 	All Layers No Adjustments	Все слои без коррекции
-	All shortcuts reset to PhotoCraft defaults.	Все комбинации клавиш сброшены к стандартным PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Все комбинации клавиш сброшены к стандартным Iridium.
 	All User Slices	Все пользовательские фрагменты
 	Allow agent control	Разрешить управление агентами
 	Allow Continue	Разрешить продолжение
@@ -193,7 +193,7 @@ cameraRaw	Aqua	Голубые
 	Artboards to Files…	Монтажные области в файлы…
 	Artboards to PDF…	Монтажные области в PDF…
 	Artboard…	Монтажная область…
-	ArtCraft Website	Сайт ArtCraft
+	Iridium Website	Сайт Iridium
 	Artist	Автор
 	Ask	Спрашивать
 	Ask before saving layered tiff	Спрашивать перед сохранением многослойного TIFF
@@ -657,7 +657,7 @@ cameraData	Date Taken	Дата съёмки
 	Decrease Brush Size	Уменьшить размер кисти
 	Default colours (D)	Цвета по умолчанию (D)
 	Default Features	Возможности по умолчанию
-	Default PhotoCraft Size	Размер PhotoCraft по умолчанию
+	Default Iridium Size	Размер Iridium по умолчанию
 	Default printer	Принтер по умолчанию
 	Default restored.	Значения по умолчанию восстановлены.
 	Defaults restored.	Значения по умолчанию восстановлены.
@@ -1552,7 +1552,7 @@ cameraData	Model	Модель
 	Operation	Операция
 	Optimized	Оптимизированный
 	Option-click to define a source point to clone from	Option-клик, чтобы задать точку источника клонирования
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Или выберите в Настройки › Производительность › Дисплейный сервер Linux значение X11: PhotoCraft будет всегда запускаться в XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Или выберите в Настройки › Производительность › Дисплейный сервер Linux значение X11: Iridium будет всегда запускаться в XWayland.
 cameraRaw	Orange	Оранжевые
 	Ornaments	Орнаменты
 	Other…	Другой…
@@ -1621,16 +1621,16 @@ cameraRaw	Orange	Оранжевые
 	Photo (8 × 10 in)	Фото (8 × 10 дюймов)
 	Photo Filter	Фотофильтр
 	Photo Filter…	Фотофильтр…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Стандартные PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft нашёл на этом компьютере ваш набор сочетаний клавиш {set} из другого графического редактора: сочетаний, отличных от PhotoCraft: {n}. Импортировать его?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft обрабатывает изображения на CPU. Окно может продолжать использовать графический адаптер.
-	PhotoCraft Manages Colors	PhotoCraft управляет цветами
-	PhotoCraft on GitHub	PhotoCraft на GitHub
-	PhotoCraft Website	Сайт PhotoCraft
-	PhotoCraft website	Сайт PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — открытый нативный графический редактор на Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Пипетка цвета экрана
+	Iridium	Iridium
+	Iridium Defaults	Стандартные Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium нашёл на этом компьютере ваш набор сочетаний клавиш {set} из другого графического редактора: сочетаний, отличных от Iridium: {n}. Импортировать его?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium обрабатывает изображения на CPU. Окно может продолжать использовать графический адаптер.
+	Iridium Manages Colors	Iridium управляет цветами
+	Iridium on GitHub	Iridium на GitHub
+	Iridium Website	Сайт Iridium
+	Iridium website	Сайт Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — открытый нативный графический редактор на Rust.
+	Iridium — Screen Color Picker	Iridium — Пипетка цвета экрана
 	Photography	Фотография
 	Photomerge…	Фотослияние…
 	Pick a screen pixel or press Esc to cancel	Выберите пиксель на экране или нажмите Esc для отмены
@@ -2231,7 +2231,7 @@ curves	Smooth	Сгладить
 	The transform couldn't be applied.	Не удалось применить трансформирование.
 	There are too many sets: delete one first.	Слишком много наборов: сначала удалите один.
 	There is no crop size or ratio to save	Нет размера или соотношения сторон кадрирования для сохранения
-	These settings aren't available in PhotoCraft yet.	Эти параметры пока недоступны в PhotoCraft.
+	These settings aren't available in Iridium yet.	Эти параметры пока недоступны в Iridium.
 	Thickness	Thickness
 	Thin	Тонкий
 fontWeight	Thin	Тонкий
@@ -2254,7 +2254,7 @@ fontWeight	Thin	Тонкий
 	Tiny	Мелкий
 	Title	Title
 	Titling Alternates	Титульные варианты
-	To drop files, start PhotoCraft under XWayland: `{command}`	Чтобы перетаскивать файлы, запустите PhotoCraft в XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Чтобы перетаскивать файлы, запустите Iridium в XWayland: `{command}`
 	Toggle count group visibility	Вкл/выкл видимость группы счёта
 	Toggle Last State	Переключить последнее состояние
 	Toggle reference point	Вкл/выкл опорную точку
@@ -2427,7 +2427,7 @@ cameraRaw	Yellow	Жёлтые
 	{name} Properties	Свойства: {name}
 	{name} was changed by another app after it was opened or saved here.	Файл {name} был изменён другим приложением после того, как его открыли или сохранили здесь.
 @plural	{n} action|{n} actions	{n} операция|{n} операции|{n} операций
-	{n} commands are not in PhotoCraft.	Команд, которых нет в PhotoCraft: {n}.
+	{n} commands are not in Iridium.	Команд, которых нет в Iridium: {n}.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	Удалён {n} слой, записанный в этом варианте. Обновите вариант или сбросьте предупреждение.|Удалены {n} слоя, записанных в этом варианте. Обновите вариант или сбросьте предупреждение.|Удалено {n} слоёв, записанных в этом варианте. Обновите вариант или сбросьте предупреждение.
 @plural	{n} layer|{n} layers	{n} слой|{n} слоя|{n} слоёв
 	{n} of {max} sample points	{n} из {max} точек замера
@@ -2436,7 +2436,7 @@ cameraRaw	Yellow	Жёлтые
 @plural	{n} sample point removed|{n} sample points removed	Удалена {n} точка замера|Удалены {n} точки замера|Удалено {n} точек замера
 @plural	{n} sample|{n} samples	{n} образец|{n} образца|{n} образцов
 @plural	{n} slice|{n} slices	{n} фрагмент|{n} фрагмента|{n} фрагментов
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} шаг пока не имеет эквивалента в PhotoCraft|{n} шага пока не имеют эквивалента в PhotoCraft|{n} шагов пока не имеют эквивалента в PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} шаг пока не имеет эквивалента в Iridium|{n} шага пока не имеют эквивалента в Iridium|{n} шагов пока не имеют эквивалента в Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Пропущен {n} шаг без эквивалента в Photoshop|Пропущены {n} шага без эквивалента в Photoshop|Пропущено {n} шагов без эквивалента в Photoshop
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: путь не является допустимым Unicode; переименуйте файл и откройте его снова.
 	{set} (modified)	{set} (изменён)

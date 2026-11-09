@@ -1,4 +1,4 @@
-# Български (bg) interface catalog for VectorCraft.
+# Български (bg) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -139,7 +139,7 @@
 	[Press Quality]	[Качество за печат]
 	[Smallest File Size]	[Най-малък размер на файл]
 	[Unnamed]	[Без име]
-	[VectorCraft Default]	[По подразбиране за VectorCraft]
+	[Iridium Default]	[По подразбиране за Iridium]
 @msg	`aspect` must be a number (%)	`aspect` трябва да бъде число (%)
 @msg	`at` must be [x, y]	`at` трябва да бъде [x, y]
 @msg	`color` must be a colour	`color` трябва да бъде цвят
@@ -228,7 +228,7 @@
 	A4	A4
 	A5	A5
 	A6	A6
-	About VectorCraft	Относно VectorCraft
+	About Iridium	Относно Iridium
 	above	над
 	Above Text	Над текста
 	Absolute Position	Абсолютна позиция
@@ -318,7 +318,7 @@ file-filter	All readable files	Всички четими файлове
 	Amber	Кехлибарен
 	Ambient Light	Околна светлина
 @msg	an image of {w} × {h} pixels is too large to draw	изображение с размери {w} × {h} пиксела е твърде голямо за рисуване
-@msg	an image VectorCraft can't read was left out	изображение, което VectorCraft не може да разчете, беше пропуснато
+@msg	an image Iridium can't read was left out	изображение, което Iridium не може да разчете, беше пропуснато
 @msg	an image whose data is cut short was left out	изображение с непълни данни беше пропуснато
 @msg	an object can't be read	обектът не може да бъде прочетен
 @msg	an object in perspective would leave the edited grid	обект в перспектива би напуснал редактираната мрежа
@@ -349,7 +349,7 @@ file-filter	All readable files	Всички четими файлове
 	Appearance of Black	Външен вид на черното
 	Appearance Panel	Панел „Външен вид“
 	Appearance panel	Панел „Външен вид“
-	Applies the next time VectorCraft starts.	Прилага се при следващото стартиране на VectorCraft.
+	Applies the next time Iridium starts.	Прилага се при следващото стартиране на Iridium.
 	Applies when the linked file is relinked or updated.	Прилага се, когато свързаният файл бъде пресвързан или актуализиран.
 	Apply Brush	Прилагане на четка
 	Apply Effect	Прилагане на ефект
@@ -558,7 +558,7 @@ axis	Both	И двете
 @msg	can't parse shortcut `{c}`	клавишният бърз път `{c}` не може да бъде разпознат
 @msg	can't parse shortcut `{s}` for `{k}`	клавишният бърз път `{s}` за `{k}` не може да бъде разпознат
 	Can't print these settings: see the Summary	Тези настройки не могат да бъдат отпечатани: вижте обобщението
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	версия {0} не може да бъде запазена: VectorCraft записва версии от {MIN_VERSION} до {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	версия {0} не може да бъде запазена: Iridium записва версии от {MIN_VERSION} до {VERSION}
 	Can't save “{name}”.	Не може да се запише „{name}“.
 @msg	can't write .{ext} images	не могат да се записват .{ext} изображения
 	Cancel Export	Отказ от експортирането
@@ -994,7 +994,7 @@ axis	Both	И двете
 	Dialog	Диалогов прозорец
 	Diamond (open)	Диамант (отворен)
 	Differences from [Default]:	Разлики от [По подразбиране]:
-	Differences from VectorCraft Default:	Разлики от настройките по подразбиране на VectorCraft:
+	Differences from Iridium Default:	Разлики от настройките по подразбиране на Iridium:
 	Differences from {preset}:	Разлики от {preset}:
 	Diffuse Glow…	Дифузно светещ…
 	Dim Copies to:	Затъмняване на копия до:
@@ -1137,7 +1137,7 @@ axis	Both	И двете
 	DXF Options Dialog	Диалогов прозорец с опции за DXF
 	e.g. 1-3, 5	напр. 1-3, 5
 	Each Design Represents:	Всеки дизайн представлява:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Всеки запис във файла се съпоставя с инструмент, команда или панел на VectorCraft. Проверете съответствията и отговорете на останалите.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Всеки запис във файла се съпоставя с инструмент, команда или панел на Iridium. Проверете съответствията и отговорете на останалите.
 	Each page prints as one image, at the document's raster effects resolution.	Всяка страница се отпечатва като едно изображение при разделителната способност на растерните ефекти на документа.
 	Earth Tones	Земни тонове
 	East Asian Type	Източноазиатски текст
@@ -1346,7 +1346,7 @@ axis	Both	И двете
 	File Info Dialog	Диалогов прозорец „Информация за файла“
 	File Name:	Име на файл:
 	File or URL:	Файл или URL адрес:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	версия на файла {0} е по-нова от поддържаната от този VectorCraft ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	версия на файла {0} е по-нова от поддържаната от този Iridium ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Файл › Поставяне… вкарва изображение, свързано или вградено.
 	Files of a PDF standard can't be password-protected.	Файлове от PDF стандарт не могат да бъдат защитени с парола.
 	Files of this standard tag their colours with ICC profiles.	Файловете от този стандарт етикетират цветовете си с ICC профили.
@@ -1598,7 +1598,7 @@ file-filter	Flattener presets	Предварителни настройки за
 	Hide Thumbnail	Скриване на миниатюра
 	Hide Thumbnails	Скриване на миниатюрите
 	Hide Transparency Grid	Скриване на мрежата за прозрачност
-	Hide VectorCraft	Скриване на VectorCraft
+	Hide Iridium	Скриване на Iridium
 	High (300 ppi)	Висока (300 ppi)
 	High Contrast	Висок контраст
 	High Contrast 2	Висок контраст 2
@@ -1686,7 +1686,7 @@ effect	Horizontal	Хоризонтално
 	In Tangent Handles	Входящи управляващи точки
 	In the File	Във файла
 	In the selected objects	В избраните обекти
-	In VectorCraft	Във VectorCraft
+	In Iridium	Във Iridium
 	Include all profiles	Включване на всички профили
 	Include Blacks with CMY:	Включване на черни към CMY:
 	Include Bleed	Включване на изтичане
@@ -1747,7 +1747,7 @@ effect	Horizontal	Хоризонтално
 	Invert Colors	Инвертиране на цветовете
 	Invert Pie	Обръщане на сектор
 	Inverted Round	Обърнато закръгляне
-@msg	is not an image VectorCraft reads	не е изображение, което VectorCraft разчита
+@msg	is not an image Iridium reads	не е изображение, което Iridium разчита
 	Isolate Blending	Изолиране на сливането
 	Isolate Group	Изолиране на групата
 	Isolate Selected Group	Изолиране на избраната група
@@ -1765,9 +1765,9 @@ effect	Horizontal	Хоризонтално
 @msg	it has too many text objects	има твърде много текстови обекти
 @msg	it has too many values in a row	той има твърде много стойности на ред
 @msg	it has too much text	има твърде много текст
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	той съдържа {_1}, който VectorCraft все още не може да разчете
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	използва `{at}`, който четецът на PostScript на VectorCraft не разпознава
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	използва `{at}`, който четецът на PostScript на VectorCraft не разпознава, в {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	той съдържа {_1}, който Iridium все още не може да разчете
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	използва `{at}`, който четецът на PostScript на Iridium не разпознава
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	използва `{at}`, който четецът на PostScript на Iridium не разпознава, в {procs}
 @msg	its editing data doesn't say where its art is	данните му за редактиране не посочват къде се намира неговата графика
 @msg	its editing data doesn't say where its artboard is	данните за редакция не посочват къде е неговата работна област
 @msg	its editing data has no layers	данните за редакция нямат слоеве
@@ -1787,7 +1787,7 @@ mark-style	Japanese	Японски
 	JavaScript:	JavaScript:
 @msg	join needs open paths	обединяването изисква отворени пътища
 	Join Our Discord	Присъединете се към нашия Discord
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Присъединете се към общността на ArtCraft в Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Присъединете се към общността на Iridium в Discord (discord.gg/artcraft)
 	Join the lines of each paragraph	Свързване на редовете на всеки параграф
 	Join Tool	Инструмент „Свързване“
 	Joins	Съединения
@@ -1807,7 +1807,7 @@ mark-style	Japanese	Японски
 	Keep the pasted color as a new swatch with a numbered name.	Запазване на поставения цвят като нов образец с номерирано име.
 	Keep this row's colors (exclude)	Запазване на цветовете на този ред (изключване)
 	Keep visible surfaces only when expanding	Запазване само на видимите повърхности при разширяване
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Запазва документа редактируем: VectorCraft отваря PDF файла отново без загуба на данни. За файлове, които ще редактирате отново.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Запазва документа редактируем: Iridium отваря PDF файла отново без загуба на данни. За файлове, които ще редактирате отново.
 	Kerning (0 = Auto)	Кернинг (0 = Автоматично)
 	Key Color:	Основен цвят:
 	Keyboard Increment	Стъпка с клавиатурата
@@ -1944,7 +1944,7 @@ lighting	Light	Светлина
 	Load Text into Clipboard	Зареждане на текст в клипборда
 	Load Texture…	Зареждане на текстура…
 	Loaded Texture	Заредена текстура
-@msg	Loading VectorCraft…	Зареждане на VectorCraft…
+@msg	Loading Iridium…	Зареждане на Iridium…
 	Loads native code	Зарежда софтуерен код на ниско ниво
 	Local Libraries	Локални библиотеки
 	Locate Object	Намиране на обект
@@ -2339,8 +2339,8 @@ lighting	Light	Светлина
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	 не е набор от преки пътища: текстът не започва с име със слъш и отваряща скоба
 @msg	not a stored central record	не е съхранен централен запис
 @msg	not a valid plug-in module: {0}	не е валиден модул за плъгин: {0}
-@msg	not a VectorCraft file: {0}	не е файл на VectorCraft: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	не е набор от клавишни комбинации на VectorCraft (липсват `overrides`)
+@msg	not a Iridium file: {0}	не е файл на Iridium: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	не е набор от клавишни комбинации на Iridium (липсват `overrides`)
 @msg	not an EMF or WMF file	не е EMF или WMF файл
 	Not followed: outside the script's folder	Не е следвано: извън папката на скрипта
 	Not found	Няма намерени резултати
@@ -2491,7 +2491,7 @@ lighting	Light	Светлина
 @msg	Opened with {_1} note(s): {_2}	Отворено с {_1} бележка(и): {_2}
 	Opened with {} note(s): {}	Отворено с {} бележка(и): {}
 @msg	Opened {url}	Отворено: {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Отварянето му пропусна това, което VectorCraft все още не може да прочете ({what}), така че замяната му го губи завинаги. Запазете под друго име, за да го запазите.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Отварянето му пропусна това, което Iridium все още не може да прочете ({what}), така че замяната му го губи завинаги. Запазете под друго име, за да го запазите.
 	Opens files in other apps	Отваря файлове в други приложения
 	Opens network connections	Отваря мрежови връзки
 	Optical Margin Alignment	Подравняване по оптично поле
@@ -2565,8 +2565,8 @@ imageTrace	Outline	Контур
 	Paragraph Style	Стил на абзац
 	Paragraph Style Options	Опции за стил на абзац
 	Paragraph Symbol	Символ за абзац
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Част от ArtCraft. MIT ИЛИ Apache-2.0. Шрифтове: Source Sans 3, Inter, JetBrains Mono (OFL). Икони: Lucide (ISC) + VectorCraft.
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	Част от ArtCraft. MIT ИЛИ Apache-2.0. Шрифтове: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Икони: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Част от Iridium. MIT ИЛИ Apache-2.0. Шрифтове: Source Sans 3, Inter, JetBrains Mono (OFL). Икони: Lucide (ISC) + Iridium.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Част от Iridium. MIT ИЛИ Apache-2.0. Шрифтове: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Икони: Lucide (ISC) + Iridium.
 	Paste Design	Поставяне на дизайн
 	Paste in Back	Поставяне отзад
 	Paste in Front	Поставяне отпред
@@ -2785,7 +2785,7 @@ file-filter	Print presets	Предварителни настройки за п�
 	Quality:	Качество:
 	Quarter Space	Четвъртинка интервал
 	Quickly start a new file	Бързо стартиране на нов файл
-	Quit VectorCraft	Изход от VectorCraft
+	Quit Iridium	Изход от Iridium
 	Radar Graph Tool	Инструмент „Радарна диаграма“
 gradient-kind	Radial	Радиален
 	Radial Dividers:	Лъчеви делители:
@@ -3570,7 +3570,7 @@ effect	Soft	Меко
 	Standard:	Стандартно:
 	Star Tool	Инструмент „Звезда“
 	Start arrowhead	Начална стрелка
-	Start from VectorCraft Defaults	Започни от стандартните настройки на VectorCraft
+	Start from Iridium Defaults	Започни от стандартните настройки на Iridium
 	Start Global Edit	Започване на глобално редактиране
 	Start Tile	Начална плочка
 	Start:	Начало:
@@ -3720,7 +3720,7 @@ file-filter	Templates	Шаблони
 @msg	the blend has no spine	оста на преливането липсва
 	The bounds of the visible art.	Границите на видимия макет.
 	The cell shows the type object's text as HTML.	Клетката показва текста на текстовия обект като HTML.
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	компресираният файл се разпакетира до повече, отколкото VectorCraft чете ({_1} МБ документ, {_2} МБ на изображение)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	компресираният файл се разпакетира до повече, отколкото Iridium чете ({_1} МБ документ, {_2} МБ на изображение)
 @msg	the compressed file unpacks to more than {_1} MB	архивираният файл се разхирата до повече от {_1} MB
 	The dialog was closed before its file dialog answered	Диалоговият прозорец беше затворен, преди диалоговият прозорец за файл да отговори
 @msg	the document has never been saved	документът никога не е бил запазван
@@ -3748,19 +3748,19 @@ file-filter	Templates	Шаблони
 	The file writes keys and modifiers as codes. Check the proposed meanings and answer the codes that are not known yet.	Файлът записва клавишите и модификаторите като кодове. Проверете предложения смисъл и отговорете на все още неизвестните кодове.
 @msg	the file's preview header points outside the file	заглавната част за преглед на файла сочи извън него
 @msg	the files come to more than 1 GB: add fewer at a time	файловете надхвърлят 1 GB: добавяйте по-малко наведнъж
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Първият опит на графичния процесор да покаже прозореца не успя, затова VectorCraft стартира отново на {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Първият опит на графичния процесор да покаже прозореца не успя, затова Iridium стартира отново на {summary}
 @msg	The graphics were lost and couldn't be restarted.	Графиката беше загубена и не можа да бъде рестартирана.
 @msg	The graphics were lost and have been restarted	Графиката беше загубена и рестартирана
 @msg	the guide is on a hidden or locked layer	водачът е в скрит или заключен слой
 @msg	the image can't be read as a texture	изображението не може да бъде прочетено като текстура
 @msg	the image is {width} × {height} pixels, more than Image Trace takes ({max} megapixels)	изображението е с размери {width} × {height} пиксела, което е повече от допустимото за Image Trace ({max} мегапиксела)
 @msg	the image's pixels don't match its size	пикселите на изображението не съответстват на неговия размер
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Последното стартиране на VectorCraft прекъсна на {name}, преди прозорецът да се появи, затова VectorCraft стартира на {summary}. За да опитате отново с този графичен процесор, променете Настройки › Производителност › Графичен процесор или стартирайте със зададена променлива WGPU_BACKEND
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Последното стартиране на VectorCraft прекъсна, докато се изброяваха графичните процесори, затова VectorCraft стартира на {summary} само с OpenGL. За да опитате отново другите графични интерфейси, променете Настройки › Производителност › Графичен процесор или стартирайте със зададена променлива WGPU_BACKEND
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Последното стартиране на Iridium прекъсна на {name}, преди прозорецът да се появи, затова Iridium стартира на {summary}. За да опитате отново с този графичен процесор, променете Настройки › Производителност › Графичен процесор или стартирайте със зададена променлива WGPU_BACKEND
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Последното стартиране на Iridium прекъсна, докато се изброяваха графичните процесори, затова Iridium стартира на {summary} само с OpenGL. За да опитате отново другите графични интерфейси, променете Настройки › Производителност › Графичен процесор или стартирайте със зададена променлива WGPU_BACKEND
 @msg	the layer has no objects to clip by	слойът няма обекти за изрязване
 @msg	the layer or group is locked	слойът или групата са заключени
 @msg	the layer to flatten into is hidden	слоят, в който се сплесква, е скрит
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Името в панела за запазване беше „{typed}“, а VectorCraft добави разширението на типа файл. Замяната на файла презаписва съдържанието му.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Името в панела за запазване беше „{typed}“, а Iridium добави разширението на типа файл. Замяната на файла презаписва съдържанието му.
 @msg	the object already has an opacity mask	обектите вече имат маска за непрозрачност
 @msg	the object has no geometry	обектът няма геометрия
 @msg	the object has no opacity mask	обектът няма маска за непрозрачност
@@ -3824,7 +3824,7 @@ file-filter	Templates	Шаблони
 	This library is empty.	Тази библиотека е празна.
 	This panel is on the roadmap (see the parity plan).	Този панел е в план-графика (вижте плана за равнопоставеност).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	този PostScript файл не може да бъде прочетен ({why}): запазете го като PDF или SVG в приложението, което го е създало
-@msg	This shortcut file is in a form VectorCraft can't read.	 Този файл с преки пътища е във формат, който VectorCraft не може да прочете.
+@msg	This shortcut file is in a form Iridium can't read.	 Този файл с преки пътища е във формат, който Iridium не може да прочете.
 	This system has no screen color sampler	Тази система няма инструмент за взимане на цвят от екрана
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	това трасиране би създало повече от {max} опорни точки, надхвърляйки възможностите на документа за гладко визуализиране: увеличете Шума, намалете Пътищата или Цветовете, или изберете предварителна настройка с по-ниска точност
 	Thread Text	Свързване на текст
@@ -4092,23 +4092,23 @@ diagnostics	ui	потребителски интерфейс
 	Vector Halftone	Векторен полутон
 	Vector Halftone…	Векторен полутон…
 	Vector illustration — fast, open, scriptable.	Векторна илюстрация — бърза, отворена, скриптуема.
-	VectorCraft	VectorCraft
-	VectorCraft copies the fonts to {folder}.	VectorCraft копира шрифтовете в {folder}.
-	VectorCraft Default	По подразбиране за VectorCraft
-	VectorCraft Defaults	Стандартни настройки на VectorCraft
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft не се затвори нормално последния път. Тези документи съдържаха незапазени промени:
-	VectorCraft documents: one locked object, updated when the file changes.	Документи на VectorCraft: един заключен обект, който се обновява при промяна на файла.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft не търси в папките на други приложения или на системата: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft не търси в папките Shared или Public в Users: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft не успя да стартира: {e}
-	VectorCraft Generic CMYK (SWOP-like)	Общ CMYK за VectorCraft (подобен на SWOP)
-	VectorCraft Help…	Помощ за VectorCraft…
-	VectorCraft on getartcraft.com	VectorCraft в getartcraft.com
-	VectorCraft on GitHub	VectorCraft в GitHub
-	VectorCraft read this script without running it.	VectorCraft прочете този скрипт, без да го изпълнява.
-	VectorCraft Swatches (.vcswatches)	Образци на VectorCraft (.vcswatches)
-file-filter	VectorCraft Template	Шаблон на VectorCraft
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Папката със шрифтове на VectorCraft не е зададена тук: десктоп приложението и vectorcraft-cli я задават
+	Iridium	Iridium
+	Iridium copies the fonts to {folder}.	Iridium копира шрифтовете в {folder}.
+	Iridium Default	По подразбиране за Iridium
+	Iridium Defaults	Стандартни настройки на Iridium
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium не се затвори нормално последния път. Тези документи съдържаха незапазени промени:
+	Iridium documents: one locked object, updated when the file changes.	Документи на Iridium: един заключен обект, който се обновява при промяна на файла.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium не търси в папките на други приложения или на системата: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium не търси в папките Shared или Public в Users: {path}
+@msg	Iridium failed to start: {e}	Iridium не успя да стартира: {e}
+	Iridium Generic CMYK (SWOP-like)	Общ CMYK за Iridium (подобен на SWOP)
+	Iridium Help…	Помощ за Iridium…
+	Iridium on getartcraft.com	Iridium в getartcraft.com
+	Iridium on GitHub	Iridium в GitHub
+	Iridium read this script without running it.	Iridium прочете този скрипт, без да го изпълнява.
+	Iridium Swatches (.vcswatches)	Образци на Iridium (.vcswatches)
+file-filter	Iridium Template	Шаблон на Iridium
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Папката със шрифтове на Iridium не е зададена тук: десктоп приложението и vectorcraft-cli я задават
 	Vectors	Вектори
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	файловете от версия {0} не могат да бъдат компресирани: само версия {COMPRESSED_SINCE} и по-нови отварят компресирани файлове
 	Version {version} — open-source vector illustration in pure Rust.	Версия {version} — векторна илюстрация с отворен код на чист Rust.
@@ -4167,7 +4167,7 @@ effect	Vertical	Вертикално
 	Web Snap:	Прилепване в уеб:
 	WebP	WebP
 	Weight:	Дебелина:
-	Welcome to VectorCraft	Добре дошли във VectorCraft
+	Welcome to Iridium	Добре дошли във Iridium
 	When pasting text	При поставяне на текст
 	Widget Position:	Позиция на джаджата:
 @msg	width and height are at least 1 pixel	ширината и височината са най-малко 1 пиксел

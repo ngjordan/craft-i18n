@@ -1,4 +1,4 @@
-# 한국어 (ko) interface catalog for VectorCraft.
+# 한국어 (ko) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -187,7 +187,7 @@
 @msg	a stream's length is wrong	스트림 길이가 올바르지 않습니다
 @msg	a stream's length isn't a number	스트림 길이가 숫자가 아닙니다
 @msg	a swatch or color group named `{n}` exists	`{n}`이라는 견본 또는 색상 그룹이 이미 있습니다
-	About VectorCraft	VectorCraft 정보
+	About Iridium	Iridium 정보
 	above	이상
 	Above Text	문자 위
 	Absolute Position	절대 위치
@@ -276,7 +276,7 @@ file-filter	All readable files	읽을 수 있는 모든 파일
 	Amber	호박색
 	Ambient Light	주변광
 @msg	an image of {w} × {h} pixels is too large to draw	{w} × {h}픽셀 이미지는 너무 커서 그릴 수 없습니다
-@msg	an image VectorCraft can't read was left out	VectorCraft가 읽을 수 없는 이미지는 제외했습니다
+@msg	an image Iridium can't read was left out	Iridium가 읽을 수 없는 이미지는 제외했습니다
 @msg	an image whose data is cut short was left out	데이터가 잘린 이미지는 제외했습니다
 @msg	an object can't be read	개체를 읽을 수 없습니다
 @msg	an object in perspective would leave the edited grid	원근 상태의 개체가 편집 중인 격자를 벗어나게 됩니다
@@ -303,7 +303,7 @@ file-filter	All readable files	읽을 수 있는 모든 파일
 	Appearance of Black	검정 표시 방식
 	Appearance Panel	모양새 패널
 	Appearance panel	모양새 패널
-	Applies the next time VectorCraft starts.	다음에 VectorCraft를 시작할 때 적용됩니다.
+	Applies the next time Iridium starts.	다음에 Iridium를 시작할 때 적용됩니다.
 	Applies when the linked file is relinked or updated.	링크된 파일을 다시 연결하거나 업데이트할 때 적용됩니다.
 	Apply Brush	브러시 적용
 	Apply Effect	효과 적용
@@ -496,7 +496,7 @@ axis	Both	양쪽
 @msg	can't parse shortcut `{c}`	단축키 `{c}`을(를) 해석할 수 없습니다
 @msg	can't parse shortcut `{s}` for `{k}`	`{k}`의 단축키 `{s}`을(를) 해석할 수 없습니다
 	Can't print these settings: see the Summary	이 설정으로는 인쇄할 수 없습니다. 요약을 확인하세요
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	버전 {0}(으)로 저장할 수 없습니다: VectorCraft는 버전 {MIN_VERSION}~{VERSION}을(를) 기록합니다
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	버전 {0}(으)로 저장할 수 없습니다: Iridium는 버전 {MIN_VERSION}~{VERSION}을(를) 기록합니다
 	Can't save “{name}”.	“{name}”을(를) 저장할 수 없습니다.
 @msg	can't write .{ext} images	.{ext} 이미지는 쓸 수 없습니다
 	Cancel Export	내보내기 취소
@@ -1035,7 +1035,7 @@ axis	Both	양쪽
 	DXF Options Dialog	DXF 옵션 대화상자
 	e.g. 1-3, 5	예: 1-3, 5
 	Each Design Represents:	디자인당 값:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	파일의 각 항목은 VectorCraft의 도구, 명령 또는 패널에 대응됩니다. 대응을 확인하고 남은 항목을 정하세요.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	파일의 각 항목은 Iridium의 도구, 명령 또는 패널에 대응됩니다. 대응을 확인하고 남은 항목을 정하세요.
 	Each page prints as one image, at the document's raster effects resolution.	각 페이지는 문서의 래스터 효과 해상도로 하나의 이미지로 인쇄됩니다.
 	Earth Tones	어스 톤
 	East Asian Type	동아시아 문자
@@ -1240,7 +1240,7 @@ axis	Both	양쪽
 	File Info Dialog	파일 정보 대화상자
 	File Name:	파일 이름:
 	File or URL:	파일 또는 URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	파일 버전 {0}은(는) 이 VectorCraft가 지원하는 버전({VERSION})보다 높습니다
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	파일 버전 {0}은(는) 이 Iridium가 지원하는 버전({VERSION})보다 높습니다
 	File › Place… brings in an image, linked or embedded.	파일 › 가져오기…로 이미지를 연결 또는 포함하여 가져옵니다.
 	Files of a PDF standard can't be password-protected.	PDF 표준 파일은 암호로 보호할 수 없습니다.
 	Files of this standard tag their colours with ICC profiles.	이 표준의 파일은 ICC 프로파일로 색상을 태그합니다.
@@ -1472,7 +1472,7 @@ file-filter	Flattener presets	병합 프리셋
 	Hide Thumbnail	미리 보기 이미지 숨기기
 	Hide Thumbnails	미리 보기 이미지 숨기기
 	Hide Transparency Grid	투명도 격자 숨기기
-	Hide VectorCraft	VectorCraft 숨기기
+	Hide Iridium	Iridium 숨기기
 	High (300 ppi)	높음 (300 ppi)
 	High Performance (discrete)	고성능 (외장)
 	Highlight Alternate Glyphs	대체 글리프 강조 표시
@@ -1553,7 +1553,7 @@ effect	Horizontal	가로
 	In Tangent Handles	안쪽 접선 핸들
 	In the File	파일에서
 	In the selected objects	선택한 개체 안에서
-	In VectorCraft	VectorCraft에서
+	In Iridium	Iridium에서
 	Include Blacks with CMY:	CMY와 함께 검정 포함:
 	Include Bleed	블리드 포함
 	Include Cmy Blacks	CMY 검정 포함
@@ -1610,7 +1610,7 @@ effect	Horizontal	가로
 	Invert Colors	색상 반전
 	Invert Pie	파이 반전
 	Inverted Round	반전된 둥글게
-@msg	is not an image VectorCraft reads	VectorCraft가 읽는 이미지가 아닙니다
+@msg	is not an image Iridium reads	Iridium가 읽는 이미지가 아닙니다
 	Isolate Blending	혼합 격리
 	Isolate Group	그룹 격리
 	Isolate Selected Group	선택한 그룹 격리
@@ -1629,9 +1629,9 @@ effect	Horizontal	가로
 @msg	it has too many text objects	텍스트 개체가 너무 많습니다
 @msg	it has too many values in a row	한 줄에 값이 너무 많습니다
 @msg	it has too much text	텍스트가 너무 많습니다
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	{_1}이(가) 있으며, VectorCraft는 아직 이를 읽지 못합니다
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	`{at}`을(를) 사용하며, VectorCraft의 PostScript 판독기는 이를 알지 못합니다
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	`{at}`을(를) 사용하며({procs}), VectorCraft의 PostScript 판독기는 이를 알지 못합니다
+@msg	it has {_1}, which Iridium doesn't read from it yet	{_1}이(가) 있으며, Iridium는 아직 이를 읽지 못합니다
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	`{at}`을(를) 사용하며, Iridium의 PostScript 판독기는 이를 알지 못합니다
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	`{at}`을(를) 사용하며({procs}), Iridium의 PostScript 판독기는 이를 알지 못합니다
 @msg	its editing data doesn't say where its art is	편집 데이터에 아트웍의 위치가 없습니다
 @msg	its editing data doesn't say where its artboard is	편집 데이터에 아트보드의 위치가 없습니다
 @msg	its editing data has no layers	편집 데이터에 레이어가 없습니다
@@ -1653,7 +1653,7 @@ mark-style	Japanese	일본식
 	JavaScript:	JavaScript:
 @msg	join needs open paths	연결하려면 열린 패스가 필요합니다
 	Join Our Discord	Discord 참여하기
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Discord에서 ArtCraft 커뮤니티에 참여하세요 (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Discord에서 Iridium 커뮤니티에 참여하세요 (discord.gg/artcraft)
 	Join the lines of each paragraph	각 단락의 줄 결합
 	Join Tool	결합 도구
 	Joins	연결
@@ -1802,7 +1802,7 @@ lighting	Light	광원
 	Load Text into Clipboard	텍스트를 클립보드로 불러오기
 	Load Texture…	텍스처 불러오기…
 	Loaded Texture	불러온 텍스처
-@msg	Loading VectorCraft…	VectorCraft 불러오는 중…
+@msg	Loading Iridium…	Iridium 불러오는 중…
 	Loads native code	네이티브 코드 로드
 	Local Libraries	로컬 라이브러리
 	Locate Object	개체 찾기
@@ -2180,8 +2180,8 @@ lighting	Light	광원
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	단축키 세트가 아닙니다: 텍스트가 슬래시 이름과 여는 중괄호로 시작하지 않습니다
 @msg	not a stored central record	저장된 중앙 레코드가 아닙니다
 @msg	not a valid plug-in module: {0}	올바른 플러그인 모듈이 아닙니다: {0}
-@msg	not a VectorCraft file: {0}	VectorCraft 파일이 아닙니다: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	VectorCraft 단축키 세트가 아닙니다(`overrides`가 없음)
+@msg	not a Iridium file: {0}	Iridium 파일이 아닙니다: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	Iridium 단축키 세트가 아닙니다(`overrides`가 없음)
 @msg	not an EMF or WMF file	EMF 또는 WMF 파일이 아닙니다
 	Not followed: outside the script's folder	따라가지 않음: 스크립트 폴더 바깥
 	Not found	찾을 수 없음
@@ -2328,7 +2328,7 @@ lighting	Light	광원
 @msg	Opened with {_1} note(s): {_2}	참고 {_1}건과 함께 열었습니다: {_2}
 	Opened with {} note(s): {}	열었습니다(참고 {}건): {}
 @msg	Opened {url}	{url}을(를) 열었습니다
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	파일을 열 때 VectorCraft가 아직 읽지 못하는 내용({what})이 제외되어, 덮어쓰면 해당 내용이 영구적으로 사라집니다. 보존하려면 다른 이름으로 저장하세요.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	파일을 열 때 Iridium가 아직 읽지 못하는 내용({what})이 제외되어, 덮어쓰면 해당 내용이 영구적으로 사라집니다. 보존하려면 다른 이름으로 저장하세요.
 	Opens files in other apps	다른 앱에서 파일 열기
 	Opens network connections	네트워크 연결 열기
 	Optical Margin Alignment	시각적 여백 정렬
@@ -2400,7 +2400,7 @@ imageTrace	Outline	윤곽선
 	Paragraph Style	단락 스타일
 	Paragraph Style Options	단락 스타일 옵션
 	Paragraph Symbol	단락 기호
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	ArtCraft의 일부입니다. MIT OR Apache-2.0. 글꼴: Source Sans 3, Inter, JetBrains Mono (OFL). 아이콘: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Iridium의 일부입니다. MIT OR Apache-2.0. 글꼴: Source Sans 3, Inter, JetBrains Mono (OFL). 아이콘: Lucide (ISC) + Iridium.
 	Paste Design	디자인 붙여넣기
 	Paste in Back	뒤에 붙여넣기
 	Paste in Front	앞에 붙여넣기
@@ -2587,7 +2587,7 @@ file-filter	Print presets	인쇄 프리셋
 	Quality:	품질:
 	Quarter Space	4분의 1 공백
 	Quickly start a new file	새 파일을 빠르게 시작
-	Quit VectorCraft	VectorCraft 종료
+	Quit Iridium	Iridium 종료
 	Radar Graph Tool	레이더 그래프 도구
 gradient-kind	Radial	방사형
 	Radial Dividers:	방사형 구분선:
@@ -3317,7 +3317,7 @@ effect	Soft	부드럽게
 	Standard:	표준:
 	Star Tool	별 도구
 	Start arrowhead	시작 화살촉
-	Start from VectorCraft Defaults	VectorCraft 기본값에서 시작
+	Start from Iridium Defaults	Iridium 기본값에서 시작
 	Start Global Edit	전체 편집 시작
 	Start Tile	시작 타일
 	Start:	시작:
@@ -3451,7 +3451,7 @@ file-filter	Templates	템플릿
 	The bounds of the visible art.	보이는 아트워크의 경계입니다.
 	The cell shows the type object's text as HTML.	셀에 문자 개체의 텍스트가 HTML로 표시됩니다.
 @msg	the Color Picker is not open	색상 피커가 열려 있지 않습니다
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	압축된 파일의 압축을 풀면 VectorCraft가 읽을 수 있는 한도를 넘습니다(문서 {_1}MB, 이미지당 {_2}MB)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	압축된 파일의 압축을 풀면 Iridium가 읽을 수 있는 한도를 넘습니다(문서 {_1}MB, 이미지당 {_2}MB)
 @msg	the compressed file unpacks to more than {_1} MB	압축된 파일의 압축을 풀면 {_1}MB를 넘습니다
 	The dialog was closed before its file dialog answered	파일 대화상자가 응답하기 전에 대화상자가 닫혔습니다
 @msg	the document has never been saved	문서가 저장된 적이 없습니다
@@ -3481,7 +3481,7 @@ file-filter	Templates	템플릿
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	편집 데이터에서 파일의 레이어를 읽지 못했습니다({_1}). PDF 부분에서 가져옵니다
 @msg	the file's preview header points outside the file	파일의 미리 보기 헤더가 파일 범위를 벗어났습니다
 @msg	the files come to more than 1 GB: add fewer at a time	파일의 합계가 1GB를 넘습니다: 한 번에 적게 추가하세요
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	처음 시도한 그래픽 프로세서가 창을 표시하지 못해 {summary}에서 VectorCraft를 다시 시작했습니다
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	처음 시도한 그래픽 프로세서가 창을 표시하지 못해 {summary}에서 Iridium를 다시 시작했습니다
 @msg	The graphics were lost and couldn't be restarted.	그래픽을 잃었으며 다시 시작할 수 없습니다.
 @msg	The graphics were lost and have been restarted	그래픽을 잃어 다시 시작했습니다
 @msg	the guide is on a hidden or locked layer	안내선이 숨겨졌거나 잠긴 레이어에 있습니다
@@ -3492,12 +3492,12 @@ file-filter	Templates	템플릿
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	이미지를 {_3} × {_4}에서 축소한 {_1} × {_2}픽셀로 추적했습니다(최대 {_5}메가픽셀).
 @msg	the image's pixels can't be read	이미지의 픽셀을 읽을 수 없습니다
 @msg	the image's pixels don't match its size	이미지의 픽셀이 크기와 맞지 않습니다
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	지난번 VectorCraft 시작이 창이 나타나기 전에 {name}에서 끝나서 {summary}에서 시작했습니다. 이 그래픽 프로세서를 다시 시도하려면 환경 설정 › 성능 › 그래픽 프로세서를 변경하거나 WGPU_BACKEND를 설정하고 시작하세요
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	지난번 VectorCraft 시작이 그래픽 프로세서 목록을 가져오는 중에 끝나서 OpenGL만 사용해 {summary}에서 시작했습니다. 다른 그래픽 백엔드를 다시 시도하려면 환경 설정 › 성능 › 그래픽 프로세서를 변경하거나 WGPU_BACKEND를 설정하고 시작하세요
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	지난번 Iridium 시작이 창이 나타나기 전에 {name}에서 끝나서 {summary}에서 시작했습니다. 이 그래픽 프로세서를 다시 시도하려면 환경 설정 › 성능 › 그래픽 프로세서를 변경하거나 WGPU_BACKEND를 설정하고 시작하세요
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	지난번 Iridium 시작이 그래픽 프로세서 목록을 가져오는 중에 끝나서 OpenGL만 사용해 {summary}에서 시작했습니다. 다른 그래픽 백엔드를 다시 시도하려면 환경 설정 › 성능 › 그래픽 프로세서를 변경하거나 WGPU_BACKEND를 설정하고 시작하세요
 @msg	the layer has no objects to clip by	레이어에 클리핑에 사용할 개체가 없습니다
 @msg	the layer or group is locked	레이어 또는 그룹이 잠겨 있습니다
 @msg	the layer to flatten into is hidden	병합 대상 레이어가 숨겨져 있습니다
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	저장 패널의 이름은 “{typed}”였고, VectorCraft가 파일 형식의 확장자를 붙였습니다. 파일을 바꾸면 내용을 덮어씁니다.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	저장 패널의 이름은 “{typed}”였고, Iridium가 파일 형식의 확장자를 붙였습니다. 파일을 바꾸면 내용을 덮어씁니다.
 @msg	the object already has an opacity mask	개체에 이미 불투명 마스크가 있습니다
 @msg	the object has no geometry	개체에 형상 정보가 없습니다
 @msg	the object has no opacity mask	개체에 불투명 마스크가 없습니다
@@ -3561,7 +3561,7 @@ file-filter	Templates	템플릿
 	This library is empty.	이 라이브러리는 비어 있습니다.
 	This panel is on the roadmap (see the parity plan).	이 패널은 개발 로드맵에 있습니다(동등성 계획 참조).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	이 PostScript 파일을 읽을 수 없습니다({why}): 만든 앱에서 PDF나 SVG로 저장하세요
-@msg	This shortcut file is in a form VectorCraft can't read.	이 단축키 파일은 VectorCraft가 읽을 수 없는 형식입니다.
+@msg	This shortcut file is in a form Iridium can't read.	이 단축키 파일은 Iridium가 읽을 수 없는 형식입니다.
 	This system has no screen color sampler	이 시스템에는 화면 색상 추출기가 없습니다
 @msg	this system has no screen color sampler	이 시스템에는 화면 색상 추출기가 없습니다
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	이 추적은 앵커 포인트가 {max}개를 넘게 만들어 문서가 매끄럽게 표시할 수 있는 한도를 넘습니다: 노이즈를 높이거나 패스 또는 색상 수를 낮추거나 정밀도가 낮은 프리셋을 선택하세요
@@ -3813,18 +3813,18 @@ diagnostics	ui	UI
 	Vector Halftone	벡터 하프톤
 	Vector Halftone…	벡터 하프톤…
 	Vector illustration — fast, open, scriptable.	벡터 일러스트레이션 — 빠르고 개방적이며 스크립트 지원.
-	VectorCraft copies the fonts to {folder}.	VectorCraft가 글꼴을 {folder}에 복사합니다.
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft가 지난번에 정상적으로 종료되지 않았습니다. 다음 문서에 저장되지 않은 변경 사항이 있었습니다:
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft 문서: 잠긴 개체 하나로, 파일이 바뀌면 업데이트됩니다.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft는 다른 앱이나 시스템의 폴더를 검색하지 않습니다: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft는 사용자 폴더의 공유 또는 공용 폴더를 검색하지 않습니다: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft를 시작하지 못했습니다: {e}
-	VectorCraft Help…	VectorCraft 도움말…
-	VectorCraft on getartcraft.com	getartcraft.com의 VectorCraft
-	VectorCraft on GitHub	GitHub의 VectorCraft
-	VectorCraft read this script without running it.	VectorCraft가 이 스크립트를 실행하지 않고 읽었습니다.
-file-filter	VectorCraft Template	VectorCraft 템플릿
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	여기에는 VectorCraft의 글꼴 폴더가 설정되어 있지 않습니다: 데스크톱 앱과 vectorcraft-cli가 설정합니다
+	Iridium copies the fonts to {folder}.	Iridium가 글꼴을 {folder}에 복사합니다.
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium가 지난번에 정상적으로 종료되지 않았습니다. 다음 문서에 저장되지 않은 변경 사항이 있었습니다:
+	Iridium documents: one locked object, updated when the file changes.	Iridium 문서: 잠긴 개체 하나로, 파일이 바뀌면 업데이트됩니다.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium는 다른 앱이나 시스템의 폴더를 검색하지 않습니다: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium는 사용자 폴더의 공유 또는 공용 폴더를 검색하지 않습니다: {path}
+@msg	Iridium failed to start: {e}	Iridium를 시작하지 못했습니다: {e}
+	Iridium Help…	Iridium 도움말…
+	Iridium on getartcraft.com	getartcraft.com의 Iridium
+	Iridium on GitHub	GitHub의 Iridium
+	Iridium read this script without running it.	Iridium가 이 스크립트를 실행하지 않고 읽었습니다.
+file-filter	Iridium Template	Iridium 템플릿
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	여기에는 Iridium의 글꼴 폴더가 설정되어 있지 않습니다: 데스크톱 앱과 vectorcraft-cli가 설정합니다
 	Vectors	벡터
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	버전 {0} 파일은 압축할 수 없습니다: 버전 {COMPRESSED_SINCE} 이상만 압축 파일을 엽니다
 	Version {version} — open-source vector illustration in pure Rust.	버전 {version} — 순수 Rust로 만든 오픈 소스 벡터 일러스트레이션.
@@ -3862,7 +3862,7 @@ effect	Vertical	세로
 	Web Shift	웹 이동
 	Web Snap:	웹 스냅:
 	Weight:	두께:
-	Welcome to VectorCraft	VectorCraft에 오신 것을 환영합니다
+	Welcome to Iridium	Iridium에 오신 것을 환영합니다
 	When pasting text	텍스트를 붙여넣을 때
 	Widget Position:	위젯 위치:
 @msg	width and height are at least 1 pixel	너비와 높이는 1픽셀 이상이어야 합니다

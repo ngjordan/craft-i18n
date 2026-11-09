@@ -1,4 +1,4 @@
-# Ελληνικά (el) interface catalog for VectorCraft.
+# Ελληνικά (el) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -131,7 +131,7 @@
 	[Press Quality]	[Ποιότητα τυπογραφείου]
 	[Smallest File Size]	[Ελάχιστο μέγεθος αρχείου]
 	[Unnamed]	[Χωρίς όνομα]
-	[VectorCraft Default]	[Προεπιλογή VectorCraft]
+	[Iridium Default]	[Προεπιλογή Iridium]
 @msg	`aspect` must be a number (%)	Το `aspect` πρέπει να είναι αριθμός (%)
 @msg	`at` must be [x, y]	Το `at` πρέπει να είναι [x, y]
 @msg	`color` must be a colour	Το `color` πρέπει να είναι χρώμα
@@ -225,7 +225,7 @@
 	A4	A4
 	A5	A5
 	A6	A6
-	About VectorCraft	Σχετικά με το VectorCraft
+	About Iridium	Σχετικά με το Iridium
 	above	παραπάνω
 	Above Text	Πάνω από το κείμενο
 	Absolute Position	Απόλυτη θέση
@@ -317,7 +317,7 @@ file-filter	All readable files	Όλα τα αναγνώσιμα αρχεία
 	Amber	Κεχριμπαρί
 	Ambient Light	Φωτισμός περιβάλλοντος
 @msg	an image of {w} × {h} pixels is too large to draw	Η εικόνα {w} × {h} εικονοστοιχείων είναι υπερβολικά μεγάλη για σχεδίαση
-@msg	an image VectorCraft can't read was left out	παραλείφθηκε εικόνα που δεν μπορεί να διαβάσει το VectorCraft
+@msg	an image Iridium can't read was left out	παραλείφθηκε εικόνα που δεν μπορεί να διαβάσει το Iridium
 @msg	an image whose data is cut short was left out	παραλείφθηκε εικόνα με περικομμένα δεδομένα
 @msg	an object can't be read	δεν είναι δυνατή η ανάγνωση αντικειμένου
 @msg	an object in perspective would leave the edited grid	ένα αντικείμενο προοπτικής θα βρισκόταν εκτός του επεξεργαζόμενου πλέγματος
@@ -348,7 +348,7 @@ file-filter	All readable files	Όλα τα αναγνώσιμα αρχεία
 	Appearance of Black	Απεικόνιση του μαύρου
 	Appearance Panel	Πίνακας εμφάνισης
 	Appearance panel	Πίνακας εμφάνισης
-	Applies the next time VectorCraft starts.	Εφαρμόζεται στην επόμενη εκκίνηση του VectorCraft.
+	Applies the next time Iridium starts.	Εφαρμόζεται στην επόμενη εκκίνηση του Iridium.
 	Applies when the linked file is relinked or updated.	Εφαρμόζεται όταν το συνδεδεμένο αρχείο επανασυνδέεται ή ενημερώνεται.
 	Apply Brush	Εφαρμογή πινέλου
 	Apply Effect	Εφαρμογή εφέ
@@ -553,7 +553,7 @@ axis	Both	Και τα δύο
 @msg	can't parse shortcut `{c}`	δεν είναι δυνατή η ανάλυση της συντόμευσης `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	δεν είναι δυνατή η ανάλυση της συντόμευσης `{s}` για `{k}`
 	Can't print these settings: see the Summary	Δεν είναι δυνατή η εκτύπωση με αυτές τις ρυθμίσεις: δείτε τη σύνοψη
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	δεν είναι δυνατή η αποθήκευση της έκδοσης {0}: το VectorCraft γράφει εκδόσεις από {MIN_VERSION} έως {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	δεν είναι δυνατή η αποθήκευση της έκδοσης {0}: το Iridium γράφει εκδόσεις από {MIN_VERSION} έως {VERSION}
 	Can't save “{name}”.	Δεν είναι δυνατή η αποθήκευση του «{name}».
 @msg	can't write .{ext} images	δεν είναι δυνατή η εγγραφή εικόνων .{ext}
 	Cancel Export	Ακύρωση εξαγωγής
@@ -986,7 +986,7 @@ axis	Both	Και τα δύο
 	Dialog	Παράθυρο διαλόγου
 	Diamond (open)	Ρόμβος (ανοιχτός)
 	Differences from [Default]:	Διαφορές από την [Προεπιλογή]:
-	Differences from VectorCraft Default:	Διαφορές από τις προεπιλογές VectorCraft:
+	Differences from Iridium Default:	Διαφορές από τις προεπιλογές Iridium:
 	Differences from {preset}:	Διαφορές από την προεπιλογή {preset}:
 	Diffuse Glow…	Διάχυτη λάμψη…
 	Dim Copies to:	Μείωση φωτεινότητας αντιγράφων σε:
@@ -1127,7 +1127,7 @@ axis	Both	Και τα δύο
 	DXF Options Dialog	Παράθυρο επιλογών DXF
 	e.g. 1-3, 5	π.χ. 1-3, 5
 	Each Design Represents:	Κάθε σχέδιο αντιστοιχεί σε:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Κάθε καταχώριση του αρχείου αντιστοιχίζεται σε εργαλείο, εντολή ή πίνακα του VectorCraft. Ελέγξτε τις αντιστοιχίσεις και συμπληρώστε όσα απομένουν.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Κάθε καταχώριση του αρχείου αντιστοιχίζεται σε εργαλείο, εντολή ή πίνακα του Iridium. Ελέγξτε τις αντιστοιχίσεις και συμπληρώστε όσα απομένουν.
 	Each page prints as one image, at the document's raster effects resolution.	Κάθε σελίδα εκτυπώνεται ως μία εικόνα, στην ανάλυση εφέ ράστερ του εγγράφου.
 	Earth Tones	Γήινοι τόνοι
 	East Asian Type	Κείμενο Ανατολικής Ασίας
@@ -1333,7 +1333,7 @@ axis	Both	Και τα δύο
 	File Info Dialog	Παράθυρο πληροφοριών αρχείου
 	File Name:	Όνομα αρχείου:
 	File or URL:	Αρχείο ή διεύθυνση URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	η έκδοση αρχείου {0} είναι νεότερη από αυτήν που υποστηρίζει το VectorCraft ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	η έκδοση αρχείου {0} είναι νεότερη από αυτήν που υποστηρίζει το Iridium ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Το Αρχείο › Τοποθέτηση… εισάγει εικόνα, συνδεδεμένη ή ενσωματωμένη.
 	Files of a PDF standard can't be password-protected.	Τα αρχεία αυτού του προτύπου PDF δεν μπορούν να προστατεύονται με κωδικό.
 	Files of this standard tag their colours with ICC profiles.	Τα αρχεία αυτού του προτύπου χαρακτηρίζουν τα χρώματά τους με προφίλ ICC.
@@ -1583,7 +1583,7 @@ file-filter	Flattener presets	Προεπιλογές ισοπέδωσης
 	Hide Thumbnail	Απόκρυψη μικρογραφίας
 	Hide Thumbnails	Απόκρυψη μικρογραφιών
 	Hide Transparency Grid	Απόκρυψη πλέγματος διαφάνειας
-	Hide VectorCraft	Απόκρυψη VectorCraft
+	Hide Iridium	Απόκρυψη Iridium
 	High (300 ppi)	Υψηλή (300 ppi)
 	High Contrast	Υψηλή αντίθεση
 	High Contrast 2	Υψηλή αντίθεση 2
@@ -1672,7 +1672,7 @@ effect	Horizontal	Οριζόντιο
 	In Tangent Handles	Λαβές εφαπτομένης εισόδου
 	In the File	Στο αρχείο
 	In the selected objects	Στα επιλεγμένα αντικείμενα
-	In VectorCraft	Στο VectorCraft
+	In Iridium	Στο Iridium
 	Include all profiles	Συμπερίληψη όλων των προφίλ
 	Include Blacks with CMY:	Συμπερίληψη μαύρων με CMY:
 	Include Bleed	Συμπερίληψη ξακρίσματος
@@ -1733,7 +1733,7 @@ effect	Horizontal	Οριζόντιο
 	Invert Colors	Αντιστροφή χρωμάτων
 	Invert Pie	Αντιστροφή κυκλικού τομέα
 	Inverted Round	Αντεστραμμένο στρογγύλεμα
-@msg	is not an image VectorCraft reads	δεν είναι μορφή εικόνας που μπορεί να διαβάσει το VectorCraft
+@msg	is not an image Iridium reads	δεν είναι μορφή εικόνας που μπορεί να διαβάσει το Iridium
 	Isolate Blending	Απομόνωση ανάμειξης
 	Isolate Group	Απομόνωση ομάδας
 	Isolate Selected Group	Απομόνωση επιλεγμένης ομάδας
@@ -1752,9 +1752,9 @@ effect	Horizontal	Οριζόντιο
 @msg	it has too many text objects	Περιέχει υπερβολικά πολλά αντικείμενα κειμένου
 @msg	it has too many values in a row	περιέχει υπερβολικά πολλές τιμές σε μία γραμμή
 @msg	it has too much text	Περιέχει υπερβολικά πολύ κείμενο
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	περιέχει {_1}, τα οποία το VectorCraft δεν μπορεί ακόμη να διαβάσει
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	χρησιμοποιεί το `{at}`, το οποίο δεν αναγνωρίζει ο αναγνώστης PostScript του VectorCraft
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	χρησιμοποιεί το `{at}`, το οποίο δεν αναγνωρίζει ο αναγνώστης PostScript του VectorCraft, στις διαδικασίες {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	περιέχει {_1}, τα οποία το Iridium δεν μπορεί ακόμη να διαβάσει
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	χρησιμοποιεί το `{at}`, το οποίο δεν αναγνωρίζει ο αναγνώστης PostScript του Iridium
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	χρησιμοποιεί το `{at}`, το οποίο δεν αναγνωρίζει ο αναγνώστης PostScript του Iridium, στις διαδικασίες {procs}
 @msg	its editing data doesn't say where its art is	τα δεδομένα επεξεργασίας του δεν προσδιορίζουν τη θέση του σχεδίου
 @msg	its editing data doesn't say where its artboard is	Τα δεδομένα επεξεργασίας δεν προσδιορίζουν τη θέση του πίνακα σχεδίασης
 @msg	its editing data has no layers	Τα δεδομένα επεξεργασίας δεν περιλαμβάνουν επίπεδα
@@ -1777,7 +1777,7 @@ mark-style	Japanese	Ιαπωνικά
 	JavaScript:	JavaScript:
 @msg	join needs open paths	η ένωση απαιτεί ανοιχτές διαδρομές
 	Join Our Discord	Ελάτε στο Discord μας
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Γίνετε μέλος της κοινότητας ArtCraft στο Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Γίνετε μέλος της κοινότητας Iridium στο Discord (discord.gg/artcraft)
 	Join the lines of each paragraph	Ένωση γραμμών κάθε παραγράφου
 	Join Tool	Ένωση (Join Tool)
 	Joins	Συνδέσεις
@@ -1797,7 +1797,7 @@ mark-style	Japanese	Ιαπωνικά
 	Keep the pasted color as a new swatch with a numbered name.	Διατήρηση του επικολλημένου χρώματος ως νέο δείγμα με αριθμημένο όνομα.
 	Keep this row's colors (exclude)	Διατήρηση των χρωμάτων αυτής της γραμμής (εξαίρεση)
 	Keep visible surfaces only when expanding	Διατήρηση μόνο ορατών επιφανειών κατά την ανάπτυξη
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Διατηρεί το έγγραφο επεξεργάσιμο: το VectorCraft ανοίγει ξανά το PDF χωρίς απώλειες. Για αρχεία που θα επεξεργαστείτε ξανά.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Διατηρεί το έγγραφο επεξεργάσιμο: το Iridium ανοίγει ξανά το PDF χωρίς απώλειες. Για αρχεία που θα επεξεργαστείτε ξανά.
 	Kerning (0 = Auto)	Διαγραμμάτωση (0 = Αυτόματο)
 	Key Color:	Βασικό χρώμα:
 	Keyboard Increment	Βήμα πληκτρολογίου
@@ -1935,7 +1935,7 @@ lighting	Light	Φως
 	Load Text into Clipboard	Φόρτωση κειμένου στο πρόχειρο
 	Load Texture…	Φόρτωση υφής…
 	Loaded Texture	Φορτωμένη υφή
-@msg	Loading VectorCraft…	Φόρτωση VectorCraft…
+@msg	Loading Iridium…	Φόρτωση Iridium…
 	Loads native code	Φορτώνει εγγενή κώδικα
 	Local Libraries	Τοπικές βιβλιοθήκες
 	Locate Object	Εντοπισμός αντικειμένου
@@ -2329,8 +2329,8 @@ lighting	Light	Φως
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	δεν είναι σύνολο συντομεύσεων: το κείμενο δεν αρχίζει με όνομα μετά από κάθετο και ανοιχτή αγκύλη
 @msg	not a stored central record	δεν είναι αποθηκευμένη κεντρική εγγραφή
 @msg	not a valid plug-in module: {0}	δεν είναι έγκυρη μονάδα προσθέτου: {0}
-@msg	not a VectorCraft file: {0}	δεν είναι αρχείο VectorCraft: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	δεν είναι σύνολο συντομεύσεων VectorCraft (λείπει το `overrides`)
+@msg	not a Iridium file: {0}	δεν είναι αρχείο Iridium: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	δεν είναι σύνολο συντομεύσεων Iridium (λείπει το `overrides`)
 @msg	not an EMF or WMF file	δεν είναι αρχείο EMF ή WMF
 	Not followed: outside the script's folder	Δεν ακολουθήθηκε: εκτός του φακέλου του σεναρίου
 	Not found	Δεν βρέθηκε
@@ -2478,7 +2478,7 @@ lighting	Light	Φως
 @msg	Opened with {_1} note(s): {_2}	Άνοιξε με {_1} σημειώσεις: {_2}
 	Opened with {} note(s): {}	Άνοιξε με {} σημειώσεις: {}
 @msg	Opened {url}	Άνοιξε το {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Κατά το άνοιγμα παραλείφθηκαν στοιχεία που το VectorCraft δεν μπορεί ακόμη να διαβάσει ({what}). Αν αντικαταστήσετε το αρχείο, θα χαθούν οριστικά. Αποθηκεύστε με άλλο όνομα για να τα διατηρήσετε.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Κατά το άνοιγμα παραλείφθηκαν στοιχεία που το Iridium δεν μπορεί ακόμη να διαβάσει ({what}). Αν αντικαταστήσετε το αρχείο, θα χαθούν οριστικά. Αποθηκεύστε με άλλο όνομα για να τα διατηρήσετε.
 	Opens files in other apps	Ανοίγει αρχεία σε άλλες εφαρμογές
 	Opens network connections	Ανοίγει συνδέσεις δικτύου
 	Optical Margin Alignment	Οπτική στοίχιση περιθωρίου
@@ -2553,8 +2553,8 @@ imageTrace	Outline	Περίγραμμα
 	Paragraph Style	Στυλ παραγράφου
 	Paragraph Style Options	Επιλογές στυλ παραγράφου
 	Paragraph Symbol	Σύμβολο παραγράφου
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Μέρος του ArtCraft. MIT ή Apache-2.0. Γραμματοσειρές: Source Sans 3, Inter, JetBrains Mono (OFL). Εικονίδια: Lucide (ISC) + VectorCraft.
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	Μέρος του ArtCraft. MIT ή Apache-2.0. Γραμματοσειρές: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Εικονίδια: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Μέρος του Iridium. MIT ή Apache-2.0. Γραμματοσειρές: Source Sans 3, Inter, JetBrains Mono (OFL). Εικονίδια: Lucide (ISC) + Iridium.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Μέρος του Iridium. MIT ή Apache-2.0. Γραμματοσειρές: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Εικονίδια: Lucide (ISC) + Iridium.
 	Paste Design	Επικόλληση σχεδίου
 	Paste in Back	Επικόλληση στο πίσω μέρος
 	Paste in Front	Επικόλληση στο μπροστινό μέρος
@@ -2772,7 +2772,7 @@ file-filter	Print presets	Προεπιλογές εκτύπωσης
 	Quality:	Ποιότητα:
 	Quarter Space	Τεταρτοδιάστημα
 	Quickly start a new file	Γρήγορη δημιουργία νέου αρχείου
-	Quit VectorCraft	Τερματισμός VectorCraft
+	Quit Iridium	Τερματισμός Iridium
 	Radar Graph Tool	Αραχνοειδές γράφημα (Radar Graph Tool)
 gradient-kind	Radial	Ακτινωτό
 	Radial Dividers:	Ακτινικά διαχωριστικά:
@@ -3553,7 +3553,7 @@ effect	Soft	Απαλό
 	Standard:	Τυπικό:
 	Star Tool	Αστέρι (Star Tool)
 	Start arrowhead	Αρχική αιχμή βέλους
-	Start from VectorCraft Defaults	Εκκίνηση από τις προεπιλογές του VectorCraft
+	Start from Iridium Defaults	Εκκίνηση από τις προεπιλογές του Iridium
 	Start Global Edit	Έναρξη καθολικής επεξεργασίας
 	Start Tile	Αρχικό πλακίδιο
 	Start:	Αρχή:
@@ -3704,7 +3704,7 @@ file-filter	Templates	Πρότυπα
 	The bounds of the visible art.	Τα όρια του ορατού σχεδίου.
 	The cell shows the type object's text as HTML.	Το κελί εμφανίζει το κείμενο του αντικειμένου ως HTML.
 @msg	the Color Picker is not open	ο επιλογέας χρώματος δεν είναι ανοιχτός
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	το αποσυμπιεσμένο αρχείο υπερβαίνει τα όρια ανάγνωσης του VectorCraft ({_1} MB ανά έγγραφο, {_2} MB ανά εικόνα)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	το αποσυμπιεσμένο αρχείο υπερβαίνει τα όρια ανάγνωσης του Iridium ({_1} MB ανά έγγραφο, {_2} MB ανά εικόνα)
 @msg	the compressed file unpacks to more than {_1} MB	το αποσυμπιεσμένο αρχείο υπερβαίνει τα {_1} MB
 	The dialog was closed before its file dialog answered	Το παράθυρο διαλόγου έκλεισε πριν ολοκληρωθεί το παράθυρο επιλογής αρχείου
 @msg	the document has never been saved	το έγγραφο δεν έχει αποθηκευτεί ποτέ
@@ -3734,7 +3734,7 @@ file-filter	Templates	Πρότυπα
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	τα επίπεδα του αρχείου δεν διαβάστηκαν από τα δεδομένα επεξεργασίας του ({_1}): προέρχονται από το τμήμα PDF του
 @msg	the file's preview header points outside the file	η κεφαλίδα προεπισκόπησης παραπέμπει εκτός αρχείου
 @msg	the files come to more than 1 GB: add fewer at a time	τα αρχεία ξεπερνούν το 1 GB: προσθέστε λιγότερα κάθε φορά
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Ο αρχικός επεξεργαστής γραφικών δεν μπόρεσε να εμφανίσει το παράθυρο και το VectorCraft επανεκκίνησε στον {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Ο αρχικός επεξεργαστής γραφικών δεν μπόρεσε να εμφανίσει το παράθυρο και το Iridium επανεκκίνησε στον {summary}
 @msg	The graphics were lost and couldn't be restarted.	Η λειτουργία γραφικών διακόπηκε και δεν ήταν δυνατή η επανεκκίνησή της.
 @msg	The graphics were lost and have been restarted	Η λειτουργία γραφικών διακόπηκε και επανεκκινήθηκε
 @msg	the guide is on a hidden or locked layer	ο οδηγός βρίσκεται σε κρυφό ή κλειδωμένο επίπεδο
@@ -3745,12 +3745,12 @@ file-filter	Templates	Πρότυπα
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	Η εικόνα ανιχνεύτηκε σε {_1} × {_2} εικονοστοιχεία, σμικρυμένη από {_3} × {_4} (το πολύ {_5} megapixel).
 @msg	the image's pixels can't be read	τα εικονοστοιχεία της εικόνας δεν μπορούν να διαβαστούν
 @msg	the image's pixels don't match its size	τα εικονοστοιχεία της εικόνας δεν αντιστοιχούν στο μέγεθός της
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Η τελευταία εκκίνηση του VectorCraft τερματίστηκε στον {name} πριν εμφανιστεί το παράθυρο, οπότε ξεκίνησε στον {summary}. Για να δοκιμάσετε ξανά αυτόν τον επεξεργαστή γραφικών, αλλάξτε Προτιμήσεις › Επιδόσεις › Επεξεργαστής γραφικών ή ξεκινήστε με ορισμένη τη μεταβλητή WGPU_BACKEND
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Η τελευταία εκκίνηση του VectorCraft τερματίστηκε κατά την απαρίθμηση των επεξεργαστών γραφικών, οπότε ξεκίνησε στον {summary} μόνο με OpenGL. Για να δοκιμάσετε ξανά τα άλλα συστήματα γραφικών, αλλάξτε Προτιμήσεις › Επιδόσεις › Επεξεργαστής γραφικών ή ξεκινήστε με ορισμένη τη μεταβλητή WGPU_BACKEND
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Η τελευταία εκκίνηση του Iridium τερματίστηκε στον {name} πριν εμφανιστεί το παράθυρο, οπότε ξεκίνησε στον {summary}. Για να δοκιμάσετε ξανά αυτόν τον επεξεργαστή γραφικών, αλλάξτε Προτιμήσεις › Επιδόσεις › Επεξεργαστής γραφικών ή ξεκινήστε με ορισμένη τη μεταβλητή WGPU_BACKEND
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Η τελευταία εκκίνηση του Iridium τερματίστηκε κατά την απαρίθμηση των επεξεργαστών γραφικών, οπότε ξεκίνησε στον {summary} μόνο με OpenGL. Για να δοκιμάσετε ξανά τα άλλα συστήματα γραφικών, αλλάξτε Προτιμήσεις › Επιδόσεις › Επεξεργαστής γραφικών ή ξεκινήστε με ορισμένη τη μεταβλητή WGPU_BACKEND
 @msg	the layer has no objects to clip by	το επίπεδο δεν έχει αντικείμενα για αποκοπή
 @msg	the layer or group is locked	το επίπεδο ή η ομάδα είναι κλειδωμένα
 @msg	the layer to flatten into is hidden	το επίπεδο προορισμού ισοπέδωσης είναι κρυφό
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Το όνομα στο παράθυρο αποθήκευσης ήταν «{typed}» και το VectorCraft πρόσθεσε την επέκταση του τύπου αρχείου. Αν αντικαταστήσετε το αρχείο, τα περιεχόμενά του θα χαθούν.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Το όνομα στο παράθυρο αποθήκευσης ήταν «{typed}» και το Iridium πρόσθεσε την επέκταση του τύπου αρχείου. Αν αντικαταστήσετε το αρχείο, τα περιεχόμενά του θα χαθούν.
 @msg	the object already has an opacity mask	το αντικείμενο έχει ήδη μάσκα αδιαφάνειας
 @msg	the object has no geometry	το αντικείμενο δεν έχει γεωμετρία
 @msg	the object has no opacity mask	το αντικείμενο δεν έχει μάσκα αδιαφάνειας
@@ -3816,7 +3816,7 @@ file-filter	Templates	Πρότυπα
 	This library is empty.	Αυτή η βιβλιοθήκη είναι κενή.
 	This panel is on the roadmap (see the parity plan).	Αυτός ο πίνακας βρίσκεται στον προγραμματισμό ανάπτυξης (δείτε το σχέδιο κάλυψης λειτουργιών).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	το αρχείο PostScript δεν μπορεί να διαβαστεί ({why}): αποθηκεύστε το ως PDF ή SVG στην εφαρμογή που το δημιούργησε
-@msg	This shortcut file is in a form VectorCraft can't read.	Αυτό το αρχείο συντομεύσεων έχει μορφή που δεν μπορεί να διαβάσει το VectorCraft.
+@msg	This shortcut file is in a form Iridium can't read.	Αυτό το αρχείο συντομεύσεων έχει μορφή που δεν μπορεί να διαβάσει το Iridium.
 	This system has no screen color sampler	Αυτό το σύστημα δεν έχει δειγματοληψία χρώματος από την οθόνη
 @msg	this system has no screen color sampler	αυτό το σύστημα δεν έχει δειγματοληψία χρώματος από την οθόνη
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	αυτή η διανυσματοποίηση θα δημιουργούσε πάνω από {max} σημεία αγκύρωσης, περισσότερα από όσα μπορεί να εμφανίσει ομαλά το έγγραφο: αυξήστε τον Θόρυβο, μειώστε τις Διαδρομές ή τα Χρώματα ή επιλέξτε προεπιλογή χαμηλότερης πιστότητας
@@ -4081,22 +4081,22 @@ diagnostics	ui	διεπαφή
 	Vector Halftone	Διανυσματικός ημιτονισμός
 	Vector Halftone…	Διανυσματικός ημιτονισμός…
 	Vector illustration — fast, open, scriptable.	Διανυσματική σχεδίαση — γρήγορη, ανοιχτή και αυτοματοποιήσιμη.
-	VectorCraft copies the fonts to {folder}.	Το VectorCraft αντιγράφει τις γραμματοσειρές στον φάκελο {folder}.
-	VectorCraft Default	Προεπιλογή VectorCraft
-	VectorCraft Defaults	Προεπιλογές VectorCraft
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	Το VectorCraft δεν τερματίστηκε κανονικά την προηγούμενη φορά. Τα ακόλουθα έγγραφα είχαν μη αποθηκευμένες αλλαγές:
-	VectorCraft documents: one locked object, updated when the file changes.	Έγγραφα VectorCraft: ένα κλειδωμένο αντικείμενο που ενημερώνεται όταν αλλάζει το αρχείο.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	Το VectorCraft δεν αναζητά στους φακέλους άλλων εφαρμογών ή του συστήματος: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	Το VectorCraft δεν αναζητά στους φακέλους Shared ή Public των Χρηστών: {path}
-@msg	VectorCraft failed to start: {e}	Η εκκίνηση του VectorCraft απέτυχε: {e}
-	VectorCraft Generic CMYK (SWOP-like)	Γενικό CMYK του VectorCraft (τύπου SWOP)
-	VectorCraft Help…	Βοήθεια VectorCraft…
-	VectorCraft on getartcraft.com	VectorCraft στο getartcraft.com
-	VectorCraft on GitHub	VectorCraft στο GitHub
-	VectorCraft read this script without running it.	Το VectorCraft διάβασε αυτό το σενάριο χωρίς να το εκτελέσει.
-	VectorCraft Swatches (.vcswatches)	Δείγματα χρωμάτων VectorCraft (.vcswatches)
-file-filter	VectorCraft Template	Πρότυπο VectorCraft
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	ο φάκελος γραμματοσειρών του VectorCraft δεν έχει καθοριστεί εδώ: τον ορίζουν η εφαρμογή υπολογιστή και το vectorcraft-cli
+	Iridium copies the fonts to {folder}.	Το Iridium αντιγράφει τις γραμματοσειρές στον φάκελο {folder}.
+	Iridium Default	Προεπιλογή Iridium
+	Iridium Defaults	Προεπιλογές Iridium
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Το Iridium δεν τερματίστηκε κανονικά την προηγούμενη φορά. Τα ακόλουθα έγγραφα είχαν μη αποθηκευμένες αλλαγές:
+	Iridium documents: one locked object, updated when the file changes.	Έγγραφα Iridium: ένα κλειδωμένο αντικείμενο που ενημερώνεται όταν αλλάζει το αρχείο.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Το Iridium δεν αναζητά στους φακέλους άλλων εφαρμογών ή του συστήματος: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Το Iridium δεν αναζητά στους φακέλους Shared ή Public των Χρηστών: {path}
+@msg	Iridium failed to start: {e}	Η εκκίνηση του Iridium απέτυχε: {e}
+	Iridium Generic CMYK (SWOP-like)	Γενικό CMYK του Iridium (τύπου SWOP)
+	Iridium Help…	Βοήθεια Iridium…
+	Iridium on getartcraft.com	Iridium στο getartcraft.com
+	Iridium on GitHub	Iridium στο GitHub
+	Iridium read this script without running it.	Το Iridium διάβασε αυτό το σενάριο χωρίς να το εκτελέσει.
+	Iridium Swatches (.vcswatches)	Δείγματα χρωμάτων Iridium (.vcswatches)
+file-filter	Iridium Template	Πρότυπο Iridium
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	ο φάκελος γραμματοσειρών του Iridium δεν έχει καθοριστεί εδώ: τον ορίζουν η εφαρμογή υπολογιστή και το vectorcraft-cli
 	Vectors	Διανύσματα
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	τα αρχεία έκδοσης {0} δεν μπορούν να συμπιεστούν: μόνο η έκδοση {COMPRESSED_SINCE} και νεότερες ανοίγουν συμπιεσμένα αρχεία
 	Version {version} — open-source vector illustration in pure Rust.	Έκδοση {version} — διανυσματική σχεδίαση ανοιχτού κώδικα εξ ολοκλήρου σε Rust.
@@ -4155,7 +4155,7 @@ effect	Vertical	Κατακόρυφο
 	Web Snap:	Προσκόλληση στον ιστό:
 	WebP	WebP
 	Weight:	Βάρος:
-	Welcome to VectorCraft	Καλώς ήρθατε στο VectorCraft
+	Welcome to Iridium	Καλώς ήρθατε στο Iridium
 	When pasting text	Κατά την επικόλληση κειμένου
 	Widget Position:	Θέση στοιχείου:
 @msg	width and height are at least 1 pixel	το πλάτος και το ύψος πρέπει να είναι τουλάχιστον 1 εικονοστοιχείο

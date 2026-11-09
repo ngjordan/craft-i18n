@@ -1,4 +1,4 @@
-# Deutsch (de) interface catalog for DeckCraft.
+# Deutsch (de) interface catalog for Decks.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -24,7 +24,7 @@
 	3-D	3D
 	3-D Format	3D-Format
 	3-D Rotation	3D-Drehung
-	About DeckCraft	Über DeckCraft
+	About Decks	Über Decks
 	Accept	Annehmen
 	Accept Revision	Änderung annehmen
 	Accept\nAll	Alle\nannehmen
@@ -164,9 +164,9 @@
 	Date & Time	Datum & Uhrzeit
 	Date &\nTime	Datum &\nUhrzeit
 	Date and time	Datum und Uhrzeit
-	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	DeckCraft hat keine Konten: Es gibt nichts, wofür Sie sich anmelden müssten, und Ihre Präsentationen bleiben auf Ihrem Gerät.
-	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft druckt über eine PDF-Datei: Sie wird heruntergeladen und kann aus Ihrem Browser oder PDF-Viewer gedruckt werden.
-	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft druckt über eine PDF-Datei: Sie öffnet sich in Ihrem PDF-Viewer, dort wählen Sie den Drucker.
+	Decks has no accounts: there is nothing to sign in to, and your presentations stay on your device.	Decks hat keine Konten: Es gibt nichts, wofür Sie sich anmelden müssten, und Ihre Präsentationen bleiben auf Ihrem Gerät.
+	Decks prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	Decks druckt über eine PDF-Datei: Sie wird heruntergeladen und kann aus Ihrem Browser oder PDF-Viewer gedruckt werden.
+	Decks prints through a PDF: it opens in your PDF viewer, where you choose the printer.	Decks druckt über eine PDF-Datei: Sie öffnet sich in Ihrem PDF-Viewer, dort wählen Sie den Drucker.
 	Decrease List Level	Listenebene verringern
 	Decrease {label}	{label} verringern
 	Default tab stops (in):	Standardtabstopps (Zoll):
@@ -315,7 +315,7 @@
 	Interface language:	Sprache der Benutzeroberfläche:
 	Interface size	Größe der Benutzeroberfläche
 	Join our community on Discord	Treten Sie unserer Community auf Discord bei
-	Join the ArtCraft community on Discord	Treten Sie der ArtCraft-Community auf Discord bei
+	Join the Iridium community on Discord	Treten Sie der Iridium-Community auf Discord bei
 	Justify low	Blocksatz unten
 	Keep source formatting	Ursprüngliche Formatierung beibehalten
 	Keeps the layout, fonts and pictures	Behält Layout, Schriftarten und Bilder bei
@@ -342,7 +342,7 @@
 	Merge Shapes	Formen zusammenführen
 	Merge\nCells	Zellen\nverbinden
 	Merge\nShapes	Formen\nzusammenführen
-	MIT OR Apache-2.0 · © 2026 ArtCraft Team and the DeckCraft contributors	MIT OR Apache-2.0 · © 2026 ArtCraft Team und die Mitwirkenden an DeckCraft
+	MIT OR Apache-2.0 · © 2026 Iridium Team and the Decks contributors	MIT OR Apache-2.0 · © 2026 Iridium Team und die Mitwirkenden an Decks
 	Month names and AM/PM are listed for English. Other languages list the numeric date and 24-hour time.	Monatsnamen und AM/PM werden für Englisch aufgeführt. Andere Sprachen zeigen das Datum als Zahl und die Uhrzeit im 24-Stunden-Format.
 	More Brightness	Mehr Helligkeit
 	More Colors… #	Weitere Farben… #

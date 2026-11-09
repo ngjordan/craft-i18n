@@ -1,4 +1,4 @@
-# Bahasa Indonesia (id) interface catalog for FilmCraft.
+# Bahasa Indonesia (id) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -60,7 +60,7 @@
 	59.94 fps Drop-Frame	59,94 fps Drop-Frame
 	59.94 fps Non Drop-Frame	59,94 fps Non Drop-Frame
 	A boxed label with a round pointer; move the label and the pointer follows.	Label berbingkai dengan penunjuk bulat; pindahkan label dan penunjuk akan mengikuti.
-	A clean-room, pure-Rust non-linear video editor. Part of the ArtCraft family.	Editor video non-linear clean-room berbahasa Rust murni. Bagian dari keluarga ArtCraft.
+	A clean-room, pure-Rust non-linear video editor. Part of the Iridium family.	Editor video non-linear clean-room berbahasa Rust murni. Bagian dari keluarga Iridium.
 	A cut sequence with transitions, effects and music	Sekuens yang sudah dipotong dengan transisi, efek, dan musik
 	A news-style line that crawls in from the right and leaves at the left.	Baris bergaya berita yang merayap masuk dari kanan dan keluar di kiri.
 	A rounded tag that fits its text, with a status dot.	Tag membulat yang menyesuaikan teksnya, dengan titik status.
@@ -69,7 +69,7 @@
 	AAC Audio 48 kHz 320 kbps	Audio AAC 48 kHz 320 kbps
 	AAF Export Settings	Pengaturan Ekspor AAF
 	AAF…	AAF…
-	About FilmCraft	Tentang FilmCraft
+	About Iridium	Tentang Iridium
 	Accent Color	Warna Aksen
 	Accessible color contrast	Kontras warna yang aksesibel
 	Action and Title Safe Areas	Area Aman Aksi dan Judul
@@ -466,7 +466,7 @@
 	Ch. {n}	Kan. {n}
 	Change Mask	Ubah Masker
 	Change to Color	Ubah ke Warna
-	Changes are copied in the background a moment after each edit. If FilmCraft quits unexpectedly, they are offered the next time it starts.	Perubahan disalin di latar belakang sesaat setelah setiap edit. Jika FilmCraft keluar secara tak terduga, perubahan itu ditawarkan saat FilmCraft dimulai berikutnya.
+	Changes are copied in the background a moment after each edit. If Iridium quits unexpectedly, they are offered the next time it starts.	Perubahan disalin di latar belakang sesaat setelah setiap edit. Jika Iridium keluar secara tak terduga, perubahan itu ditawarkan saat Iridium dimulai berikutnya.
 	Channel	Kanal
 	Channel Blur	Buram Kanal
 	Channel Format:	Format Kanal:
@@ -990,16 +990,16 @@
 	Film Dissolve (Legacy)	Larut Film (Lama)
 	Film Emulation	Emulasi Film
 	Film Roll	Gulungan Film
-	FilmCraft always composites in linear light	FilmCraft selalu mengomposit dalam cahaya linier
-	FilmCraft Graphics Template	Templat Grafis FilmCraft
-	FilmCraft Help…	Bantuan FilmCraft…
-	FilmCraft hit an error	FilmCraft mengalami galat
-	FilmCraft keeps the rest of the RAM free for other applications.	FilmCraft membiarkan sisa RAM bebas untuk aplikasi lain.
-	FilmCraft on getartcraft.com	FilmCraft di getartcraft.com
-	FilmCraft on GitHub	FilmCraft di GitHub
-	FilmCraft Project	Proyek FilmCraft
-	FilmCraft quit unexpectedly while “{name}” had unsaved changes.	FilmCraft keluar secara tak terduga saat “{name}” masih memiliki perubahan yang belum disimpan.
-	FilmCraft was closed while “{name}” had unsaved changes.	FilmCraft ditutup saat “{name}” masih memiliki perubahan yang belum disimpan.
+	Iridium always composites in linear light	Iridium selalu mengomposit dalam cahaya linier
+	Iridium Graphics Template	Templat Grafis Iridium
+	Iridium Help…	Bantuan Iridium…
+	Iridium hit an error	Iridium mengalami galat
+	Iridium keeps the rest of the RAM free for other applications.	Iridium membiarkan sisa RAM bebas untuk aplikasi lain.
+	Iridium on getartcraft.com	Iridium di getartcraft.com
+	Iridium on GitHub	Iridium di GitHub
+	Iridium Project	Proyek Iridium
+	Iridium quit unexpectedly while “{name}” had unsaved changes.	Iridium keluar secara tak terduga saat “{name}” masih memiliki perubahan yang belum disimpan.
+	Iridium was closed while “{name}” had unsaved changes.	Iridium ditutup saat “{name}” masih memiliki perubahan yang belum disimpan.
 	Filter and EQ	Filter dan EQ
 	Filter Frequency	Frekuensi Filter
 	Filter Resonance	Resonansi Filter
@@ -1194,7 +1194,7 @@
 	Hardware (AV1 has no software encoder)	Perangkat keras (AV1 tidak memiliki enkoder perangkat lunak)
 	Hardware (H.265 has no software encoder)	Perangkat keras (H.265 tidak memiliki enkoder perangkat lunak)
 	Hardware decoding	Dekode perangkat keras
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Dekode perangkat keras: Otomatis menggunakan dekoder video sistem (VideoToolbox di macOS, Media Foundation di Windows, VA-API atau NVDEC untuk H.264 dan HEVC di Linux) untuk stream yang didukungnya, dan dekoder FilmCraft sendiri untuk yang lainnya atau jika perangkat keras gagal. Media yang sudah terbuka tetap memakai dekodernya sampai dibuka ulang.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and Iridium's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Dekode perangkat keras: Otomatis menggunakan dekoder video sistem (VideoToolbox di macOS, Media Foundation di Windows, VA-API atau NVDEC untuk H.264 dan HEVC di Linux) untuk stream yang didukungnya, dan dekoder Iridium sendiri untuk yang lainnya atau jika perangkat keras gagal. Media yang sudah terbuka tetap memakai dekodernya sampai dibuka ulang.
 	HD Anamorphic 1080 (1.333)	HD Anamorfik 1080 (1.333)
 	HDR	HDR
 	HDR Graphics White (Nits)	Putih Grafis HDR (Nit)
@@ -1343,7 +1343,7 @@
 	Iris Round	Iris Bulat
 	Iris Shape	Bentuk Iris
 	JetBrains Mono	JetBrains Mono
-	Join the ArtCraft Discord (discord.gg/artcraft)	Gabung ke Discord ArtCraft (discord.gg/artcraft)
+	Join the Iridium Discord (discord.gg/artcraft)	Gabung ke Discord Iridium (discord.gg/artcraft)
 	Join Through Edits	Gabungkan Edit Tembus
 	JPEG	JPEG
 	JPEG Sequence	Urutan JPEG
@@ -1750,7 +1750,7 @@
 	No model credits were built into this copy.	Tidak ada kredit model yang disertakan dalam salinan ini.
 	No Motion	Tanpa Gerak
 	No multi-camera clip at the playhead	Tidak ada klip multi-kamera di kepala putar
-	No plugins are installed. Changes will take effect the next time you start FilmCraft.	Tidak ada plugin yang terpasang. Perubahan akan berlaku saat Anda memulai FilmCraft berikutnya.
+	No plugins are installed. Changes will take effect the next time you start Iridium.	Tidak ada plugin yang terpasang. Perubahan akan berlaku saat Anda memulai Iridium berikutnya.
 	No saved guide templates.	Tidak ada templat garis bantu tersimpan.
 	No Scroll	Tanpa Gulir
 	No templates match.	Tidak ada templat yang cocok.
@@ -1768,8 +1768,8 @@
 	not available in this session	tidak tersedia di sesi ini
 	Not matched yet	Belum dicocokkan
 	Not Now	Jangan Sekarang
-	Not supported by FilmCraft's encoders yet	Belum didukung oleh enkoder FilmCraft
-	Not supported in FilmCraft yet	Belum didukung di FilmCraft
+	Not supported by Iridium's encoders yet	Belum didukung oleh enkoder Iridium
+	Not supported in Iridium yet	Belum didukung di Iridium
 	Notch 1	Notch 1
 	Notch 2	Notch 2
 	Notch 3	Notch 3
@@ -2050,7 +2050,7 @@
 	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4) dengan kanal alfa, PCM 24-bit 48 kHz
 	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4), PCM 24-bit 48 kHz
 	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), PCM 24-bit 48 kHz
-	Quit FilmCraft	Keluar dari FilmCraft
+	Quit Iridium	Keluar dari Iridium
 	Radial Blur	Buram Radial
 	Radial Ramp	Gradasi Radial
 	Radial Wipe	Sapuan Radial
@@ -2250,7 +2250,7 @@
 	Save Preset	Simpan Preset
 	Save preset as:	Simpan preset sebagai:
 	Save Project	Simpan Proyek
-	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	Disimpan sebagai templat grafis FilmCraft (.fcgt) di folder templat Anda.
+	Saved as a Iridium graphics template (.fcgt) in your templates folder.	Disimpan sebagai templat grafis Iridium (.fcgt) di folder templat Anda.
 	Saved preset “{name}”	Preset “{name}” disimpan
 	Saved template {path}	Templat disimpan: {path}
 	Saves the view, columns, sort, thumbnail and font size.	Menyimpan tampilan, kolom, urutan, gambar mini, dan ukuran font.
@@ -2327,7 +2327,7 @@
 	Select to Segment End	Pilih sampai Akhir Segmen
 	Select to Segment Start	Pilih sampai Awal Segmen
 	Selected: {command}	Dipilih: {command}
-	Selection as FilmCraft Project…	Pilihan sebagai Proyek FilmCraft…
+	Selection as Iridium Project…	Pilihan sebagai Proyek Iridium…
 	Selection Follows Playhead	Pilihan Mengikuti Kepala Putar
 	Selection Order	Urutan Pilihan
 	Selection Tool	Alat Seleksi
@@ -2673,7 +2673,7 @@
 	Text to Speech	Teks ke Ucapan
 	TextPanel	TextPanel
 	The language changed but could not be saved: {e}	Bahasa telah diubah tetapi tidak dapat disimpan: {e}
-	The media cache holds render previews of unsaved projects and other files FilmCraft can recreate. Deleting them is always safe; FilmCraft rebuilds them as needed.	Cache media menyimpan pratinjau render dari proyek yang belum disimpan dan berkas lain yang dapat dibuat ulang oleh FilmCraft. Menghapusnya selalu aman; FilmCraft membangunnya kembali bila diperlukan.
+	The media cache holds render previews of unsaved projects and other files Iridium can recreate. Deleting them is always safe; Iridium rebuilds them as needed.	Cache media menyimpan pratinjau render dari proyek yang belum disimpan dan berkas lain yang dapat dibuat ulang oleh Iridium. Menghapusnya selalu aman; Iridium membangunnya kembali bila diperlukan.
 	The project had not been saved yet.	Proyek ini belum pernah disimpan.
 	The selected clips have different audio types. Assign one type to edit them together.	Klip terpilih memiliki jenis audio yang berbeda. Tetapkan satu jenis untuk mengeditnya bersama.
 	The sequence has no caption track.	Sekuens tidak memiliki trek takarir.

@@ -1,4 +1,4 @@
-# 简体中文 (zh-hans) interface catalog for ArtCraft Launcher.
+# 简体中文 (zh-hans) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	应用
 	Apps you hid	你隐藏的应用
 month	Apr	4月
 	Arch package (.pkg.tar.zst)	Arch 软件包 (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} 已可更新。
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · 有 {n} 个可用更新
-	ArtCraft on GitHub	ArtCraft 的 GitHub 主页
-	ArtCraft on {name}	ArtCraft 的 {name} 主页
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Iridium Launcher {version} 已可更新。
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · 有 {n} 个可用更新
+	Iridium on GitHub	Iridium 的 GitHub 主页
+	Iridium on {name}	Iridium 的 {name} 主页
 month	Aug	8月
 	Auto	跟随系统
 	Automatically download and install updates	自动下载并安装更新
@@ -121,8 +121,8 @@ filter	Installed	已安装
 	Installing…	正在安装…
 figcraft	Interface design and prototyping	界面设计与原型制作
 month	Jan	1月
-	Join the ArtCraft community on Discord	加入 Discord 上的 ArtCraft 社区
-	Join the ArtCraft Discord	加入 ArtCraft Discord 社区
+	Join the Iridium community on Discord	加入 Discord 上的 Iridium 社区
+	Join the Iridium Discord	加入 Iridium Discord 社区
 	Join the Discord	加入 Discord
 month	Jul	7月
 month	Jun	6月
@@ -139,7 +139,7 @@ column	Latest	最新版本
 	Learn more	了解更多
 	link	链接
 @id	linux.preferred_kind	新应用安装格式
-	Loading ArtCraft Launcher…	正在加载 ArtCraft Launcher…
+	Loading Iridium Launcher…	正在加载 Iridium Launcher…
 	Loading pictures…	正在加载图片…
 month	Mar	3月
 	Match system	跟随系统
@@ -163,7 +163,7 @@ month	Nov	11月
 month	Oct	10月
 	Offline	离线
 	Only when I ask	仅手动检查
-	Open ArtCraft Launcher to update.	打开 ArtCraft Launcher 进行更新。
+	Open Iridium Launcher to update.	打开 Iridium Launcher 进行更新。
 	Open on GitHub	在 GitHub 上打开
 	Open Source Tools for Creatives, Makers, and Builders	为创作者和开发者打造的开源工具
 designcraft	Page layout and publishing	页面排版与出版
@@ -174,8 +174,8 @@ lightcraft	Photo library and raw development	照片管理与 RAW 处理
 	Portable (.zip)	便携版 (.zip)
 deckcraft	Presentations and slide shows	演示文稿与幻灯片
 	Previous picture (←)	上一张（←）
-	Questions, ideas and news from the ArtCraft team	与 ArtCraft 团队交流问题、想法和动态
-	Quit ArtCraft Launcher	退出 ArtCraft Launcher
+	Questions, ideas and news from the Iridium team	与 Iridium 团队交流问题、想法和动态
+	Quit Iridium Launcher	退出 Iridium Launcher
 pdfcraft	Reading, organizing and protecting PDFs	PDF 阅读、整理和保护
 	Reconnecting…	正在重新连接…
 soundcraft	Recording, editing and mixing audio	音频录制、编辑与混音
@@ -196,10 +196,10 @@ column	Released	发布日期
 	Search apps	搜索应用
 month	Sep	9月
 @id	settings.open	设置
-@id	settings.quit	退出 ArtCraft Launcher
+@id	settings.quit	退出 Iridium Launcher
 	Show apps as a table	以表格显示应用
 	Show apps as cards	以卡片显示应用
-	Show ArtCraft Launcher	显示 ArtCraft Launcher
+	Show Iridium Launcher	显示 Iridium Launcher
 	Show in Explorer	在资源管理器中显示
 	Show in Files	在文件管理器中显示
 	Show in Finder	在访达中显示
@@ -211,7 +211,7 @@ month	Sep	9月
 @id	sort.status	状态
 @id	sort.suite	默认顺序
 gridcraft	Spreadsheets and data	电子表格与数据处理
-	Start ArtCraft Launcher when I log in	登录时启动 ArtCraft Launcher
+	Start Iridium Launcher when I log in	登录时启动 Iridium Launcher
 	Stop waiting; the update can be started again later	停止等待；稍后可重新开始更新
 	Suite order	默认顺序
 	System default	系统默认
@@ -224,7 +224,7 @@ gridcraft	Spreadsheets and data	电子表格与数据处理
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	未能获取更新说明（已达到 GitHub 请求上限）。可前往版本发布页面查看。
 @msg	this release has no AppImage for a custom install folder	此版本没有可用于自定义安装文件夹的 AppImage
 @id	tray.close_to_tray	关闭窗口后继续在系统托盘中运行
-@id	tray.login_item	登录时启动 ArtCraft Launcher
+@id	tray.login_item	登录时启动 Iridium Launcher
 @id	tray.show_on_current_desktop	在当前桌面显示窗口
 	Unhide App	取消隐藏应用
 	Uninstall	卸载
@@ -282,7 +282,7 @@ wordcraft	Writing and document design	写作与文档设计
 @plural	{n} day ago|{n} days ago	{n} 天前
 @plural	{n} h ago|{n} h ago	{n} 小时前
 @plural	{n} min ago|{n} min ago	{n} 分钟前
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} 已存在，且并非由 ArtCraft Launcher 安装
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} 已存在，且并非由 Iridium Launcher 安装
 	{path} already exists. Installing {name} will overwrite it.	{path} 已存在。安装 {name} 将覆盖它。
 	{version} installed → {latest} released	已安装 {version} → 最新 {latest}
 	⊞  Grid	⊞  网格

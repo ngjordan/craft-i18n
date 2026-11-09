@@ -1,4 +1,4 @@
-# 한국어 (ko) interface catalog for PhotoCraft.
+# 한국어 (ko) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -64,7 +64,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: PR {prs}개, 커밋 {commits}개, 줄 +{added} / −{deleted} (Δ {delta}), 바이너리 +{binAdded} / −{binDeleted}, {first} – {last}
 	A brush preset with this name already exists	이 이름의 브러시 사전 설정이 이미 있습니다
 	A save to {name} is still running; try again when it finishes	{name}에 저장하는 작업이 아직 진행 중입니다. 완료된 후 다시 시도하세요
-	About PhotoCraft	PhotoCraft 정보
+	About Iridium	Iridium 정보
 	Accept and Go to Conflict	적용 후 충돌 항목으로 이동
 	Action	액션
 	Action playback stopped	액션 재생이 중지되었습니다
@@ -123,7 +123,7 @@
 	Align {what}	{what} 정렬
 	Aligned	정렬됨
 	All Layers No Adjustments	모든 레이어(조정 제외)
-	All shortcuts reset to PhotoCraft defaults.	모든 단축키를 PhotoCraft 기본값으로 초기화했습니다.
+	All shortcuts reset to Iridium defaults.	모든 단축키를 Iridium 기본값으로 초기화했습니다.
 	All User Slices	모든 사용자 분할 영역
 	Allow agent control	에이전트 제어 허용
 	Allow Continue	계속 허용
@@ -703,7 +703,7 @@ cameraData	Date Taken	촬영 날짜
 	Default colours (D)	기본 색상 (D)
 	Default Features	기본 기능
 	Default Leaves	기본 잎
-	Default PhotoCraft Size	PhotoCraft 기본 크기
+	Default Iridium Size	Iridium 기본 크기
 	Default printer	기본 프린터
 	Default restored.	기본값을 복원했습니다.
 	Define	정의
@@ -1656,7 +1656,7 @@ cameraData	Model	모델
 	Optical	광학
 	Optimized	최적화
 	Option-click to define a source point to clone from	Option 키를 누른 채 클릭하여 복제 원본 지점 지정
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	또는 환경 설정 › 성능 › Linux 디스플레이 서버를 X11로 설정하면 PhotoCraft가 항상 XWayland에서 시작됩니다.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	또는 환경 설정 › 성능 › Linux 디스플레이 서버를 X11로 설정하면 Iridium가 항상 XWayland에서 시작됩니다.
 	Original Ratio	원본 비율
 	Ornaments	장식 문자
 	Other…	기타…
@@ -1727,16 +1727,16 @@ cameraData	Model	모델
 	Photo Filter	포토 필터
 	Photo Filter…	포토 필터…
 	Photocopy	복사
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	PhotoCraft 기본값
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft가 이 컴퓨터에서 다른 이미지 편집기의 키보드 단축키 세트 {set}을(를) 찾았습니다. 단축키 {n}개가 PhotoCraft와 다릅니다. 가져오시겠습니까?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft가 CPU로 이미지를 합성하고 있습니다. 창 표시에는 그래픽 어댑터를 계속 사용할 수 있습니다.
-	PhotoCraft Manages Colors	PhotoCraft에서 색상 관리
-	PhotoCraft on GitHub	GitHub의 PhotoCraft
-	PhotoCraft Website	PhotoCraft 웹사이트
-	PhotoCraft website	PhotoCraft 웹사이트
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — Rust로 작성된 오픈 소스 네이티브 이미지 편집기.
-	PhotoCraft — Screen Color Picker	PhotoCraft — 화면 색상 선택기
+	Iridium	Iridium
+	Iridium Defaults	Iridium 기본값
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium가 이 컴퓨터에서 다른 이미지 편집기의 키보드 단축키 세트 {set}을(를) 찾았습니다. 단축키 {n}개가 Iridium와 다릅니다. 가져오시겠습니까?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium가 CPU로 이미지를 합성하고 있습니다. 창 표시에는 그래픽 어댑터를 계속 사용할 수 있습니다.
+	Iridium Manages Colors	Iridium에서 색상 관리
+	Iridium on GitHub	GitHub의 Iridium
+	Iridium Website	Iridium 웹사이트
+	Iridium website	Iridium 웹사이트
+	Iridium — an open-source, native image editor written in Rust.	Iridium — Rust로 작성된 오픈 소스 네이티브 이미지 편집기.
+	Iridium — Screen Color Picker	Iridium — 화면 색상 선택기
 	Photography	사진
 	Photomerge	Photomerge
 	Photomerge…	Photomerge…
@@ -2406,7 +2406,7 @@ curves	Smooth	매끄럽게
 	The transform couldn't be applied.	변형을 적용할 수 없습니다.
 	There are too many sets: delete one first.	세트가 너무 많습니다. 먼저 하나를 삭제하세요.
 	There is no crop size or ratio to save	저장할 자르기 크기나 비율이 없습니다
-	These settings aren't available in PhotoCraft yet.	이 설정은 아직 PhotoCraft에서 사용할 수 없습니다.
+	These settings aren't available in Iridium yet.	이 설정은 아직 Iridium에서 사용할 수 없습니다.
 	Thin	매우 가늘게
 fontWeight	Thin	아주 가늘게
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	이 문서의 레이어에 {needed}가 필요하지만 {budget}만 사용할 수 있습니다: 문서 전체 다시 그리기는 CPU를 사용합니다
@@ -2430,7 +2430,7 @@ fontWeight	Thin	아주 가늘게
 	Tiny Lens	소형 렌즈
 	Titling Alternates	제목용 대체 글리프
 	To Center	중심 방향
-	To drop files, start PhotoCraft under XWayland: `{command}`	파일을 끌어다 놓으려면 XWayland에서 PhotoCraft를 실행하세요: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	파일을 끌어다 놓으려면 XWayland에서 Iridium를 실행하세요: `{command}`
 	Toggle count group visibility	계수 그룹 표시 여부 전환
 	Toggle Last State	이전 상태 전환
 	Toggle text orientation	텍스트 방향 전환
@@ -2637,11 +2637,11 @@ fontWeight	Thin	아주 가늘게
 	{name} Properties	{name} 속성
 	{name} was changed by another app after it was opened or saved here.	{name}이(가) 여기서 열거나 저장한 뒤 다른 앱에서 변경되었습니다.
 @plural	{n} action|{n} actions	액션 {n}개
-	{n} commands are not in PhotoCraft.	명령 {n}개는 PhotoCraft에 없습니다.
+	{n} commands are not in Iridium.	명령 {n}개는 Iridium에 없습니다.
 @plural	{n} layer|{n} layers	레이어 {n}개
 	{n} of {max} sample points	{max}개 중 {n}개의 샘플 지점
 @plural	{n} sample|{n} samples	샘플 {n}개
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n}개 단계에는 아직 PhotoCraft에 해당하는 기능이 없습니다
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n}개 단계에는 아직 Iridium에 해당하는 기능이 없습니다
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Photoshop에 해당하는 기능이 없는 {n}개 단계를 제외했습니다
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: 경로가 올바른 유니코드가 아닙니다. 파일 이름을 바꾼 뒤 다시 여세요.
 	{set} (modified)	{set}(수정됨)

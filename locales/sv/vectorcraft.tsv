@@ -1,4 +1,4 @@
-# Svenska (sv) interface catalog for VectorCraft.
+# Svenska (sv) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -130,7 +130,7 @@
 	[Press Quality]	[Tryckkvalitet]
 	[Smallest File Size]	[Minsta filstorlek]
 	[Unnamed]	[Namnlös]
-	[VectorCraft Default]	[VectorCraft-standard]
+	[Iridium Default]	[Iridium-standard]
 @msg	`aspect` must be a number (%)	`aspect` måste vara ett tal (%)
 @msg	`at` must be [x, y]	`at` måste vara [x, y]
 @msg	`color` must be a colour	`color` måste vara en färg
@@ -224,7 +224,7 @@
 	A4	A4
 	A5	A5
 	A6	A6
-	About VectorCraft	Om VectorCraft
+	About Iridium	Om Iridium
 	above	ovanför
 	Above Text	Ovanför text
 	Absolute Position	Absolut position
@@ -315,7 +315,7 @@ file-filter	All readable files	Alla läsbara filer
 	Amber	Bärnsten
 	Ambient Light	Omgivande ljus
 @msg	an image of {w} × {h} pixels is too large to draw	en bild på {w} × {h} pixlar är för stor för att ritas
-@msg	an image VectorCraft can't read was left out	en bild som VectorCraft inte kan läsa utelämnades
+@msg	an image Iridium can't read was left out	en bild som Iridium inte kan läsa utelämnades
 @msg	an image whose data is cut short was left out	en bild med avkortade data utelämnades
 @msg	an object can't be read	ett objekt kan inte läsas
 @msg	an object in perspective would leave the edited grid	ett objekt i perspektiv skulle hamna utanför det redigerade rutnätet
@@ -346,7 +346,7 @@ file-filter	All readable files	Alla läsbara filer
 	Appearance of Black	Utseende för svart
 	Appearance Panel	Utseendepanel
 	Appearance panel	Utseendepanelen
-	Applies the next time VectorCraft starts.	Gäller nästa gång VectorCraft startas.
+	Applies the next time Iridium starts.	Gäller nästa gång Iridium startas.
 	Applies when the linked file is relinked or updated.	Gäller när den länkade filen länkas om eller uppdateras.
 	Apply Brush	Använd pensel
 	Apply Effect	Använd effekt
@@ -553,7 +553,7 @@ axis	Both	Båda
 @msg	can't parse shortcut `{c}`	kan inte tolka kortkommandot `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	kan inte tolka kortkommandot `{s}` för `{k}`
 	Can't print these settings: see the Summary	Det går inte att skriva ut med de här inställningarna: se Sammanfattning
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	kan inte spara version {0}: VectorCraft skriver version {MIN_VERSION} till {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	kan inte spara version {0}: Iridium skriver version {MIN_VERSION} till {VERSION}
 	Can't save “{name}”.	Det går inte att spara ”{name}”.
 @msg	can't write .{ext} images	kan inte skriva .{ext}-bilder
 	Cancel Export	Avbryt export
@@ -987,7 +987,7 @@ axis	Both	Båda
 	Dialog	Dialogruta
 	Diamond (open)	Romb (öppen)
 	Differences from [Default]:	Skillnader från [Standard]:
-	Differences from VectorCraft Default:	Skillnader från VectorCraft-standard:
+	Differences from Iridium Default:	Skillnader från Iridium-standard:
 	Differences from {preset}:	Skillnader från {preset}:
 	Diffuse Glow…	Diffus glöd…
 	Dim Copies to:	Dämpa kopior till:
@@ -1126,7 +1126,7 @@ axis	Both	Båda
 	DXF Options Dialog	Dialogruta för DXF-alternativ
 	e.g. 1-3, 5	t.ex. 1-3, 5
 	Each Design Represents:	Varje design motsvarar:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Varje post i filen matchas mot ett verktyg, kommando eller en panel i VectorCraft. Kontrollera matchningarna och besvara det som återstår.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Varje post i filen matchas mot ett verktyg, kommando eller en panel i Iridium. Kontrollera matchningarna och besvara det som återstår.
 	Each page prints as one image, at the document's raster effects resolution.	Varje sida skrivs ut som en bild, med dokumentets upplösning för rastereffekter.
 	Earth Tones	Jordtoner
 	East Asian Type	Östasiatisk text
@@ -1333,7 +1333,7 @@ axis	Both	Båda
 	File Info Dialog	Dialogrutan Filinformation
 	File Name:	Filnamn:
 	File or URL:	Fil eller URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	filversion {0} är nyare än vad denna version av VectorCraft stöder ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	filversion {0} är nyare än vad denna version av Iridium stöder ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Fil › Placera… hämtar in en bild, länkad eller inbäddad.
 	Files of a PDF standard can't be password-protected.	Filer enligt en PDF-standard kan inte lösenordsskyddas.
 	Files of this standard tag their colours with ICC profiles.	Filer enligt den här standarden märker sina färger med ICC-profiler.
@@ -1583,7 +1583,7 @@ file-filter	Flattener presets	Förinställningar för plattning
 	Hide Thumbnail	Dölj miniatyr
 	Hide Thumbnails	Dölj miniatyrer
 	Hide Transparency Grid	Dölj transparensrutnät
-	Hide VectorCraft	Göm VectorCraft
+	Hide Iridium	Göm Iridium
 	High (300 ppi)	Hög (300 ppi)
 	High Contrast	Hög kontrast
 	High Contrast 2	Hög kontrast 2
@@ -1672,7 +1672,7 @@ effect	Horizontal	Horisontell
 	In Tangent Handles	Inkommande tangenthandtag
 	In the File	I filen
 	In the selected objects	I de markerade objekten
-	In VectorCraft	I VectorCraft
+	In Iridium	I Iridium
 	Include all profiles	Inkludera alla profiler
 	Include Blacks with CMY:	Inkludera svart med CMY:
 	Include Bleed	Inkludera utfall
@@ -1733,7 +1733,7 @@ effect	Horizontal	Horisontell
 	Invert Colors	Invertera färger
 	Invert Pie	Invertera cirkeldiagram
 	Inverted Round	Inverterad rund
-@msg	is not an image VectorCraft reads	är inte en bild som VectorCraft kan läsa
+@msg	is not an image Iridium reads	är inte en bild som Iridium kan läsa
 	Isolate Blending	Isolera blandning
 	Isolate Group	Isolera grupp
 	Isolate Selected Group	Isolera markerad grupp
@@ -1752,9 +1752,9 @@ effect	Horizontal	Horisontell
 @msg	it has too many text objects	den har för många textobjekt
 @msg	it has too many values in a row	den har för många värden på en rad
 @msg	it has too much text	den har för mycket text
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	den innehåller {_1}, som VectorCraft inte kan läsa från den än
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	den använder `{at}`, som VectorCrafts PostScript-läsare inte känner till
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	den använder `{at}`, som VectorCrafts PostScript-läsare inte känner till, i {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	den innehåller {_1}, som Iridium inte kan läsa från den än
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	den använder `{at}`, som Iridiums PostScript-läsare inte känner till
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	den använder `{at}`, som Iridiums PostScript-läsare inte känner till, i {procs}
 @msg	its editing data doesn't say where its art is	dess redigeringsdata anger inte var dess grafik finns
 @msg	its editing data doesn't say where its artboard is	dess redigeringsdata anger inte var dess rityta finns
 @msg	its editing data has no layers	dess redigeringsdata har inga lager
@@ -1777,7 +1777,7 @@ mark-style	Japanese	Japanska
 	JavaScript:	JavaScript:
 @msg	join needs open paths	foga samman kräver öppna banor
 	Join Our Discord	Gå med i vår Discord
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Gå med i ArtCraft-gemenskapen på Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Gå med i Iridium-gemenskapen på Discord (discord.gg/artcraft)
 	Join the lines of each paragraph	Foga samman raderna i varje stycke
 	Join Tool	Sammanfogningsverktyg
 	Joins	Hörn
@@ -1797,7 +1797,7 @@ mark-style	Japanese	Japanska
 	Keep the pasted color as a new swatch with a numbered name.	Behåll den inklistrade färgen som en ny färgruta med numrerat namn.
 	Keep this row's colors (exclude)	Behåll radens färger (undanta)
 	Keep visible surfaces only when expanding	Behåll endast synliga ytor vid expandering
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Håller dokumentet redigerbart: VectorCraft öppnar PDF-filen igen utan att något går förlorat. För filer du ska redigera igen.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Håller dokumentet redigerbart: Iridium öppnar PDF-filen igen utan att något går förlorat. För filer du ska redigera igen.
 	Kerning (0 = Auto)	Kerning (0 = auto)
 	Key Color:	Nyckelfärg:
 	Keyboard Increment	Tangentbordssteg
@@ -1936,7 +1936,7 @@ lighting	Light	Ljus
 	Load Text into Clipboard	Läs in text till urklipp
 	Load Texture…	Läs in textur…
 	Loaded Texture	Inläst textur
-@msg	Loading VectorCraft…	Läser in VectorCraft…
+@msg	Loading Iridium…	Läser in Iridium…
 	Loads native code	Läser in inbyggd kod
 	Local Libraries	Lokala bibliotek
 	Locate Object	Hitta objekt
@@ -2330,8 +2330,8 @@ lighting	Light	Ljus
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	inte en kortkommandouppsättning: texten börjar inte med ett namn med snedstreck och en öppnande klammerparentes
 @msg	not a stored central record	inte en lagrad central post
 @msg	not a valid plug-in module: {0}	inte en giltig insticksmodul: {0}
-@msg	not a VectorCraft file: {0}	inte en VectorCraft-fil: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	inte en kortkommandouppsättning för VectorCraft (`overrides` saknas)
+@msg	not a Iridium file: {0}	inte en Iridium-fil: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	inte en kortkommandouppsättning för Iridium (`overrides` saknas)
 @msg	not an EMF or WMF file	inte en EMF- eller WMF-fil
 	Not followed: outside the script's folder	Följdes inte: utanför skriptets mapp
 	Not found	Hittades inte
@@ -2479,7 +2479,7 @@ lighting	Light	Ljus
 @msg	Opened with {_1} note(s): {_2}	Öppnad med {_1} anteckning(ar): {_2}
 	Opened with {} note(s): {}	Öppnad med {} anteckning(ar): {}
 @msg	Opened {url}	Öppnade {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	När filen öppnades utelämnades det som VectorCraft inte kan läsa än ({what}), så om du ersätter den förloras det för gott. Spara under ett annat namn för att behålla det.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	När filen öppnades utelämnades det som Iridium inte kan läsa än ({what}), så om du ersätter den förloras det för gott. Spara under ett annat namn för att behålla det.
 	Opens files in other apps	Öppnar filer i andra appar
 	Opens network connections	Öppnar nätverksanslutningar
 	Optical Margin Alignment	Optisk marginaljustering
@@ -2553,8 +2553,8 @@ imageTrace	Outline	Disposition
 	Paragraph Style	Styckestil
 	Paragraph Style Options	Alternativ för styckestil
 	Paragraph Symbol	Styckesymbol
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Del av ArtCraft. MIT OR Apache-2.0. Typsnitt: Source Sans 3, Inter, JetBrains Mono (OFL). Ikoner: Lucide (ISC) + VectorCraft.
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	Del av ArtCraft. MIT OR Apache-2.0. Typsnitt: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikoner: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Del av Iridium. MIT OR Apache-2.0. Typsnitt: Source Sans 3, Inter, JetBrains Mono (OFL). Ikoner: Lucide (ISC) + Iridium.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Del av Iridium. MIT OR Apache-2.0. Typsnitt: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikoner: Lucide (ISC) + Iridium.
 	Paste Design	Klistra in design
 	Paste in Back	Klistra in bakom
 	Paste in Front	Klistra in framför
@@ -2771,7 +2771,7 @@ file-filter	Print presets	Utskriftsförinställningar
 	Quality:	Kvalitet:
 	Quarter Space	Fjärdedels blanksteg
 	Quickly start a new file	Skapa snabbt en ny fil
-	Quit VectorCraft	Avsluta VectorCraft
+	Quit Iridium	Avsluta Iridium
 	Radar Graph Tool	Verktyget Radardiagram
 gradient-kind	Radial	Radiell
 	Radial Dividers:	Radiella avdelare:
@@ -3554,7 +3554,7 @@ effect	Soft	Mjuk
 	Standard:	Standard:
 	Star Tool	Stjärnverktyg
 	Start arrowhead	Startpilspets
-	Start from VectorCraft Defaults	Utgå från standardvärdena i VectorCraft
+	Start from Iridium Defaults	Utgå från standardvärdena i Iridium
 	Start Global Edit	Starta global redigering
 	Start Tile	Startruta
 	Start:	Start:
@@ -3705,7 +3705,7 @@ file-filter	Templates	Mallar
 	The bounds of the visible art.	Gränserna för den synliga grafiken.
 	The cell shows the type object's text as HTML.	Cellen visar textobjektets text som HTML.
 @msg	the Color Picker is not open	färgväljaren är inte öppen
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	den komprimerade filen packas upp till mer än VectorCraft läser ({_1} MB dokument, {_2} MB per bild)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	den komprimerade filen packas upp till mer än Iridium läser ({_1} MB dokument, {_2} MB per bild)
 @msg	the compressed file unpacks to more than {_1} MB	den komprimerade filen packas upp till mer än {_1} MB
 	The dialog was closed before its file dialog answered	Dialogrutan stängdes innan dess fildialogruta svarade
 @msg	the document has never been saved	dokumentet har aldrig sparats
@@ -3735,7 +3735,7 @@ file-filter	Templates	Mallar
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	filens lager lästes inte från dess redigeringsdata ({_1}): de kommer från dess PDF-del
 @msg	the file's preview header points outside the file	filens förhandsgranskningshuvud pekar utanför filen
 @msg	the files come to more than 1 GB: add fewer at a time	filerna blir större än 1 GB: lägg till färre åt gången
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Grafikprocessorn som prövades först kunde inte visa fönstret, så VectorCraft startade om med {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Grafikprocessorn som prövades först kunde inte visa fönstret, så Iridium startade om med {summary}
 @msg	The graphics were lost and couldn't be restarted.	Grafiken förlorades och kunde inte startas om.
 @msg	The graphics were lost and have been restarted	Grafiken förlorades och har startats om
 @msg	the guide is on a hidden or locked layer	stödlinjen ligger på ett dolt eller låst lager
@@ -3746,12 +3746,12 @@ file-filter	Templates	Mallar
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	Bilden vektoriserades vid {_1} × {_2} pixlar, nedskalad från {_3} × {_4} (högst {_5} megapixlar).
 @msg	the image's pixels can't be read	bildens pixlar kan inte läsas
 @msg	the image's pixels don't match its size	bildens pixlar stämmer inte med dess storlek
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Den senaste starten av VectorCraft avbröts på {name} innan fönstret visades, så det startade med {summary}. Om du vill prova den grafikprocessorn igen ändrar du Inställningar › Prestanda › Grafikprocessor eller startar med WGPU_BACKEND angiven
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Den senaste starten av VectorCraft avbröts medan grafikprocessorerna listades, så det startade med {summary} med enbart OpenGL. Om du vill prova de andra grafikgränssnitten igen ändrar du Inställningar › Prestanda › Grafikprocessor eller startar med WGPU_BACKEND angiven
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Den senaste starten av Iridium avbröts på {name} innan fönstret visades, så det startade med {summary}. Om du vill prova den grafikprocessorn igen ändrar du Inställningar › Prestanda › Grafikprocessor eller startar med WGPU_BACKEND angiven
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Den senaste starten av Iridium avbröts medan grafikprocessorerna listades, så det startade med {summary} med enbart OpenGL. Om du vill prova de andra grafikgränssnitten igen ändrar du Inställningar › Prestanda › Grafikprocessor eller startar med WGPU_BACKEND angiven
 @msg	the layer has no objects to clip by	lagret har inga objekt att klippa med
 @msg	the layer or group is locked	lagret eller gruppen är låst
 @msg	the layer to flatten into is hidden	lagret som ska plattas till i är dolt
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Namnet i sparpanelen var ”{typed}”, och VectorCraft lade till filtypens filändelse. Om du ersätter filen skrivs innehållet över.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Namnet i sparpanelen var ”{typed}”, och Iridium lade till filtypens filändelse. Om du ersätter filen skrivs innehållet över.
 @msg	the object already has an opacity mask	objektet har redan en opacitetsmask
 @msg	the object has no geometry	objektet saknar geometri
 @msg	the object has no opacity mask	objektet har ingen opacitetsmask
@@ -3817,7 +3817,7 @@ file-filter	Templates	Mallar
 	This library is empty.	Det här biblioteket är tomt.
 	This panel is on the roadmap (see the parity plan).	Den här panelen finns i färdplanen (se paritetsplanen).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	den här PostScript-filen kan inte läsas ({why}): spara den som PDF eller SVG i appen som skapade den
-@msg	This shortcut file is in a form VectorCraft can't read.	Den här kortkommandofilen har ett format som VectorCraft inte kan läsa.
+@msg	This shortcut file is in a form Iridium can't read.	Den här kortkommandofilen har ett format som Iridium inte kan läsa.
 	This system has no screen color sampler	Det här systemet saknar färghämtning från skärmen
 @msg	this system has no screen color sampler	det här systemet saknar färghämtning från skärmen
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	spårningen skulle ge fler än {max} ankarpunkter, fler än dokumentet kan visa smidigt: höj Brus, sänk Banor eller Färger, eller välj en förinställning med lägre återgivning
@@ -4084,22 +4084,22 @@ diagnostics	ui	gränssnitt
 	Vector Halftone	Vektorrastrering
 	Vector Halftone…	Vektorrastrering…
 	Vector illustration — fast, open, scriptable.	Vektorillustration – snabb, öppen, skriptbar.
-	VectorCraft copies the fonts to {folder}.	VectorCraft kopierar typsnitten till {folder}.
-	VectorCraft Default	VectorCraft-standard
-	VectorCraft Defaults	VectorCraft-standardvärden
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft avslutades inte normalt förra gången. De här dokumenten hade osparade ändringar:
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft-dokument: ett låst objekt som uppdateras när filen ändras.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft söker inte i andra appars eller systemets mappar: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft söker inte i mappen Shared eller Public under Users: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft kunde inte starta: {e}
-	VectorCraft Generic CMYK (SWOP-like)	VectorCraft allmän CMYK (SWOP-liknande)
-	VectorCraft Help…	VectorCraft-hjälp…
-	VectorCraft on getartcraft.com	VectorCraft på getartcraft.com
-	VectorCraft on GitHub	VectorCraft på GitHub
-	VectorCraft read this script without running it.	VectorCraft läste skriptet utan att köra det.
-	VectorCraft Swatches (.vcswatches)	VectorCraft-färgrutor (.vcswatches)
-file-filter	VectorCraft Template	VectorCraft-mall
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	VectorCrafts mapp Fonts anges inte här: den anges av skrivbordsappen och vectorcraft-cli
+	Iridium copies the fonts to {folder}.	Iridium kopierar typsnitten till {folder}.
+	Iridium Default	Iridium-standard
+	Iridium Defaults	Iridium-standardvärden
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium avslutades inte normalt förra gången. De här dokumenten hade osparade ändringar:
+	Iridium documents: one locked object, updated when the file changes.	Iridium-dokument: ett låst objekt som uppdateras när filen ändras.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium söker inte i andra appars eller systemets mappar: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium söker inte i mappen Shared eller Public under Users: {path}
+@msg	Iridium failed to start: {e}	Iridium kunde inte starta: {e}
+	Iridium Generic CMYK (SWOP-like)	Iridium allmän CMYK (SWOP-liknande)
+	Iridium Help…	Iridium-hjälp…
+	Iridium on getartcraft.com	Iridium på getartcraft.com
+	Iridium on GitHub	Iridium på GitHub
+	Iridium read this script without running it.	Iridium läste skriptet utan att köra det.
+	Iridium Swatches (.vcswatches)	Iridium-färgrutor (.vcswatches)
+file-filter	Iridium Template	Iridium-mall
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Iridiums mapp Fonts anges inte här: den anges av skrivbordsappen och vectorcraft-cli
 	Vectors	Vektorer
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	filer i version {0} kan inte komprimeras: endast version {COMPRESSED_SINCE} och senare kan öppna komprimerade filer
 	Version {version} — open-source vector illustration in pure Rust.	Version {version} – vektorillustration med öppen källkod i ren Rust.
@@ -4159,7 +4159,7 @@ effect	Vertical	Vertikal
 	Web Snap:	Fäst mot webbfärger:
 	WebP	WebP
 	Weight:	Tjocklek:
-	Welcome to VectorCraft	Välkommen till VectorCraft
+	Welcome to Iridium	Välkommen till Iridium
 	When pasting text	När text klistras in
 	Widget Position:	Widgetens position:
 @msg	width and height are at least 1 pixel	bredd och höjd är minst 1 pixel

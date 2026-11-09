@@ -1,4 +1,4 @@
-# Deutsch (de) interface catalog for ArtCraft Launcher.
+# Deutsch (de) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	App
 	Apps you hid	Apps, die du ausgeblendet hast
 month	Apr	Apr.
 	Arch package (.pkg.tar.zst)	Arch-Paket (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} ist verfügbar.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} Update verfügbar|ArtCraft Launcher · {n} Updates verfügbar
-	ArtCraft on GitHub	ArtCraft auf GitHub
-	ArtCraft on {name}	ArtCraft auf {name}
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Iridium Launcher {version} ist verfügbar.
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} Update verfügbar|Iridium Launcher · {n} Updates verfügbar
+	Iridium on GitHub	Iridium auf GitHub
+	Iridium on {name}	Iridium auf {name}
 month	Aug	Aug.
 	Automatically download and install updates	Updates automatisch herunterladen und installieren
 	Available to install	Installierbar
@@ -119,7 +119,7 @@ filter	Installed	Installiert
 	Installing…	Wird installiert…
 figcraft	Interface design and prototyping	Interface-Design und Prototyping
 month	Jan	Jan.
-	Join the ArtCraft community on Discord	Tritt der ArtCraft-Community auf Discord bei
+	Join the Iridium community on Discord	Tritt der Iridium-Community auf Discord bei
 	Join the Discord	Dem Discord beitreten
 month	Jul	Juli
 month	Jun	Juni
@@ -137,7 +137,7 @@ column	Latest	Neueste
 	Like {name}	Wie {name}
 	link	Link
 @id	linux.preferred_kind	Neue Apps installieren als
-	Loading ArtCraft Launcher…	ArtCraft Launcher wird geladen…
+	Loading Iridium Launcher…	Iridium Launcher wird geladen…
 	Loading pictures…	Bilder werden geladen…
 month	Mar	März
 	Match system	Wie das System
@@ -159,7 +159,7 @@ effectcraft	Motion graphics and visual effects	Motion Graphics und visuelle Effe
 month	Nov	Nov.
 month	Oct	Okt.
 	Only when I ask	Nur manuell
-	Open ArtCraft Launcher to update.	Öffne ArtCraft Launcher, um zu aktualisieren.
+	Open Iridium Launcher to update.	Öffne Iridium Launcher, um zu aktualisieren.
 	Open on GitHub	Auf GitHub öffnen
 	Open Source Tools for Creatives, Makers, and Builders	Open-Source-Werkzeuge für Kreative, Maker und Entwickler
 designcraft	Page layout and publishing	Seitenlayout und Publishing
@@ -170,8 +170,8 @@ lightcraft	Photo library and raw development	Fotobibliothek und RAW-Entwicklung
 	Portable (.zip)	Portable Version (.zip)
 deckcraft	Presentations and slide shows	Präsentationen und Diashows
 	Previous picture (←)	Vorheriges Bild (←)
-	Questions, ideas and news from the ArtCraft team	Fragen, Ideen und Neuigkeiten vom ArtCraft-Team
-	Quit ArtCraft Launcher	ArtCraft Launcher beenden
+	Questions, ideas and news from the Iridium team	Fragen, Ideen und Neuigkeiten vom Iridium-Team
+	Quit Iridium Launcher	Iridium Launcher beenden
 pdfcraft	Reading, organizing and protecting PDFs	PDFs lesen, ordnen und schützen
 	Reconnecting…	Neue Verbindung…
 soundcraft	Recording, editing and mixing audio	Audio aufnehmen, bearbeiten und mischen
@@ -191,10 +191,10 @@ column	Released	Datum
 	Search apps	Apps durchsuchen
 month	Sep	Sept.
 @id	settings.open	Einstellungen
-@id	settings.quit	ArtCraft Launcher beenden
+@id	settings.quit	Iridium Launcher beenden
 	Show apps as a table	Apps als Tabelle anzeigen
 	Show apps as cards	Apps als Karten anzeigen
-	Show ArtCraft Launcher	ArtCraft Launcher anzeigen
+	Show Iridium Launcher	Iridium Launcher anzeigen
 	Show in Explorer	Im Explorer zeigen
 	Show in Files	Im Dateimanager zeigen
 	Show in Finder	Im Finder zeigen
@@ -207,7 +207,7 @@ month	Sep	Sept.
 @id	sort.status	Status
 @id	sort.suite	Suite-Reihenfolge
 gridcraft	Spreadsheets and data	Tabellenkalkulation und Daten
-	Start ArtCraft Launcher when I log in	ArtCraft Launcher bei der Anmeldung starten
+	Start Iridium Launcher when I log in	Iridium Launcher bei der Anmeldung starten
 	Stop waiting; the update can be started again later	Nicht mehr warten; das Update kann später erneut gestartet werden
 	Suite order	Suite-Reihenfolge
 	System default	Systemstandard
@@ -220,7 +220,7 @@ gridcraft	Spreadsheets and data	Tabellenkalkulation und Daten
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	Diese Hinweise wurden nicht geladen (das Anfragelimit von GitHub ist erreicht). Sie stehen auf der Release-Seite.
 @msg	this release has no AppImage for a custom install folder	diese Veröffentlichung enthält kein AppImage für einen eigenen Installationsordner
 @id	tray.close_to_tray	Beim Schließen des Fensters im Infobereich weiterlaufen
-@id	tray.login_item	ArtCraft Launcher bei der Anmeldung starten
+@id	tray.login_item	Iridium Launcher bei der Anmeldung starten
 @id	tray.show_on_current_desktop	Fenster auf dem aktuellen Schreibtisch zeigen
 	Unhide App	App einblenden
 	Uninstall	Deinstallieren
@@ -278,7 +278,7 @@ wordcraft	Writing and document design	Schreiben und Dokumentgestaltung
 @plural	{n} day ago|{n} days ago	vor {n} Tag|vor {n} Tagen
 @plural	{n} h ago|{n} h ago	vor {n} Std.|vor {n} Std.
 @plural	{n} min ago|{n} min ago	vor {n} Min.|vor {n} Min.
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} existiert bereits und wurde nicht von ArtCraft Launcher installiert
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} existiert bereits und wurde nicht von Iridium Launcher installiert
 	{path} already exists. Installing {name} will overwrite it.	{path} existiert bereits. Die Installation von {name} überschreibt es.
 	{version} installed → {latest} released	{version} installiert → {latest} veröffentlicht
 	⊞  Grid	⊞  Raster

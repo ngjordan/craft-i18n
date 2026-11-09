@@ -1,4 +1,4 @@
-# Tiếng Việt (vi) interface catalog for VectorCraft.
+# Tiếng Việt (vi) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -192,7 +192,7 @@
 @msg	a stream's length is wrong	độ dài luồng dữ liệu sai
 @msg	a stream's length isn't a number	độ dài luồng dữ liệu không phải là số
 @msg	a swatch or color group named `{n}` exists	đã có mẫu màu hoặc nhóm màu tên `{n}`
-	About VectorCraft	Giới thiệu VectorCraft
+	About Iridium	Giới thiệu Iridium
 	above	phía trên
 	Above Text	Phía trên văn bản
 	Absolute Position	Vị trí tuyệt đối
@@ -278,7 +278,7 @@ file-filter	All readable files	Tất cả tệp đọc được
 	Amber	Hổ phách
 	Ambient Light	Ánh sáng môi trường
 @msg	an image of {w} × {h} pixels is too large to draw	ảnh {w} × {h} điểm ảnh quá lớn nên không thể vẽ
-@msg	an image VectorCraft can't read was left out	một ảnh VectorCraft không đọc được đã bị bỏ qua
+@msg	an image Iridium can't read was left out	một ảnh Iridium không đọc được đã bị bỏ qua
 @msg	an image whose data is cut short was left out	một ảnh bị cắt ngắn dữ liệu đã bị bỏ qua
 @msg	an object can't be read	không thể đọc một đối tượng
 @msg	an object in perspective would leave the edited grid	đối tượng trong phối cảnh sẽ rời khỏi lưới đang chỉnh sửa
@@ -305,7 +305,7 @@ file-filter	All readable files	Tất cả tệp đọc được
 	Appearance of Black	Diện mạo màu đen
 	Appearance Panel	Bảng Diện mạo
 	Appearance panel	Bảng diện mạo
-	Applies the next time VectorCraft starts.	Áp dụng vào lần tiếp theo VectorCraft khởi động.
+	Applies the next time Iridium starts.	Áp dụng vào lần tiếp theo Iridium khởi động.
 	Applies when the linked file is relinked or updated.	Áp dụng khi tệp liên kết được liên kết lại hoặc cập nhật.
 	Apply Brush	Áp dụng cọ
 	Apply Effect	Áp dụng hiệu ứng
@@ -498,7 +498,7 @@ axis	Both	Cả hai
 @msg	can't parse shortcut `{c}`	không thể phân tích phím tắt `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	không thể phân tích phím tắt `{s}` cho `{k}`
 	Can't print these settings: see the Summary	Không thể in các cài đặt này: xem Tóm tắt
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	không thể lưu phiên bản {0}: VectorCraft ghi phiên bản {MIN_VERSION} đến {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	không thể lưu phiên bản {0}: Iridium ghi phiên bản {MIN_VERSION} đến {VERSION}
 	Can't save “{name}”.	Không thể lưu “{name}”.
 @msg	can't write .{ext} images	không thể ghi ảnh .{ext}
 	Cancel Export	Hủy xuất
@@ -1037,7 +1037,7 @@ axis	Both	Cả hai
 	DXF Options Dialog	Hộp thoại tùy chọn DXF
 	e.g. 1-3, 5	ví dụ: 1-3, 5
 	Each Design Represents:	Mỗi thiết kế biểu thị:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Mỗi mục trong tệp được ghép với một công cụ, lệnh hoặc bảng của VectorCraft. Hãy kiểm tra các cặp ghép và trả lời những mục còn lại.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Mỗi mục trong tệp được ghép với một công cụ, lệnh hoặc bảng của Iridium. Hãy kiểm tra các cặp ghép và trả lời những mục còn lại.
 	Each page prints as one image, at the document's raster effects resolution.	Mỗi trang in như một ảnh, theo độ phân giải hiệu ứng raster của tài liệu.
 	Earth Tones	Tông màu đất
 	East Asian Type	Chữ Đông Á
@@ -1239,7 +1239,7 @@ axis	Both	Cả hai
 	File Info Dialog	Hộp thoại thông tin tệp
 	File Name:	Tên tệp:
 	File or URL:	Tệp hoặc URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	phiên bản tệp {0} mới hơn VectorCraft hỗ trợ ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	phiên bản tệp {0} mới hơn Iridium hỗ trợ ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Tệp › Đặt… đưa ảnh vào, liên kết hoặc nhúng.
 	Files of a PDF standard can't be password-protected.	Tệp theo tiêu chuẩn PDF không thể bảo vệ bằng mật khẩu.
 	Files of this standard tag their colours with ICC profiles.	Tệp theo tiêu chuẩn này gắn thẻ màu bằng hồ sơ ICC.
@@ -1465,7 +1465,7 @@ file-filter	Flattener presets	Thiết lập sẵn làm phẳng
 	Hide Thumbnail	Ẩn hình thu nhỏ
 	Hide Thumbnails	Ẩn các hình thu nhỏ
 	Hide Transparency Grid	Ẩn lưới trong suốt
-	Hide VectorCraft	Ẩn VectorCraft
+	Hide Iridium	Ẩn Iridium
 	High (300 ppi)	Cao (300 ppi)
 	High Performance (discrete)	Hiệu suất cao (rời rạc)
 	Highlight Alternate Glyphs	Đánh dấu Glyph thay thế
@@ -1545,7 +1545,7 @@ axis	Horizontal	Ngang
 	In Tangent Handles	Tay nắm tiếp tuyến vào
 	In the File	Trong tệp
 	In the selected objects	Trong các đối tượng đã chọn
-	In VectorCraft	Trong VectorCraft
+	In Iridium	Trong Iridium
 	Include Blacks with CMY:	Bao gồm đen với CMY:
 	Include Bleed	Bao gồm vùng chảy tràn
 	Include Cmy Blacks	Bao gồm đen CMY
@@ -1603,7 +1603,7 @@ axis	Horizontal	Ngang
 	Invert Colors	Đảo màu
 	Invert Pie	Đảo ngược hình quạt
 	Inverted Round	Tròn đảo ngược
-@msg	is not an image VectorCraft reads	không phải ảnh mà VectorCraft đọc được
+@msg	is not an image Iridium reads	không phải ảnh mà Iridium đọc được
 	Isolate Blending	Tách biệt hòa trộn
 	Isolate Group	Tách biệt nhóm
 	Isolate Selected Group	Tách biệt nhóm đã chọn
@@ -1622,9 +1622,9 @@ axis	Horizontal	Ngang
 @msg	it has too many text objects	nó có quá nhiều đối tượng văn bản
 @msg	it has too many values in a row	nó có quá nhiều giá trị liên tiếp
 @msg	it has too much text	nó có quá nhiều văn bản
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	nó có {_1}, VectorCraft chưa đọc được từ đó
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	nó dùng `{at}`, trình đọc PostScript của VectorCraft không hỗ trợ
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	nó dùng `{at}`, trình đọc PostScript của VectorCraft không hỗ trợ, trong {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	nó có {_1}, Iridium chưa đọc được từ đó
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	nó dùng `{at}`, trình đọc PostScript của Iridium không hỗ trợ
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	nó dùng `{at}`, trình đọc PostScript của Iridium không hỗ trợ, trong {procs}
 @msg	its editing data doesn't say where its art is	dữ liệu chỉnh sửa không cho biết vị trí tác phẩm
 @msg	its editing data doesn't say where its artboard is	dữ liệu chỉnh sửa không cho biết vị trí bảng vẽ
 @msg	its editing data has no layers	dữ liệu chỉnh sửa không có lớp
@@ -1647,7 +1647,7 @@ mark-style	Japanese	Kiểu Nhật
 	JavaScript:	JavaScript:
 @msg	join needs open paths	nối cần đường dẫn mở
 	Join Our Discord	Tham gia Discord
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Tham gia cộng đồng ArtCraft trên Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Tham gia cộng đồng Iridium trên Discord (discord.gg/artcraft)
 	Join the lines of each paragraph	Nối các dòng trong mỗi đoạn văn
 	Join Tool	Công cụ Nối
 	Joins	Kiểu nối
@@ -1792,7 +1792,7 @@ lighting	Light	Đèn
 	Load Text into Clipboard	Tải văn bản vào bảng tạm
 	Load Texture…	Tải kết cấu…
 	Loaded Texture	Kết cấu đã tải
-@msg	Loading VectorCraft…	Đang tải VectorCraft…
+@msg	Loading Iridium…	Đang tải Iridium…
 	Loads native code	Tải mã gốc
 	Local Libraries	Thư viện cục bộ
 	Locate Object	Xác định vị trí đối tượng
@@ -2173,8 +2173,8 @@ lighting	Light	Đèn
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	không phải bộ phím tắt: văn bản không bắt đầu bằng một tên có dấu gạch chéo và một dấu ngoặc nhọn mở
 @msg	not a stored central record	không phải bản ghi trung tâm đã lưu
 @msg	not a valid plug-in module: {0}	không phải mô-đun plug-in hợp lệ: {0}
-@msg	not a VectorCraft file: {0}	không phải tệp VectorCraft: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	không phải bộ phím tắt VectorCraft (thiếu `overrides`)
+@msg	not a Iridium file: {0}	không phải tệp Iridium: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	không phải bộ phím tắt Iridium (thiếu `overrides`)
 @msg	not an EMF or WMF file	không phải tệp EMF hoặc WMF
 	Not followed: outside the script's folder	Bỏ qua: nằm ngoài thư mục của script
 	Not found	Không tìm thấy
@@ -2321,7 +2321,7 @@ lighting	Light	Đèn
 @msg	Opened with {_1} note(s): {_2}	Đã mở với {_1} ghi chú: {_2}
 	Opened with {} note(s): {}	Mở với {} ghi chú: {}
 @msg	Opened {url}	Đã mở {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Khi mở, những phần VectorCraft chưa đọc được ({what}) đã bị bỏ qua, nên thay thế sẽ mất chúng vĩnh viễn. Hãy lưu với tên khác để giữ lại.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Khi mở, những phần Iridium chưa đọc được ({what}) đã bị bỏ qua, nên thay thế sẽ mất chúng vĩnh viễn. Hãy lưu với tên khác để giữ lại.
 	Opens files in other apps	Mở tệp trong ứng dụng khác
 	Opens network connections	Mở kết nối mạng
 	Optical Margin Alignment	Căn lề quang học
@@ -2394,7 +2394,7 @@ imageTrace	Outline	Đường viền
 	Paragraph Style	Kiểu đoạn văn
 	Paragraph Style Options	Tùy chọn kiểu đoạn văn
 	Paragraph Symbol	Ký hiệu đoạn văn
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Một phần của ArtCraft. MIT OR Apache-2.0. Phông chữ: Source Sans 3, Inter, JetBrains Mono (OFL). Biểu tượng: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Một phần của Iridium. MIT OR Apache-2.0. Phông chữ: Source Sans 3, Inter, JetBrains Mono (OFL). Biểu tượng: Lucide (ISC) + Iridium.
 	Paste Design	Dán thiết kế
 	Paste in Back	Dán ra sau
 	Paste in Front	Dán ra trước
@@ -2583,7 +2583,7 @@ file-filter	Print presets	Thiết lập sẵn in
 	Quality:	Chất lượng:
 	Quarter Space	Khoảng cách một phần tư
 	Quickly start a new file	Tạo nhanh tệp mới
-	Quit VectorCraft	Thoát VectorCraft
+	Quit Iridium	Thoát Iridium
 	Radar Graph Tool	Công cụ Biểu đồ radar
 gradient-kind	Radial	Hướng tâm
 	Radial Dividers:	Đường chia hướng tâm:
@@ -3317,7 +3317,7 @@ effect	Soft	Mềm
 	Standard:	Chuẩn:
 	Star Tool	Công cụ Ngôi sao
 	Start arrowhead	Đầu mũi tên bắt đầu
-	Start from VectorCraft Defaults	Bắt đầu từ mặc định VectorCraft
+	Start from Iridium Defaults	Bắt đầu từ mặc định Iridium
 	Start Global Edit	Bắt đầu chỉnh sửa toàn cục
 	Start Tile	Ô đầu
 	Start:	Bắt đầu:
@@ -3451,7 +3451,7 @@ file-filter	Templates	Mẫu
 	The bounds of the visible art.	Vùng giới hạn của đối tượng hiển thị.
 	The cell shows the type object's text as HTML.	Ô hiển thị văn bản của đối tượng chữ dưới dạng HTML.
 @msg	the Color Picker is not open	Bộ chọn màu chưa được mở
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	tệp nén giải nén ra nhiều hơn VectorCraft đọc ({_1} MB tài liệu, {_2} MB mỗi ảnh)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	tệp nén giải nén ra nhiều hơn Iridium đọc ({_1} MB tài liệu, {_2} MB mỗi ảnh)
 @msg	the compressed file unpacks to more than {_1} MB	tệp nén giải nén ra hơn {_1} MB
 	The dialog was closed before its file dialog answered	Hộp thoại đã đóng trước khi hộp thoại tệp phản hồi
 @msg	the document has never been saved	tài liệu chưa bao giờ được lưu
@@ -3481,7 +3481,7 @@ file-filter	Templates	Mẫu
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	không đọc được các lớp của tệp từ dữ liệu chỉnh sửa ({_1}): chúng được lấy từ phần PDF
 @msg	the file's preview header points outside the file	tiêu đề xem trước của tệp trỏ ra ngoài tệp
 @msg	the files come to more than 1 GB: add fewer at a time	các tệp tổng cộng hơn 1 GB: thêm ít hơn mỗi lần
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Bộ xử lý đồ họa thử trước không hiển thị được cửa sổ, VectorCraft đã khởi động lại trên {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Bộ xử lý đồ họa thử trước không hiển thị được cửa sổ, Iridium đã khởi động lại trên {summary}
 @msg	The graphics were lost and couldn't be restarted.	Đồ họa đã mất và không thể khởi động lại.
 @msg	The graphics were lost and have been restarted	Đồ họa đã mất và đã được khởi động lại
 @msg	the guide is on a hidden or locked layer	đường căn nằm trên lớp ẩn hoặc bị khóa
@@ -3492,12 +3492,12 @@ file-filter	Templates	Mẫu
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	Ảnh đã được dò ở {_1} × {_2} điểm ảnh, thu nhỏ từ {_3} × {_4} (tối đa {_5} megapixel).
 @msg	the image's pixels can't be read	không đọc được các điểm ảnh của ảnh
 @msg	the image's pixels don't match its size	pixel ảnh không khớp với kích thước
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Lần khởi động trước của VectorCraft đã dừng trên {name} trước khi cửa sổ xuất hiện, nên VectorCraft đã khởi động trên {summary}. Để thử lại bộ xử lý đồ họa đó, hãy đổi Tùy chọn › Hiệu suất › Bộ xử lý đồ họa hoặc khởi động với biến WGPU_BACKEND được đặt
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Lần khởi động trước của VectorCraft đã dừng khi đang liệt kê các bộ xử lý đồ họa, nên VectorCraft đã khởi động trên {summary} chỉ với OpenGL. Để thử lại các giao diện đồ họa khác, hãy đổi Tùy chọn › Hiệu suất › Bộ xử lý đồ họa hoặc khởi động với biến WGPU_BACKEND được đặt
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Lần khởi động trước của Iridium đã dừng trên {name} trước khi cửa sổ xuất hiện, nên Iridium đã khởi động trên {summary}. Để thử lại bộ xử lý đồ họa đó, hãy đổi Tùy chọn › Hiệu suất › Bộ xử lý đồ họa hoặc khởi động với biến WGPU_BACKEND được đặt
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Lần khởi động trước của Iridium đã dừng khi đang liệt kê các bộ xử lý đồ họa, nên Iridium đã khởi động trên {summary} chỉ với OpenGL. Để thử lại các giao diện đồ họa khác, hãy đổi Tùy chọn › Hiệu suất › Bộ xử lý đồ họa hoặc khởi động với biến WGPU_BACKEND được đặt
 @msg	the layer has no objects to clip by	lớp không có đối tượng để cắt
 @msg	the layer or group is locked	lớp hoặc nhóm bị khóa
 @msg	the layer to flatten into is hidden	lớp để dẹp phẳng vào đang ẩn
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Tên trong bảng lưu là “{typed}”, và VectorCraft đã thêm phần mở rộng của loại tệp. Thay thế tệp sẽ ghi đè nội dung của tệp.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Tên trong bảng lưu là “{typed}”, và Iridium đã thêm phần mở rộng của loại tệp. Thay thế tệp sẽ ghi đè nội dung của tệp.
 @msg	the object already has an opacity mask	đối tượng đã có mặt nạ độ mờ
 @msg	the object has no geometry	đối tượng không có hình học
 @msg	the object has no opacity mask	đối tượng không có mặt nạ độ mờ
@@ -3561,7 +3561,7 @@ file-filter	Templates	Mẫu
 	This library is empty.	Thư viện này trống.
 	This panel is on the roadmap (see the parity plan).	Bảng này nằm trong lộ trình (xem kế hoạch tương đương).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	tệp PostScript này không thể đọc được ({why}): lưu dưới dạng PDF hoặc SVG trong ứng dụng đã tạo nó
-@msg	This shortcut file is in a form VectorCraft can't read.	Tệp phím tắt này có dạng mà VectorCraft không đọc được.
+@msg	This shortcut file is in a form Iridium can't read.	Tệp phím tắt này có dạng mà Iridium không đọc được.
 	This system has no screen color sampler	Hệ thống này không có công cụ lấy mẫu màu trên màn hình
 @msg	this system has no screen color sampler	hệ thống này không có công cụ lấy mẫu màu trên màn hình
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	lần vector hóa này sẽ tạo hơn {max} điểm neo, nhiều hơn mức tài liệu hiển thị mượt: tăng Noise, giảm Paths hoặc Colors, hoặc chọn thiết lập sẵn độ chính xác thấp hơn
@@ -3813,18 +3813,18 @@ diagnostics	ui	giao diện
 	Vector Halftone	Halftone vector
 	Vector Halftone…	Halftone vector…
 	Vector illustration — fast, open, scriptable.	Minh họa vector — nhanh, mở, có thể lập trình.
-	VectorCraft copies the fonts to {folder}.	VectorCraft sao chép phông chữ vào {folder}.
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft không thoát bình thường lần trước. Các tài liệu này có thay đổi chưa lưu:
-	VectorCraft documents: one locked object, updated when the file changes.	Tài liệu VectorCraft: một đối tượng bị khóa, cập nhật khi tệp thay đổi.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft không tìm kiếm trong thư mục của ứng dụng khác hoặc hệ thống: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft không tìm kiếm thư mục Shared hoặc Public trong Users: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft khởi động thất bại: {e}
-	VectorCraft Help…	Trợ giúp VectorCraft…
-	VectorCraft on getartcraft.com	VectorCraft trên getartcraft.com
-	VectorCraft on GitHub	VectorCraft trên GitHub
-	VectorCraft read this script without running it.	VectorCraft đã đọc script này mà không chạy nó.
-file-filter	VectorCraft Template	Mẫu VectorCraft
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Thư mục Phông chữ của VectorCraft chưa được đặt ở đây: ứng dụng máy tính và vectorcraft-cli đặt nó
+	Iridium copies the fonts to {folder}.	Iridium sao chép phông chữ vào {folder}.
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium không thoát bình thường lần trước. Các tài liệu này có thay đổi chưa lưu:
+	Iridium documents: one locked object, updated when the file changes.	Tài liệu Iridium: một đối tượng bị khóa, cập nhật khi tệp thay đổi.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium không tìm kiếm trong thư mục của ứng dụng khác hoặc hệ thống: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium không tìm kiếm thư mục Shared hoặc Public trong Users: {path}
+@msg	Iridium failed to start: {e}	Iridium khởi động thất bại: {e}
+	Iridium Help…	Trợ giúp Iridium…
+	Iridium on getartcraft.com	Iridium trên getartcraft.com
+	Iridium on GitHub	Iridium trên GitHub
+	Iridium read this script without running it.	Iridium đã đọc script này mà không chạy nó.
+file-filter	Iridium Template	Mẫu Iridium
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Thư mục Phông chữ của Iridium chưa được đặt ở đây: ứng dụng máy tính và vectorcraft-cli đặt nó
 	Vectors	Vector
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	tệp phiên bản {0} không thể nén: chỉ phiên bản {COMPRESSED_SINCE} trở lên mới mở tệp nén
 	Version {version} — open-source vector illustration in pure Rust.	Phiên bản {version} — minh họa vector mã nguồn mở bằng Rust thuần túy.
@@ -3862,7 +3862,7 @@ axis	Vertical	Dọc
 	Web Shift	Dịch màu Web
 	Web Snap:	Khớp màu Web:
 	Weight:	Độ dày:
-	Welcome to VectorCraft	Chào mừng đến với VectorCraft
+	Welcome to Iridium	Chào mừng đến với Iridium
 	When pasting text	Khi dán văn bản
 	Widget Position:	Vị trí widget:
 @msg	width and height are at least 1 pixel	chiều rộng và chiều cao phải ít nhất 1 pixel

@@ -1,4 +1,4 @@
-# Türkçe (tr) interface catalog for PhotoCraft.
+# Türkçe (tr) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -71,7 +71,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: {prs} PR'ler, {commits} taahhütler, +{added} / −{deleted} satırlar (Δ {delta}), +{binAdded} / −{binDeleted} ikili varlıklar, {first} – {last}
 	A brush preset with this name already exists	Bu adda bir fırça ön ayarı zaten var
 	A save to {name} is still running; try again when it finishes	{name} konumuna kaydetme işlemi hâlâ devam ediyor; bittiğinde tekrar dene
-	About PhotoCraft	PhotoCraft Hakkında
+	About Iridium	Iridium Hakkında
 	About {app}	{app} Hakkında
 	Accept and Go to Conflict	Kabul Et ve Çakışmaya Git
 	ACES	ACES
@@ -151,7 +151,7 @@
 	Align {what}	{what} hizala
 	Aligned	Hizalı
 	All Layers No Adjustments	Tüm Katmanlar Ayarlama Yok
-	All shortcuts reset to PhotoCraft defaults.	Tüm kısayollar PhotoCraft varsayılanlarına sıfırlanır.
+	All shortcuts reset to Iridium defaults.	Tüm kısayollar Iridium varsayılanlarına sıfırlanır.
 	All User Slices	Tüm Kullanıcı Dilimleri
 	Allow agent control	Aracı kontrolüne izin ver
 	Allow Continue	Devam Etmeye İzin Ver
@@ -795,7 +795,7 @@ cameraData	Date Taken	Çekim Tarihi
 	Default Features	Varsayılan Özellikler
 	Default Foreground and Background Colors	Varsayılan Ön Plan ve Arka Plan Renkleri
 	Default Leaves	Varsayılan İzinler
-	Default PhotoCraft Size	Varsayılan PhotoCraft Boyutu
+	Default Iridium Size	Varsayılan Iridium Boyutu
 	Default printer	Varsayılan yazıcı
 	Default restored.	Varsayılan geri yüklendi.
 	Defaults	Varsayılanlar
@@ -1761,7 +1761,7 @@ cameraData	Model	Model
 	My Brushes	Fırçalarım
 	name	isim
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Yerel dosya sürükle ve bırak özelliği henüz Wayland'de desteklenmiyor. Dosyayı Kullan › Aç veya resmi dosya yöneticinize kopyalayıp {paste} ile yapıştırın.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Yerel dosya sürükle ve bırak özelliği henüz Wayland'de desteklenmiyor. Dosya › Aç'ı kullanın veya PhotoCraft'ı XWayland altında `WAYLAND_DISPLAY= photocraft` ile çalıştırın.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Yerel dosya sürükle ve bırak özelliği henüz Wayland'de desteklenmiyor. Dosya › Aç'ı kullanın veya Iridium'ı XWayland altında `WAYLAND_DISPLAY= photocraft` ile çalıştırın.
 	Native file drag-and-drop is unavailable	Yerel dosya sürükle ve bırak özelliği kullanılamıyor
 	Nearest Neighbor	En Yakın Komşu
 	Nearest neighbor	En yakın komşu
@@ -1907,7 +1907,7 @@ layerLabel	No Color	Renk Yok
 	Operation failed	İşlem başarısız oldu
 	Optical	Optik
 	Option-click to define a source point to clone from	Kopyalanacak bir kaynak noktası tanımlamak için Option tuşunu basılı tutarak tıklayın
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Veya Tercihler › Performans › Linux görüntüleme sunucusunu X11: PhotoCraft olarak ayarlayın, ardından her zaman XWayland altında başlar.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Veya Tercihler › Performans › Linux görüntüleme sunucusunu X11: Iridium olarak ayarlayın, ardından her zaman XWayland altında başlar.
 cameraRaw	Orange	Turuncu
 	Original Ratio	Orijinal Oran
 	Ornaments	Süsler
@@ -1994,16 +1994,16 @@ cameraRaw	Orange	Turuncu
 	Photo (8 × 10 in)	Fotoğraf (8 × 10 inç)
 	Photo Filter	Fotoğraf Filtresi
 	Photo Filter…	Fotoğraf Filtresi…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	PhotoCraft Varsayılanları
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft, {set} klavye kısayol setinizi bu bilgisayardaki başka bir resim düzenleyicide buldu: {n} kısayolları PhotoCraft'ınkilerden farklı. İçe aktarılsın mı?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft, CPU görüntü düzenleyicisini kullanıyor. Pencere hala grafik bağdaştırıcınızı kullanıyor olabilir.
-	PhotoCraft Manages Colors	PhotoCraft Renkleri Yönetir
-	PhotoCraft on GitHub	GitHub'da PhotoCraft
-	PhotoCraft Website	PhotoCraft Web Sitesi
-	PhotoCraft website	PhotoCraft web sitesi
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — Rust'ta yazılmış açık kaynaklı, yerel bir resim düzenleyici.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Ekran Rengi Seçici
+	Iridium	Iridium
+	Iridium Defaults	Iridium Varsayılanları
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium, {set} klavye kısayol setinizi bu bilgisayardaki başka bir resim düzenleyicide buldu: {n} kısayolları Iridium'ınkilerden farklı. İçe aktarılsın mı?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium, CPU görüntü düzenleyicisini kullanıyor. Pencere hala grafik bağdaştırıcınızı kullanıyor olabilir.
+	Iridium Manages Colors	Iridium Renkleri Yönetir
+	Iridium on GitHub	GitHub'da Iridium
+	Iridium Website	Iridium Web Sitesi
+	Iridium website	Iridium web sitesi
+	Iridium — an open-source, native image editor written in Rust.	Iridium — Rust'ta yazılmış açık kaynaklı, yerel bir resim düzenleyici.
+	Iridium — Screen Color Picker	Iridium — Ekran Rengi Seçici
 	Photography	Fotoğrafçılık
 	Photomerge	Fotoğraf Birleştir
 	Photomerge…	Fotoğraf Birleştir…
@@ -2141,7 +2141,7 @@ cameraRaw	Purple	Mor
 	Quick Selection Tool	Hızlı Seçim Aracı
 	Quick Sync	Hızlı Senkronizasyon
 	Quit	Çıkış
-	Quit PhotoCraft	PhotoCraft'tan Çık
+	Quit Iridium	Iridium'tan Çık
 	Quit {app}	{app}'dan çık
 	Radius X	Yarıçap X
 	Radius Y	Y Yarıçapı
@@ -2736,7 +2736,7 @@ cameraRaw	Temperature	Sıcaklık
 	The transform couldn't be applied.	Dönüştürme uygulanamadı.
 	There are too many sets: delete one first.	Çok fazla küme var: önce birini silin.
 	There is no crop size or ratio to save	Kaydedilecek kırpma boyutu veya oranı yok
-	These settings aren't available in PhotoCraft yet.	Bu ayarlar henüz PhotoCraft'ta mevcut değildir.
+	These settings aren't available in Iridium yet.	Bu ayarlar henüz Iridium'ta mevcut değildir.
 	Thin	İnce
 fontWeight	Thin	İnce
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	Bu belgenin katmanlarının {needed} belleğe ihtiyacı var ama en fazla {budget} kullanabilirler: tüm belgenin yeniden çizimi CPU'yu kullanır
@@ -2762,7 +2762,7 @@ cameraRaw	Tint	Renk Tonu
 	Title	Title
 	Titling Alternates	Başlık Alternatifleri
 	To Center	Merkeze
-	To drop files, start PhotoCraft under XWayland: `{command}`	Dosyaları bırakmak için XWayland altında PhotoCraft'ı başlatın: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Dosyaları bırakmak için XWayland altında Iridium'ı başlatın: `{command}`
 	Toggle count group visibility	Sayım grubu görünürlüğünü değiştir
 	Toggle Last State	Son Durumu Değiştir
 	Toggle reference point	Referans noktasını değiştir
@@ -2992,7 +2992,7 @@ cameraRaw	Yellow	Sarı
 	{name} Properties	{name} Özellikler
 	{name} was changed by another app after it was opened or saved here.	{name}, burada açıldıktan veya kaydedildikten sonra başka bir uygulama tarafından değiştirildi.
 @plural	{n} action|{n} actions	{n} eylem|{n} eylem
-	{n} commands are not in PhotoCraft.	{n} komutları PhotoCraft'ta değil.
+	{n} commands are not in Iridium.	{n} komutları Iridium'ta değil.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	Bu kompozisyonun kaydettiği {n} katman silindi. Kompozisyonu güncelleyin veya uyarıyı temizleyin.|Bu kompozisyonun kaydettiği {n} katman silindi. Kompozisyonu güncelleyin veya uyarıyı temizleyin.
 @plural	{n} layer|{n} layers	{n} katman|{n} katman
 	{n} of {max} sample points	{n} / {max} örnek nokta
@@ -3001,7 +3001,7 @@ cameraRaw	Yellow	Sarı
 @plural	{n} sample point removed|{n} sample points removed	{n} örnek nokta kaldırıldı|{n} örnek nokta kaldırıldı
 @plural	{n} sample|{n} samples	{n} örnek|{n} örnek
 @plural	{n} slice|{n} slices	{n} dilim|{n} dilim
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} adımın PhotoCraft’ta henüz karşılığı yok|{n} adımın PhotoCraft’ta henüz karşılığı yok
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} adımın Iridium’ta henüz karşılığı yok|{n} adımın Iridium’ta henüz karşılığı yok
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Photoshop karşılığı olmayan {n} adım atlandı|Photoshop karşılığı olmayan {n} adım atlandı
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: yol geçerli bir Unicode değil; dosyayı yeniden adlandırın ve tekrar açın.
 	{set} (modified)	{set} (değiştirildi)

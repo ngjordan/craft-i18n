@@ -1,4 +1,4 @@
-# 日本語 (ja) interface catalog for VectorCraft.
+# 日本語 (ja) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -190,7 +190,7 @@ swatch	[Registration]	[レジストレーション]
 @msg	a stream's length isn't a number	ストリームの長さが数値ではありません
 @msg	a swatch or color group named `{n}` exists	`{n}` という名前のスウォッチまたはカラーグループはすでに存在します
 	About	情報
-	About VectorCraft	VectorCraft について
+	About Iridium	Iridium について
 	above	(対象：次を超える画像)
 	Above Text	テキストの上
 	Absolute Position	絶対位置
@@ -280,7 +280,7 @@ file-filter	All readable files	読み込めるすべてのファイル
 swatch	Amber	アンバー
 	Ambient Light	環境光
 @msg	an image of {w} × {h} pixels is too large to draw	{w} × {h} ピクセルの画像は大きすぎて描画できません
-@msg	an image VectorCraft can't read was left out	VectorCraft で読み込めない画像は除外されました
+@msg	an image Iridium can't read was left out	Iridium で読み込めない画像は除外されました
 @msg	an image whose data is cut short was left out	データが途中で切れている画像は除外されました
 @msg	an object can't be read	読み込めないオブジェクトがあります
 @msg	an object in perspective would leave the edited grid	遠近グリッド上のオブジェクトが編集後のグリッドの外に出てしまいます
@@ -308,7 +308,7 @@ swatch	Amber	アンバー
 	Appearance of Black	ブラックのアピアランス
 	Appearance Panel	アピアランスパネル
 	Appearance panel	アピアランスパネル
-	Applies the next time VectorCraft starts.	VectorCraft の次回起動時に適用されます。
+	Applies the next time Iridium starts.	Iridium の次回起動時に適用されます。
 	Applies when the linked file is relinked or updated.	リンクファイルを再リンクまたは更新したときに適用されます。
 	Apply Brush	ブラシを適用
 	Apply Effect	効果を適用
@@ -511,7 +511,7 @@ swatch	Brown	ブラウン
 @msg	can't parse shortcut `{c}`	ショートカット `{c}` を解釈できません
 @msg	can't parse shortcut `{s}` for `{k}`	`{k}` のショートカット `{s}` を解釈できません
 	Can't print these settings: see the Summary	この設定ではプリントできません。「サマリー」を確認してください
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	バージョン {0} では保存できません: VectorCraft で保存できるのはバージョン {MIN_VERSION} から {VERSION} までです
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	バージョン {0} では保存できません: Iridium で保存できるのはバージョン {MIN_VERSION} から {VERSION} までです
 	Can't save “{name}”.	「{name}」を保存できません。
 @msg	can't write .{ext} images	.{ext} 画像は書き出せません
 	Cancel Export	書き出しをキャンセル
@@ -1061,7 +1061,7 @@ swatch	Cyan Green	シアングリーン
 	DXF Options Dialog	DXF オプションダイアログ
 	e.g. 1-3, 5	例：1-3, 5
 	Each Design Represents:	各デザインの値:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	ファイルの各項目を VectorCraft のツール、コマンド、パネルに対応付けます。対応を確認して、残りの項目を指定してください。
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	ファイルの各項目を Iridium のツール、コマンド、パネルに対応付けます。対応を確認して、残りの項目を指定してください。
 	Each page prints as one image, at the document's raster effects resolution.	各ページは、ドキュメントのラスタライズ効果の解像度で 1 つの画像としてプリントされます。
 	Earth Tones	アーストーン
 	East Asian Type	東アジア言語
@@ -1266,7 +1266,7 @@ swatch	Espresso	エスプレッソ
 	File Info Dialog	ファイル情報ダイアログ
 	File Name:	ファイル名:
 	File or URL:	ファイルまたは URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	ファイルのバージョン {0} は、この VectorCraft が対応するバージョン ({VERSION}) より新しいものです
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	ファイルのバージョン {0} は、この Iridium が対応するバージョン ({VERSION}) より新しいものです
 	File › Place… brings in an image, linked or embedded.	ファイル › 配置… で、画像をリンクまたは埋め込みで読み込めます。
 	Files of a PDF standard can't be password-protected.	PDF 規格のファイルにはパスワードを設定できません。
 	Files of this standard tag their colours with ICC profiles.	この規格のファイルでは、カラーに ICC プロファイルが付けられます。
@@ -1496,7 +1496,7 @@ swatch	Green	グリーン
 	Hide Thumbnail	サムネールを隠す
 	Hide Thumbnails	サムネールを隠す
 	Hide Transparency Grid	透明グリッドを隠す
-	Hide VectorCraft	VectorCraft を隠す
+	Hide Iridium	Iridium を隠す
 	High (300 ppi)	高 (300 ppi)
 	High Performance (discrete)	高パフォーマンス (専用 GPU)
 	Highlight Alternate Glyphs	代替字形をハイライト
@@ -1578,7 +1578,7 @@ effect	Horizontal	水平
 	In Tangent Handles	入る側のハンドル
 	In the File	ファイル内の名前
 	In the selected objects	選択したオブジェクト内
-	In VectorCraft	VectorCraft での対応
+	In Iridium	Iridium での対応
 	Include Blacks with CMY:	CMY にブラックを含める:
 	Include Bleed	裁ち落としを含める
 	Include Cmy Blacks	CMY ブラックを含める
@@ -1636,7 +1636,7 @@ swatch	Indigo	インディゴ
 	Invert Colors	カラー反転
 	Invert Pie	扇形を反転
 	Inverted Round	反転した丸型
-@msg	is not an image VectorCraft reads	VectorCraft で読み込める画像ではありません
+@msg	is not an image Iridium reads	Iridium で読み込める画像ではありません
 	Isolate Blending	描画モードを分離
 	Isolate Group	グループを分離
 	Isolate Selected Group	選択したグループを分離
@@ -1655,9 +1655,9 @@ swatch	Indigo	インディゴ
 @msg	it has too many text objects	テキストオブジェクトが多すぎます
 @msg	it has too many values in a row	連続する値が多すぎます
 @msg	it has too much text	テキストが多すぎます
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	{_1} が含まれていますが、VectorCraft はまだこのファイルからは読み込めません
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	VectorCraft の PostScript 読み込み機能が対応していない `{at}` を使用しています
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	{procs} 内で、VectorCraft の PostScript 読み込み機能が対応していない `{at}` を使用しています
+@msg	it has {_1}, which Iridium doesn't read from it yet	{_1} が含まれていますが、Iridium はまだこのファイルからは読み込めません
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	Iridium の PostScript 読み込み機能が対応していない `{at}` を使用しています
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	{procs} 内で、Iridium の PostScript 読み込み機能が対応していない `{at}` を使用しています
 @msg	its editing data doesn't say where its art is	編集データにアートの位置が記録されていません
 @msg	its editing data doesn't say where its artboard is	編集データにアートボードの位置が記録されていません
 @msg	its editing data has no layers	編集データにレイヤーがありません
@@ -1679,7 +1679,7 @@ mark-style	Japanese	日本式
 	JavaScript:	JavaScript:
 @msg	join needs open paths	連結にはオープンパスが必要です
 	Join Our Discord	Discord に参加
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Discord で ArtCraft コミュニティに参加 (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Discord で Iridium コミュニティに参加 (discord.gg/artcraft)
 	Join the lines of each paragraph	段落内の行を連結
 	Join Tool	結合ツール
 	Joins	角の形状
@@ -1826,7 +1826,7 @@ swatch	Lime	ライム
 	Load Text into Clipboard	テキストをクリップボードに読み込む
 	Load Texture…	テクスチャを読み込み…
 	Loaded Texture	読み込んだテクスチャ
-@msg	Loading VectorCraft…	VectorCraft を読み込んでいます…
+@msg	Loading Iridium…	Iridium を読み込んでいます…
 	Loads native code	ネイティブコードを読み込む
 	Local Libraries	ローカルライブラリ
 	Locate Object	オブジェクトを検索
@@ -2204,8 +2204,8 @@ swatch	Magenta	マゼンタ
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	ショートカットセットではありません: テキストの先頭にスラッシュ付きの名前と開き波かっこがありません
 @msg	not a stored central record	無圧縮のセントラルディレクトリレコードではありません
 @msg	not a valid plug-in module: {0}	有効なプラグインモジュールではありません: {0}
-@msg	not a VectorCraft file: {0}	VectorCraft ファイルではありません: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	VectorCraft のショートカットセットではありません (`overrides` がありません)
+@msg	not a Iridium file: {0}	Iridium ファイルではありません: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	Iridium のショートカットセットではありません (`overrides` がありません)
 @msg	not an EMF or WMF file	EMF ファイルでも WMF ファイルでもありません
 	Not followed: outside the script's folder	読み込み対象外：スクリプトのフォルダーの外
 	Not found	見つかりません
@@ -2351,7 +2351,7 @@ swatch	Ocean	オーシャン
 @msg	Opened with {_1} note(s): {_2}	ドキュメントを開きました (注意 {_1} 件): {_2}
 	Opened with {} note(s): {}	開きました (注意 {} 件)：{}
 @msg	Opened {url}	{url} を開きました
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	開いたときに VectorCraft がまだ読み込めない内容（{what}）が除外されたため、置き換えるとそれは完全に失われます。保持するには別の名前で保存してください。
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	開いたときに Iridium がまだ読み込めない内容（{what}）が除外されたため、置き換えるとそれは完全に失われます。保持するには別の名前で保存してください。
 	Opens files in other apps	ほかのアプリでファイルを開く
 	Opens network connections	ネットワーク接続を開く
 	Optical Margin Alignment	最適なマージン揃え
@@ -2426,7 +2426,7 @@ imageTrace	Outline	アウトライン
 	Paragraph Style	段落スタイル
 	Paragraph Style Options	段落スタイルオプション
 	Paragraph Symbol	段落記号
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	ArtCraft の一員。MIT OR Apache-2.0。フォント：Source Sans 3、Inter、JetBrains Mono (OFL)。アイコン：Lucide (ISC) + VectorCraft。
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Iridium の一員。MIT OR Apache-2.0。フォント：Source Sans 3、Inter、JetBrains Mono (OFL)。アイコン：Lucide (ISC) + Iridium。
 	Paste Design	デザインをペースト
 	Paste in Back	背面へペースト
 	Paste in Front	前面へペースト
@@ -2618,7 +2618,7 @@ swatch	Purple	パープル
 	Quality:	画質:
 	Quarter Space	1/4 スペース
 	Quickly start a new file	新規ファイルをすばやく作成
-	Quit VectorCraft	VectorCraft を終了
+	Quit Iridium	Iridium を終了
 	Radar Graph Tool	レーダーチャートツール
 	Radial	ラジアル
 gradient-kind	Radial	円形
@@ -3361,7 +3361,7 @@ effect	Soft	ソフト
 	Star	スター
 	Star Tool	スターツール
 	Start arrowhead	始点の矢印
-	Start from VectorCraft Defaults	VectorCraft の初期設定から開始
+	Start from Iridium Defaults	Iridium の初期設定から開始
 	Start Global Edit	グローバル編集を開始
 	Start Tile	始点タイル
 	Start:	始点:
@@ -3504,7 +3504,7 @@ file-filter	Templates	テンプレート
 	The bounds of the visible art.	表示されているアートの範囲。
 	The cell shows the type object's text as HTML.	セルには文字オブジェクトのテキストが HTML として表示されます。
 @msg	the Color Picker is not open	カラーピッカーが開いていません
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	圧縮ファイルを展開すると VectorCraft が読み込める量を超えます (ドキュメント {_1} MB、画像 1 枚あたり {_2} MB)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	圧縮ファイルを展開すると Iridium が読み込める量を超えます (ドキュメント {_1} MB、画像 1 枚あたり {_2} MB)
 @msg	the compressed file unpacks to more than {_1} MB	圧縮ファイルを展開すると {_1} MB を超えます
 	The dialog was closed before its file dialog answered	ファイルダイアログが応答する前にダイアログが閉じられました
 @msg	the document has never been saved	ドキュメントはまだ一度も保存されていません
@@ -3534,7 +3534,7 @@ file-filter	Templates	テンプレート
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	編集データからファイルのレイヤーを読み込めませんでした ({_1})。PDF 部分から読み込みます
 @msg	the file's preview header points outside the file	ファイルのプレビューヘッダーがファイルの範囲外を指しています
 @msg	the files come to more than 1 GB: add fewer at a time	ファイルの合計が 1 GB を超えています: 一度に追加するファイルを減らしてください
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	最初に試したグラフィックスプロセッサーではウィンドウを表示できなかったため、{summary} で VectorCraft を再起動しました
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	最初に試したグラフィックスプロセッサーではウィンドウを表示できなかったため、{summary} で Iridium を再起動しました
 @msg	The graphics were lost and couldn't be restarted.	グラフィックス機能が利用できなくなり、再起動できませんでした。
 @msg	The graphics were lost and have been restarted	グラフィックス機能が利用できなくなったため、再起動しました
 @msg	the guide is on a hidden or locked layer	ガイドが非表示またはロックされたレイヤー上にあります
@@ -3545,12 +3545,12 @@ file-filter	Templates	テンプレート
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	画像は {_3} × {_4} から縮小した {_1} × {_2} ピクセルでトレースされました (最大 {_5} メガピクセル)。
 @msg	the image's pixels can't be read	画像のピクセルを読み取れません
 @msg	the image's pixels don't match its size	画像のピクセル数がサイズと一致しません
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	前回の VectorCraft の起動はウィンドウが表示される前に {name} で終了したため、{summary} で起動しました。このグラフィックプロセッサーをもう一度試すには、「環境設定 › パフォーマンス › グラフィックプロセッサー」を変更するか、WGPU_BACKEND を設定して起動してください
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	前回の VectorCraft の起動はグラフィックプロセッサーの一覧を取得している間に終了したため、OpenGL のみを使って {summary} で起動しました。ほかのグラフィックバックエンドをもう一度試すには、「環境設定 › パフォーマンス › グラフィックプロセッサー」を変更するか、WGPU_BACKEND を設定して起動してください
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	前回の Iridium の起動はウィンドウが表示される前に {name} で終了したため、{summary} で起動しました。このグラフィックプロセッサーをもう一度試すには、「環境設定 › パフォーマンス › グラフィックプロセッサー」を変更するか、WGPU_BACKEND を設定して起動してください
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	前回の Iridium の起動はグラフィックプロセッサーの一覧を取得している間に終了したため、OpenGL のみを使って {summary} で起動しました。ほかのグラフィックバックエンドをもう一度試すには、「環境設定 › パフォーマンス › グラフィックプロセッサー」を変更するか、WGPU_BACKEND を設定して起動してください
 @msg	the layer has no objects to clip by	レイヤーにクリッピングマスクとして使えるオブジェクトがありません
 @msg	the layer or group is locked	レイヤーまたはグループがロックされています
 @msg	the layer to flatten into is hidden	統合先のレイヤーが非表示になっています
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	保存パネルの名前は「{typed}」で、VectorCraft がファイル形式の拡張子を付加しました。ファイルを置き換えると内容が上書きされます。
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	保存パネルの名前は「{typed}」で、Iridium がファイル形式の拡張子を付加しました。ファイルを置き換えると内容が上書きされます。
 @msg	the object already has an opacity mask	オブジェクトにはすでに不透明マスクがあります
 @msg	the object has no geometry	オブジェクトに形状がありません
 @msg	the object has no opacity mask	オブジェクトに不透明マスクがありません
@@ -3614,7 +3614,7 @@ file-filter	Templates	テンプレート
 	This library is empty.	このライブラリは空です。
 	This panel is on the roadmap (see the parity plan).	このパネルは今後対応予定です。
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	この PostScript ファイルは読み込めません ({why}): 作成したアプリで PDF または SVG として保存してください
-@msg	This shortcut file is in a form VectorCraft can't read.	このショートカットファイルは VectorCraft で読み込めない形式です。
+@msg	This shortcut file is in a form Iridium can't read.	このショートカットファイルは Iridium で読み込めない形式です。
 	This system has no screen color sampler	このシステムには画面のカラーサンプラーがありません
 @msg	this system has no screen color sampler	このシステムには画面のカラーサンプラーがありません
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	このトレースではアンカーポイントが {max} 個を超え、ドキュメントを滑らかに表示できなくなります: 「ノイズ」を上げる、「パス」か「カラー」を下げる、または精度の低いプリセットを選択してください
@@ -3868,18 +3868,18 @@ diagnostics	ui	UI
 	Vector Halftone	ベクトルハーフトーン
 	Vector Halftone…	ベクターハーフトーン…
 	Vector illustration — fast, open, scriptable.	ベクターイラスト — 高速・オープン・スクリプト対応
-	VectorCraft copies the fonts to {folder}.	VectorCraft はフォントを {folder} にコピーします。
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft は前回正常に終了しませんでした。次のドキュメントに未保存の変更があります:
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft ドキュメント：ロックされた 1 つのオブジェクト。ファイルの変更時に更新されます。
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft は他のアプリやシステムのフォルダーを検索しません: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft は Users 内の Shared フォルダーと Public フォルダーを検索しません: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft を起動できませんでした: {e}
-	VectorCraft Help…	VectorCraft ヘルプ…
-	VectorCraft on getartcraft.com	getartcraft.com の VectorCraft
-	VectorCraft on GitHub	GitHub の VectorCraft
-	VectorCraft read this script without running it.	VectorCraft はこのスクリプトを実行せずに読み取りました。
-file-filter	VectorCraft Template	VectorCraft テンプレート
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	この環境では VectorCraft の Fonts フォルダーが設定されていません: デスクトップアプリと vectorcraft-cli が設定します
+	Iridium copies the fonts to {folder}.	Iridium はフォントを {folder} にコピーします。
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium は前回正常に終了しませんでした。次のドキュメントに未保存の変更があります:
+	Iridium documents: one locked object, updated when the file changes.	Iridium ドキュメント：ロックされた 1 つのオブジェクト。ファイルの変更時に更新されます。
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium は他のアプリやシステムのフォルダーを検索しません: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium は Users 内の Shared フォルダーと Public フォルダーを検索しません: {path}
+@msg	Iridium failed to start: {e}	Iridium を起動できませんでした: {e}
+	Iridium Help…	Iridium ヘルプ…
+	Iridium on getartcraft.com	getartcraft.com の Iridium
+	Iridium on GitHub	GitHub の Iridium
+	Iridium read this script without running it.	Iridium はこのスクリプトを実行せずに読み取りました。
+file-filter	Iridium Template	Iridium テンプレート
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	この環境では Iridium の Fonts フォルダーが設定されていません: デスクトップアプリと vectorcraft-cli が設定します
 	Vectors	ベクター
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	バージョン {0} のファイルは圧縮できません: 圧縮ファイルを開けるのはバージョン {COMPRESSED_SINCE} 以降のみです
 	Version {version} — open-source vector illustration in pure Rust.	バージョン {version} — Rust だけで書かれたオープンソースのベクターイラストアプリ。
@@ -3920,7 +3920,7 @@ swatch	Walnut	ウォルナット
 	Web Shift	Web シフト
 	Web Snap:	Web スナップ:
 	Weight:	線幅:
-	Welcome to VectorCraft	VectorCraft へようこそ
+	Welcome to Iridium	Iridium へようこそ
 	When pasting text	テキストをペーストするとき
 swatch	White	ホワイト
 swatch	White, Black	ホワイト、ブラック

@@ -1,4 +1,4 @@
-# Bosanski (bs) interface catalog for ArtCraft Launcher.
+# Bosanski (bs) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	Aplikacija
 	Apps you hid	Aplikacije koje ste sakrili
 month	Apr	apr
 	Arch package (.pkg.tar.zst)	Arch paket (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	Dostupan je ArtCraft Launcher {version}.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · dostupno {n} ažuriranje|ArtCraft Launcher · dostupna {n} ažuriranja|ArtCraft Launcher · dostupno {n} ažuriranja
-	ArtCraft on GitHub	ArtCraft na GitHubu
-	ArtCraft on {name}	ArtCraft na {name}
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Dostupan je Iridium Launcher {version}.
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · dostupno {n} ažuriranje|Iridium Launcher · dostupna {n} ažuriranja|Iridium Launcher · dostupno {n} ažuriranja
+	Iridium on GitHub	Iridium na GitHubu
+	Iridium on {name}	Iridium na {name}
 month	Aug	aug
 	Automatically download and install updates	Automatski preuzmi i instaliraj ažuriranja
 	Available to install	Dostupno za instalaciju
@@ -119,7 +119,7 @@ filter	Installed	Instalirano
 	Installing…	Instaliranje…
 figcraft	Interface design and prototyping	Dizajn interfejsa i prototipiranje
 month	Jan	jan
-	Join the ArtCraft community on Discord	Pridružite se ArtCraft zajednici na Discordu
+	Join the Iridium community on Discord	Pridružite se Iridium zajednici na Discordu
 	Join the Discord	Pridružite se Discordu
 month	Jul	jul
 month	Jun	jun
@@ -137,7 +137,7 @@ column	Latest	Najnovije
 	Like {name}	Kao {name}
 	link	veza
 @id	linux.preferred_kind	Instaliraj nove aplikacije kao
-	Loading ArtCraft Launcher…	Učitavanje ArtCraft Launchera…
+	Loading Iridium Launcher…	Učitavanje Iridium Launchera…
 	Loading pictures…	Učitavanje slika…
 month	Mar	mar
 	Match system	Prati sistem
@@ -159,7 +159,7 @@ effectcraft	Motion graphics and visual effects	Animirana grafika i vizuelni efek
 month	Nov	nov
 month	Oct	okt
 	Only when I ask	Samo kad zatražim
-	Open ArtCraft Launcher to update.	Otvorite ArtCraft Launcher za ažuriranje.
+	Open Iridium Launcher to update.	Otvorite Iridium Launcher za ažuriranje.
 	Open on GitHub	Otvori na GitHubu
 	Open Source Tools for Creatives, Makers, and Builders	Alati otvorenog koda za kreativce, majstore i graditelje
 designcraft	Page layout and publishing	Prijelom stranica i izdavaštvo
@@ -170,8 +170,8 @@ lightcraft	Photo library and raw development	Biblioteka fotografija i razvijanje
 	Portable (.zip)	Prenosivo (.zip)
 deckcraft	Presentations and slide shows	Prezentacije i projekcije slajdova
 	Previous picture (←)	Prethodna slika (←)
-	Questions, ideas and news from the ArtCraft team	Pitanja, ideje i novosti od ArtCraft tima
-	Quit ArtCraft Launcher	Zatvori ArtCraft Launcher
+	Questions, ideas and news from the Iridium team	Pitanja, ideje i novosti od Iridium tima
+	Quit Iridium Launcher	Zatvori Iridium Launcher
 pdfcraft	Reading, organizing and protecting PDFs	Čitanje, organizovanje i zaštita PDF-ova
 	Reconnecting…	Ponovno povezivanje…
 soundcraft	Recording, editing and mixing audio	Snimanje, uređivanje i miješanje zvuka
@@ -191,10 +191,10 @@ column	Released	Objavljeno
 	Search apps	Pretraži aplikacije
 month	Sep	sep
 @id	settings.open	Postavke
-@id	settings.quit	Zatvori ArtCraft Launcher
+@id	settings.quit	Zatvori Iridium Launcher
 	Show apps as a table	Prikaži aplikacije kao tabelu
 	Show apps as cards	Prikaži aplikacije kao kartice
-	Show ArtCraft Launcher	Prikaži ArtCraft Launcher
+	Show Iridium Launcher	Prikaži Iridium Launcher
 	Show in Explorer	Prikaži u Exploreru
 	Show in Files	Prikaži u Datotekama
 	Show in Finder	Prikaži u Finderu
@@ -207,7 +207,7 @@ month	Sep	sep
 @id	sort.status	Status
 @id	sort.suite	Redoslijed u paketu
 gridcraft	Spreadsheets and data	Tabele i podaci
-	Start ArtCraft Launcher when I log in	Pokreni ArtCraft Launcher pri prijavi
+	Start Iridium Launcher when I log in	Pokreni Iridium Launcher pri prijavi
 	Stop waiting; the update can be started again later	Prestani čekati; ažuriranje se može ponovo pokrenuti kasnije
 	Suite order	Redoslijed u paketu
 	System default	Zadano sistemom
@@ -220,7 +220,7 @@ gridcraft	Spreadsheets and data	Tabele i podaci
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	Ove bilješke nisu preuzete (dostignuto je ograničenje zahtjeva GitHuba). Nalaze se na stranici izdanja.
 @msg	this release has no AppImage for a custom install folder	ovo izdanje nema AppImage za prilagođeni folder za instalaciju
 @id	tray.close_to_tray	Nastavi raditi u sistemskoj traci kad se prozor zatvori
-@id	tray.login_item	Pokreni ArtCraft Launcher pri prijavi
+@id	tray.login_item	Pokreni Iridium Launcher pri prijavi
 @id	tray.show_on_current_desktop	Prikaži prozor na trenutnoj radnoj površini
 	Unhide App	Otkrij aplikaciju
 	Uninstall	Deinstaliraj
@@ -279,7 +279,7 @@ wordcraft	Writing and document design	Pisanje i dizajn dokumenata
 @plural	{n} day ago|{n} days ago	prije {n} dan|prije {n} dana|prije {n} dana
 @plural	{n} h ago|{n} h ago	prije {n} h|prije {n} h|prije {n} h
 @plural	{n} min ago|{n} min ago	prije {n} min|prije {n} min|prije {n} min
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} već postoji i nije ga instalirao ArtCraft Launcher
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} već postoji i nije ga instalirao Iridium Launcher
 	{path} already exists. Installing {name} will overwrite it.	{path} već postoji. Instaliranje aplikacije {name} će ga prepisati.
 	{version} installed → {latest} released	Instalirano {version} → objavljeno {latest}
 	⊞  Grid	⊞  Mreža

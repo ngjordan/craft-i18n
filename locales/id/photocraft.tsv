@@ -1,4 +1,4 @@
-# Bahasa Indonesia (id) interface catalog for PhotoCraft.
+# Bahasa Indonesia (id) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -72,7 +72,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: {prs} PR, {commits} commit, +{added} / −{deleted} baris (Δ {delta}), +{binAdded} / −{binDeleted} berkas biner, {first} – {last}
 	A brush preset with this name already exists	Preset kuas dengan nama ini sudah ada
 	A save to {name} is still running; try again when it finishes	Penyimpanan ke {name} masih berjalan; coba lagi setelah selesai
-	About PhotoCraft	Tentang PhotoCraft
+	About Iridium	Tentang Iridium
 	Absolute Colorimetric	Absolute Colorimetric
 	Accept and Go to Conflict	Terima dan Buka Konflik
 	ACES	ACES
@@ -150,7 +150,7 @@
 	All Caps	Huruf Kapital Semua
 	All Layers	Semua Layer
 	All Layers No Adjustments	Semua Layer Tanpa Penyesuaian
-	All shortcuts reset to PhotoCraft defaults.	Semua pintasan direset ke default PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Semua pintasan direset ke default Iridium.
 	All Slices	Semua Slice
 	All User Slices	Semua Slice Pengguna
 	Allow agent control	Izinkan kontrol agen
@@ -719,7 +719,7 @@ cameraData	Date Taken	Tanggal Diambil
 	Decrease Brush Size	Perkecil ukuran kuas
 	Default colours (D)	Warna default (D)
 	Default Features	Fitur Default
-	Default PhotoCraft Size	Ukuran Default PhotoCraft
+	Default Iridium Size	Ukuran Default Iridium
 	Default printer	Printer default
 	Default restored.	Default dipulihkan.
 	Defaults restored.	Default dipulihkan.
@@ -1686,7 +1686,7 @@ cameraData	Model	Model
 	Operation	Operasi
 	Optical	Optik
 	Option-click to define a source point to clone from	Option-klik untuk menentukan titik sumber yang mau di-clone
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Atau atur Preferensi › Performa › Server tampilan Linux ke X11: PhotoCraft lalu selalu berjalan di XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Atau atur Preferensi › Performa › Server tampilan Linux ke X11: Iridium lalu selalu berjalan di XWayland.
 	Original Ratio	Rasio Asli
 	Ornaments	Ornamen
 	Other…	Lainnya…
@@ -1767,16 +1767,16 @@ cameraData	Model	Model
 	Photo (8 × 10 in)	Foto (8 × 10 in)
 	Photo Filter	Filter Foto
 	Photo Filter…	Filter Foto…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Bawaan PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft menemukan set pintasan keyboard Anda {set} dari editor gambar lain di komputer ini: {n} pintasannya berbeda dari PhotoCraft. Impor?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft menggunakan kompositor gambar CPU. Jendela mungkin masih menggunakan adaptor grafis Anda.
-	PhotoCraft Manages Colors	PhotoCraft Mengelola Warna
-	PhotoCraft on GitHub	PhotoCraft di GitHub
-	PhotoCraft Website	Situs Web PhotoCraft
-	PhotoCraft website	Situs web PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — editor gambar native open-source yang ditulis dengan Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Pemilih Warna Layar
+	Iridium	Iridium
+	Iridium Defaults	Bawaan Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium menemukan set pintasan keyboard Anda {set} dari editor gambar lain di komputer ini: {n} pintasannya berbeda dari Iridium. Impor?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium menggunakan kompositor gambar CPU. Jendela mungkin masih menggunakan adaptor grafis Anda.
+	Iridium Manages Colors	Iridium Mengelola Warna
+	Iridium on GitHub	Iridium di GitHub
+	Iridium Website	Situs Web Iridium
+	Iridium website	Situs web Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — editor gambar native open-source yang ditulis dengan Rust.
+	Iridium — Screen Color Picker	Iridium — Pemilih Warna Layar
 	Photography	Fotografi
 	Photomerge…	Photomerge…
 	Pick a screen pixel or press Esc to cancel	Pilih piksel layar atau tekan Esc untuk membatalkan
@@ -2410,7 +2410,7 @@ curves	Smooth	Haluskan
 	The transform couldn't be applied.	Transformasi tidak dapat diterapkan.
 	There are too many sets: delete one first.	Terlalu banyak set: hapus satu terlebih dahulu.
 	There is no crop size or ratio to save	Tidak ada ukuran atau rasio pangkas untuk disimpan
-	These settings aren't available in PhotoCraft yet.	Pengaturan ini belum tersedia di PhotoCraft.
+	These settings aren't available in Iridium yet.	Pengaturan ini belum tersedia di Iridium.
 	Thin	Tipis
 fontWeight	Thin	Sangat Tipis
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	Layer dokumen ini membutuhkan {needed} tetapi boleh memakai {budget}: penggambaran ulang seluruh dokumen memakai CPU
@@ -2435,7 +2435,7 @@ fontWeight	Thin	Sangat Tipis
 cameraRaw	Tint	Rona
 	Tiny	Mungil
 	Titling Alternates	Alternatif Judul
-	To drop files, start PhotoCraft under XWayland: `{command}`	Untuk menjatuhkan berkas, jalankan PhotoCraft di XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Untuk menjatuhkan berkas, jalankan Iridium di XWayland: `{command}`
 	Toggle count group visibility	Alihkan visibilitas grup hitungan
 	Toggle Last State	Alihkan Status Terakhir
 	Toggle reference point	Alihkan titik referensi
@@ -2614,12 +2614,12 @@ cameraRaw	Tint	Rona
 	{name} Properties	Properti {name}
 	{name} was changed by another app after it was opened or saved here.	{name} diubah oleh aplikasi lain setelah dibuka atau disimpan di sini.
 @plural	{n} action|{n} actions	{n} tindakan
-	{n} commands are not in PhotoCraft.	{n} perintah tidak ada di PhotoCraft.
+	{n} commands are not in Iridium.	{n} perintah tidak ada di Iridium.
 @plural	{n} Layer|{n} Layers	{n} Layer
 @plural	{n} layer|{n} layers	{n} layer
 	{n} of {max} sample points	{n} dari {max} titik sampel
 @plural	{n} sample|{n} samples	{n} sampel
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} langkah belum memiliki padanan di PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} langkah belum memiliki padanan di Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	{n} langkah tanpa padanan Photoshop dilewati
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: jalur bukan Unicode yang valid; ganti nama file lalu buka lagi.
 	{set} (modified)	{set} (diubah)

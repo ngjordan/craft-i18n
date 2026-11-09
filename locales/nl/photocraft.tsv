@@ -1,4 +1,4 @@
-# Nederlands (nl) interface catalog for PhotoCraft.
+# Nederlands (nl) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -71,7 +71,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: {prs} PR's, {commits} commits, +{added} / −{deleted} regels (Δ {delta}), +{binAdded} / −{binDeleted} binaire bestanden, {first} – {last}
 	A brush preset with this name already exists	Er bestaat al een penseelvoorinstelling met deze naam
 	A save to {name} is still running; try again when it finishes	Er wordt nog opgeslagen naar {name}; probeer het opnieuw zodra dat klaar is
-	About PhotoCraft	Over PhotoCraft
+	About Iridium	Over Iridium
 	About {app}	Over {app}
 	Accept and Go to Conflict	Accepteren en naar conflict
 	ACES	ACES
@@ -152,7 +152,7 @@
 	Aligned	Uitgelijnd
 	All Caps	Alleen hoofdletters
 	All Layers No Adjustments	Alle lagen zonder aanpassingen
-	All shortcuts reset to PhotoCraft defaults.	Alle sneltoetsen zijn teruggezet naar de standaardwaarden van PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Alle sneltoetsen zijn teruggezet naar de standaardwaarden van Iridium.
 	All Slices	Alle segmenten
 	All User Slices	Alle gebruikerssegmenten
 	Allow agent control	Agentbesturing toestaan
@@ -234,7 +234,7 @@ cameraRaw	Aqua	Aqua
 	Artboards to PDF	Tekengebieden naar PDF
 	Artboards to PDF…	Tekengebieden naar PDF…
 	Artboard…	Tekengebied…
-	ArtCraft Website	Website van ArtCraft
+	Iridium Website	Website van Iridium
 	Artist	Artiest
 	Ask	Vragen
 	Ask before saving layered tiff	Vragen voor opslaan van gelaagde TIFF
@@ -819,7 +819,7 @@ cameraData	Date Taken	Opnamedatum
 	Default Features	Standaardfuncties
 	Default Foreground and Background Colors	Standaard voorgrond- en achtergrondkleur
 	Default Leaves	Standaardbladeren
-	Default PhotoCraft Size	Standaardgrootte PhotoCraft
+	Default Iridium Size	Standaardgrootte Iridium
 	Default printer	Standaardprinter
 	Default restored.	Standaard hersteld.
 	Defaults	Standaardwaarden
@@ -1818,7 +1818,7 @@ cameraData	Model	Model
 	My Brushes	Mijn penselen
 	name	naam
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Bestanden slepen en neerzetten wordt nog niet ondersteund onder Wayland. Gebruik Bestand › Openen, of kopieer de afbeelding in je bestandsbeheerder en plak deze met {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Bestanden slepen en neerzetten wordt nog niet ondersteund onder Wayland. Gebruik Bestand › Openen, of start PhotoCraft onder XWayland met `WAYLAND_DISPLAY= photocraft`.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Bestanden slepen en neerzetten wordt nog niet ondersteund onder Wayland. Gebruik Bestand › Openen, of start Iridium onder XWayland met `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Bestanden slepen en neerzetten is niet beschikbaar
 	Nearest Neighbor	Naaste buur
 	Nearest neighbor	Naaste buur
@@ -1964,7 +1964,7 @@ layerLabel	No Color	Geen kleur
 	Operation failed	Bewerking mislukt
 	Optical	Optisch
 	Option-click to define a source point to clone from	Option-klik om een bronpunt te definiëren om van te klonen
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Of zet Voorkeuren › Prestaties › Linux-weergaveserver op X11: PhotoCraft start dan altijd onder XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Of zet Voorkeuren › Prestaties › Linux-weergaveserver op X11: Iridium start dan altijd onder XWayland.
 cameraRaw	Orange	Oranje
 	Orientation	Richting
 	Original Ratio	Oorspronkelijke verhouding
@@ -2056,16 +2056,16 @@ cameraRaw	Orange	Oranje
 	Photo (8 × 10 in)	Foto (8 × 10 inch)
 	Photo Filter	Fotofilter
 	Photo Filter…	Fotofilter…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	PhotoCraft-standaard
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft heeft op deze computer je sneltoetsenset {set} van een andere beeldbewerker gevonden: {n} van de sneltoetsen wijken af van die van PhotoCraft. Importeren?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft gebruikt de CPU-beeldcompositor. Het venster kan nog steeds je grafische adapter gebruiken.
-	PhotoCraft Manages Colors	PhotoCraft beheert kleuren
-	PhotoCraft on GitHub	PhotoCraft op GitHub
-	PhotoCraft Website	Website van PhotoCraft
-	PhotoCraft website	Website van PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — een opensource, native afbeeldingseditor geschreven in Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Schermkleurkiezer
+	Iridium	Iridium
+	Iridium Defaults	Iridium-standaard
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium heeft op deze computer je sneltoetsenset {set} van een andere beeldbewerker gevonden: {n} van de sneltoetsen wijken af van die van Iridium. Importeren?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium gebruikt de CPU-beeldcompositor. Het venster kan nog steeds je grafische adapter gebruiken.
+	Iridium Manages Colors	Iridium beheert kleuren
+	Iridium on GitHub	Iridium op GitHub
+	Iridium Website	Website van Iridium
+	Iridium website	Website van Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — een opensource, native afbeeldingseditor geschreven in Rust.
+	Iridium — Screen Color Picker	Iridium — Schermkleurkiezer
 	Photography	Fotografie
 	Photomerge	Photomerge
 	Photomerge…	Photomerge…
@@ -2203,7 +2203,7 @@ cameraRaw	Purple	Paars
 	Quick Selection Tool	Snelle selectie
 	Quick Sync	Snelle synchronisatie
 	Quit	Afsluiten
-	Quit PhotoCraft	PhotoCraft afsluiten
+	Quit Iridium	Iridium afsluiten
 	Quit {app}	{app} afsluiten
 	Radial Blur	Radiaal vervagen
 	Radius X	Straal X
@@ -2836,7 +2836,7 @@ cameraRaw	Temperature	Temperatuur
 	The transform couldn't be applied.	De transformatie kon niet worden toegepast.
 	There are too many sets: delete one first.	Er zijn te veel sets: verwijder er eerst een.
 	There is no crop size or ratio to save	Er is geen uitsnijformaat of verhouding om op te slaan
-	These settings aren't available in PhotoCraft yet.	Deze instellingen zijn nog niet beschikbaar in PhotoCraft.
+	These settings aren't available in Iridium yet.	Deze instellingen zijn nog niet beschikbaar in Iridium.
 	Thin	Dun
 fontWeight	Thin	Dun
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	De lagen van dit document hebben {needed} nodig maar mogen {budget} gebruiken: het hele document wordt op de CPU opnieuw getekend
@@ -2862,7 +2862,7 @@ cameraRaw	Tint	Tint
 	Tiny Lens	Kleine lens
 	Titling Alternates	Titelalternatieven
 	To Center	Naar het midden
-	To drop files, start PhotoCraft under XWayland: `{command}`	Start PhotoCraft onder XWayland om bestanden neer te zetten: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Start Iridium onder XWayland om bestanden neer te zetten: `{command}`
 	Toggle count group visibility	Zichtbaarheid telgroep wisselen
 	Toggle Last State	Laatste staat wisselen
 	Toggle reference point	Referentiepunt tonen/verbergen
@@ -3103,7 +3103,7 @@ cameraRaw	Yellow	Geel
 	{name} Properties	Eigenschappen van {name}
 	{name} was changed by another app after it was opened or saved here.	{name} is door een andere app gewijzigd nadat het hier is geopend of bewaard.
 @plural	{n} action|{n} actions	{n} handeling|{n} handelingen
-	{n} commands are not in PhotoCraft.	{n} opdrachten bestaan niet in PhotoCraft.
+	{n} commands are not in Iridium.	{n} opdrachten bestaan niet in Iridium.
 @plural	{n} item|{n} items	{n} element|{n} elementen
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	{n} laag die deze compositie vastlegt, is verwijderd. Werk de compositie bij of wis de waarschuwing.|{n} lagen die deze compositie vastlegt, zijn verwijderd. Werk de compositie bij of wis de waarschuwing.
 @plural	{n} layer|{n} layers	{n} laag|{n} lagen
@@ -3113,7 +3113,7 @@ cameraRaw	Yellow	Geel
 @plural	{n} sample point removed|{n} sample points removed	{n} steekproefpunt verwijderd|{n} steekproefpunten verwijderd
 @plural	{n} sample|{n} samples	{n} monster|{n} monsters
 @plural	{n} slice|{n} slices	{n} segment|{n} segmenten
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} stap heeft nog geen equivalent in PhotoCraft|{n} stappen hebben nog geen equivalent in PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} stap heeft nog geen equivalent in Iridium|{n} stappen hebben nog geen equivalent in Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	{n} stap zonder Photoshop-equivalent weggelaten|{n} stappen zonder Photoshop-equivalent weggelaten
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: het pad is geen geldige Unicode; hernoem het bestand en open het opnieuw.
 	{set} (modified)	{set} (gewijzigd)

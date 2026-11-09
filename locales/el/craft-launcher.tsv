@@ -1,4 +1,4 @@
-# Ελληνικά (el) interface catalog for ArtCraft Launcher.
+# Ελληνικά (el) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,10 +34,10 @@
 	Apps you can install	Εφαρμογές που μπορείτε να εγκαταστήσετε
 	Apps you hid	Εφαρμογές που αποκρύψατε
 	Arch package (.pkg.tar.zst)	Πακέτο Arch (.pkg.tar.zst)
-	ArtCraft Launcher {version} is available.	Το ArtCraft Launcher {version} είναι διαθέσιμο.
-	ArtCraft Launcher is still running	Το ArtCraft Launcher εξακολουθεί να εκτελείται
-	ArtCraft on {name}	Το ArtCraft στο {name}
-	ArtCraft on GitHub	Το ArtCraft στο GitHub
+	Iridium Launcher {version} is available.	Το Iridium Launcher {version} είναι διαθέσιμο.
+	Iridium Launcher is still running	Το Iridium Launcher εξακολουθεί να εκτελείται
+	Iridium on {name}	Το Iridium στο {name}
+	Iridium on GitHub	Το Iridium στο GitHub
 	Ascending	Αύξουσα
 	Automatically download and install updates	Αυτόματη λήψη και εγκατάσταση ενημερώσεων
 	Available to install	Διαθέσιμες για εγκατάσταση
@@ -100,7 +100,7 @@
 	Installing, then restarting…	Εγκατάσταση και επανεκκίνηση…
 	Installing…	Εγκατάσταση…
 	It's in the tray: open it or quit it from the tray icon, or turn this off in the settings.	Βρίσκεται στην περιοχή ειδοποιήσεων: ανοίξτε το ή κλείστε το από το εικονίδιό του εκεί, ή απενεργοποιήστε αυτή τη λειτουργία στις ρυθμίσεις.
-	Join the ArtCraft community on Discord	Γίνετε μέλος της κοινότητας του ArtCraft στο Discord
+	Join the Iridium community on Discord	Γίνετε μέλος της κοινότητας του Iridium στο Discord
 	Join the Discord	Γίνετε μέλος στο Discord
 	Keep running in the tray when the window is closed	Συνέχιση εκτέλεσης στην περιοχή ειδοποιήσεων όταν κλείνει το παράθυρο
 	Last updated: {date}	Τελευταία ενημέρωση: {date}
@@ -109,7 +109,7 @@
 	Latest version	Τελευταία έκδοση
 	Learn more	Μάθετε περισσότερα
 	link	σύνδεσμος
-	Loading ArtCraft Launcher…	Φόρτωση του ArtCraft Launcher…
+	Loading Iridium Launcher…	Φόρτωση του Iridium Launcher…
 	Loading pictures…	Φόρτωση εικόνων…
 	Match system	Όπως το σύστημα
 	More actions for {name}	Περισσότερες ενέργειες για το {name}
@@ -132,7 +132,7 @@
 	Offline	Εκτός σύνδεσης
 	On Linux, custom folders use AppImage format.	Στο Linux, οι προσαρμοσμένοι φάκελοι χρησιμοποιούν τη μορφή AppImage.
 	Only when I ask	Μόνο όταν το ζητώ
-	Open ArtCraft Launcher to update.	Ανοίξτε το ArtCraft Launcher για να γίνει η ενημέρωση.
+	Open Iridium Launcher to update.	Ανοίξτε το Iridium Launcher για να γίνει η ενημέρωση.
 	Open on GitHub	Άνοιγμα στο GitHub
 	Open Source Tools for Creatives, Makers, and Builders	Εργαλεία ανοιχτού κώδικα για δημιουργούς, μάστορες και κατασκευαστές
 	Pause download	Παύση λήψης
@@ -141,8 +141,8 @@
 	Portable (.zip)	Φορητή έκδοση (.zip)
 	Previous app	Προηγούμενη εφαρμογή
 	Previous picture (←)	Προηγούμενη εικόνα (←)
-	Questions, ideas and news from the ArtCraft team	Ερωτήσεις, ιδέες και νέα από την ομάδα του ArtCraft
-	Quit ArtCraft Launcher	Έξοδος από το ArtCraft Launcher
+	Questions, ideas and news from the Iridium team	Ερωτήσεις, ιδέες και νέα από την ομάδα του Iridium
+	Quit Iridium Launcher	Έξοδος από το Iridium Launcher
 	Recently updated	Πρόσφατα ενημερωμένες
 	Reconnecting…	Επανασύνδεση…
 	Reinstall	Επανεγκατάσταση
@@ -161,12 +161,12 @@
 	Show {n} more changes	Εμφάνιση {n} ακόμη αλλαγών
 	Show apps as a table	Εμφάνιση εφαρμογών ως πίνακα
 	Show apps as cards	Εμφάνιση εφαρμογών ως κάρτες
-	Show ArtCraft Launcher	Εμφάνιση του ArtCraft Launcher
+	Show Iridium Launcher	Εμφάνιση του Iridium Launcher
 	Show in Explorer	Εμφάνιση στο Explorer
 	Show in Files	Εμφάνιση στο Files
 	Show in Finder	Εμφάνιση στο Finder
 	Show the window on the current desktop	Εμφάνιση του παραθύρου στην τρέχουσα επιφάνεια εργασίας
-	Start ArtCraft Launcher when I log in	Εκκίνηση του ArtCraft Launcher κατά τη σύνδεσή μου
+	Start Iridium Launcher when I log in	Εκκίνηση του Iridium Launcher κατά τη σύνδεσή μου
 	Stop waiting; the update can be started again later	Διακοπή αναμονής· η ενημέρωση μπορεί να ξεκινήσει ξανά αργότερα
 	Suite order	Σειρά σουίτας
 	System default	Προεπιλογή συστήματος
@@ -228,7 +228,7 @@
 @id	launcher.update	Ενημέρωση και επανεκκίνηση
 @id	linux.preferred_kind	Εγκατάσταση νέων εφαρμογών ως
 @id	settings.open	Ρυθμίσεις
-@id	settings.quit	Έξοδος από το ArtCraft Launcher
+@id	settings.quit	Έξοδος από το Iridium Launcher
 @id	sort.installed	Εγκατεστημένη έκδοση
 @id	sort.latest	Τελευταία έκδοση
 @id	sort.name	Όνομα
@@ -236,7 +236,7 @@
 @id	sort.status	Κατάσταση
 @id	sort.suite	Σειρά σουίτας
 @id	tray.close_to_tray	Συνέχιση εκτέλεσης στην περιοχή ειδοποιήσεων όταν κλείνει το παράθυρο
-@id	tray.login_item	Εκκίνηση του ArtCraft Launcher κατά τη σύνδεση
+@id	tray.login_item	Εκκίνηση του Iridium Launcher κατά τη σύνδεση
 @id	tray.show_on_current_desktop	Εμφάνιση του παραθύρου στην τρέχουσα επιφάνεια εργασίας
 @id	update.check	Έλεγχος για ενημερώσεις
 @id	update.check_auto	Αυτόματος έλεγχος για ενημερώσεις
@@ -254,7 +254,7 @@
 @msg	{name} was installed from the AUR ({pkg}). Update it with {cmd}	Το {name} εγκαταστάθηκε από το AUR ({pkg}). Ενημερώστε το με {cmd}
 @msg	{name} was installed from the AUR ({pkg}). Update it with your AUR helper (for example: yay -S {pkg})	Το {name} εγκαταστάθηκε από το AUR ({pkg}). Ενημερώστε το με το εργαλείο AUR που χρησιμοποιείτε (για παράδειγμα: yay -S {pkg})
 @msg	{name} was removed	Το {name} αφαιρέθηκε
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	Το {path} υπάρχει ήδη και δεν εγκαταστάθηκε από το ArtCraft Launcher
+@msg	{path} already exists and wasn't installed by Iridium Launcher	Το {path} υπάρχει ήδη και δεν εγκαταστάθηκε από το Iridium Launcher
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	δεν ήταν δυνατή η μετακίνηση του {path} στον Κάδο ({reason}). Αφαιρέστε το από το Finder.
 @msg	couldn't use install folder {path}: {reason}	δεν ήταν δυνατή η χρήση του φακέλου εγκατάστασης {path}: {reason}
 @msg	custom install folders aren't supported on this system	οι προσαρμοσμένοι φάκελοι εγκατάστασης δεν υποστηρίζονται σε αυτό το σύστημα
@@ -264,7 +264,7 @@
 @plural	{n} day ago|{n} days ago	πριν από {n} ημέρα|πριν από {n} ημέρες
 @plural	{n} h ago|{n} h ago	πριν από {n} ώρα|πριν από {n} ώρες
 @plural	{n} min ago|{n} min ago	πριν από {n} λεπτό|πριν από {n} λεπτά
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} διαθέσιμη ενημέρωση|ArtCraft Launcher · {n} διαθέσιμες ενημερώσεις
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} διαθέσιμη ενημέρωση|Iridium Launcher · {n} διαθέσιμες ενημερώσεις
 cadcraft	Computer-aided design and drafting	Σχεδίαση και σχέδιο με τη βοήθεια υπολογιστή
 deckcraft	Presentations and slide shows	Παρουσιάσεις και προβολές διαφανειών
 designcraft	Page layout and publishing	Σελιδοποίηση και εκδόσεις

@@ -1,4 +1,4 @@
-# বাংলা (bn) interface catalog for VectorCraft.
+# বাংলা (bn) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -143,7 +143,7 @@
 #swatch	[Registration]	
 #	[Smallest File Size]	
 #	[Unnamed]	
-#	[VectorCraft Default]	
+#	[Iridium Default]	
 #@msg	`aspect` must be a number (%)	
 #@msg	`at` must be [x, y]	
 #@msg	`color` must be a colour	
@@ -168,7 +168,7 @@
 #@msg	`{_1}` is no save command	
 #@msg	`{area}` is no recovery area name	
 #@msg	`{color}` is not a colour (#rrggbb or a preset name)	
-#@msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	
+#@msg	`{file}` isn't a Iridium document, a PDF or a PDF-compatible .ai file	
 #@msg	`{given}` isn't a library panel (see window.swatchLibrary)	
 #@msg	`{id}` has no envelope dialog	
 #@msg	`{keep}` is not a side of this axis	
@@ -255,7 +255,7 @@
 #	A4	
 #	A5	
 #	A6	
-	About VectorCraft	ভেক্টরক্রাফট সম্পর্কে
+	About Iridium	ভেক্টরক্রাফট সম্পর্কে
 #	above	
 #	Above Text	
 #	Absolute Position	
@@ -351,7 +351,7 @@
 #	Ambient Light	
 #@msg	an image has no pixels and was left out	
 #@msg	an image of {w} × {h} pixels is too large to draw	
-#@msg	an image VectorCraft can't read was left out	
+#@msg	an image Iridium can't read was left out	
 #@msg	an image whose data is cut short was left out	
 #@msg	an object can't be read	
 #@msg	an object in perspective would leave the edited grid	
@@ -383,7 +383,7 @@
 #	Appearance Panel	
 #	Appearance panel	
 #	Applied Filters	
-#	Applies the next time VectorCraft starts.	
+#	Applies the next time Iridium starts.	
 #	Applies when the linked file is relinked or updated.	
 #	Apply Brush	
 #	Apply Effect	
@@ -622,7 +622,7 @@
 #@msg	can't parse shortcut `{c}`	
 #@msg	can't parse shortcut `{s}` for `{k}`	
 #	Can't print these settings: see the Summary	
-#@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	
+#@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	
 #	Can't save “{name}”.	
 #@msg	can't write .{ext} images	
 #	Cancel Export	
@@ -1083,7 +1083,7 @@
 #	Dialog	
 #	Diamond (open)	
 #	Differences from [Default]:	
-#	Differences from VectorCraft Default:	
+#	Differences from Iridium Default:	
 #	Differences from {preset}:	
 #	Diffuse	
 #	Diffuse Glow…	
@@ -1232,7 +1232,7 @@
 #	DXF Options Dialog	
 #	e.g. 1-3, 5	
 #	Each Design Represents:	
-#	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	
+#	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	
 #	Each page prints as one image, at the document's raster effects resolution.	
 #	Earth Tones	
 #	Ease In	
@@ -1451,7 +1451,7 @@
 #	File Info Dialog	
 #	File Name:	
 #	File or URL:	
-#@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	
+#@msg	file version {0} is newer than this Iridium supports ({VERSION})	
 #	File › Place… brings in an image, linked or embedded.	
 #	Files of a PDF standard can't be password-protected.	
 #	Files of this standard tag their colours with ICC profiles.	
@@ -1713,7 +1713,7 @@
 #	Hide Thumbnail	
 #	Hide Thumbnails	
 #	Hide Transparency Grid	
-#	Hide VectorCraft	
+#	Hide Iridium	
 #	High (300 ppi)	
 #	High Contrast	
 #	High Contrast 2	
@@ -1806,7 +1806,7 @@
 #	In Tangent Handles	
 #	In the File	
 #	In the selected objects	
-#	In VectorCraft	
+#	In Iridium	
 #	Include all profiles	
 #	Include All Subdirectories	
 #	Include Blacks with CMY:	
@@ -1871,7 +1871,7 @@
 #	Invert Colors	
 #	Invert Pie	
 #	Inverted Round	
-#@msg	is not an image VectorCraft reads	
+#@msg	is not an image Iridium reads	
 #	Isolate Blending	
 #	Isolate Group	
 #	Isolate Selected Group	
@@ -1890,9 +1890,9 @@
 #@msg	it has too many text objects	
 #@msg	it has too many values in a row	
 #@msg	it has too much text	
-#@msg	it has {_1}, which VectorCraft doesn't read from it yet	
-#@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	
-#@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	
+#@msg	it has {_1}, which Iridium doesn't read from it yet	
+#@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	
+#@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	
 #@msg	its editing data doesn't say where its art is	
 #@msg	its editing data doesn't say where its artboard is	
 #@msg	its editing data has no layers	
@@ -1915,7 +1915,7 @@
 #	JavaScript:	
 #@msg	join needs open paths	
 #	Join Our Discord	
-#	Join the ArtCraft community on Discord (discord.gg/artcraft)	
+#	Join the Iridium community on Discord (discord.gg/artcraft)	
 #	Join the lines of each paragraph	
 #	Join Tool	
 #	Joins	
@@ -1935,7 +1935,7 @@
 #	Keep the pasted color as a new swatch with a numbered name.	
 #	Keep this row's colors (exclude)	
 #	Keep visible surfaces only when expanding	
-#	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	
+#	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	
 #	Kerning (0 = Auto)	
 #	Key Color:	
 #	Keyboard Increment	
@@ -2078,7 +2078,7 @@
 #	Load Texture…	
 #	Load Variable Library…	
 #	Loaded Texture	
-#@msg	Loading VectorCraft…	
+#@msg	Loading Iridium…	
 #	Loads native code	
 #	Local Libraries	
 #	Locate Library…	
@@ -2481,8 +2481,8 @@
 #@msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	
 #@msg	not a stored central record	
 #@msg	not a valid plug-in module: {0}	
-#@msg	not a VectorCraft file: {0}	
-#@msg	not a VectorCraft shortcut set (missing `overrides`)	
+#@msg	not a Iridium file: {0}	
+#@msg	not a Iridium shortcut set (missing `overrides`)	
 #@msg	not an EMF or WMF file	
 #	Not followed: outside the script's folder	
 #	Not found	
@@ -2641,7 +2641,7 @@
 #@msg	Opened with {_1} note(s): {_2}	
 #	Opened with {} note(s): {}	
 #@msg	Opened {url}	
-#	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	
+#	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	
 #	Opens files in other apps	
 #	Opens network connections	
 #	Optical Margin Alignment	
@@ -2737,8 +2737,8 @@
 #	Paragraph Style	
 #	Paragraph Style Options	
 #	Paragraph Symbol	
-#	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	
-#	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	
+#	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	
+#	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	
 #@msg	part of the program isn't valid PostScript text	
 #	Paste Design	
 #	Paste in Back	
@@ -2968,7 +2968,7 @@
 #	Quality:	
 #	Quarter Space	
 #	Quickly start a new file	
-#	Quit VectorCraft	
+#	Quit Iridium	
 #	Radar Graph Tool	
 #gradient-kind	Radial	
 #	Radial Dividers:	
@@ -3789,7 +3789,7 @@
 #	Standard:	
 #	Star Tool	
 #	Start arrowhead	
-#	Start from VectorCraft Defaults	
+#	Start from Iridium Defaults	
 #	Start Global Edit	
 #	Start Tile	
 #	Start:	
@@ -3950,7 +3950,7 @@
 #	The bounds of the visible art.	
 #	The cell shows the type object's text as HTML.	
 #@msg	the Color Picker is not open	
-#@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	
+#@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	
 #@msg	the compressed file unpacks to more than {_1} MB	
 #	The dialog was closed before its file dialog answered	
 #@msg	the document has never been saved	
@@ -3981,7 +3981,7 @@
 #@msg	the file's preview header points outside the file	
 #@msg	the file's variables and data sets weren't read (variables: {variables}, data sets: {data_sets}): the Variables panel doesn't list them	
 #@msg	the files come to more than 1 GB: add fewer at a time	
-#@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	
+#@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	
 #@msg	The graphics were lost and couldn't be restarted.	
 #@msg	The graphics were lost and have been restarted	
 #@msg	the guide is on a hidden or locked layer	
@@ -3993,12 +3993,12 @@
 #@msg	the image's pixels can't be read	
 #@msg	the image's pixels don't match its size	
 #	The key color becomes the stroke color. The other colors shift their hue by the same amount and keep their saturation and brightness.	
-#@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	
-#@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	
+#@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	
+#@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	
 #@msg	the layer has no objects to clip by	
 #@msg	the layer or group is locked	
 #@msg	the layer to flatten into is hidden	
-#	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	
+#	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	
 #@msg	the object already has an opacity mask	
 #@msg	the object has no geometry	
 #@msg	the object has no opacity mask	
@@ -4076,7 +4076,7 @@
 #	This library is empty.	
 #	This panel is on the roadmap (see the parity plan).	
 #@msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	
-#@msg	This shortcut file is in a form VectorCraft can't read.	
+#@msg	This shortcut file is in a form Iridium can't read.	
 #	This system has no screen color sampler	
 #@msg	this system has no screen color sampler	
 #@msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	
@@ -4353,23 +4353,23 @@
 #	Vector Halftone	
 #	Vector Halftone…	
 #	Vector illustration — fast, open, scriptable.	
-#	VectorCraft	
-#	VectorCraft copies the fonts to {folder}.	
-#	VectorCraft Default	
-#	VectorCraft Defaults	
-#	VectorCraft didn't quit normally last time. These documents had unsaved changes:	
-#	VectorCraft documents: one locked object, updated when the file changes.	
-#@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	
-#@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	
-#@msg	VectorCraft failed to start: {e}	
-#	VectorCraft Generic CMYK (SWOP-like)	
-#	VectorCraft Help…	
-#	VectorCraft on getartcraft.com	
-#	VectorCraft on GitHub	
-#	VectorCraft read this script without running it.	
-#	VectorCraft Swatches (.vcswatches)	
-#file-filter	VectorCraft Template	
-#@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	
+#	Iridium	
+#	Iridium copies the fonts to {folder}.	
+#	Iridium Default	
+#	Iridium Defaults	
+#	Iridium didn't quit normally last time. These documents had unsaved changes:	
+#	Iridium documents: one locked object, updated when the file changes.	
+#@msg	Iridium doesn't search other apps' or the system's folders: {path}	
+#@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	
+#@msg	Iridium failed to start: {e}	
+#	Iridium Generic CMYK (SWOP-like)	
+#	Iridium Help…	
+#	Iridium on getartcraft.com	
+#	Iridium on GitHub	
+#	Iridium read this script without running it.	
+#	Iridium Swatches (.vcswatches)	
+#file-filter	Iridium Template	
+#@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	
 #	Vectors	
 #@msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	
 #	Version {version} — open-source vector illustration in pure Rust.	
@@ -4434,7 +4434,7 @@
 #	Web Snap:	
 #	WebP	
 #	Weight:	
-#	Welcome to VectorCraft	
+#	Welcome to Iridium	
 #	When pasting text	
 #swatch	White	
 #swatch	White, Black	

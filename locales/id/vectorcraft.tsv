@@ -1,4 +1,4 @@
-# Bahasa Indonesia (id) interface catalog for VectorCraft.
+# Bahasa Indonesia (id) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -141,7 +141,7 @@ swatch	[None]	[Tidak ada]
 swatch	[Registration]	[Registrasi]
 	[Smallest File Size]	[Ukuran file terkecil]
 	[Unnamed]	[Tanpa nama]
-	[VectorCraft Default]	[Default VectorCraft]
+	[Iridium Default]	[Default Iridium]
 @msg	`aspect` must be a number (%)	`aspect` harus berupa angka (%)
 @msg	`at` must be [x, y]	`at` harus [x, y]
 @msg	`color` must be a colour	`color` harus berupa warna
@@ -229,7 +229,7 @@ swatch	[Registration]	[Registrasi]
 	A4	A4
 	A5	A5
 	A6	A6
-	About VectorCraft	Tentang VectorCraft
+	About Iridium	Tentang Iridium
 	above	di atas
 	Above Text	Di atas teks
 	Absolute Position	Posisi absolut
@@ -320,7 +320,7 @@ file-filter	All readable files	Semua berkas yang dapat dibaca
 swatch	Amber	Amber
 	Ambient Light	Cahaya ambient
 @msg	an image of {w} × {h} pixels is too large to draw	gambar {w} × {h} piksel terlalu besar untuk digambar
-@msg	an image VectorCraft can't read was left out	gambar yang tidak dapat dibaca VectorCraft tidak disertakan
+@msg	an image Iridium can't read was left out	gambar yang tidak dapat dibaca Iridium tidak disertakan
 @msg	an image whose data is cut short was left out	gambar yang datanya terpotong tidak disertakan
 @msg	an object can't be read	objek tidak dapat dibaca
 @msg	an object in perspective would leave the edited grid	objek dalam perspektif akan keluar dari kisi yang sedang disunting
@@ -351,7 +351,7 @@ swatch	Amber	Amber
 	Appearance of Black	Tampilan hitam
 	Appearance Panel	Panel tampilan
 	Appearance panel	Panel Tampilan
-	Applies the next time VectorCraft starts.	Berlaku saat VectorCraft dimulai berikutnya.
+	Applies the next time Iridium starts.	Berlaku saat Iridium dimulai berikutnya.
 	Applies when the linked file is relinked or updated.	Berlaku saat file tertaut ditautkan ulang atau diperbarui.
 	Apply Brush	Terapkan kuas
 	Apply Effect	Terapkan efek
@@ -403,7 +403,7 @@ swatch	Aqua	Aqua
 	Artboard {n} of {total}	Artboard {n} dari {total}
 	Artboard:	Artboard:
 	Artboards: {n}	Artboard: {n}
-	ArtCraft Website	Situs web ArtCraft
+	Iridium Website	Situs web Iridium
 	Artwork Colors	Warna karya seni
 	As Multiple Assets	Sebagai beberapa aset
 	As Single Asset	Sebagai aset tunggal
@@ -574,7 +574,7 @@ swatch	Brown	Cokelat
 @msg	can't parse shortcut `{c}`	tidak dapat mengurai pintasan `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	tidak dapat mengurai pintasan `{s}` untuk `{k}`
 	Can't print these settings: see the Summary	Tidak dapat mencetak dengan pengaturan ini: lihat Ringkasan
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	tidak dapat menyimpan versi {0}: VectorCraft menulis versi {MIN_VERSION} hingga {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	tidak dapat menyimpan versi {0}: Iridium menulis versi {MIN_VERSION} hingga {VERSION}
 	Can't save “{name}”.	Tidak dapat menyimpan “{name}”.
 @msg	can't write .{ext} images	tidak dapat menulis gambar .{ext}
 	Cancel Export	Batalkan ekspor
@@ -1018,7 +1018,7 @@ swatch	Cyan Green	Hijau sian
 	Diamond (open)	Wajik (terbuka)
 	Difference	Difference
 	Differences from [Default]:	Perbedaan dari [Default]:
-	Differences from VectorCraft Default:	Perbedaan dari VectorCraft Default:
+	Differences from Iridium Default:	Perbedaan dari Iridium Default:
 	Differences from {preset}:	Perbedaan dari {preset}:
 	Diffuse Glow…	Pendar difusi…
 	Dim Copies to:	Redupkan salinan hingga:
@@ -1162,7 +1162,7 @@ swatch	Cyan Green	Hijau sian
 	DXF Options Dialog	Dialog opsi DXF
 	e.g. 1-3, 5	mis. 1-3, 5
 	Each Design Represents:	Setiap desain mewakili:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Setiap entri dalam berkas dicocokkan dengan alat, perintah, atau panel VectorCraft. Periksa kecocokannya dan jawab sisanya.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Setiap entri dalam berkas dicocokkan dengan alat, perintah, atau panel Iridium. Periksa kecocokannya dan jawab sisanya.
 	Each page prints as one image, at the document's raster effects resolution.	Setiap halaman dicetak sebagai satu gambar, dengan resolusi efek raster dokumen.
 	Earth Tones	Warna tanah
 	East Asian Type	Teks Asia Timur
@@ -1372,7 +1372,7 @@ swatch	Espresso	Espresso
 	File Info Dialog	Dialog info file
 	File Name:	Nama file:
 	File or URL:	File atau URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	versi file {0} lebih baru daripada yang didukung VectorCraft ini ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	versi file {0} lebih baru daripada yang didukung Iridium ini ({VERSION})
 	File › Place… brings in an image, linked or embedded.	File › Tempatkan… memasukkan gambar, tertaut atau tersemat.
 	Files of a PDF standard can't be password-protected.	File standar PDF tidak dapat dilindungi kata sandi.
 	Files of this standard tag their colours with ICC profiles.	File standar ini menandai warnanya dengan profil ICC.
@@ -1625,7 +1625,7 @@ swatch	Green	Hijau
 	Hide Thumbnail	Sembunyikan thumbnail
 	Hide Thumbnails	Sembunyikan miniatur
 	Hide Transparency Grid	Sembunyikan kisi transparansi
-	Hide VectorCraft	Sembunyikan VectorCraft
+	Hide Iridium	Sembunyikan Iridium
 	High (300 ppi)	Tinggi (300 ppi)
 	High Contrast	Kontras tinggi
 	High Contrast 2	Kontras tinggi 2
@@ -1714,7 +1714,7 @@ effect	Horizontal	Horizontal
 	In Tangent Handles	Handel tangen masuk
 	In the File	Dalam berkas
 	In the selected objects	Di objek yang dipilih
-	In VectorCraft	Dalam VectorCraft
+	In Iridium	Dalam Iridium
 	Include all profiles	Sertakan semua profil
 	Include All Subdirectories	Sertakan semua subdirektori
 	Include Blacks with CMY:	Sertakan hitam dengan CMY:
@@ -1777,7 +1777,7 @@ swatch	Indigo	Indigo
 	Invert Colors	Balikkan warna
 	Invert Pie	Balikkan pai
 	Inverted Round	Bulat terbalik
-@msg	is not an image VectorCraft reads	bukan gambar yang dapat dibaca VectorCraft
+@msg	is not an image Iridium reads	bukan gambar yang dapat dibaca Iridium
 	Isolate Blending	Isolasi campuran
 	Isolate Group	Isolasi grup
 	Isolate Selected Group	Isolasi grup terseleksi
@@ -1795,9 +1795,9 @@ swatch	Indigo	Indigo
 @msg	it has too many text objects	memiliki terlalu banyak objek teks
 @msg	it has too many values in a row	memiliki terlalu banyak nilai berturut-turut
 @msg	it has too much text	memiliki terlalu banyak teks
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	memiliki {_1}, yang belum dibaca VectorCraft dari berkas tersebut
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	menggunakan `{at}`, yang tidak dikenali pembaca PostScript VectorCraft
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	menggunakan `{at}`, yang tidak dikenali pembaca PostScript VectorCraft, dalam {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	memiliki {_1}, yang belum dibaca Iridium dari berkas tersebut
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	menggunakan `{at}`, yang tidak dikenali pembaca PostScript Iridium
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	menggunakan `{at}`, yang tidak dikenali pembaca PostScript Iridium, dalam {procs}
 @msg	its editing data doesn't say where its art is	data pengeditannya tidak menyatakan di mana karya seninya berada
 @msg	its editing data doesn't say where its artboard is	data penyuntingannya tidak menyebut di mana artboard-nya berada
 @msg	its editing data has no layers	data penyuntingannya tidak memiliki lapisan
@@ -1817,7 +1817,7 @@ mark-style	Japanese	Jepang
 	JavaScript:	JavaScript:
 @msg	join needs open paths	penggabungan memerlukan jalur terbuka
 	Join Our Discord	Gabung ke Discord kami
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Bergabunglah dengan komunitas ArtCraft di Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Bergabunglah dengan komunitas Iridium di Discord (discord.gg/artcraft)
 	Join the lines of each paragraph	Gabungkan baris setiap paragraf
 	Join Tool	Alat sambung
 	Joins	Sambungan
@@ -1837,7 +1837,7 @@ mark-style	Japanese	Jepang
 	Keep the pasted color as a new swatch with a numbered name.	Simpan warna yang ditempel sebagai swatch baru dengan nama bernomor.
 	Keep this row's colors (exclude)	Pertahankan warna baris ini (kecualikan)
 	Keep visible surfaces only when expanding	Pertahankan hanya permukaan yang terlihat saat memperluas
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Menjaga dokumen tetap dapat diedit: VectorCraft membuka kembali PDF tanpa kehilangan apa pun. Untuk file yang akan Anda edit lagi.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Menjaga dokumen tetap dapat diedit: Iridium membuka kembali PDF tanpa kehilangan apa pun. Untuk file yang akan Anda edit lagi.
 	Kerning (0 = Auto)	Kerning (0 = Otomatis)
 	Key Color:	Warna kunci:
 	Keyboard Increment	Inkremen papan ketik
@@ -1975,7 +1975,7 @@ swatch	Lime	Lime
 	Load Text into Clipboard	Muat teks ke clipboard
 	Load Texture…	Muat tekstur…
 	Loaded Texture	Tekstur yang dimuat
-@msg	Loading VectorCraft…	Memuat VectorCraft…
+@msg	Loading Iridium…	Memuat Iridium…
 	Loads native code	Memuat kode native
 	Local Libraries	Pustaka lokal
 	Locate Object	Temukan objek
@@ -2366,8 +2366,8 @@ swatch	Magenta	Magenta
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	bukan set pintasan: teks tidak diawali dengan nama garis miring dan kurung kurawal buka
 @msg	not a stored central record	bukan rekaman pusat yang tersimpan
 @msg	not a valid plug-in module: {0}	bukan modul plug-in yang valid: {0}
-@msg	not a VectorCraft file: {0}	bukan berkas VectorCraft: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	bukan set pintasan VectorCraft (tidak ada `overrides`)
+@msg	not a Iridium file: {0}	bukan berkas Iridium: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	bukan set pintasan Iridium (tidak ada `overrides`)
 @msg	not an EMF or WMF file	bukan berkas EMF atau WMF
 	Not followed: outside the script's folder	Tidak diikuti: di luar folder skrip
 	Not found	Tidak ditemukan
@@ -2517,7 +2517,7 @@ swatch	Ocean	Samudra
 @msg	Opened with {_1} note(s): {_2}	Dibuka dengan {_1} catatan: {_2}
 	Opened with {} note(s): {}	Dibuka dengan {} catatan: {}
 @msg	Opened {url}	Berhasil membuka {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Saat membukanya, VectorCraft meninggalkan bagian yang belum dapat dibacanya ({what}), sehingga mengganti file akan membuat bagian itu hilang permanen. Simpan dengan nama lain untuk mempertahankannya.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Saat membukanya, Iridium meninggalkan bagian yang belum dapat dibacanya ({what}), sehingga mengganti file akan membuat bagian itu hilang permanen. Simpan dengan nama lain untuk mempertahankannya.
 	Opens files in other apps	Membuka file di aplikasi lain
 	Opens network connections	Membuka koneksi jaringan
 	Optical Margin Alignment	Perataan margin optik
@@ -2599,8 +2599,8 @@ imageTrace	Outline	Kontur
 	Paragraph Style	Gaya paragraf
 	Paragraph Style Options	Opsi gaya paragraf
 	Paragraph Symbol	Simbol paragraf
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Bagian dari ArtCraft. MIT OR Apache-2.0. Font: Source Sans 3, Inter, JetBrains Mono (OFL). Ikon: Lucide (ISC) + VectorCraft.
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	Bagian dari ArtCraft. MIT OR Apache-2.0. Font: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikon: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Bagian dari Iridium. MIT OR Apache-2.0. Font: Source Sans 3, Inter, JetBrains Mono (OFL). Ikon: Lucide (ISC) + Iridium.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Bagian dari Iridium. MIT OR Apache-2.0. Font: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikon: Lucide (ISC) + Iridium.
 	Paste Design	Tempel desain
 	Paste in Back	Tempel di belakang
 	Paste in Front	Tempel di depan
@@ -2820,7 +2820,7 @@ swatch	Purple	Ungu
 	Quality:	Kualitas:
 	Quarter Space	Spasi seperempat
 	Quickly start a new file	Mulai file baru dengan cepat
-	Quit VectorCraft	Keluar dari VectorCraft
+	Quit Iridium	Keluar dari Iridium
 	Radar Graph Tool	Alat grafik radar
 gradient-kind	Radial	Radial
 	Radial Dividers:	Pembagi radial:
@@ -3614,7 +3614,7 @@ effect	Soft	Lembut
 	Standard:	Standar:
 	Star Tool	Alat bintang
 	Start arrowhead	Mata panah awal
-	Start from VectorCraft Defaults	Mulai dari default VectorCraft
+	Start from Iridium Defaults	Mulai dari default Iridium
 	Start Global Edit	Mulai edit global
 	Start Tile	Ubin awal
 	Start:	Awal:
@@ -3768,7 +3768,7 @@ file-filter	Templates	Templat
 	The bounds of the visible art.	Batas karya seni yang terlihat.
 	The cell shows the type object's text as HTML.	Sel menampilkan teks dari objek teks sebagai HTML.
 @msg	the Color Picker is not open	Pemilih Warna tidak terbuka
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	berkas terkompresi ini hasil ekstraksinya melebihi yang dibaca VectorCraft ({_1} MB dokumen, {_2} MB per gambar)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	berkas terkompresi ini hasil ekstraksinya melebihi yang dibaca Iridium ({_1} MB dokumen, {_2} MB per gambar)
 @msg	the compressed file unpacks to more than {_1} MB	berkas terkompresi ini terekstrak menjadi lebih dari {_1} MB
 	The dialog was closed before its file dialog answered	Dialog ditutup sebelum dialog berkasnya memberi jawaban
 @msg	the document has never been saved	dokumen belum pernah disimpan
@@ -3798,19 +3798,19 @@ file-filter	Templates	Templat
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	lapisan file tidak terbaca dari data pengeditannya ({_1}): lapisannya berasal dari bagian PDF file
 @msg	the file's preview header points outside the file	header pratinjau berkas menunjuk ke luar berkas
 @msg	the files come to more than 1 GB: add fewer at a time	total berkas melebihi 1 GB: tambahkan lebih sedikit sekaligus
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Prosesor grafis yang dicoba pertama kali tidak dapat menampilkan jendela, jadi VectorCraft memulai ulang dengan {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Prosesor grafis yang dicoba pertama kali tidak dapat menampilkan jendela, jadi Iridium memulai ulang dengan {summary}
 @msg	The graphics were lost and couldn't be restarted.	Grafis hilang dan tidak dapat dimulai ulang.
 @msg	The graphics were lost and have been restarted	Grafis hilang dan telah dimulai ulang
 @msg	the guide is on a hidden or locked layer	panduan berada di lapisan yang tersembunyi atau terkunci
 @msg	the image can't be read as a texture	gambar tidak dapat dibaca sebagai tekstur
 @msg	the image is {width} × {height} pixels, more than Image Trace takes ({max} megapixels)	gambarnya {width} × {height} piksel, lebih besar dari yang diterima Image Trace ({max} megapiksel)
 @msg	the image's pixels don't match its size	piksel gambar tidak cocok dengan ukurannya
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Peluncuran terakhir VectorCraft berakhir pada {name} sebelum jendelanya muncul, sehingga dimulai pada {summary}. Untuk mencoba prosesor grafis itu lagi, ubah Preferences › Performance › Graphics Processor atau mulai dengan WGPU_BACKEND diatur
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Peluncuran terakhir VectorCraft berakhir saat mencantumkan prosesor grafis, sehingga dimulai pada {summary} dengan OpenGL saja. Untuk mencoba backend grafis lainnya lagi, ubah Preferences › Performance › Graphics Processor atau mulai dengan WGPU_BACKEND diatur
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Peluncuran terakhir Iridium berakhir pada {name} sebelum jendelanya muncul, sehingga dimulai pada {summary}. Untuk mencoba prosesor grafis itu lagi, ubah Preferences › Performance › Graphics Processor atau mulai dengan WGPU_BACKEND diatur
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Peluncuran terakhir Iridium berakhir saat mencantumkan prosesor grafis, sehingga dimulai pada {summary} dengan OpenGL saja. Untuk mencoba backend grafis lainnya lagi, ubah Preferences › Performance › Graphics Processor atau mulai dengan WGPU_BACKEND diatur
 @msg	the layer has no objects to clip by	lapisan tidak memiliki objek untuk dijadikan pemotong
 @msg	the layer or group is locked	lapisan atau grup terkunci
 @msg	the layer to flatten into is hidden	lapisan tujuan perataan tersembunyi
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Nama di dialog simpan adalah “{typed}”, lalu VectorCraft menambahkan ekstensi jenis file. Mengganti file akan menimpa kontennya.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Nama di dialog simpan adalah “{typed}”, lalu Iridium menambahkan ekstensi jenis file. Mengganti file akan menimpa kontennya.
 @msg	the object already has an opacity mask	objek sudah memiliki masker opasitas
 @msg	the object has no geometry	objek tidak memiliki geometri
 @msg	the object has no opacity mask	objek tidak memiliki masker opasitas
@@ -3875,7 +3875,7 @@ file-filter	Templates	Templat
 	This library is empty.	Pustaka ini kosong.
 	This panel is on the roadmap (see the parity plan).	Panel ini masih dalam roadmap (lihat rencana paritas).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	berkas PostScript ini tidak dapat dibaca ({why}): simpan sebagai PDF atau SVG di aplikasi yang membuatnya
-@msg	This shortcut file is in a form VectorCraft can't read.	Berkas pintasan ini dalam bentuk yang tidak dapat dibaca oleh VectorCraft.
+@msg	This shortcut file is in a form Iridium can't read.	Berkas pintasan ini dalam bentuk yang tidak dapat dibaca oleh Iridium.
 	This system has no screen color sampler	Sistem ini tidak memiliki pengambil warna layar
 @msg	this system has no screen color sampler	sistem ini tidak memiliki pengambil warna layar
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	penelusuran ini akan menghasilkan lebih dari {max} titik jangkar, lebih banyak dari yang dapat ditampilkan dokumen secara mulus: naikkan Derau, turunkan Jalur atau Warna, atau pilih preset ketelitian rendah
@@ -4144,23 +4144,23 @@ diagnostics	ui	UI
 	Vector Halftone	Halftone vektor
 	Vector Halftone…	Halftone vektor…
 	Vector illustration — fast, open, scriptable.	Ilustrasi vektor — cepat, terbuka, mendukung skrip.
-	VectorCraft	VectorCraft
-	VectorCraft copies the fonts to {folder}.	VectorCraft menyalin font ke {folder}.
-	VectorCraft Default	VectorCraft Default
-	VectorCraft Defaults	Default VectorCraft
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft terakhir kali tidak keluar secara normal. Dokumen berikut memiliki perubahan yang belum disimpan:
-	VectorCraft documents: one locked object, updated when the file changes.	Dokumen VectorCraft: satu objek terkunci, diperbarui saat file berubah.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft tidak mencari di folder aplikasi lain atau folder sistem: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft tidak mencari di folder Shared atau Public di Users: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft gagal dimulai: {e}
-	VectorCraft Generic CMYK (SWOP-like)	CMYK generik VectorCraft (mirip SWOP)
-	VectorCraft Help…	Bantuan VectorCraft…
-	VectorCraft on getartcraft.com	VectorCraft di getartcraft.com
-	VectorCraft on GitHub	VectorCraft di GitHub
-	VectorCraft read this script without running it.	VectorCraft membaca skrip ini tanpa menjalankannya.
-	VectorCraft Swatches (.vcswatches)	VectorCraft Swatches (.vcswatches)
-file-filter	VectorCraft Template	Templat VectorCraft
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	folder Fonts VectorCraft tidak diatur di sini: aplikasi desktop dan vectorcraft-cli yang mengaturnya
+	Iridium	Iridium
+	Iridium copies the fonts to {folder}.	Iridium menyalin font ke {folder}.
+	Iridium Default	Iridium Default
+	Iridium Defaults	Default Iridium
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium terakhir kali tidak keluar secara normal. Dokumen berikut memiliki perubahan yang belum disimpan:
+	Iridium documents: one locked object, updated when the file changes.	Dokumen Iridium: satu objek terkunci, diperbarui saat file berubah.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium tidak mencari di folder aplikasi lain atau folder sistem: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium tidak mencari di folder Shared atau Public di Users: {path}
+@msg	Iridium failed to start: {e}	Iridium gagal dimulai: {e}
+	Iridium Generic CMYK (SWOP-like)	CMYK generik Iridium (mirip SWOP)
+	Iridium Help…	Bantuan Iridium…
+	Iridium on getartcraft.com	Iridium di getartcraft.com
+	Iridium on GitHub	Iridium di GitHub
+	Iridium read this script without running it.	Iridium membaca skrip ini tanpa menjalankannya.
+	Iridium Swatches (.vcswatches)	Iridium Swatches (.vcswatches)
+file-filter	Iridium Template	Templat Iridium
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	folder Fonts Iridium tidak diatur di sini: aplikasi desktop dan vectorcraft-cli yang mengaturnya
 	Vectors	Vektor
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	berkas versi {0} tidak dapat dikompresi: hanya versi {COMPRESSED_SINCE} dan sesudahnya yang dapat membuka berkas terkompresi
 	Version {version} — open-source vector illustration in pure Rust.	Versi {version} — ilustrasi vektor sumber terbuka dalam Rust murni.
@@ -4221,7 +4221,7 @@ swatch	Walnut	Walnut
 	Web Snap:	Web Snap:
 	WebP	WebP
 	Weight:	Ketebalan:
-	Welcome to VectorCraft	Selamat datang di VectorCraft
+	Welcome to Iridium	Selamat datang di Iridium
 	When pasting text	Saat menempel teks
 swatch	White	Putih
 swatch	White, Black	Putih, Hitam

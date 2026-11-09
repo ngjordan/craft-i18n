@@ -1,4 +1,4 @@
-# Português (Brasil) (pt-br) interface catalog for ArtCraft Launcher.
+# Português (Brasil) (pt-br) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -35,12 +35,12 @@ column	App	Aplicativo
 	Apps you hid	Aplicativos que você ocultou
 month	Apr	abr.
 	Arch package (.pkg.tar.zst)	Pacote Arch (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} está disponível.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} atualização disponível|ArtCraft Launcher · {n} atualizações disponíveis
-	ArtCraft on GitHub	ArtCraft no GitHub
-	ArtCraft on {name}	ArtCraft no {name}
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Iridium Launcher {version} está disponível.
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} atualização disponível|Iridium Launcher · {n} atualizações disponíveis
+	Iridium on GitHub	Iridium no GitHub
+	Iridium on {name}	Iridium no {name}
 month	Aug	ago.
 	Automatically download and install updates	Baixar e instalar atualizações automaticamente
 	Available to install	Disponível para instalar
@@ -120,8 +120,8 @@ filter	Installed	Instalados
 	Installing…	Instalando…
 figcraft	Interface design and prototyping	Design de interfaces e prototipagem
 month	Jan	jan.
-	Join the ArtCraft community on Discord	Entre na comunidade ArtCraft no Discord
-	Join the ArtCraft Discord	Entrar no Discord da ArtCraft
+	Join the Iridium community on Discord	Entre na comunidade Iridium no Discord
+	Join the Iridium Discord	Entrar no Discord da Iridium
 	Join the Discord	Entrar no Discord
 month	Jul	jul.
 month	Jun	jun.
@@ -139,7 +139,7 @@ column	Latest	Última
 	Like {name}	Similar ao {name}
 	link	link
 @id	linux.preferred_kind	Instalar novos aplicativos como
-	Loading ArtCraft Launcher…	Carregando ArtCraft Launcher…
+	Loading Iridium Launcher…	Carregando Iridium Launcher…
 	Loading pictures…	Carregando imagens…
 month	Mar	mar.
 	Match system	Igual ao sistema
@@ -162,7 +162,7 @@ effectcraft	Motion graphics and visual effects	Motion graphics e efeitos visuais
 month	Nov	nov.
 month	Oct	out.
 	Only when I ask	Apenas quando eu pedir
-	Open ArtCraft Launcher to update.	Abra o ArtCraft Launcher para atualizar.
+	Open Iridium Launcher to update.	Abra o Iridium Launcher para atualizar.
 	Open on GitHub	Abrir no GitHub
 	Open Source Tools for Creatives, Makers, and Builders	Ferramentas de código aberto para criadores, artistas e desenvolvedores
 designcraft	Page layout and publishing	Diagramação de páginas e publicação
@@ -173,8 +173,8 @@ lightcraft	Photo library and raw development	Biblioteca de fotos e revelação R
 	Portable (.zip)	Portátil (.zip)
 deckcraft	Presentations and slide shows	Apresentações e slides
 	Previous picture (←)	Imagem anterior (←)
-	Questions, ideas and news from the ArtCraft team	Dúvidas, ideias e novidades da equipe ArtCraft
-	Quit ArtCraft Launcher	Sair do ArtCraft Launcher
+	Questions, ideas and news from the Iridium team	Dúvidas, ideias e novidades da equipe Iridium
+	Quit Iridium Launcher	Sair do Iridium Launcher
 pdfcraft	Reading, organizing and protecting PDFs	Leitura, organização e proteção de PDFs
 	Reconnecting…	Reconectando…
 soundcraft	Recording, editing and mixing audio	Gravação, edição e mixagem de áudio
@@ -194,10 +194,10 @@ column	Released	Lançamento
 	Search apps	Buscar aplicativos
 month	Sep	set.
 @id	settings.open	Configurações
-@id	settings.quit	Sair do ArtCraft Launcher
+@id	settings.quit	Sair do Iridium Launcher
 	Show apps as a table	Mostrar aplicativos como tabela
 	Show apps as cards	Mostrar aplicativos como cartões
-	Show ArtCraft Launcher	Mostrar ArtCraft Launcher
+	Show Iridium Launcher	Mostrar Iridium Launcher
 	Show in Explorer	Mostrar no Explorer
 	Show in Files	Mostrar no gerenciador de arquivos
 	Show in Finder	Mostrar no Finder
@@ -211,7 +211,7 @@ month	Sep	set.
 @id	sort.status	Status
 @id	sort.suite	Ordem da suíte
 gridcraft	Spreadsheets and data	Planilhas e dados
-	Start ArtCraft Launcher when I log in	Iniciar o ArtCraft Launcher ao fazer login
+	Start Iridium Launcher when I log in	Iniciar o Iridium Launcher ao fazer login
 	Stop waiting; the update can be started again later	Parar de aguardar; a atualização pode ser iniciada novamente depois
 	Suite order	Ordem da suíte
 	System default	Padrão do sistema
@@ -224,7 +224,7 @@ gridcraft	Spreadsheets and data	Planilhas e dados
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	Estas notas não foram carregadas (o limite de requisições do GitHub foi atingido). Elas estão na página de lançamentos.
 @msg	this release has no AppImage for a custom install folder	esta versão não tem um AppImage para uma pasta de instalação personalizada
 @id	tray.close_to_tray	Continuar na bandeja do sistema ao fechar a janela
-@id	tray.login_item	Iniciar o ArtCraft Launcher ao fazer login
+@id	tray.login_item	Iniciar o Iridium Launcher ao fazer login
 @id	tray.show_on_current_desktop	Mostrar a janela na área de trabalho atual
 	Unhide App	Mostrar aplicativo
 	Uninstall	Desinstalar
@@ -282,7 +282,7 @@ wordcraft	Writing and document design	Escrita e design de documentos
 @plural	{n} day ago|{n} days ago	há {n} dia|há {n} dias
 @plural	{n} h ago|{n} h ago	há {n} h|há {n} h
 @plural	{n} min ago|{n} min ago	há {n} min|há {n} min
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} já existe e não foi instalado pelo ArtCraft Launcher
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} já existe e não foi instalado pelo Iridium Launcher
 	{path} already exists. Installing {name} will overwrite it.	{path} já existe. Instalar o {name} vai substituí-lo.
 	{version} installed → {latest} released	{version} instalado → {latest} lançado
 	⊞  Grid	⊞  Grade

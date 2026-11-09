@@ -1,4 +1,4 @@
-# Español (es) interface catalog for FilmCraft.
+# Español (es) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -61,7 +61,7 @@
 	59.94 fps Drop-Frame	59,94 fps con eliminación de fotogramas
 	59.94 fps Non Drop-Frame	59,94 fps sin eliminación de fotogramas
 	A boxed label with a round pointer; move the label and the pointer follows.	Una etiqueta enmarcada con un indicador redondo; al mover la etiqueta, el indicador la sigue.
-	A clean-room, pure-Rust non-linear video editor. Part of the ArtCraft family.	Un editor de video no lineal en Rust puro, desarrollado en sala limpia. Parte de la familia ArtCraft.
+	A clean-room, pure-Rust non-linear video editor. Part of the Iridium family.	Un editor de video no lineal en Rust puro, desarrollado en sala limpia. Parte de la familia Iridium.
 	A cut sequence with transitions, effects and music	Una secuencia montada con transiciones, efectos y música
 	A file dialog is already open	Ya hay un cuadro de diálogo de archivos abierto
 	A news-style line that crawls in from the right and leaves at the left.	Una línea de estilo informativo que entra desde la derecha y sale por la izquierda.
@@ -71,7 +71,7 @@
 	AAC Audio 48 kHz 320 kbps	AAC Audio 48 kHz 320 kbps
 	AAF Export Settings	Ajustes de exportación AAF
 	AAF…	AAF…
-	About FilmCraft	Acerca de FilmCraft
+	About Iridium	Acerca de Iridium
 	Accent Color	Color de acento
 	Accessible color contrast	Contraste de color accesible
 	Action and Title Safe Areas	Zonas seguras de acción y título
@@ -461,7 +461,7 @@
 	Ch. {n}	Can. {n}
 	Change Mask	Cambiar máscara
 	Change to Color	Cambiar a color
-	Changes are copied in the background a moment after each edit. If FilmCraft quits unexpectedly, they are offered the next time it starts.	Los cambios se copian en segundo plano poco después de cada edición. Si FilmCraft se cierra de forma inesperada, se ofrecen la próxima vez que se inicie.
+	Changes are copied in the background a moment after each edit. If Iridium quits unexpectedly, they are offered the next time it starts.	Los cambios se copian en segundo plano poco después de cada edición. Si Iridium se cierra de forma inesperada, se ofrecen la próxima vez que se inicie.
 	Channel Blur	Desenfoque de canal
 	Channel Format:	Formato de canales:
 	Channel Mix	Mezcla de canales
@@ -986,16 +986,16 @@
 	Film Dissolve (Legacy)	Disolución de película (heredada)
 	Film Emulation	Emulación de película
 	Film Roll	Rollo de película
-	FilmCraft always composites in linear light	FilmCraft siempre compone en luz lineal
-	FilmCraft Graphics Template	Plantilla de gráficos de FilmCraft
-	FilmCraft Help…	Ayuda de FilmCraft…
-	FilmCraft hit an error	FilmCraft ha encontrado un error
-	FilmCraft keeps the rest of the RAM free for other applications.	FilmCraft deja el resto de la RAM libre para otras aplicaciones.
-	FilmCraft on getartcraft.com	FilmCraft en getartcraft.com
-	FilmCraft on GitHub	FilmCraft en GitHub
-	FilmCraft Project	Proyecto de FilmCraft
-	FilmCraft quit unexpectedly while “{name}” had unsaved changes.	FilmCraft se cerró de forma inesperada mientras “{name}” tenía cambios sin guardar.
-	FilmCraft was closed while “{name}” had unsaved changes.	FilmCraft se cerró mientras “{name}” tenía cambios sin guardar.
+	Iridium always composites in linear light	Iridium siempre compone en luz lineal
+	Iridium Graphics Template	Plantilla de gráficos de Iridium
+	Iridium Help…	Ayuda de Iridium…
+	Iridium hit an error	Iridium ha encontrado un error
+	Iridium keeps the rest of the RAM free for other applications.	Iridium deja el resto de la RAM libre para otras aplicaciones.
+	Iridium on getartcraft.com	Iridium en getartcraft.com
+	Iridium on GitHub	Iridium en GitHub
+	Iridium Project	Proyecto de Iridium
+	Iridium quit unexpectedly while “{name}” had unsaved changes.	Iridium se cerró de forma inesperada mientras “{name}” tenía cambios sin guardar.
+	Iridium was closed while “{name}” had unsaved changes.	Iridium se cerró mientras “{name}” tenía cambios sin guardar.
 	Filter and EQ	Filtro y ecualizador
 	Filter Frequency	Frecuencia del filtro
 	Filter Resonance	Resonancia del filtro
@@ -1190,7 +1190,7 @@
 	Hardware (AV1 has no software encoder)	Hardware (AV1 no tiene codificador por software)
 	Hardware (H.265 has no software encoder)	Hardware (H.265 no tiene codificador por software)
 	Hardware decoding	Descodificación por hardware
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Descodificación por hardware: Automático usa el descodificador de video del sistema (VideoToolbox en macOS, Media Foundation en Windows, VA-API o NVDEC para H.264 y HEVC en Linux) para los flujos que admite, y el descodificador propio de FilmCraft para todo lo demás o si falla el hardware. Los medios ya abiertos mantienen su descodificador hasta que se vuelven a abrir.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and Iridium's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	Descodificación por hardware: Automático usa el descodificador de video del sistema (VideoToolbox en macOS, Media Foundation en Windows, VA-API o NVDEC para H.264 y HEVC en Linux) para los flujos que admite, y el descodificador propio de Iridium para todo lo demás o si falla el hardware. Los medios ya abiertos mantienen su descodificador hasta que se vuelven a abrir.
 	HD Anamorphic 1080 (1.333)	HD anamórfico 1080 (1.333)
 	HDR	HDR
 	HDR Graphics White (Nits)	Blanco de gráficos HDR (nits)
@@ -1204,7 +1204,7 @@
 	Height:	Altura:
 	Hide All Caption Tracks	Ocultar todas las pistas de subtítulos
 	Hide Back Face	Ocultar la cara posterior
-	Hide FilmCraft	Ocultar FilmCraft
+	Hide Iridium	Ocultar Iridium
 	Hide Others	Ocultar otras
 	High contrast with held highlights and deep shadows	Alto contraste con iluminaciones contenidas y sombras profundas
 	High Cutoff	Corte de agudos
@@ -1338,7 +1338,7 @@
 	Iris Round	Iris redondo
 	Iris Shape	Forma del iris
 	JetBrains Mono	JetBrains Mono
-	Join the ArtCraft Discord (discord.gg/artcraft)	Únete al Discord de ArtCraft (discord.gg/artcraft)
+	Join the Iridium Discord (discord.gg/artcraft)	Únete al Discord de Iridium (discord.gg/artcraft)
 	Join Through Edits	Unir cortes continuos
 	JPEG	JPEG
 	JPEG Sequence	Secuencia JPEG
@@ -1745,7 +1745,7 @@
 	No model credits were built into this copy.	Esta copia no incluye créditos de modelos.
 	No Motion	Sin movimiento
 	No multi-camera clip at the playhead	No hay ningún clip multicámara en el cabezal
-	No plugins are installed. Changes will take effect the next time you start FilmCraft.	No hay complementos instalados. Los cambios se aplicarán la próxima vez que inicies FilmCraft.
+	No plugins are installed. Changes will take effect the next time you start Iridium.	No hay complementos instalados. Los cambios se aplicarán la próxima vez que inicies Iridium.
 	No saved guide templates.	No hay plantillas de guías guardadas.
 	No Scroll	Sin desplazamiento
 	No templates match.	Ninguna plantilla coincide.
@@ -1763,8 +1763,8 @@
 	not available in this session	no disponible en esta sesión
 	Not matched yet	Aún sin igualar
 	Not Now	Ahora no
-	Not supported by FilmCraft's encoders yet	Los codificadores de FilmCraft aún no lo admiten
-	Not supported in FilmCraft yet	FilmCraft aún no lo admite
+	Not supported by Iridium's encoders yet	Los codificadores de Iridium aún no lo admiten
+	Not supported in Iridium yet	Iridium aún no lo admite
 	Notch 1	Muesca 1
 	Notch 2	Muesca 2
 	Notch 3	Muesca 3
@@ -2047,7 +2047,7 @@
 	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4) con canal alfa, PCM de 24 bits y 48 kHz
 	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4), PCM de 24 bits y 48 kHz
 	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), PCM de 24 bits y 48 kHz
-	Quit FilmCraft	Salir de FilmCraft
+	Quit Iridium	Salir de Iridium
 	Radial Ramp	Rampa radial
 	Radial Wipe	Barrido radial
 	Radial Wipe (Legacy)	Barrido radial (heredado)
@@ -2250,7 +2250,7 @@
 	Save Preset	Guardar ajuste preestablecido
 	Save preset as:	Guardar ajuste preestablecido como:
 	Save Project	Guardar proyecto
-	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	Se guarda como plantilla de gráficos de FilmCraft (.fcgt) en tu carpeta de plantillas.
+	Saved as a Iridium graphics template (.fcgt) in your templates folder.	Se guarda como plantilla de gráficos de Iridium (.fcgt) en tu carpeta de plantillas.
 	Saved preset “{name}”	Ajuste preestablecido “{name}” guardado
 	Saved template {path}	Plantilla guardada en {path}
 	Saves the view, columns, sort, thumbnail and font size.	Guarda la vista, las columnas, el orden, la miniatura y el tamaño de fuente.
@@ -2329,7 +2329,7 @@
 	Select to Segment End	Seleccionar hasta el final del segmento
 	Select to Segment Start	Seleccionar hasta el inicio del segmento
 	Selected: {command}	Seleccionado: {command}
-	Selection as FilmCraft Project…	Selección como proyecto de FilmCraft…
+	Selection as Iridium Project…	Selección como proyecto de Iridium…
 	Selection Follows Playhead	La selección sigue al cabezal
 	Selection Order	Orden de selección
 	Selection…	Selección…
@@ -2432,7 +2432,7 @@
 	Show/Hide Tracks	Mostrar/ocultar pistas
 	Show/Hide Tracks…	Mostrar/ocultar pistas…
 	Shows a report on this computer.	Muestra un informe sobre este equipo.
-	Shows the version, community links and credits in a FilmCraft window.	Muestra la versión, los enlaces de la comunidad y los créditos en una ventana de FilmCraft.
+	Shows the version, community links and credits in a Iridium window.	Muestra la versión, los enlaces de la comunidad y los créditos en una ventana de Iridium.
 	Shrink	Encoger
 	Shutter Angle	Ángulo de obturación
 	Shuttle Left	Lanzadera a la izquierda
@@ -2673,7 +2673,7 @@
 	TextPanel	Panel Texto
 	The default graphics are used from the next start.	Los gráficos predeterminados se usarán a partir del próximo inicio.
 	The language changed but could not be saved: {e}	El idioma ha cambiado, pero no se ha podido guardar: {e}
-	The media cache holds render previews of unsaved projects and other files FilmCraft can recreate. Deleting them is always safe; FilmCraft rebuilds them as needed.	La caché de medios guarda previsualizaciones procesadas de proyectos sin guardar y otros archivos que FilmCraft puede volver a crear. Eliminarlos siempre es seguro; FilmCraft los regenera cuando hace falta.
+	The media cache holds render previews of unsaved projects and other files Iridium can recreate. Deleting them is always safe; Iridium rebuilds them as needed.	La caché de medios guarda previsualizaciones procesadas de proyectos sin guardar y otros archivos que Iridium puede volver a crear. Eliminarlos siempre es seguro; Iridium los regenera cuando hace falta.
 	The project had not been saved yet.	El proyecto aún no se había guardado.
 	The selected clips have different audio types. Assign one type to edit them together.	Los clips seleccionados tienen tipos de audio distintos. Asigna un tipo para editarlos juntos.
 	The sequence has no caption track.	La secuencia no tiene pista de subtítulos.

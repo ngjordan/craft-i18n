@@ -1,4 +1,4 @@
-# 日本語 (ja) interface catalog for PhotoCraft.
+# 日本語 (ja) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -72,7 +72,7 @@
 	A brush preset with this name already exists	この名前のブラシプリセットは既に存在します
 	A save to {name} is still running; try again when it finishes	{name} への保存がまだ実行中です。完了してからもう一度お試しください
 	About	バージョン情報
-	About PhotoCraft	PhotoCraft について
+	About Iridium	Iridium について
 	Accented Edges	輪郭の強調
 	Accept and Go to Conflict	適用して競合へ移動
 	Accurate	高精度
@@ -150,7 +150,7 @@
 	Align {what}	{what}で整列
 	Aligned	位置合わせあり
 	All Layers No Adjustments	すべてのレイヤー (色調補正なし)
-	All shortcuts reset to PhotoCraft defaults.	すべてのショートカットを初期状態に戻しました。
+	All shortcuts reset to Iridium defaults.	すべてのショートカットを初期状態に戻しました。
 	All User Slices	すべてのユーザースライス
 	Allow agent control	エージェントによる操作を許可
 	Allow Continue	続行を許可
@@ -809,7 +809,7 @@ cameraData	Date Taken	撮影日時
 	Default Features	既定の機能
 	Default Foreground and Background Colors	前景色と背景色を既定に戻す
 	Default Leaves	既定の葉
-	Default PhotoCraft Size	PhotoCraft 既定サイズ
+	Default Iridium Size	Iridium 既定サイズ
 	Default printer	既定のプリンター
 	Default restored.	既定に戻しました。
 	Defaults restored.	既定値を復元しました。
@@ -1775,7 +1775,7 @@ cameraData	Model	モデル
 	name	名前
 	Name (A–Z)	名前 (A–Z)
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Wayland ではネイティブのファイルドラッグ＆ドロップはまだ利用できません。[ファイル › 開く] を使うか、ファイルマネージャーで画像をコピーして {paste} で貼り付けてください。
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Wayland ではネイティブのファイルのドラッグ&ドロップにまだ対応していません。ファイル › 開く を使うか、XWayland 上で `WAYLAND_DISPLAY= photocraft` として PhotoCraft を実行してください。
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Wayland ではネイティブのファイルのドラッグ&ドロップにまだ対応していません。ファイル › 開く を使うか、XWayland 上で `WAYLAND_DISPLAY= photocraft` として Iridium を実行してください。
 	Native file drag-and-drop is unavailable	Wayland ではネイティブのファイルドラッグ＆ドロップを利用できません
 	Nearest Neighbor	ニアレストネイバー
 	Nearest neighbor	ニアレストネイバー
@@ -1912,7 +1912,7 @@ cameraData	Model	モデル
 	Operation	操作
 	Optical	オプティカル
 	Option-click to define a source point to clone from	Option+クリックでコピー元を指定
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	または 環境設定 › パフォーマンス › Linux ディスプレイサーバー を X11 にすると、PhotoCraft は常に XWayland 上で起動します。
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	または 環境設定 › パフォーマンス › Linux ディスプレイサーバー を X11 にすると、Iridium は常に XWayland 上で起動します。
 	Original Ratio	元の縦横比
 	Ornaments	装飾記号
 	Other…	その他…
@@ -1996,16 +1996,16 @@ cameraData	Model	モデル
 	Photo (8 × 10 in)	写真 (8 × 10 in)
 	Photo Filter	写真フィルター
 	Photo Filter…	写真フィルター…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	PhotoCraft 初期設定
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	このコンピューターで、別の画像編集アプリのキーボードショートカットセット {set} が見つかりました。{n} 個のショートカットが PhotoCraft と異なります。読み込みますか？
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft は CPU で画像を合成しています。ウィンドウは引き続きグラフィックスアダプターを使用する場合があります。
-	PhotoCraft Manages Colors	PhotoCraft でカラーを管理
-	PhotoCraft on GitHub	GitHub 上の PhotoCraft
-	PhotoCraft Website	PhotoCraft の Web サイト
-	PhotoCraft website	PhotoCraft の Web サイト
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — Rust で書かれた、オープンソースのネイティブ画像エディター。
-	PhotoCraft — Screen Color Picker	PhotoCraft — スクリーンカラーピッカー
+	Iridium	Iridium
+	Iridium Defaults	Iridium 初期設定
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	このコンピューターで、別の画像編集アプリのキーボードショートカットセット {set} が見つかりました。{n} 個のショートカットが Iridium と異なります。読み込みますか？
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium は CPU で画像を合成しています。ウィンドウは引き続きグラフィックスアダプターを使用する場合があります。
+	Iridium Manages Colors	Iridium でカラーを管理
+	Iridium on GitHub	GitHub 上の Iridium
+	Iridium Website	Iridium の Web サイト
+	Iridium website	Iridium の Web サイト
+	Iridium — an open-source, native image editor written in Rust.	Iridium — Rust で書かれた、オープンソースのネイティブ画像エディター。
+	Iridium — Screen Color Picker	Iridium — スクリーンカラーピッカー
 	Photography	写真
 	Photomerge	写真を貼り合わせ
 	Photomerge…	写真を貼り合わせ…
@@ -2758,7 +2758,7 @@ curves	Smooth	スムーズ
 	The transform couldn't be applied.	変形を適用できませんでした。
 	There are too many sets: delete one first.	セットが多すぎます。先に 1 つ削除してください。
 	There is no crop size or ratio to save	保存する切り抜きのサイズまたは比率がありません
-	These settings aren't available in PhotoCraft yet.	これらの設定は PhotoCraft ではまだ使用できません。
+	These settings aren't available in Iridium yet.	これらの設定は Iridium ではまだ使用できません。
 	Thin	シン
 fontWeight	Thin	極細
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	このドキュメントのレイヤーには {needed} が必要ですが、使えるのは {budget} です: ドキュメント全体の再描画は CPU で行われます
@@ -2784,7 +2784,7 @@ fontWeight	Thin	極細
 	Tiny Lens	小さなレンズ
 	Titling Alternates	タイトル用代替字形
 	To Center	中心へ
-	To drop files, start PhotoCraft under XWayland: `{command}`	ファイルをドロップするには、XWayland 上で PhotoCraft を起動してください: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	ファイルをドロップするには、XWayland 上で Iridium を起動してください: `{command}`
 	Toggle count group visibility	カウントグループの表示を切り替え
 	Toggle Last State	直前の状態と切り替え
 	Toggle reference point	基準点を切り替え
@@ -3018,7 +3018,7 @@ fontWeight	Thin	極細
 	{name} Properties	{name} のプロパティ
 	{name} was changed by another app after it was opened or saved here.	{name} は、ここで開くか保存した後に別のアプリで変更されました。
 @plural	{n} action|{n} actions	アクション {n} 個
-	{n} commands are not in PhotoCraft.	{n} 個のコマンドは PhotoCraft にありません。
+	{n} commands are not in Iridium.	{n} 個のコマンドは Iridium にありません。
 @plural	{n} item|{n} items	{n} 件
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	このカンプに記録されたレイヤー {n} 個が削除されました。カンプを更新するか、警告を消去してください。
 @plural	{n} layer|{n} layers	{n} レイヤー
@@ -3028,7 +3028,7 @@ fontWeight	Thin	極細
 @plural	{n} sample point removed|{n} sample points removed	サンプルポイント {n} 個を削除しました
 @plural	{n} sample|{n} samples	サンプル {n} 個
 @plural	{n} slice|{n} slices	{n} 個のスライス
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} 個のステップにはまだ PhotoCraft の対応機能がありません
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} 個のステップにはまだ Iridium の対応機能がありません
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Photoshop に対応するもののない {n} 個のステップを省きました
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: パスが有効な Unicode ではありません。ファイル名を変更してから開き直してください。
 	{set} (modified)	{set}（変更あり）

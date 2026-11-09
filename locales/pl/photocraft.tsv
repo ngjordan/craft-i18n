@@ -1,4 +1,4 @@
-# Polski (pl) interface catalog for PhotoCraft.
+# Polski (pl) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -71,7 +71,7 @@
 	A brush preset with this name already exists	Ustawienie wstępne pędzla o tej nazwie już istnieje
 	A save to {name} is still running; try again when it finishes	Zapisywanie do {name} wciąż trwa; spróbuj ponownie, gdy się zakończy
 	About	O programie
-	About PhotoCraft	O programie PhotoCraft
+	About Iridium	O programie Iridium
 	Absolute	Bezwzględny
 	Absolute Colorimetric	Kolorymetryczny bezwzględny
 	Accept and Go to Conflict	Akceptuj i przejdź do konfliktu
@@ -149,7 +149,7 @@
 	All	Wszystko
 	All Caps	Wszystkie wersaliki
 	All Layers No Adjustments	Wszystkie warstwy bez korekt
-	All shortcuts reset to PhotoCraft defaults.	Wszystkie skróty przywrócono do ustawień domyślnych PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Wszystkie skróty przywrócono do ustawień domyślnych Iridium.
 	All User Slices	Wszystkie plasterki użytkownika
 	Allow agent control	Zezwalaj na sterowanie przez agentów
 	Allow Continue	Zezwól na kontynuację
@@ -224,7 +224,7 @@ cameraRaw	Aqua	Błękitny
 	Artboards to PDF	Obszary robocze do PDF
 	Artboards to PDF…	Obszary robocze do PDF…
 	Artboard…	Obszar roboczy…
-	ArtCraft Website	Strona internetowa ArtCraft
+	Iridium Website	Strona internetowa Iridium
 	Artist	Artysta
 	Ask	Pytaj
 	Ask before saving layered tiff	Pytaj przed zapisem wielowarstwowego TIFF
@@ -808,7 +808,7 @@ cameraData	Date Taken	Data wykonania
 	Default colours (D)	Kolory domyślne (D)
 	Default Features	Funkcje domyślne
 	Default Leaves	Domyślne liście
-	Default PhotoCraft Size	Domyślny rozmiar PhotoCraft
+	Default Iridium Size	Domyślny rozmiar Iridium
 	Default printer	Drukarka domyślna
 	Default restored.	Przywrócono wartość domyślną.
 	Defaults restored.	Przywrócono wartości domyślne.
@@ -1767,7 +1767,7 @@ cameraData	Model	Model
 	My Brushes	Moje pędzle
 	name	nazwa
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Natywne przeciąganie i upuszczanie plików nie jest jeszcze obsługiwane w Wayland. Użyj Plik › Otwórz albo skopiuj obraz w menedżerze plików i wklej go za pomocą {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Natywne przeciąganie plików nie jest jeszcze obsługiwane w Waylandzie. Użyj Plik › Otwórz lub uruchom PhotoCraft w XWayland poleceniem `WAYLAND_DISPLAY= photocraft`.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Natywne przeciąganie plików nie jest jeszcze obsługiwane w Waylandzie. Użyj Plik › Otwórz lub uruchom Iridium w XWayland poleceniem `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Natywne przeciąganie plików jest niedostępne
 	Nearest Neighbor	Najbliższy sąsiad
 	Nearest neighbor	Najbliższy sąsiad
@@ -1903,7 +1903,7 @@ cameraData	Model	Model
 	Operation	Operacja
 	Optical	Optyczne
 	Option-click to define a source point to clone from	Kliknij z Option, aby zdefiniować punkt źródłowy klonowania
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Albo ustaw Preferencje › Wydajność › Serwer wyświetlania Linuksa na X11: PhotoCraft będzie wtedy zawsze uruchamiany pod XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Albo ustaw Preferencje › Wydajność › Serwer wyświetlania Linuksa na X11: Iridium będzie wtedy zawsze uruchamiany pod XWayland.
 cameraRaw	Orange	Pomarańczowy
 	Original Ratio	Oryginalne proporcje
 	Ornaments	Ornamenty
@@ -1988,16 +1988,16 @@ cameraRaw	Orange	Pomarańczowy
 	Photo (8 × 10 in)	Zdjęcie (8 × 10 cali)
 	Photo Filter	Filtr fotograficzny
 	Photo Filter…	Filtr fotograficzny…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Domyślne PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	PhotoCraft znalazł na tym komputerze Twój zestaw skrótów klawiaturowych {set} z innego edytora obrazów: skrótów innych niż w PhotoCraft: {n}. Zaimportować go?
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	PhotoCraft używa kompozytora obrazu CPU. Okno może nadal korzystać z karty graficznej.
-	PhotoCraft Manages Colors	Kolorami zarządza PhotoCraft
-	PhotoCraft on GitHub	PhotoCraft na GitHubie
-	PhotoCraft Website	Strona internetowa PhotoCraft
-	PhotoCraft website	Strona internetowa PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — natywny edytor obrazów o otwartym kodzie źródłowym, napisany w Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Próbnik kolorów ekranu
+	Iridium	Iridium
+	Iridium Defaults	Domyślne Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium znalazł na tym komputerze Twój zestaw skrótów klawiaturowych {set} z innego edytora obrazów: skrótów innych niż w Iridium: {n}. Zaimportować go?
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium używa kompozytora obrazu CPU. Okno może nadal korzystać z karty graficznej.
+	Iridium Manages Colors	Kolorami zarządza Iridium
+	Iridium on GitHub	Iridium na GitHubie
+	Iridium Website	Strona internetowa Iridium
+	Iridium website	Strona internetowa Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — natywny edytor obrazów o otwartym kodzie źródłowym, napisany w Rust.
+	Iridium — Screen Color Picker	Iridium — Próbnik kolorów ekranu
 	Photography	Fotografia
 	Photomerge	Photomerge
 	Photomerge…	Photomerge…
@@ -2742,7 +2742,7 @@ cameraRaw	Temperature	Temperatura
 	The transform couldn't be applied.	Nie można zastosować przekształcenia.
 	There are too many sets: delete one first.	Zestawów jest za dużo: najpierw usuń jeden.
 	There is no crop size or ratio to save	Brak rozmiaru lub proporcji kadrowania do zapisania
-	These settings aren't available in PhotoCraft yet.	Te ustawienia nie są jeszcze dostępne w PhotoCraft.
+	These settings aren't available in Iridium yet.	Te ustawienia nie są jeszcze dostępne w Iridium.
 	Thickness	Grubość
 	Thin	Bardzo cienka
 fontWeight	Thin	Cienki
@@ -2770,7 +2770,7 @@ cameraRaw	Tint	Odcień barwny
 	Title	Title
 	Titling Alternates	Alternatywy tytułowe
 	To Center	Do środka
-	To drop files, start PhotoCraft under XWayland: `{command}`	Aby upuszczać pliki, uruchom PhotoCraft pod XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Aby upuszczać pliki, uruchom Iridium pod XWayland: `{command}`
 	Toggle count group visibility	Przełącz widoczność grupy licznika
 	Toggle Last State	Przełącz ostatni stan
 	Toggle reference point	Przełącz punkt odniesienia
@@ -3002,11 +3002,11 @@ cameraRaw	Yellow	Żółty
 	{name} Properties	Właściwości: {name}
 	{name} was changed by another app after it was opened or saved here.	Plik {name} został zmieniony przez inną aplikację po otwarciu lub zapisaniu go tutaj.
 @plural	{n} action|{n} actions	{n} operacja|{n} operacje|{n} operacji
-	{n} commands are not in PhotoCraft.	Poleceń, których nie ma w PhotoCraft: {n}.
+	{n} commands are not in Iridium.	Poleceń, których nie ma w Iridium: {n}.
 @plural	{n} layer|{n} layers	{n} warstwa|{n} warstwy|{n} warstw
 	{n} of {max} sample points	{n} z {max} punktów próbkowania
 @plural	{n} sample|{n} samples	{n} próbka|{n} próbki|{n} próbek
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} krok nie ma jeszcze odpowiednika w PhotoCraft|{n} kroki nie mają jeszcze odpowiednika w PhotoCraft|{n} kroków nie ma jeszcze odpowiednika w PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} krok nie ma jeszcze odpowiednika w Iridium|{n} kroki nie mają jeszcze odpowiednika w Iridium|{n} kroków nie ma jeszcze odpowiednika w Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Pominięto {n} krok bez odpowiednika w Photoshopie|Pominięto {n} kroki bez odpowiednika w Photoshopie|Pominięto {n} kroków bez odpowiednika w Photoshopie
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: ścieżka nie jest prawidłowym Unicode; zmień nazwę pliku i otwórz go ponownie.
 	{set} (modified)	{set} (zmieniony)

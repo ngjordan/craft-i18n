@@ -1,4 +1,4 @@
-# 한국어 (ko) interface catalog for FilmCraft.
+# 한국어 (ko) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -61,7 +61,7 @@
 	59.94 fps Drop-Frame	59.94 fps 드롭 프레임
 	59.94 fps Non Drop-Frame	59.94 fps 논드롭 프레임
 	A boxed label with a round pointer; move the label and the pointer follows.	둥근 포인터가 있는 상자 레이블. 레이블을 옮기면 포인터가 따라갑니다.
-	A clean-room, pure-Rust non-linear video editor. Part of the ArtCraft family.	클린룸 방식의 순수 Rust 비선형 비디오 편집기. ArtCraft 제품군의 일부입니다.
+	A clean-room, pure-Rust non-linear video editor. Part of the Iridium family.	클린룸 방식의 순수 Rust 비선형 비디오 편집기. Iridium 제품군의 일부입니다.
 	A cut sequence with transitions, effects and music	전환, 효과, 음악이 포함된 편집 시퀀스
 	A file dialog is already open	파일 대화상자가 이미 열려 있습니다
 	A news-style line that crawls in from the right and leaves at the left.	오른쪽에서 흘러 들어와 왼쪽으로 사라지는 뉴스형 자막.
@@ -71,7 +71,7 @@
 	AAC Audio 48 kHz 320 kbps	AAC 오디오 48 kHz 320 kbps
 	AAF Export Settings	AAF 내보내기 설정
 	AAF…	AAF…
-	About FilmCraft	FilmCraft 정보
+	About Iridium	Iridium 정보
 	Accent Color	강조 색상
 	Accessible color contrast	접근성 색상 대비
 	Action and Title Safe Areas	액션 및 제목 안전 영역
@@ -461,7 +461,7 @@
 	Ch. {n}	채널 {n}
 	Change Mask	마스크 변경
 	Change to Color	색상 변경
-	Changes are copied in the background a moment after each edit. If FilmCraft quits unexpectedly, they are offered the next time it starts.	변경 사항은 편집 직후 백그라운드에서 복사됩니다. FilmCraft가 비정상 종료되면 다음 실행 시 복구할 수 있습니다.
+	Changes are copied in the background a moment after each edit. If Iridium quits unexpectedly, they are offered the next time it starts.	변경 사항은 편집 직후 백그라운드에서 복사됩니다. Iridium가 비정상 종료되면 다음 실행 시 복구할 수 있습니다.
 	Channel Blur	채널 흐림
 	Channel Format:	채널 형식:
 	Channel Mix	채널 혼합
@@ -987,16 +987,16 @@
 	Film Dissolve (Legacy)	필름 디졸브(레거시)
 	Film Emulation	필름 에뮬레이션
 	Film Roll	필름 롤
-	FilmCraft always composites in linear light	FilmCraft는 항상 선형 광원으로 합성합니다
-	FilmCraft Graphics Template	FilmCraft 그래픽 템플릿
-	FilmCraft Help…	FilmCraft 도움말…
-	FilmCraft hit an error	FilmCraft 오류 발생
-	FilmCraft keeps the rest of the RAM free for other applications.	FilmCraft는 나머지 RAM을 다른 앱용으로 비워 둡니다.
-	FilmCraft on getartcraft.com	getartcraft.com의 FilmCraft
-	FilmCraft on GitHub	GitHub의 FilmCraft
-	FilmCraft Project	FilmCraft 프로젝트
-	FilmCraft quit unexpectedly while “{name}” had unsaved changes.	“{name}”의 변경 사항을 저장하지 않은 채 FilmCraft가 비정상 종료되었습니다.
-	FilmCraft was closed while “{name}” had unsaved changes.	“{name}”의 변경 사항을 저장하지 않은 채 FilmCraft가 닫혔습니다.
+	Iridium always composites in linear light	Iridium는 항상 선형 광원으로 합성합니다
+	Iridium Graphics Template	Iridium 그래픽 템플릿
+	Iridium Help…	Iridium 도움말…
+	Iridium hit an error	Iridium 오류 발생
+	Iridium keeps the rest of the RAM free for other applications.	Iridium는 나머지 RAM을 다른 앱용으로 비워 둡니다.
+	Iridium on getartcraft.com	getartcraft.com의 Iridium
+	Iridium on GitHub	GitHub의 Iridium
+	Iridium Project	Iridium 프로젝트
+	Iridium quit unexpectedly while “{name}” had unsaved changes.	“{name}”의 변경 사항을 저장하지 않은 채 Iridium가 비정상 종료되었습니다.
+	Iridium was closed while “{name}” had unsaved changes.	“{name}”의 변경 사항을 저장하지 않은 채 Iridium가 닫혔습니다.
 	Filter and EQ	필터 및 EQ
 	Filter Frequency	필터 주파수
 	Filter Resonance	필터 공진
@@ -1192,7 +1192,7 @@
 	Hardware (AV1 has no software encoder)	하드웨어 (AV1은 소프트웨어 인코더 없음)
 	Hardware (H.265 has no software encoder)	하드웨어 (H.265는 소프트웨어 인코더 없음)
 	Hardware decoding	하드웨어 디코딩
-	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and FilmCraft's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	하드웨어 디코딩: 자동은 지원 스트림에 시스템 비디오 디코더(macOS는 VideoToolbox, Windows는 Media Foundation, Linux는 H.264·HEVC용 VA-API 또는 NVDEC)를 쓰고, 그 외나 하드웨어 실패 시 FilmCraft 자체 디코더를 씁니다. 이미 열린 미디어는 다시 열 때까지 기존 디코더를 유지합니다.
+	Hardware decoding: Auto uses the system's video decoder (VideoToolbox on macOS, Media Foundation on Windows, VA-API or NVDEC for H.264 and HEVC on Linux) for the streams it supports, and Iridium's own decoder for everything else or if the hardware fails. Media that is already open keeps its decoder until it is reopened.	하드웨어 디코딩: 자동은 지원 스트림에 시스템 비디오 디코더(macOS는 VideoToolbox, Windows는 Media Foundation, Linux는 H.264·HEVC용 VA-API 또는 NVDEC)를 쓰고, 그 외나 하드웨어 실패 시 Iridium 자체 디코더를 씁니다. 이미 열린 미디어는 다시 열 때까지 기존 디코더를 유지합니다.
 	HD Anamorphic 1080 (1.333)	HD 아나모픽 1080(1.333)
 	HDR	HDR
 	HDR Graphics White (Nits)	HDR 그래픽 흰색(Nits)
@@ -1338,7 +1338,7 @@
 	Iris Round	아이리스 원형
 	Iris Shape	아이리스 모양
 	JetBrains Mono	JetBrains Mono
-	Join the ArtCraft Discord (discord.gg/artcraft)	ArtCraft Discord 참여(discord.gg/artcraft)
+	Join the Iridium Discord (discord.gg/artcraft)	Iridium Discord 참여(discord.gg/artcraft)
 	Join Through Edits	통과 편집 결합
 	JPEG	JPEG
 	JPEG Sequence	JPEG 시퀀스
@@ -1741,7 +1741,7 @@
 	No model credits were built into this copy.	이 사본에 모델 크레딧이 포함되지 않았습니다.
 	No Motion	모션 없음
 	No multi-camera clip at the playhead	재생 헤드에 멀티 카메라 클립 없음
-	No plugins are installed. Changes will take effect the next time you start FilmCraft.	설치된 플러그인이 없습니다. 변경 사항은 FilmCraft를 다음에 시작할 때 적용됩니다.
+	No plugins are installed. Changes will take effect the next time you start Iridium.	설치된 플러그인이 없습니다. 변경 사항은 Iridium를 다음에 시작할 때 적용됩니다.
 	No saved guide templates.	저장된 안내선 템플릿 없음.
 	No Scroll	스크롤 없음
 	No templates match.	일치하는 템플릿 없음.
@@ -1759,8 +1759,8 @@
 	not available in this session	이 세션에서 사용할 수 없음
 	Not matched yet	아직 일치 안 됨
 	Not Now	나중에
-	Not supported by FilmCraft's encoders yet	FilmCraft 인코더에서 아직 지원 안 됨
-	Not supported in FilmCraft yet	FilmCraft에서 아직 지원되지 않음
+	Not supported by Iridium's encoders yet	Iridium 인코더에서 아직 지원 안 됨
+	Not supported in Iridium yet	Iridium에서 아직 지원되지 않음
 	Notch 1	노치 1
 	Notch 2	노치 2
 	Notch 3	노치 3
@@ -2048,7 +2048,7 @@
 	QuickTime, ProRes 4444 (4:4:4) with alpha channel, 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4) 알파 채널 포함, 24비트 48 kHz PCM
 	QuickTime, ProRes 4444 (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 (4:4:4), 24비트 48 kHz PCM
 	QuickTime, ProRes 4444 XQ (4:4:4), 24-bit 48 kHz PCM	QuickTime, ProRes 4444 XQ (4:4:4), 24비트 48 kHz PCM
-	Quit FilmCraft	FilmCraft 종료
+	Quit Iridium	Iridium 종료
 	Radial Ramp	방사형 램프
 	Radial Wipe	방사형 닦아내기
 	Radial Wipe (Legacy)	방사형 닦아내기(레거시)
@@ -2249,7 +2249,7 @@
 	Save Preset	사전 설정 저장
 	Save preset as:	사전 설정 저장 이름:
 	Save Project	프로젝트 저장
-	Saved as a FilmCraft graphics template (.fcgt) in your templates folder.	템플릿 폴더에 FilmCraft 그래픽 템플릿(.fcgt)으로 저장했습니다.
+	Saved as a Iridium graphics template (.fcgt) in your templates folder.	템플릿 폴더에 Iridium 그래픽 템플릿(.fcgt)으로 저장했습니다.
 	Saved preset “{name}”	사전 설정 “{name}” 저장됨
 	Saved template {path}	템플릿 저장됨: {path}
 	Saves the view, columns, sort, thumbnail and font size.	보기, 열, 정렬, 썸네일, 글꼴 크기를 저장합니다.
@@ -2327,7 +2327,7 @@
 	Select to Segment End	세그먼트 끝까지 선택
 	Select to Segment Start	세그먼트 시작까지 선택
 	Selected: {command}	선택됨: {command}
-	Selection as FilmCraft Project…	선택 항목을 FilmCraft 프로젝트로…
+	Selection as Iridium Project…	선택 항목을 Iridium 프로젝트로…
 	Selection Follows Playhead	재생 헤드 따라 선택
 	Selection Order	선택 순서
 	Selection…	선택 항목…
@@ -2427,7 +2427,7 @@
 	Show/Hide Tracks	트랙 표시/숨기기
 	Show/Hide Tracks…	트랙 표시/숨기기…
 	Shows a report on this computer.	이 컴퓨터에 대한 보고서를 보여 줍니다.
-	Shows the version, community links and credits in a FilmCraft window.	FilmCraft 창에 버전, 커뮤니티 링크, 제작진을 보여 줍니다.
+	Shows the version, community links and credits in a Iridium window.	Iridium 창에 버전, 커뮤니티 링크, 제작진을 보여 줍니다.
 	Shrink	축소
 	Shutter Angle	셔터 각도
 	Shuttle Left	왼쪽으로 셔틀
@@ -2669,7 +2669,7 @@
 	TextPanel	텍스트 패널
 	The default graphics are used from the next start.	다음 시작부터 기본 그래픽을 사용합니다.
 	The language changed but could not be saved: {e}	언어가 변경되었으나 저장하지 못했습니다: {e}
-	The media cache holds render previews of unsaved projects and other files FilmCraft can recreate. Deleting them is always safe; FilmCraft rebuilds them as needed.	미디어 캐시에는 저장되지 않은 프로젝트의 렌더 미리 보기 등 FilmCraft가 다시 만들 수 있는 파일이 있습니다. 삭제해도 안전하며 필요 시 FilmCraft가 다시 생성합니다.
+	The media cache holds render previews of unsaved projects and other files Iridium can recreate. Deleting them is always safe; Iridium rebuilds them as needed.	미디어 캐시에는 저장되지 않은 프로젝트의 렌더 미리 보기 등 Iridium가 다시 만들 수 있는 파일이 있습니다. 삭제해도 안전하며 필요 시 Iridium가 다시 생성합니다.
 	The project had not been saved yet.	프로젝트가 아직 저장되지 않았습니다.
 	The selected clips have different audio types. Assign one type to edit them together.	선택한 클립의 오디오 유형이 다릅니다. 함께 편집하려면 한 유형을 지정하세요.
 	The sequence has no caption track.	시퀀스에 자막 트랙이 없습니다.

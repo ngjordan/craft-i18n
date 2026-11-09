@@ -1,4 +1,4 @@
-# বাংলা (bn) interface catalog for ArtCraft Launcher.
+# বাংলা (bn) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	অ্যাপ
 	Apps you hid	লুকানো অ্যাপ
 month	Apr	এপ্রিল
 	Arch package (.pkg.tar.zst)	আর্চ প্যাকেজ (.pkg.tar.zst)
-	ArtCraft Launcher	আর্টক্রাফট লঞ্চার
-	ArtCraft Launcher {version}	আর্টক্রাফট লঞ্চার {version}
-	ArtCraft Launcher {version} is available.	আর্টক্রাফট লঞ্চার {version} উপলব্ধ।
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	আর্টক্রাফট লঞ্চার · {n}টি আপডেট উপলব্ধ|আর্টক্রাফট লঞ্চার · {n}টি আপডেট উপলব্ধ
-	ArtCraft on GitHub	গিটহাবে আর্টক্রাফট
-	ArtCraft on {name}	{name}-এ আর্টক্রাফট
+	Iridium Launcher	আর্টক্রাফট লঞ্চার
+	Iridium Launcher {version}	আর্টক্রাফট লঞ্চার {version}
+	Iridium Launcher {version} is available.	আর্টক্রাফট লঞ্চার {version} উপলব্ধ।
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	আর্টক্রাফট লঞ্চার · {n}টি আপডেট উপলব্ধ|আর্টক্রাফট লঞ্চার · {n}টি আপডেট উপলব্ধ
+	Iridium on GitHub	গিটহাবে আর্টক্রাফট
+	Iridium on {name}	{name}-এ আর্টক্রাফট
 month	Aug	আগস্ট
 	Automatically download and install updates	স্বয়ংক্রিয়ভাবে আপডেট ডাউনলোড ও ইনস্টল করুন
 	Available to install	ইনস্টলযোগ্য
@@ -119,7 +119,7 @@ filter	Installed	ইনস্টল করা
 	Installing…	ইনস্টল হচ্ছে…
 figcraft	Interface design and prototyping	ইন্টারফেস ডিজাইন ও প্রোটোটাইপিং
 month	Jan	জানু
-	Join the ArtCraft community on Discord	ডিসকর্ডে আর্টক্রাফট কমিউনিটিতে যোগ দিন
+	Join the Iridium community on Discord	ডিসকর্ডে আর্টক্রাফট কমিউনিটিতে যোগ দিন
 	Join the Discord	ডিসকর্ডে যোগ দিন
 month	Jul	জুলাই
 month	Jun	জুন
@@ -137,7 +137,7 @@ column	Latest	সর্বশেষ
 	Like {name}	{name}-এর মতো
 	link	লিঙ্ক
 @id	linux.preferred_kind	পছন্দের প্যাকেজ
-	Loading ArtCraft Launcher…	আর্টক্রাফট লঞ্চার লোড হচ্ছে…
+	Loading Iridium Launcher…	আর্টক্রাফট লঞ্চার লোড হচ্ছে…
 	Loading pictures…	ছবি লোড হচ্ছে…
 month	Mar	মার্চ
 	Match system	সিস্টেমের সাথে মিলিয়ে
@@ -159,7 +159,7 @@ effectcraft	Motion graphics and visual effects	মোশন গ্রাফি�
 month	Nov	নভে
 month	Oct	অক্টো
 	Only when I ask	শুধু যখন বলব
-	Open ArtCraft Launcher to update.	আপডেট করতে আর্টক্রাফট লঞ্চার খুলুন।
+	Open Iridium Launcher to update.	আপডেট করতে আর্টক্রাফট লঞ্চার খুলুন।
 	Open on GitHub	গিটহাবে খুলুন
 	Open Source Tools for Creatives, Makers, and Builders	সৃজনশীল ও নির্মাতাদের জন্য ওপেন সোর্স টুলস
 designcraft	Page layout and publishing	পৃষ্ঠা লেআউট ও প্রকাশনা
@@ -170,8 +170,8 @@ lightcraft	Photo library and raw development	ফটো লাইব্রের�
 	Portable (.zip)	পোর্টেবল (.zip)
 deckcraft	Presentations and slide shows	উপস্থাপনা ও স্লাইড শো
 	Previous picture (←)	আগের ছবি (←)
-	Questions, ideas and news from the ArtCraft team	আর্টক্রাফট টিমের প্রশ্ন, ধারণা ও খবর
-	Quit ArtCraft Launcher	আর্টক্রাফট লঞ্চার বন্ধ করুন
+	Questions, ideas and news from the Iridium team	আর্টক্রাফট টিমের প্রশ্ন, ধারণা ও খবর
+	Quit Iridium Launcher	আর্টক্রাফট লঞ্চার বন্ধ করুন
 pdfcraft	Reading, organizing and protecting PDFs	পিডিএফ পড়া, সাজানো ও সুরক্ষিত করা
 	Reconnecting…	পুনরায় সংযোগ করা হচ্ছে…
 soundcraft	Recording, editing and mixing audio	অডিও রেকর্ডিং, সম্পাদনা ও মিক্সিং
@@ -194,7 +194,7 @@ month	Sep	সেপ্টে
 @id	settings.quit	প্রস্থান
 	Show apps as a table	অ্যাপসমূহ টেবিল হিসেবে দেখান
 	Show apps as cards	অ্যাপসমূহ কার্ড হিসেবে দেখান
-	Show ArtCraft Launcher	আর্টক্রাফট লঞ্চার দেখান
+	Show Iridium Launcher	আর্টক্রাফট লঞ্চার দেখান
 	Show in Explorer	এক্সপ্লোরারে দেখান
 	Show in Files	ফাইলসে দেখান
 	Show in Finder	ফাইন্ডারে দেখান
@@ -207,7 +207,7 @@ month	Sep	সেপ্টে
 @id	sort.status	অবস্থা
 @id	sort.suite	স্যুট
 gridcraft	Spreadsheets and data	স্প্রেডশিট ও ডেটা
-	Start ArtCraft Launcher when I log in	লগইনে আর্টক্রাফট লঞ্চার চালু করুন
+	Start Iridium Launcher when I log in	লগইনে আর্টক্রাফট লঞ্চার চালু করুন
 	Stop waiting; the update can be started again later	অপেক্ষা থামান; আপডেট পরে আবার শুরু করা যাবে
 	Suite order	স্যুট ক্রম
 	System default	সিস্টেম ডিফল্ট
@@ -279,7 +279,7 @@ wordcraft	Writing and document design	লেখালেখি ও নথি ন
 @plural	{n} day ago|{n} days ago	{n} দিন আগে|{n} দিন আগে
 @plural	{n} h ago|{n} h ago	{n} ঘণ্টা আগে|{n} ঘণ্টা আগে
 @plural	{n} min ago|{n} min ago	{n} মিনিট আগে|{n} মিনিট আগে
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} আগে থেকেই রয়েছে এবং আর্টক্রাফট লঞ্চার দ্বারা ইনস্টল হয়নি
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} আগে থেকেই রয়েছে এবং আর্টক্রাফট লঞ্চার দ্বারা ইনস্টল হয়নি
 	{path} already exists. Installing {name} will overwrite it.	{path} আগে থেকেই রয়েছে। {name} ইনস্টল করলে এটি প্রতিস্থাপিত হবে।
 	{version} installed → {latest} released	{version} ইনস্টল করা → {latest} প্রকাশিত
 	⊞  Grid	⊞  গ্রিড

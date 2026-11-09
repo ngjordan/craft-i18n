@@ -1,4 +1,4 @@
-# Čeština (cs) interface catalog for ArtCraft Launcher.
+# Čeština (cs) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	Aplikace
 	Apps you hid	Aplikace, které jste skryli
 month	Apr	4.
 	Arch package (.pkg.tar.zst)	Balíček Arch (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	Je k dispozici ArtCraft Launcher {version}.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} dostupná aktualizace|ArtCraft Launcher · {n} dostupné aktualizace|ArtCraft Launcher · {n} dostupných aktualizací
-	ArtCraft on GitHub	ArtCraft na GitHubu
-	ArtCraft on {name}	ArtCraft na {name}
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Je k dispozici Iridium Launcher {version}.
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} dostupná aktualizace|Iridium Launcher · {n} dostupné aktualizace|Iridium Launcher · {n} dostupných aktualizací
+	Iridium on GitHub	Iridium na GitHubu
+	Iridium on {name}	Iridium na {name}
 month	Aug	8.
 	Automatically download and install updates	Automaticky stahovat a instalovat aktualizace
 	Available	K dispozici
@@ -121,8 +121,8 @@ filter	Installed	Nainstalováno
 	Installing…	Instalace…
 figcraft	Interface design and prototyping	Návrh rozhraní a prototypování
 month	Jan	1.
-	Join the ArtCraft community on Discord	Připojit se ke komunitě ArtCraft na Discordu
-	Join the ArtCraft Discord	Připojit se na ArtCraft Discord
+	Join the Iridium community on Discord	Připojit se ke komunitě Iridium na Discordu
+	Join the Iridium Discord	Připojit se na Iridium Discord
 	Join the Discord	Připojit se na Discord
 month	Jul	7.
 month	Jun	6.
@@ -140,7 +140,7 @@ column	Latest	Nejnovější
 	Like {name}	Obdoba {name}
 	link	odkaz
 @id	linux.preferred_kind	Instalovat nové aplikace jako
-	Loading ArtCraft Launcher…	Načítání aplikace ArtCraft Launcher…
+	Loading Iridium Launcher…	Načítání aplikace Iridium Launcher…
 	Loading pictures…	Načítání obrázků…
 month	Mar	3.
 	Match system	Podle systému
@@ -164,7 +164,7 @@ effectcraft	Motion graphics and visual effects	Pohyblivá grafika a vizuální e
 month	Nov	11.
 month	Oct	10.
 	Only when I ask	Pouze na vyžádání
-	Open ArtCraft Launcher to update.	Aktualizujte otevřením aplikace ArtCraft Launcher.
+	Open Iridium Launcher to update.	Aktualizujte otevřením aplikace Iridium Launcher.
 	Open on GitHub	Otevřít na GitHubu
 	Open Source Tools for Creatives, Makers, and Builders	Open-source nástroje pro kreativce, tvůrce a vývojáře
 designcraft	Page layout and publishing	Sazba stránek a publikování
@@ -175,8 +175,8 @@ lightcraft	Photo library and raw development	Katalog fotografií a vyvolávání
 	Portable (.zip)	Přenosná verze (.zip)
 deckcraft	Presentations and slide shows	Prezentace a promítání snímků
 	Previous picture (←)	Předchozí obrázek (←)
-	Questions, ideas and news from the ArtCraft team	Dotazy, nápady a novinky od týmu ArtCraft
-	Quit ArtCraft Launcher	Ukončit ArtCraft Launcher
+	Questions, ideas and news from the Iridium team	Dotazy, nápady a novinky od týmu Iridium
+	Quit Iridium Launcher	Ukončit Iridium Launcher
 pdfcraft	Reading, organizing and protecting PDFs	Čtení, organizace a ochrana souborů PDF
 	Reconnecting…	Obnovování připojení…
 soundcraft	Recording, editing and mixing audio	Nahrávání, úpravy a mixování zvuku
@@ -196,10 +196,10 @@ column	Released	Vydáno
 	Search apps	Hledat aplikace
 month	Sep	9.
 @id	settings.open	Nastavení
-@id	settings.quit	Ukončit ArtCraft Launcher
+@id	settings.quit	Ukončit Iridium Launcher
 	Show apps as a table	Zobrazit aplikace v tabulce
 	Show apps as cards	Zobrazit aplikace jako karty
-	Show ArtCraft Launcher	Zobrazit ArtCraft Launcher
+	Show Iridium Launcher	Zobrazit Iridium Launcher
 	Show in Explorer	Zobrazit v Průzkumníku
 	Show in Files	Zobrazit v Souborech
 	Show in Finder	Zobrazit ve Finderu
@@ -212,7 +212,7 @@ month	Sep	9.
 @id	sort.status	Stav
 @id	sort.suite	Pořadí v sadě
 gridcraft	Spreadsheets and data	Tabulky a data
-	Start ArtCraft Launcher when I log in	Spouštět ArtCraft Launcher po přihlášení
+	Start Iridium Launcher when I log in	Spouštět Iridium Launcher po přihlášení
 	Stop waiting; the update can be started again later	Přestat čekat; aktualizaci lze spustit znovu později
 	Suite order	Pořadí v sadě
 	System default	Výchozí nastavení systému
@@ -225,7 +225,7 @@ gridcraft	Spreadsheets and data	Tabulky a data
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	Tyto poznámky se nepodařilo načíst (byl dosažen limit požadavků GitHubu). Najdete je na stránce vydání.
 @msg	this release has no AppImage for a custom install folder	toto vydání nemá AppImage pro vlastní instalační složku
 @id	tray.close_to_tray	Po zavření okna ponechat spuštěné v oznamovací oblasti
-@id	tray.login_item	Spouštět ArtCraft Launcher po přihlášení
+@id	tray.login_item	Spouštět Iridium Launcher po přihlášení
 @id	tray.show_on_current_desktop	Zobrazit okno na aktuální ploše
 	Unhide App	Zobrazit aplikaci
 	Uninstall	Odinstalovat
@@ -285,7 +285,7 @@ wordcraft	Writing and document design	Psaní a návrh dokumentů
 @plural	{n} day ago|{n} days ago	před {n} dnem|před {n} dny|před {n} dny
 @plural	{n} h ago|{n} h ago	před {n} h|před {n} h|před {n} h
 @plural	{n} min ago|{n} min ago	před {n} min|před {n} min|před {n} min
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} již existuje a nebylo nainstalováno aplikací ArtCraft Launcher
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} již existuje a nebylo nainstalováno aplikací Iridium Launcher
 	{path} already exists. Installing {name} will overwrite it.	{path} už existuje. Instalace aplikace {name} ho přepíše.
 	{version} installed → {latest} released	Nainstalována verze {version} → vydána {latest}
 	⊞  Grid	⊞  Mřížka

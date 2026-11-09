@@ -1,4 +1,4 @@
-# 日本語 (ja) interface catalog for ArtCraft Launcher.
+# 日本語 (ja) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -34,12 +34,12 @@ column	App	アプリ
 	Apps you hid	非表示にしたアプリ
 month	Apr	4月
 	Arch package (.pkg.tar.zst)	Arch パッケージ (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	ArtCraft Launcher {version} が利用可能です。
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} 件の更新があります
-	ArtCraft on GitHub	GitHub の ArtCraft
-	ArtCraft on {name}	{name} の ArtCraft
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Iridium Launcher {version} が利用可能です。
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} 件の更新があります
+	Iridium on GitHub	GitHub の Iridium
+	Iridium on {name}	{name} の Iridium
 month	Aug	8月
 	Automatically download and install updates	更新を自動でダウンロードしてインストール
 	Available	利用可能
@@ -122,8 +122,8 @@ filter	Installed	インストール済み
 	Installing…	インストール中…
 figcraft	Interface design and prototyping	インターフェースデザインとプロトタイピング
 month	Jan	1月
-	Join the ArtCraft community on Discord	Discord で ArtCraft コミュニティに参加
-	Join the ArtCraft Discord	ArtCraft Discord に参加
+	Join the Iridium community on Discord	Discord で Iridium コミュニティに参加
+	Join the Iridium Discord	Iridium Discord に参加
 	Join the Discord	Discord に参加
 month	Jul	7月
 month	Jun	6月
@@ -141,7 +141,7 @@ column	Latest	最新バージョン
 	Like {name}	{name} と同様
 	link	リンク
 @id	linux.preferred_kind	新しいアプリのインストール形式
-	Loading ArtCraft Launcher…	ArtCraft Launcher を読み込み中…
+	Loading Iridium Launcher…	Iridium Launcher を読み込み中…
 	Loading pictures…	画像を読み込み中…
 month	Mar	3月
 	Match system	システムに合わせる
@@ -164,7 +164,7 @@ effectcraft	Motion graphics and visual effects	モーショングラフィック
 month	Nov	11月
 month	Oct	10月
 	Only when I ask	手動で確認したときのみ
-	Open ArtCraft Launcher to update.	更新するには ArtCraft Launcher を開いてください。
+	Open Iridium Launcher to update.	更新するには Iridium Launcher を開いてください。
 	Open on GitHub	GitHub で開く
 	Open Source Tools for Creatives, Makers, and Builders	クリエイター、メイカー、ビルダーのためのオープンソースツール
 designcraft	Page layout and publishing	ページレイアウトと出版
@@ -175,8 +175,8 @@ lightcraft	Photo library and raw development	フォトライブラリと RAW 現
 	Portable (.zip)	ポータブル版 (.zip)
 deckcraft	Presentations and slide shows	プレゼンテーションとスライドショー
 	Previous picture (←)	前の画像 (←)
-	Questions, ideas and news from the ArtCraft team	ArtCraft チームからの質問、アイデア、ニュース
-	Quit ArtCraft Launcher	ArtCraft Launcher を終了
+	Questions, ideas and news from the Iridium team	Iridium チームからの質問、アイデア、ニュース
+	Quit Iridium Launcher	Iridium Launcher を終了
 pdfcraft	Reading, organizing and protecting PDFs	PDF の閲覧、整理、保護
 	Reconnecting…	再接続中…
 soundcraft	Recording, editing and mixing audio	オーディオの録音、編集、ミックス
@@ -198,10 +198,10 @@ column	Released	公開日
 	Search apps	アプリを検索
 month	Sep	9月
 @id	settings.open	設定
-@id	settings.quit	ArtCraft Launcher を終了
+@id	settings.quit	Iridium Launcher を終了
 	Show apps as a table	アプリをテーブルで表示
 	Show apps as cards	アプリをカードで表示
-	Show ArtCraft Launcher	ArtCraft Launcher を表示
+	Show Iridium Launcher	Iridium Launcher を表示
 	Show in Explorer	エクスプローラーで表示
 	Show in Files	ファイルマネージャーで表示
 	Show in Finder	Finder で表示
@@ -214,7 +214,7 @@ month	Sep	9月
 @id	sort.status	ステータス
 @id	sort.suite	スイート順
 gridcraft	Spreadsheets and data	表計算とデータ
-	Start ArtCraft Launcher when I log in	ログイン時に ArtCraft Launcher を起動
+	Start Iridium Launcher when I log in	ログイン時に Iridium Launcher を起動
 	Status	ステータス
 	Stop waiting; the update can be started again later	待機を中止します。更新は後で再開できます
 	Suite order	スイート順
@@ -229,7 +229,7 @@ gridcraft	Spreadsheets and data	表計算とデータ
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	このリリースノートは取得できませんでした（GitHub のリクエスト上限に達しました）。リリースページにあります。
 @msg	this release has no AppImage for a custom install folder	このリリースには任意のインストール先フォルダーで使用できるAppImageがありません
 @id	tray.close_to_tray	ウィンドウを閉じてもトレイで実行し続ける
-@id	tray.login_item	ログイン時に ArtCraft Launcher を起動
+@id	tray.login_item	ログイン時に Iridium Launcher を起動
 @id	tray.show_on_current_desktop	現在のデスクトップにウィンドウを表示
 	Unhide App	アプリを再表示
 	Uninstall	アンインストール
@@ -289,7 +289,7 @@ wordcraft	Writing and document design	文書作成とデザイン
 @plural	{n} day ago|{n} days ago	{n} 日前
 @plural	{n} h ago|{n} h ago	{n} 時間前
 @plural	{n} min ago|{n} min ago	{n} 分前
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	{path} は既に存在し、ArtCraft Launcherでインストールされたものではありません
+@msg	{path} already exists and wasn't installed by Iridium Launcher	{path} は既に存在し、Iridium Launcherでインストールされたものではありません
 	{path} already exists. Installing {name} will overwrite it.	{path} は既に存在します。{name} をインストールすると上書きされます。
 	{version} installed → {latest} released	{version} インストール済み → {latest} 公開
 	⊞  Grid	⊞  グリッド

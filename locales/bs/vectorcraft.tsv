@@ -1,4 +1,4 @@
-# Bosanski (bs) interface catalog for VectorCraft.
+# Bosanski (bs) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -143,7 +143,7 @@ swatch	[None]	[Nijedna]
 swatch	[Registration]	[Registracija]
 	[Smallest File Size]	[Najmanja veličina datoteke]
 	[Unnamed]	[Bez naziva]
-	[VectorCraft Default]	[VectorCraft zadano]
+	[Iridium Default]	[Iridium zadano]
 @msg	`aspect` must be a number (%)	`aspect` mora biti broj (%)
 @msg	`at` must be [x, y]	`at` mora biti [x, y]
 @msg	`color` must be a colour	`color` mora biti boja
@@ -168,7 +168,7 @@ swatch	[Registration]	[Registracija]
 @msg	`{_1}` is no save command	`{_1}` nije naredba čuvanja
 @msg	`{area}` is no recovery area name	`{area}` nije naziv područja za oporavak
 @msg	`{color}` is not a colour (#rrggbb or a preset name)	`{color}` nije boja (#rrggbb ili naziv predloška)
-@msg	`{file}` isn't a VectorCraft document, a PDF or a PDF-compatible .ai file	`{file}` nije VectorCraft dokument, PDF niti .ai datoteka kompatibilna s PDF-om
+@msg	`{file}` isn't a Iridium document, a PDF or a PDF-compatible .ai file	`{file}` nije Iridium dokument, PDF niti .ai datoteka kompatibilna s PDF-om
 @msg	`{given}` isn't a library panel (see window.swatchLibrary)	`{given}` nije panel biblioteke (vidi window.swatchLibrary)
 @msg	`{id}` has no envelope dialog	`{id}` nema dijalog omotnice
 @msg	`{keep}` is not a side of this axis	`{keep}` nije strana ove ose
@@ -255,7 +255,7 @@ swatch	[Registration]	[Registracija]
 	A4	A4
 	A5	A5
 	A6	A6
-	About VectorCraft	O VectorCraftu
+	About Iridium	O Iridiumu
 	above	iznad
 	Above Text	Iznad teksta
 	Absolute Position	Apsolutni položaj
@@ -351,7 +351,7 @@ swatch	Amber	Jantar
 	Ambient Light	Ambijentalno svjetlo
 @msg	an image has no pixels and was left out	slika nema piksela i izostavljena je
 @msg	an image of {w} × {h} pixels is too large to draw	slika od {w} × {h} piksela prevelika je za crtanje
-@msg	an image VectorCraft can't read was left out	izostavljena je slika koju VectorCraft ne može pročitati
+@msg	an image Iridium can't read was left out	izostavljena je slika koju Iridium ne može pročitati
 @msg	an image whose data is cut short was left out	izostavljena je slika čiji su podaci skraćeni
 @msg	an object can't be read	objekat se ne može pročitati
 @msg	an object in perspective would leave the edited grid	objekat u perspektivi napustio bi uređenu mrežu
@@ -383,7 +383,7 @@ swatch	Amber	Jantar
 	Appearance Panel	Panel izgleda
 	Appearance panel	Panel izgleda
 	Applied Filters	Primijenjeni filteri
-	Applies the next time VectorCraft starts.	Primjenjuje se pri sljedećem pokretanju VectorCrafta.
+	Applies the next time Iridium starts.	Primjenjuje se pri sljedećem pokretanju Iridiuma.
 	Applies when the linked file is relinked or updated.	Primjenjuje se kad se povezana datoteka ponovo poveže ili ažurira.
 	Apply Brush	Primijeni četkicu
 	Apply Effect	Primijeni efekat
@@ -622,7 +622,7 @@ swatch	Brown	Smeđa
 @msg	can't parse shortcut `{c}`	nije moguće raščlaniti prečicu `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	nije moguće raščlaniti prečicu `{s}` za `{k}`
 	Can't print these settings: see the Summary	Nije moguće štampati s ovim postavkama: pogledajte Sažetak
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	nije moguće sačuvati verziju {0}: VectorCraft zapisuje verzije od {MIN_VERSION} do {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	nije moguće sačuvati verziju {0}: Iridium zapisuje verzije od {MIN_VERSION} do {VERSION}
 	Can't save “{name}”.	Nije moguće sačuvati „{name}”.
 @msg	can't write .{ext} images	nije moguće zapisati .{ext} slike
 	Cancel Export	Otkaži izvoz
@@ -1083,7 +1083,7 @@ swatch	Cyan Green	Cijan-zelena
 	Dialog	Dijalog
 	Diamond (open)	Romb (otvoreni)
 	Differences from [Default]:	Razlike od [Zadano]:
-	Differences from VectorCraft Default:	Razlike od VectorCraft zadano:
+	Differences from Iridium Default:	Razlike od Iridium zadano:
 	Differences from {preset}:	Razlike od {preset}:
 	Diffuse	Difuzno
 	Diffuse Glow…	Difuzni sjaj…
@@ -1232,7 +1232,7 @@ swatch	Cyan Green	Cijan-zelena
 	DXF Options Dialog	Dijalog DXF opcija
 	e.g. 1-3, 5	npr. 1-3, 5
 	Each Design Represents:	Svaki dizajn predstavlja:
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	Svaki unos datoteke uparuje se s alatom, naredbom ili panelom VectorCrafta. Provjerite uparivanja i odgovorite na ostatak.
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	Svaki unos datoteke uparuje se s alatom, naredbom ili panelom Iridiuma. Provjerite uparivanja i odgovorite na ostatak.
 	Each page prints as one image, at the document's raster effects resolution.	Svaka stranica se štampa kao jedna slika, u rezoluciji rasterskih efekata dokumenta.
 	Earth Tones	Zemljani tonovi
 	Ease In	Ublaži ulaz
@@ -1451,7 +1451,7 @@ swatch	Espresso	Espresso
 	File Info Dialog	Dijalog informacija o datoteci
 	File Name:	Naziv datoteke:
 	File or URL:	Datoteka ili URL:
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	verzija datoteke {0} novija je od one koju ovaj VectorCraft podržava ({VERSION})
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	verzija datoteke {0} novija je od one koju ovaj Iridium podržava ({VERSION})
 	File › Place… brings in an image, linked or embedded.	Datoteka › Postavi… unosi sliku, povezanu ili ugrađenu.
 	Files of a PDF standard can't be password-protected.	Datoteke PDF standarda ne mogu se zaštititi lozinkom.
 	Files of this standard tag their colours with ICC profiles.	Datoteke ovog standarda označavaju svoje boje ICC profilima.
@@ -1713,7 +1713,7 @@ swatch	Green	Zelena
 	Hide Thumbnail	Sakrij sličicu
 	Hide Thumbnails	Sakrij sličice
 	Hide Transparency Grid	Sakrij mrežu prozirnosti
-	Hide VectorCraft	Sakrij VectorCraft
+	Hide Iridium	Sakrij Iridium
 	High (300 ppi)	Visoko (300 ppi)
 	High Contrast	Visoki kontrast
 	High Contrast 2	Visoki kontrast 2
@@ -1806,7 +1806,7 @@ effect	Horizontal	Vodoravno
 	In Tangent Handles	Ulazne tangentne ručke
 	In the File	U datoteci
 	In the selected objects	U odabranim objektima
-	In VectorCraft	U VectorCraftu
+	In Iridium	U Iridiumu
 	Include all profiles	Uključi sve profile
 	Include All Subdirectories	Uključi sve poddirektorije
 	Include Blacks with CMY:	Uključi crne s CMY:
@@ -1871,7 +1871,7 @@ swatch	Indigo	Indigo
 	Invert Colors	Obrni boje
 	Invert Pie	Obrnuta pita
 	Inverted Round	Obrnuto okruglo
-@msg	is not an image VectorCraft reads	nije slika koju VectorCraft čita
+@msg	is not an image Iridium reads	nije slika koju Iridium čita
 	Isolate Blending	Izoliraj stapanje
 	Isolate Group	Izoliraj grupu
 	Isolate Selected Group	Izoliraj odabranu grupu
@@ -1890,9 +1890,9 @@ swatch	Indigo	Indigo
 @msg	it has too many text objects	ima previše tekstualnih objekata
 @msg	it has too many values in a row	ima previše vrijednosti u redu
 @msg	it has too much text	ima previše teksta
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	sadrži {_1}, što VectorCraft još ne čita iz nje
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	koristi `{at}`, što PostScript čitač VectorCrafta ne poznaje
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	koristi `{at}`, što PostScript čitač VectorCrafta ne poznaje, u {procs}
+@msg	it has {_1}, which Iridium doesn't read from it yet	sadrži {_1}, što Iridium još ne čita iz nje
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	koristi `{at}`, što PostScript čitač Iridiuma ne poznaje
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	koristi `{at}`, što PostScript čitač Iridiuma ne poznaje, u {procs}
 @msg	its editing data doesn't say where its art is	njeni podaci za uređivanje ne govore gdje joj je crtež
 @msg	its editing data doesn't say where its artboard is	njeni podaci za uređivanje ne govore gdje joj je radna ploča
 @msg	its editing data has no layers	njeni podaci za uređivanje nemaju slojeve
@@ -1915,7 +1915,7 @@ mark-style	Japanese	Japanski
 	JavaScript:	JavaScript:
 @msg	join needs open paths	spajanje zahtijeva otvorene putanje
 	Join Our Discord	Pridružite se našem Discordu
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	Pridružite se ArtCraft zajednici na Discordu (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	Pridružite se Iridium zajednici na Discordu (discord.gg/artcraft)
 	Join the lines of each paragraph	Spoji redove svakog pasusa
 	Join Tool	Alat za spajanje
 	Joins	Spojevi
@@ -1935,7 +1935,7 @@ mark-style	Japanese	Japanski
 	Keep the pasted color as a new swatch with a numbered name.	Zadrži zalijepljenu boju kao novi uzorak boje s numerisanim nazivom.
 	Keep this row's colors (exclude)	Zadrži boje ovog reda (isključi)
 	Keep visible surfaces only when expanding	Pri proširivanju zadrži samo vidljive površine
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	Dokument ostaje uređiv: VectorCraft ponovo otvara PDF bez gubitaka. Za datoteke koje ćete ponovo uređivati.
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	Dokument ostaje uređiv: Iridium ponovo otvara PDF bez gubitaka. Za datoteke koje ćete ponovo uređivati.
 	Kerning (0 = Auto)	Podrezivanje (0 = automatski)
 	Key Color:	Ključna boja:
 	Keyboard Increment	Korak tastature
@@ -2078,7 +2078,7 @@ swatch	Lime	Limeta
 	Load Texture…	Učitaj teksturu…
 	Load Variable Library…	Učitaj biblioteku varijabli…
 	Loaded Texture	Učitana tekstura
-@msg	Loading VectorCraft…	Učitavanje VectorCrafta…
+@msg	Loading Iridium…	Učitavanje Iridiuma…
 	Loads native code	Učitava izvorni kod
 	Local Libraries	Lokalne biblioteke
 	Locate Library…	Pronađi biblioteku…
@@ -2481,8 +2481,8 @@ swatch	Magenta	Magenta
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	nije skup prečica: tekst ne počinje nazivom s kosom crtom i otvarajućom vitičastom zagradom
 @msg	not a stored central record	nije sačuvani centralni zapis
 @msg	not a valid plug-in module: {0}	nije važeći modul dodatka: {0}
-@msg	not a VectorCraft file: {0}	nije VectorCraft datoteka: {0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	nije VectorCraft skup prečica (nedostaje `overrides`)
+@msg	not a Iridium file: {0}	nije Iridium datoteka: {0}
+@msg	not a Iridium shortcut set (missing `overrides`)	nije Iridium skup prečica (nedostaje `overrides`)
 @msg	not an EMF or WMF file	nije EMF ni WMF datoteka
 	Not followed: outside the script's folder	Nije praćeno: izvan foldera skripte
 	Not found	Nije pronađeno
@@ -2641,7 +2641,7 @@ swatch	Ocean	Okean
 @msg	Opened with {_1} note(s): {_2}	Otvoreno s bilješkama ({_1}): {_2}
 	Opened with {} note(s): {}	Otvoreno s bilješkama ({}): {}
 @msg	Opened {url}	Otvoreno: {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Pri otvaranju izostavljeno je ono što VectorCraft još ne može pročitati ({what}), pa se zamjenom to trajno gubi. Sačuvajte pod drugim nazivom da to zadržite.
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	Pri otvaranju izostavljeno je ono što Iridium još ne može pročitati ({what}), pa se zamjenom to trajno gubi. Sačuvajte pod drugim nazivom da to zadržite.
 	Opens files in other apps	Otvara datoteke u drugim aplikacijama
 	Opens network connections	Otvara mrežne veze
 	Optical Margin Alignment	Optičko poravnanje margina
@@ -2737,8 +2737,8 @@ imageTrace	Outline	Obris
 	Paragraph Style	Stil pasusa
 	Paragraph Style Options	Opcije stila pasusa
 	Paragraph Symbol	Simbol pasusa
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	Dio ArtCrafta. MIT OR Apache-2.0. Fontovi: Source Sans 3, Inter, JetBrains Mono (OFL). Ikone: Lucide (ISC) + VectorCraft.
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	Dio ArtCrafta. MIT OR Apache-2.0. Fontovi: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikone: Lucide (ISC) + VectorCraft.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Dio Iridiuma. MIT OR Apache-2.0. Fontovi: Source Sans 3, Inter, JetBrains Mono (OFL). Ikone: Lucide (ISC) + Iridium.
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Dio Iridiuma. MIT OR Apache-2.0. Fontovi: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Ikone: Lucide (ISC) + Iridium.
 @msg	part of the program isn't valid PostScript text	dio programa nije važeći PostScript tekst
 	Paste Design	Zalijepi dizajn
 	Paste in Back	Zalijepi pozadi
@@ -2968,7 +2968,7 @@ swatch	Purple	Ljubičasta
 	Quality:	Kvalitet:
 	Quarter Space	Četvrtina razmaka
 	Quickly start a new file	Brzo započnite novu datoteku
-	Quit VectorCraft	Zatvori VectorCraft
+	Quit Iridium	Zatvori Iridium
 	Radar Graph Tool	Alat za radarski grafikon
 gradient-kind	Radial	Radijalno
 	Radial Dividers:	Radijalni razdjelnici:
@@ -3789,7 +3789,7 @@ effect	Soft	Meko
 	Standard:	Standardno:
 	Star Tool	Alat zvijezda
 	Start arrowhead	Početni vrh strelice
-	Start from VectorCraft Defaults	Počni od zadanih postavki VectorCrafta
+	Start from Iridium Defaults	Počni od zadanih postavki Iridiuma
 	Start Global Edit	Započni globalno uređivanje
 	Start Tile	Početna pločica
 	Start:	Početak:
@@ -3950,7 +3950,7 @@ file-filter	Templates	Predlošci
 	The bounds of the visible art.	Granice vidljivog crteža.
 	The cell shows the type object's text as HTML.	Ćelija prikazuje tekst tekstualnog objekta kao HTML.
 @msg	the Color Picker is not open	birač boja nije otvoren
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	komprimirana datoteka se raspakuje na više nego što VectorCraft čita ({_1} MB dokumenta, {_2} MB po slici)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	komprimirana datoteka se raspakuje na više nego što Iridium čita ({_1} MB dokumenta, {_2} MB po slici)
 @msg	the compressed file unpacks to more than {_1} MB	komprimirana datoteka se raspakuje na više od {_1} MB
 	The dialog was closed before its file dialog answered	Dijalog je zatvoren prije nego što je njegov dijalog za datoteke odgovorio
 @msg	the document has never been saved	dokument nikad nije sačuvan
@@ -3981,7 +3981,7 @@ file-filter	Templates	Predlošci
 @msg	the file's preview header points outside the file	zaglavlje pregleda datoteke pokazuje izvan datoteke
 @msg	the file's variables and data sets weren't read (variables: {variables}, data sets: {data_sets}): the Variables panel doesn't list them	varijable i skupovi podataka datoteke nisu pročitani (varijable: {variables}, skupovi podataka: {data_sets}): panel Varijable ih ne navodi
 @msg	the files come to more than 1 GB: add fewer at a time	datoteke zajedno prelaze 1 GB: dodajte ih manje odjednom
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	Grafički procesor koji je prvi pokušan nije mogao prikazati prozor, pa se VectorCraft ponovo pokrenuo na {summary}
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	Grafički procesor koji je prvi pokušan nije mogao prikazati prozor, pa se Iridium ponovo pokrenuo na {summary}
 @msg	The graphics were lost and couldn't be restarted.	Grafika je izgubljena i nije je moguće ponovo pokrenuti.
 @msg	The graphics were lost and have been restarted	Grafika je izgubljena i ponovo je pokrenuta
 @msg	the guide is on a hidden or locked layer	vodilica je na skrivenom ili zaključanom sloju
@@ -3993,12 +3993,12 @@ file-filter	Templates	Predlošci
 @msg	the image's pixels can't be read	pikseli slike se ne mogu pročitati
 @msg	the image's pixels don't match its size	pikseli slike ne odgovaraju njenoj veličini
 	The key color becomes the stroke color. The other colors shift their hue by the same amount and keep their saturation and brightness.	Ključna boja postaje boja poteza. Ostale boje pomjeraju nijansu za isti iznos i zadržavaju zasićenje i svjetlinu.
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Posljednje pokretanje VectorCrafta završilo je na {name} prije nego što se pojavio prozor, pa je pokrenut na {summary}. Da ponovo pokušate taj grafički procesor, promijenite Postavke › Performanse › Grafički procesor ili pokrenite s postavljenim WGPU_BACKEND
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Posljednje pokretanje VectorCrafta završilo je dok je izlistavao grafičke procesore, pa je pokrenut na {summary} samo s OpenGL-om. Da ponovo pokušate druge grafičke pozadinske sisteme, promijenite Postavke › Performanse › Grafički procesor ili pokrenite s postavljenim WGPU_BACKEND
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Posljednje pokretanje Iridiuma završilo je na {name} prije nego što se pojavio prozor, pa je pokrenut na {summary}. Da ponovo pokušate taj grafički procesor, promijenite Postavke › Performanse › Grafički procesor ili pokrenite s postavljenim WGPU_BACKEND
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Posljednje pokretanje Iridiuma završilo je dok je izlistavao grafičke procesore, pa je pokrenut na {summary} samo s OpenGL-om. Da ponovo pokušate druge grafičke pozadinske sisteme, promijenite Postavke › Performanse › Grafički procesor ili pokrenite s postavljenim WGPU_BACKEND
 @msg	the layer has no objects to clip by	sloj nema objekata za isijecanje
 @msg	the layer or group is locked	sloj ili grupa je zaključan
 @msg	the layer to flatten into is hidden	sloj u koji se spljoštava je skriven
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	Naziv u panelu za čuvanje bio je „{typed}”; VectorCraft je dodao ekstenziju vrste datoteke. Zamjena datoteke prepisuje njen sadržaj.
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	Naziv u panelu za čuvanje bio je „{typed}”; Iridium je dodao ekstenziju vrste datoteke. Zamjena datoteke prepisuje njen sadržaj.
 @msg	the object already has an opacity mask	objekat već ima masku neprozirnosti
 @msg	the object has no geometry	objekat nema geometriju
 @msg	the object has no opacity mask	objekat nema masku neprozirnosti
@@ -4076,7 +4076,7 @@ file-filter	Templates	Predlošci
 	This library is empty.	Ova biblioteka je prazna.
 	This panel is on the roadmap (see the parity plan).	Ovaj panel je u planu (vidi plan usklađenosti).
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	ova PostScript datoteka se ne može pročitati ({why}): sačuvajte je kao PDF ili SVG u aplikaciji koja ju je napravila
-@msg	This shortcut file is in a form VectorCraft can't read.	Ova datoteka prečica je u obliku koji VectorCraft ne može pročitati.
+@msg	This shortcut file is in a form Iridium can't read.	Ova datoteka prečica je u obliku koji Iridium ne može pročitati.
 	This system has no screen color sampler	Ovaj sistem nema uzorkivač boja s ekrana
 @msg	this system has no screen color sampler	ovaj sistem nema uzorkivač boja s ekrana
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	ovo praćenje bi napravilo više od {max} sidrenih tačaka, više nego što dokument može glatko prikazati: povećajte Šum, smanjite Putanje ili Boje ili odaberite predložak niže vjernosti
@@ -4353,23 +4353,23 @@ diagnostics	ui	interfejs
 	Vector Halftone	Vektorski polutonovi
 	Vector Halftone…	Vektorski polutonovi…
 	Vector illustration — fast, open, scriptable.	Vektorska ilustracija — brza, otvorena, skriptabilna.
-	VectorCraft	VectorCraft
-	VectorCraft copies the fonts to {folder}.	VectorCraft kopira fontove u {folder}.
-	VectorCraft Default	VectorCraft zadano
-	VectorCraft Defaults	Zadane postavke VectorCrafta
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft se prošli put nije normalno zatvorio. Ovi dokumenti su imali nesačuvane promjene:
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft dokumenti: jedan zaključani objekat, ažuriran kad se datoteka promijeni.
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft ne pretražuje foldere drugih aplikacija ni sistemske foldere: {path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft ne pretražuje folder Shared ili Public u Users: {path}
-@msg	VectorCraft failed to start: {e}	VectorCraft se nije uspio pokrenuti: {e}
-	VectorCraft Generic CMYK (SWOP-like)	VectorCraft generički CMYK (sličan SWOP-u)
-	VectorCraft Help…	Pomoć za VectorCraft…
-	VectorCraft on getartcraft.com	VectorCraft na getartcraft.com
-	VectorCraft on GitHub	VectorCraft na GitHubu
-	VectorCraft read this script without running it.	VectorCraft je pročitao ovu skriptu bez izvršavanja.
-	VectorCraft Swatches (.vcswatches)	VectorCraft uzorci boja (.vcswatches)
-file-filter	VectorCraft Template	VectorCraft predložak
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Folder Fontovi VectorCrafta ovdje nije postavljen: postavljaju ga desktop aplikacija i vectorcraft-cli
+	Iridium	Iridium
+	Iridium copies the fonts to {folder}.	Iridium kopira fontove u {folder}.
+	Iridium Default	Iridium zadano
+	Iridium Defaults	Zadane postavke Iridiuma
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium se prošli put nije normalno zatvorio. Ovi dokumenti su imali nesačuvane promjene:
+	Iridium documents: one locked object, updated when the file changes.	Iridium dokumenti: jedan zaključani objekat, ažuriran kad se datoteka promijeni.
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium ne pretražuje foldere drugih aplikacija ni sistemske foldere: {path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium ne pretražuje folder Shared ili Public u Users: {path}
+@msg	Iridium failed to start: {e}	Iridium se nije uspio pokrenuti: {e}
+	Iridium Generic CMYK (SWOP-like)	Iridium generički CMYK (sličan SWOP-u)
+	Iridium Help…	Pomoć za Iridium…
+	Iridium on getartcraft.com	Iridium na getartcraft.com
+	Iridium on GitHub	Iridium na GitHubu
+	Iridium read this script without running it.	Iridium je pročitao ovu skriptu bez izvršavanja.
+	Iridium Swatches (.vcswatches)	Iridium uzorci boja (.vcswatches)
+file-filter	Iridium Template	Iridium predložak
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Folder Fontovi Iridiuma ovdje nije postavljen: postavljaju ga desktop aplikacija i vectorcraft-cli
 	Vectors	Vektori
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	datoteke verzije {0} ne mogu se komprimirati: komprimirane datoteke otvaraju samo verzija {COMPRESSED_SINCE} i novije
 	Version {version} — open-source vector illustration in pure Rust.	Verzija {version} — vektorska ilustracija otvorenog koda u čistom Rustu.
@@ -4434,7 +4434,7 @@ swatch	Walnut	Orah
 	Web Snap:	Hvatanje web boja:
 	WebP	WebP
 	Weight:	Debljina:
-	Welcome to VectorCraft	Dobro došli u VectorCraft
+	Welcome to Iridium	Dobro došli u Iridium
 	When pasting text	Pri lijepljenju teksta
 swatch	White	Bijela
 swatch	White, Black	Bijela, crna

@@ -1,4 +1,4 @@
-# 简体中文 (zh-hans) interface catalog for VectorCraft.
+# 简体中文 (zh-hans) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -128,7 +128,7 @@
 	[Press Quality]	[印刷质量]
 	[Smallest File Size]	[最小文件大小]
 	[Unnamed]	[未命名]
-	[VectorCraft Default]	[VectorCraft 默认设置]
+	[Iridium Default]	[Iridium 默认设置]
 @msg	`aspect` must be a number (%)	`aspect` 必须是数字 (%)
 @msg	`at` must be [x, y]	`at` 必须是 [x, y]
 @msg	`color` must be a colour	`color` 必须是颜色
@@ -221,7 +221,7 @@
 	A3	A3
 	A5	A5
 	A6	A6
-	About VectorCraft	关于 VectorCraft
+	About Iridium	关于 Iridium
 	above	以上
 	Above Text	文本上方
 	Absolute Position	绝对位置
@@ -312,7 +312,7 @@ file-filter	All readable files	所有可读取的文件
 	Amber	琥珀色
 	Ambient Light	环境光
 @msg	an image of {w} × {h} pixels is too large to draw	{w} × {h} 像素的图像过大，无法绘制
-@msg	an image VectorCraft can't read was left out	已略去 VectorCraft 无法读取的图像
+@msg	an image Iridium can't read was left out	已略去 Iridium 无法读取的图像
 @msg	an image whose data is cut short was left out	已略去数据不完整的图像
 @msg	an object can't be read	无法读取某个对象
 @msg	an object in perspective would leave the edited grid	透视中的对象将离开所编辑的网格
@@ -342,7 +342,7 @@ file-filter	All readable files	所有可读取的文件
 	Appearance of Black	黑色外观
 	Appearance Panel	外观面板
 	Appearance panel	外观面板
-	Applies the next time VectorCraft starts.	下次启动 VectorCraft 时生效。
+	Applies the next time Iridium starts.	下次启动 Iridium 时生效。
 	Applies when the linked file is relinked or updated.	在重新链接或更新链接文件时应用。
 	Apply Brush	应用画笔
 	Apply Effect	应用效果
@@ -540,7 +540,7 @@ axis	Both	两者
 @msg	can't parse shortcut `{c}`	无法解析快捷键 `{c}`
 @msg	can't parse shortcut `{s}` for `{k}`	无法解析 `{k}` 的快捷键 `{s}`
 	Can't print these settings: see the Summary	无法打印这些设置：请参阅摘要
-@msg	can't save version {0}: VectorCraft writes versions {MIN_VERSION} to {VERSION}	无法保存版本 {0}：VectorCraft 写入的版本为 {MIN_VERSION} 到 {VERSION}
+@msg	can't save version {0}: Iridium writes versions {MIN_VERSION} to {VERSION}	无法保存版本 {0}：Iridium 写入的版本为 {MIN_VERSION} 到 {VERSION}
 	Can't save “{name}”.	无法保存“{name}”。
 @msg	can't write .{ext} images	无法写入 .{ext} 图像
 	Cancel Export	取消导出
@@ -964,7 +964,7 @@ axis	Both	两者
 	Devices	设备
 	Dialog	对话框
 	Differences from [Default]:	与 [默认] 的差异：
-	Differences from VectorCraft Default:	与 VectorCraft 默认设置的差异：
+	Differences from Iridium Default:	与 Iridium 默认设置的差异：
 	Differences from {preset}:	与{preset}的差异：
 	Diffuse Glow…	扩散亮光…
 	Dim Copies to:	将拷贝调暗至：
@@ -1101,7 +1101,7 @@ axis	Both	两者
 	DXF Options Dialog	DXF 选项对话框
 	e.g. 1-3, 5	例如 1-3, 5
 	Each Design Represents:	每个设计表示：
-	Each entry of the file is matched to a VectorCraft tool, command or panel. Check the matches and answer what is left.	文件中的每个条目都会对应到 VectorCraft 的工具、命令或面板。请检查对应结果，并回答剩余的条目。
+	Each entry of the file is matched to a Iridium tool, command or panel. Check the matches and answer what is left.	文件中的每个条目都会对应到 Iridium 的工具、命令或面板。请检查对应结果，并回答剩余的条目。
 	Each page prints as one image, at the document's raster effects resolution.	每页会以文档的栅格效果分辨率打印为单一图像。
 	Earth Tones	大地色
 	East Asian Type	东亚文字
@@ -1308,7 +1308,7 @@ axis	Both	两者
 	File Info Dialog	文件信息对话框
 	File Name:	文件名称：
 	File or URL:	文件或 URL：
-@msg	file version {0} is newer than this VectorCraft supports ({VERSION})	文件版本 {0} 比此 VectorCraft 支持的版本 ({VERSION}) 更新
+@msg	file version {0} is newer than this Iridium supports ({VERSION})	文件版本 {0} 比此 Iridium 支持的版本 ({VERSION}) 更新
 	File › Place… brings in an image, linked or embedded.	“文件 › 置入…”可引入图像 (链接或嵌入)。
 	Files of a PDF standard can't be password-protected.	PDF 标准的文件无法设置密码保护。
 	Files of this standard tag their colours with ICC profiles.	此标准的文件会以 ICC 配置文件标记颜色。
@@ -1549,7 +1549,7 @@ file-filter	Flattener presets	拼合预设
 	Hide Thumbnail	隐藏缩略图
 	Hide Thumbnails	隐藏缩略图
 	Hide Transparency Grid	隐藏透明度网格
-	Hide VectorCraft	隐藏 VectorCraft
+	Hide Iridium	隐藏 Iridium
 	High (300 ppi)	高 (300 ppi)
 	High Contrast	高对比
 	High Contrast 2	高对比 2
@@ -1635,7 +1635,7 @@ effect	Horizontal	水平
 	In Tangent Handles	内侧切线控制手柄
 	In the File	文件中的名称
 	In the selected objects	在所选对象中
-	In VectorCraft	VectorCraft 中的对应
+	In Iridium	Iridium 中的对应
 	Include Blacks with CMY:	包含 CMY 的黑色：
 	Include Bleed	包含出血
 	Include Cmy Blacks	包含 CMY 黑色
@@ -1694,7 +1694,7 @@ effect	Horizontal	水平
 	Invert Colors	反相颜色
 	Invert Pie	反转扇形
 	Inverted Round	反向圆角
-@msg	is not an image VectorCraft reads	不是 VectorCraft 可读取的图像
+@msg	is not an image Iridium reads	不是 Iridium 可读取的图像
 	Isolate Blending	隔离混合
 	Isolate Group	隔离编组
 	Isolate Selected Group	隔离选择的编组
@@ -1713,9 +1713,9 @@ effect	Horizontal	水平
 @msg	it has too many text objects	它的文本对象过多
 @msg	it has too many values in a row	它的一行中值过多
 @msg	it has too much text	它的文字过多
-@msg	it has {_1}, which VectorCraft doesn't read from it yet	它包含 {_1}，VectorCraft 尚不能从中读取
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know	它使用了 `{at}`，VectorCraft 的 PostScript 读取器无法识别
-@msg	it uses `{at}`, which VectorCraft's PostScript reader doesn't know, in {procs}	它在 {procs} 中使用了 `{at}`，VectorCraft 的 PostScript 读取器无法识别
+@msg	it has {_1}, which Iridium doesn't read from it yet	它包含 {_1}，Iridium 尚不能从中读取
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know	它使用了 `{at}`，Iridium 的 PostScript 读取器无法识别
+@msg	it uses `{at}`, which Iridium's PostScript reader doesn't know, in {procs}	它在 {procs} 中使用了 `{at}`，Iridium 的 PostScript 读取器无法识别
 @msg	its editing data doesn't say where its art is	其编辑数据未说明其图稿的位置
 @msg	its editing data doesn't say where its artboard is	其编辑数据未说明其画板的位置
 @msg	its editing data has no layers	其编辑数据中没有图层
@@ -1738,7 +1738,7 @@ mark-style	Japanese	日式
 	JavaScript:	JavaScript：
 @msg	join needs open paths	连接需要开放路径
 	Join Our Discord	加入 Discord
-	Join the ArtCraft community on Discord (discord.gg/artcraft)	在 Discord 加入 ArtCraft 社区 (discord.gg/artcraft)
+	Join the Iridium community on Discord (discord.gg/artcraft)	在 Discord 加入 Iridium 社区 (discord.gg/artcraft)
 	Join the lines of each paragraph	合并每个段落的行
 	Join Tool	连接工具
 	Joins	连接
@@ -1758,7 +1758,7 @@ mark-style	Japanese	日式
 	Keep the pasted color as a new swatch with a numbered name.	将粘贴的颜色保留为新色板，并以编号命名。
 	Keep this row's colors (exclude)	保留此行的颜色 (排除)
 	Keep visible surfaces only when expanding	扩展时仅保留可见表面
-	Keeps the document editable: VectorCraft reopens the PDF with nothing lost. For files you'll edit again.	保持文档可编辑：VectorCraft 可无损重新打开该 PDF。适合还会再次编辑的文件。
+	Keeps the document editable: Iridium reopens the PDF with nothing lost. For files you'll edit again.	保持文档可编辑：Iridium 可无损重新打开该 PDF。适合还会再次编辑的文件。
 	Kerning (0 = Auto)	字偶距 (0 = 自动)
 	Key Color:	主色：
 	Keyboard Increment	键盘增量
@@ -1892,7 +1892,7 @@ lighting	Light	光源
 	Load Text into Clipboard	将文本载入剪贴板
 	Load Texture…	载入纹理…
 	Loaded Texture	已载入的纹理
-@msg	Loading VectorCraft…	正在加载 VectorCraft…
+@msg	Loading Iridium…	正在加载 Iridium…
 	Loads native code	加载本机代码
 	Local Libraries	本地库
 	Locate Object	查找对象
@@ -2280,8 +2280,8 @@ lighting	Light	光源
 @msg	not a shortcut set: the text doesn't start with a slash name and an opening brace	不是快捷键组：文本不是以斜杠名称和左花括号开头
 @msg	not a stored central record	中央目录记录不是未压缩 (stored) 方式
 @msg	not a valid plug-in module: {0}	不是有效的增效工具模块：{0}
-@msg	not a VectorCraft file: {0}	不是 VectorCraft 文件：{0}
-@msg	not a VectorCraft shortcut set (missing `overrides`)	不是 VectorCraft 快捷键组 (缺少 `overrides`)
+@msg	not a Iridium file: {0}	不是 Iridium 文件：{0}
+@msg	not a Iridium shortcut set (missing `overrides`)	不是 Iridium 快捷键组 (缺少 `overrides`)
 @msg	not an EMF or WMF file	不是 EMF 或 WMF 文件
 	Not followed: outside the script's folder	已跳过：在脚本文件夹之外
 	Not found	未找到
@@ -2429,7 +2429,7 @@ lighting	Light	光源
 @msg	Opened with {_1} note(s): {_2}	已打开，有 {_1} 条注释：{_2}
 	Opened with {} note(s): {}	已打开，附 {} 条附注：{}
 @msg	Opened {url}	已打开 {url}
-	Opening it left out what VectorCraft can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	打开时略去了 VectorCraft 尚无法读取的内容（{what}），替换该文件会永久丢失这些内容。要保留它们，请以其他名称存储。
+	Opening it left out what Iridium can't read yet ({what}), so replacing it loses that for good. Save under another name to keep it.	打开时略去了 Iridium 尚无法读取的内容（{what}），替换该文件会永久丢失这些内容。要保留它们，请以其他名称存储。
 	Opens files in other apps	在其他应用中打开文件
 	Opens network connections	打开网络连接
 	Optical Margin Alignment	视觉边界对齐
@@ -2508,8 +2508,8 @@ imageTrace	Outline	轮廓
 	Paragraph Style	段落样式
 	Paragraph Style Options	段落样式选项
 	Paragraph Symbol	段落符号
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + VectorCraft.	ArtCraft 的一部分。MIT OR Apache-2.0。字体：Source Sans 3、Inter、JetBrains Mono (OFL)。图标：Lucide (ISC) + VectorCraft。
-	Part of ArtCraft. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + VectorCraft.	ArtCraft 的一部分。MIT 或 Apache-2.0 许可。字体：Source Sans 3、Inter、JetBrains Mono、Noto Sans SC (OFL)。图标：Lucide (ISC)+ VectorCraft。
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono (OFL). Icons: Lucide (ISC) + Iridium.	Iridium 的一部分。MIT OR Apache-2.0。字体：Source Sans 3、Inter、JetBrains Mono (OFL)。图标：Lucide (ISC) + Iridium。
+	Part of Iridium. MIT OR Apache-2.0. Fonts: Source Sans 3, Inter, JetBrains Mono, Noto Sans SC (OFL). Icons: Lucide (ISC) + Iridium.	Iridium 的一部分。MIT 或 Apache-2.0 许可。字体：Source Sans 3、Inter、JetBrains Mono、Noto Sans SC (OFL)。图标：Lucide (ISC)+ Iridium。
 	Password	口令
 	Paste Design	粘贴设计
 	Paste in Back	贴在后面
@@ -2711,7 +2711,7 @@ file-filter	Print presets	打印预设
 	Quality:	质量：
 	Quarter Space	四分之一空格
 	Quickly start a new file	快速新建文件
-	Quit VectorCraft	退出 VectorCraft
+	Quit Iridium	退出 Iridium
 	Radar Graph Tool	雷达图工具
 gradient-kind	Radial	径向
 	Radial Dividers:	径向分隔线：
@@ -3485,7 +3485,7 @@ effect	Soft	柔和
 	Standard:	标准：
 	Star Tool	星形工具
 	Start arrowhead	起点箭头
-	Start from VectorCraft Defaults	从 VectorCraft 默认开始
+	Start from Iridium Defaults	从 Iridium 默认开始
 	Start Global Edit	开始全局编辑
 	Start Tile	起点拼贴
 	Start:	起点：
@@ -3627,7 +3627,7 @@ file-filter	Templates	模板
 	The bounds of the visible art.	可见图稿的边界。
 	The cell shows the type object's text as HTML.	该单元格以 HTML 显示文字对象的内容。
 @msg	the Color Picker is not open	拾色器未打开
-@msg	the compressed file unpacks to more than VectorCraft reads ({_1} MB of document, {_2} MB per image)	压缩文件解压后超出 VectorCraft 的读取上限 (文档 {_1} MB，每张图像 {_2} MB)
+@msg	the compressed file unpacks to more than Iridium reads ({_1} MB of document, {_2} MB per image)	压缩文件解压后超出 Iridium 的读取上限 (文档 {_1} MB，每张图像 {_2} MB)
 @msg	the compressed file unpacks to more than {_1} MB	压缩文件解压后超过 {_1} MB
 	The dialog was closed before its file dialog answered	文件对话框给出结果之前，对话框已关闭
 @msg	the document has never been saved	该文档从未保存过
@@ -3657,7 +3657,7 @@ file-filter	Templates	模板
 @msg	the file's layers weren't read from its editing data ({_1}): they come from its PDF part	未从文件的编辑数据中读取图层 ({_1})：图层来自其 PDF 部分
 @msg	the file's preview header points outside the file	文件的预览头指向文件之外
 @msg	the files come to more than 1 GB: add fewer at a time	文件总计超过 1 GB：请每次少添加一些
-@msg	The graphics processor tried first couldn't show the window, so VectorCraft started again on {summary}	首先尝试的图形处理器无法显示窗口，因此 VectorCraft 已在 {summary} 上重新启动
+@msg	The graphics processor tried first couldn't show the window, so Iridium started again on {summary}	首先尝试的图形处理器无法显示窗口，因此 Iridium 已在 {summary} 上重新启动
 @msg	The graphics were lost and couldn't be restarted.	图形已丢失，且无法重新启动。
 @msg	The graphics were lost and have been restarted	图形已丢失，现已重新启动
 @msg	the guide is on a hidden or locked layer	该参考线位于隐藏或锁定的图层上
@@ -3668,12 +3668,12 @@ file-filter	Templates	模板
 @msg	The image was traced at {_1} × {_2} pixels, scaled down from {_3} × {_4} ({_5} megapixels at most).	图像已按 {_1} × {_2} 像素描摹，由 {_3} × {_4} 缩小而来（最多 {_5} 百万像素）。
 @msg	the image's pixels can't be read	无法读取图像的像素
 @msg	the image's pixels don't match its size	图像的像素与其尺寸不符
-@msg	The last start of VectorCraft ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	VectorCraft 上次启动时在其窗口出现之前于 {name} 上终止，因此本次在 {summary} 上启动。要再次尝试该图形处理器，请更改“首选项 › 性能 › 图形处理器”，或在设置 WGPU_BACKEND 后启动
-@msg	The last start of VectorCraft ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	VectorCraft 上次启动时在列出图形处理器期间终止，因此本次仅使用 OpenGL 在 {summary} 上启动。要再次尝试其他图形后端，请更改“首选项 › 性能 › 图形处理器”，或在设置 WGPU_BACKEND 后启动
+@msg	The last start of Iridium ended on {name} before its window appeared, so it started on {summary}. To try that graphics processor again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Iridium 上次启动时在其窗口出现之前于 {name} 上终止，因此本次在 {summary} 上启动。要再次尝试该图形处理器，请更改“首选项 › 性能 › 图形处理器”，或在设置 WGPU_BACKEND 后启动
+@msg	The last start of Iridium ended while it listed the graphics processors, so it started on {summary} with OpenGL alone. To try the other graphics backends again, change Preferences › Performance › Graphics Processor or start with WGPU_BACKEND set	Iridium 上次启动时在列出图形处理器期间终止，因此本次仅使用 OpenGL 在 {summary} 上启动。要再次尝试其他图形后端，请更改“首选项 › 性能 › 图形处理器”，或在设置 WGPU_BACKEND 后启动
 @msg	the layer has no objects to clip by	该图层中没有可用于剪切的对象
 @msg	the layer or group is locked	该图层或编组已锁定
 @msg	the layer to flatten into is hidden	要拼合到的图层已隐藏
-	The name in the save panel was “{typed}”; VectorCraft added the file type's extension. Replacing the file overwrites its contents.	存储面板中的名称是“{typed}”，VectorCraft 随后添加了文件类型的扩展名。替换该文件会覆盖其内容。
+	The name in the save panel was “{typed}”; Iridium added the file type's extension. Replacing the file overwrites its contents.	存储面板中的名称是“{typed}”，Iridium 随后添加了文件类型的扩展名。替换该文件会覆盖其内容。
 @msg	the object already has an opacity mask	该对象已有不透明度蒙版
 @msg	the object has no geometry	该对象没有几何形状
 @msg	the object has no opacity mask	该对象没有不透明度蒙版
@@ -3737,7 +3737,7 @@ file-filter	Templates	模板
 	This library is empty.	此库为空。
 	This panel is on the roadmap (see the parity plan).	此面板已在路线图中 (见兼容性计划)。
 @msg	this PostScript file can't be read ({why}): save it as PDF or SVG in the app that made it	无法读取此 PostScript 文件 ({why})：请在创建它的应用中将其保存为 PDF 或 SVG
-@msg	This shortcut file is in a form VectorCraft can't read.	此快捷键文件的格式 VectorCraft 无法读取。
+@msg	This shortcut file is in a form Iridium can't read.	此快捷键文件的格式 Iridium 无法读取。
 	This system has no screen color sampler	此系统没有屏幕取色工具
 @msg	this system has no screen color sampler	此系统没有屏幕取色器
 @msg	this trace would make more than {max} anchor points, more than the document can show smoothly: raise Noise, lower Paths or Colors, or pick a lower-fidelity preset	此描摹将生成超过 {max} 个锚点，超出文档可流畅显示的数量：请提高“杂色”，降低“路径”或“颜色”，或选择保真度较低的预设
@@ -3998,23 +3998,23 @@ diagnostics	ui	界面
 	Vector Halftone	矢量半色调
 	Vector Halftone…	矢量半调…
 	Vector illustration — fast, open, scriptable.	矢量插画　—　快速、开放、可脚本化。
-	VectorCraft	VectorCraft
-	VectorCraft copies the fonts to {folder}.	VectorCraft 会将字体复制到 {folder}。
-	VectorCraft Default	VectorCraft 默认设置
-	VectorCraft Defaults	VectorCraft 默认
-	VectorCraft didn't quit normally last time. These documents had unsaved changes:	VectorCraft 上次未正常退出。以下文档有未存储的更改：
-	VectorCraft documents: one locked object, updated when the file changes.	VectorCraft 文档：一个锁定对象，文件更改时随之更新。
-@msg	VectorCraft doesn't search other apps' or the system's folders: {path}	VectorCraft 不会搜索其他应用或系统的文件夹：{path}
-@msg	VectorCraft doesn't search the Shared or Public folder in Users: {path}	VectorCraft 不会搜索“用户”中的 Shared 或 Public 文件夹：{path}
-@msg	VectorCraft failed to start: {e}	VectorCraft 启动失败：{e}
-	VectorCraft Generic CMYK (SWOP-like)	VectorCraft 通用 CMYK (类 SWOP)
-	VectorCraft Help…	VectorCraft 说明…
-	VectorCraft on getartcraft.com	getartcraft.com 上的 VectorCraft
-	VectorCraft on GitHub	GitHub 上的 VectorCraft
-	VectorCraft read this script without running it.	VectorCraft 读取了此脚本，但没有运行它。
-	VectorCraft Swatches (.vcswatches)	VectorCraft 色板 (.vcswatches)
-file-filter	VectorCraft Template	VectorCraft 模板
-@msg	VectorCraft's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	此处未设置 VectorCraft 的字体文件夹：桌面应用和 vectorcraft-cli 会设置该文件夹
+	Iridium	Iridium
+	Iridium copies the fonts to {folder}.	Iridium 会将字体复制到 {folder}。
+	Iridium Default	Iridium 默认设置
+	Iridium Defaults	Iridium 默认
+	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium 上次未正常退出。以下文档有未存储的更改：
+	Iridium documents: one locked object, updated when the file changes.	Iridium 文档：一个锁定对象，文件更改时随之更新。
+@msg	Iridium doesn't search other apps' or the system's folders: {path}	Iridium 不会搜索其他应用或系统的文件夹：{path}
+@msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium 不会搜索“用户”中的 Shared 或 Public 文件夹：{path}
+@msg	Iridium failed to start: {e}	Iridium 启动失败：{e}
+	Iridium Generic CMYK (SWOP-like)	Iridium 通用 CMYK (类 SWOP)
+	Iridium Help…	Iridium 说明…
+	Iridium on getartcraft.com	getartcraft.com 上的 Iridium
+	Iridium on GitHub	GitHub 上的 Iridium
+	Iridium read this script without running it.	Iridium 读取了此脚本，但没有运行它。
+	Iridium Swatches (.vcswatches)	Iridium 色板 (.vcswatches)
+file-filter	Iridium Template	Iridium 模板
+@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	此处未设置 Iridium 的字体文件夹：桌面应用和 vectorcraft-cli 会设置该文件夹
 	Vectors	矢量
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	版本 {0} 的文件不能压缩：只有版本 {COMPRESSED_SINCE} 及更高版本能打开压缩文件
 	Version {version} — open-source vector illustration in pure Rust.	版本 {version} — 以纯 Rust 打造的开放原始码矢量插画软件。
@@ -4066,7 +4066,7 @@ effect	Vertical	垂直
 	Web Snap:	Web 色偏：
 	WebP	WebP
 	Weight:	粗细：
-	Welcome to VectorCraft	欢迎使用 VectorCraft
+	Welcome to Iridium	欢迎使用 Iridium
 	When pasting text	粘贴文字时
 	Widget Position:	Widget 位置：
 @msg	width and height are at least 1 pixel	宽度和高度至少为 1 像素

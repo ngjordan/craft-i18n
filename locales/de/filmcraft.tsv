@@ -1,4 +1,4 @@
-# Deutsch (de) interface catalog for FilmCraft.
+# Deutsch (de) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -12,7 +12,7 @@
 # consulted or copied; add entries the same way.
 
 	AAF…	AAF…
-	About FilmCraft	Über FilmCraft
+	About Iridium	Über Iridium
 	Add Audio Submix Track	Audio-Submix-Spur hinzufügen
 	Add Caption at Playhead	Untertitel an Abspielposition hinzufügen
 	Add Chapter Marker…	Kapitelmarker hinzufügen…
@@ -120,9 +120,9 @@
 	Field Options…	Halbbildoptionen…
 	File…	Datei…
 	Fill frame	Bild füllen
-	FilmCraft Help…	FilmCraft-Hilfe…
-	FilmCraft on getartcraft.com	FilmCraft auf getartcraft.com
-	FilmCraft on GitHub	FilmCraft auf GitHub
+	Iridium Help…	Iridium-Hilfe…
+	Iridium on getartcraft.com	Iridium auf getartcraft.com
+	Iridium on GitHub	Iridium auf GitHub
 	Final Cut Pro XML…	Final Cut Pro XML…
 	Fit to frame	In Bild einpassen
 	Forest	Waldgrün
@@ -148,7 +148,7 @@
 	Graphics…	Grafiken…
 	Guide Templates	Hilfslinienvorlagen
 	Hide All Caption Tracks	Alle Untertitelspuren ausblenden
-	Hide FilmCraft	FilmCraft ausblenden
+	Hide Iridium	Iridium ausblenden
 	High Quality Playback	Wiedergabe in hoher Qualität
 	History	Verlauf
 	Import From	Importieren aus
@@ -225,7 +225,7 @@
 	Project Settings	Projekteinstellungen
 	Project…	Projekt…
 	Proxy	Proxy
-	Quit FilmCraft	FilmCraft beenden
+	Quit Iridium	Iridium beenden
 	Ratio	Ratio
 	Recent	Recent
 	Reconnect Full Resolution Media…	Medien in voller Auflösung neu verknüpfen…
@@ -273,7 +273,7 @@
 	Select Next Layer	Nächste Ebene auswählen
 	Select Previous Graphic	Vorherige Grafik auswählen
 	Select Previous Layer	Vorherige Ebene auswählen
-	Selection as FilmCraft Project…	Auswahl als FilmCraft-Projekt…
+	Selection as Iridium Project…	Auswahl als Iridium-Projekt…
 	Selection Follows Playhead	Auswahl folgt Abspielposition
 	Selection…	Auswahl…
 	Sequence	Sequenz

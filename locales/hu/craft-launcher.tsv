@@ -1,4 +1,4 @@
-# Magyar (hu) interface catalog for ArtCraft Launcher.
+# Magyar (hu) interface catalog for Iridium Launcher.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -35,12 +35,12 @@ column	App	Alkalmazás
 	Apps you hid	Az általad elrejtett alkalmazások
 month	Apr	ápr.
 	Arch package (.pkg.tar.zst)	Arch-csomag (.pkg.tar.zst)
-	ArtCraft Launcher	ArtCraft Launcher
-	ArtCraft Launcher {version}	ArtCraft Launcher {version}
-	ArtCraft Launcher {version} is available.	Elérhető az ArtCraft Launcher új verziója: {version}.
-@plural	ArtCraft Launcher · {n} update available|ArtCraft Launcher · {n} updates available	ArtCraft Launcher · {n} frissítés elérhető|ArtCraft Launcher · {n} frissítés elérhető
-	ArtCraft on GitHub	ArtCraft a GitHubon
-	ArtCraft on {name}	ArtCraft – {name}
+	Iridium Launcher	Iridium Launcher
+	Iridium Launcher {version}	Iridium Launcher {version}
+	Iridium Launcher {version} is available.	Elérhető az Iridium Launcher új verziója: {version}.
+@plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} frissítés elérhető|Iridium Launcher · {n} frissítés elérhető
+	Iridium on GitHub	Iridium a GitHubon
+	Iridium on {name}	Iridium – {name}
 month	Aug	aug.
 	Automatically download and install updates	Frissítések automatikus letöltése és telepítése
 	Available to install	Telepíthető
@@ -123,8 +123,8 @@ filter	Installed	Telepítve
 	Installing…	Telepítés…
 figcraft	Interface design and prototyping	Felülettervezés és prototípus-készítés
 month	Jan	jan.
-	Join the ArtCraft community on Discord	Csatlakozz az ArtCraft közösségéhez a Discordon
-	Join the ArtCraft Discord	Csatlakozás az ArtCraft Discord-közösségéhez
+	Join the Iridium community on Discord	Csatlakozz az Iridium közösségéhez a Discordon
+	Join the Iridium Discord	Csatlakozás az Iridium Discord-közösségéhez
 	Join the Discord	Csatlakozás a Discordhoz
 month	Jul	júl.
 month	Jun	jún.
@@ -142,7 +142,7 @@ column	Latest	Legújabb
 	Like {name}	Mintául szolgált: {name}
 	link	hivatkozás
 @id	linux.preferred_kind	Új alkalmazások csomagformátuma
-	Loading ArtCraft Launcher…	ArtCraft Launcher betöltése…
+	Loading Iridium Launcher…	Iridium Launcher betöltése…
 	Loading pictures…	Képek betöltése…
 month	Mar	márc.
 	Match system	Rendszerbeállítás szerint
@@ -164,7 +164,7 @@ effectcraft	Motion graphics and visual effects	Mozgógrafika és vizuális effek
 month	Nov	nov.
 month	Oct	okt.
 	Only when I ask	Csak kézi kereséskor
-	Open ArtCraft Launcher to update.	Nyisd meg az ArtCraft Launchert a frissítéshez.
+	Open Iridium Launcher to update.	Nyisd meg az Iridium Launchert a frissítéshez.
 	Open on GitHub	Megnyitás a GitHubon
 	Open Source Tools for Creatives, Makers, and Builders	Nyílt forráskódú eszközök alkotóknak, barkácsolóknak és fejlesztőknek
 designcraft	Page layout and publishing	Oldaltervezés és kiadványszerkesztés
@@ -175,8 +175,8 @@ lightcraft	Photo library and raw development	Fotók rendszerezése és RAW-előh
 	Portable (.zip)	Hordozható (.zip)
 deckcraft	Presentations and slide shows	Prezentációk és diavetítések
 	Previous picture (←)	Előző kép (←)
-	Questions, ideas and news from the ArtCraft team	Kérdések, ötletek és hírek az ArtCraft csapatától
-	Quit ArtCraft Launcher	Kilépés az ArtCraft Launcherből
+	Questions, ideas and news from the Iridium team	Kérdések, ötletek és hírek az Iridium csapatától
+	Quit Iridium Launcher	Kilépés az Iridium Launcherből
 pdfcraft	Reading, organizing and protecting PDFs	PDF-ek olvasása, rendezése és védelme
 	Reconnecting…	Újracsatlakozás…
 soundcraft	Recording, editing and mixing audio	Hangrögzítés, hangszerkesztés és keverés
@@ -196,10 +196,10 @@ column	Released	Dátum
 	Search apps	Alkalmazások keresése
 month	Sep	szept.
 @id	settings.open	Beállítások
-@id	settings.quit	Kilépés az ArtCraft Launcherből
+@id	settings.quit	Kilépés az Iridium Launcherből
 	Show apps as a table	Alkalmazások megjelenítése táblázatként
 	Show apps as cards	Alkalmazások megjelenítése kártyákként
-	Show ArtCraft Launcher	ArtCraft Launcher megjelenítése
+	Show Iridium Launcher	Iridium Launcher megjelenítése
 	Show in Explorer	Megjelenítés a Fájlkezelőben
 	Show in Files	Megjelenítés a fájlkezelőben
 	Show in Finder	Megjelenítés a Finderben
@@ -212,7 +212,7 @@ month	Sep	szept.
 @id	sort.status	Állapot
 @id	sort.suite	Alapértelmezett sorrend
 gridcraft	Spreadsheets and data	Táblázatok és adatok
-	Start ArtCraft Launcher when I log in	ArtCraft Launcher indítása bejelentkezéskor
+	Start Iridium Launcher when I log in	Iridium Launcher indítása bejelentkezéskor
 	Stop waiting; the update can be started again later	Megszakítja a várakozást. A frissítést később újra elindíthatod.
 	Suite order	Alapértelmezett sorrend
 	System default	Rendszer alapértelmezése
@@ -225,7 +225,7 @@ gridcraft	Spreadsheets and data	Táblázatok és adatok
 	These notes weren't fetched (GitHub's request limit was reached). They're on the release page.	A kiadási információkat nem sikerült betölteni, mert elértük a GitHub lekérdezési korlátját. A kiadás oldalán megtalálod őket.
 @msg	this release has no AppImage for a custom install folder	ez a kiadás nem tartalmaz AppImage-fájlt egyéni telepítési mappához
 @id	tray.close_to_tray	Az ablak bezárásakor kerüljön a tálcára
-@id	tray.login_item	ArtCraft Launcher indítása bejelentkezéskor
+@id	tray.login_item	Iridium Launcher indítása bejelentkezéskor
 @id	tray.show_on_current_desktop	Ablak megjelenítése az aktuális asztalon
 	Unhide App	Alkalmazás megjelenítése
 	Uninstall	Eltávolítás
@@ -259,7 +259,7 @@ filmcraft	Video editing, color and sound	Videószerkesztés, színkorrekció és
 	Waiting for other installs…	Várakozás a többi telepítésre…
 	Website (coming soon)	Webhely (hamarosan)
 	What's new	Újdonságok
-	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Ha be van kapcsolva, a menüsorból megnyitott ArtCraft Launcher ablaka az aktuális asztalon jelenik meg. Ha ki van kapcsolva, a macOS arra az asztalra vált, ahol az ablak található.
+	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Ha be van kapcsolva, a menüsorból megnyitott Iridium Launcher ablaka az aktuális asztalon jelenik meg. Ha ki van kapcsolva, a macOS arra az asztalra vált, ahol az ablak található.
 	Windows will remove it like any installed program. Your documents and settings stay.	A Windows úgy távolítja el az alkalmazást, mint bármely más telepített programot. A dokumentumaid és beállításaid megmaradnak.
 wordcraft	Writing and document design	Írás és dokumentumtervezés
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	Az alkalmazást a rendszer csomagkezelője távolítja el. Ehhez szükség lehet a jelszavadra. A dokumentumaid és beállításaid megmaradnak.
@@ -284,7 +284,7 @@ wordcraft	Writing and document design	Írás és dokumentumtervezés
 @plural	{n} day ago|{n} days ago	{n} napja|{n} napja
 @plural	{n} h ago|{n} h ago	{n} órája|{n} órája
 @plural	{n} min ago|{n} min ago	{n} perce|{n} perce
-@msg	{path} already exists and wasn't installed by ArtCraft Launcher	a(z) {path} már létezik, és nem az ArtCraft Launcher telepítette
+@msg	{path} already exists and wasn't installed by Iridium Launcher	a(z) {path} már létezik, és nem az Iridium Launcher telepítette
 	{path} already exists. Installing {name} will overwrite it.	{path} már létezik. A(z) {name} telepítése felülírja.
 	{version} installed → {latest} released	Telepítve: {version} → megjelent: {latest}
 	⊞  Grid	⊞  Rács

@@ -1,4 +1,4 @@
-# বাংলা (bn) interface catalog for PhotoCraft.
+# বাংলা (bn) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -70,7 +70,7 @@
 #	A brush preset with this name already exists	
 #	A save to {name} is still running; try again when it finishes	
 #	A:	
-#	About PhotoCraft	
+#	About Iridium	
 #	About {app}	
 #	Accept and Go to Conflict	
 #	ACES	
@@ -155,7 +155,7 @@
 #	Align {what}	
 #	Aligned	
 #	All Layers No Adjustments	
-#	All shortcuts reset to PhotoCraft defaults.	
+#	All shortcuts reset to Iridium defaults.	
 #	All shortcuts reset to Photoshop defaults.	
 #	All User Slices	
 #	Allow agent control	
@@ -851,7 +851,7 @@
 #	Default Features	
 #	Default Foreground and Background Colors	
 #	Default Leaves	
-#	Default PhotoCraft Size	
+#	Default Iridium Size	
 #	Default Photoshop Size	
 #	Default printer	
 #	Default restored.	
@@ -1574,7 +1574,7 @@
 #	Its layers need {needed} of GPU memory; the budget leaves them {budget}.	
 #	Ivy	
 #	Jag	
-#	Join the ArtCraft Discord ({url})	
+#	Join the Iridium Discord ({url})	
 #	Jpeg quality	
 #	Jpg	
 #	Justify all	
@@ -1891,7 +1891,7 @@
 #	My Brushes	
 #	name	
 #	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	
-#	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	
+#	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	
 #	Native file drag-and-drop is unavailable	
 #	Nearest	
 #	Nearest Neighbor	
@@ -2049,7 +2049,7 @@
 #	Operation failed	
 #	Optical	
 #	Option-click to define a source point to clone from	
-#	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	
+#	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	
 #cameraRaw	Orange	
 #	orange	
 #document	Orientation	
@@ -2140,17 +2140,17 @@
 #	Photo (8 × 10 in)	
 #	Photo Filter	
 #	Photo Filter…	
-#	PhotoCraft	
-#	PhotoCraft Defaults	
-#	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	
-#	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	
-#	PhotoCraft keeps retrying; until a save succeeds, preference changes are lost when it closes.	
-#	PhotoCraft Manages Colors	
-#	PhotoCraft on GitHub	
-#	PhotoCraft Website	
-#	PhotoCraft website	
-#	PhotoCraft — an open-source, native image editor written in Rust.	
-#	PhotoCraft — Screen Color Picker	
+#	Iridium	
+#	Iridium Defaults	
+#	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	
+#	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	
+#	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	
+#	Iridium Manages Colors	
+#	Iridium on GitHub	
+#	Iridium Website	
+#	Iridium website	
+#	Iridium — an open-source, native image editor written in Rust.	
+#	Iridium — Screen Color Picker	
 #	Photography	
 #	Photomerge	
 #	Photomerge…	
@@ -2299,7 +2299,7 @@
 #	Quick Selection Tool	
 #	Quick Sync	
 #	Quit	
-#	Quit PhotoCraft	
+#	Quit Iridium	
 #	Quit {app}	
 #	R G B	
 #	R g b	
@@ -2531,7 +2531,7 @@
 #	Save these settings as a Camera Raw .xmp file	
 #	Save these shortcuts as a .kys file	
 #	Save these shortcuts as a new set	
-#	Save your work and restart PhotoCraft to retry GPU acceleration. CPU rendering remains active for this session.	
+#	Save your work and restart Iridium to retry GPU acceleration. CPU rendering remains active for this session.	
 #	Saved a copy as {path}	
 #@plural	Saved for Web: {n} file|Saved for Web: {n} files	
 #	Saved Multichannel	
@@ -2949,7 +2949,7 @@
 #	The transform couldn't be applied.	
 #	There are too many sets: delete one first.	
 #	There is no crop size or ratio to save	
-#	These settings aren't available in PhotoCraft yet.	
+#	These settings aren't available in Iridium yet.	
 #	Thin	
 #fontWeight	Thin	
 #	This adjustment ({key}) is kept as imported and can't be edited yet.	
@@ -2982,7 +2982,7 @@
 #	Tiny Lens	
 #	Titling Alternates	
 #	To Center	
-#	To drop files, start PhotoCraft under XWayland: `{command}`	
+#	To drop files, start Iridium under XWayland: `{command}`	
 #	Toggle count group visibility	
 #	Toggle Last State	
 #	Toggle Layer Mask Overlay	
@@ -3236,7 +3236,7 @@
 #	{name} Properties	
 #	{name} was changed by another app after it was opened or saved here.	
 #@plural	{n} action|{n} actions	
-#	{n} commands are not in PhotoCraft.	
+#	{n} commands are not in Iridium.	
 #@plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	
 #@plural	{n} layer|{n} layers	
 #	{n} of {max} sample points	
@@ -3245,7 +3245,7 @@
 #@plural	{n} sample point removed|{n} sample points removed	
 #@plural	{n} sample|{n} samples	
 #@plural	{n} slice|{n} slices	
-#@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	
+#@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	
 #@plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	
 #	{path}: the path is not valid Unicode; rename the file and open it again.	
 #	{set} (modified)	

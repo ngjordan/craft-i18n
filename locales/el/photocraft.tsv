@@ -1,4 +1,4 @@
-# Ελληνικά (el) interface catalog for PhotoCraft.
+# Ελληνικά (el) interface catalog for Iridium.
 # Columns, separated by a TAB:  context <TAB> English source text <TAB> translation
 #   context  usually empty. `@plural`, `@id` and `@msg` mean something to the apps; any other
 #            word is a label that tells apart two meanings of the same English.
@@ -65,7 +65,7 @@
 	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: {prs} PR, {commits} commits, +{added} / −{deleted} γραμμές (Δ {delta}), +{binAdded} / −{binDeleted} δυαδικά αρχεία, {first} – {last}
 	A brush preset with this name already exists	Υπάρχει ήδη προεπιλογή πινέλου με αυτό το όνομα
 	A save to {name} is still running; try again when it finishes	Η αποθήκευση στο {name} βρίσκεται ακόμη σε εξέλιξη· δοκιμάστε ξανά όταν ολοκληρωθεί
-	About PhotoCraft	Πληροφορίες για το PhotoCraft
+	About Iridium	Πληροφορίες για το Iridium
 	About {app}	Πληροφορίες για το {app}
 	Accept and Go to Conflict	Αποδοχή και μετάβαση στη σύγκρουση
 	Action	Ενέργεια
@@ -141,7 +141,7 @@
 	Aligned	Στοιχισμένο
 	All	Όλα
 	All Layers No Adjustments	Όλα τα επίπεδα χωρίς προσαρμογές
-	All shortcuts reset to PhotoCraft defaults.	Όλες οι συντομεύσεις επανήλθαν στις προεπιλογές του PhotoCraft.
+	All shortcuts reset to Iridium defaults.	Όλες οι συντομεύσεις επανήλθαν στις προεπιλογές του Iridium.
 	All User Slices	Όλες οι τομές χρήστη
 	Allow agent control	Να επιτρέπεται ο έλεγχος από πράκτορες
 	Allow Continue	Να επιτρέπεται η συνέχεια
@@ -777,7 +777,7 @@ cameraData	Date Taken	Ημερομηνία λήψης
 	Default colours (D)	Προεπιλεγμένα χρώματα (D)
 	Default Features	Προεπιλεγμένες δυνατότητες
 	Default Leaves	Προεπιλεγμένα φύλλα
-	Default PhotoCraft Size	Προεπιλεγμένο μέγεθος PhotoCraft
+	Default Iridium Size	Προεπιλεγμένο μέγεθος Iridium
 	Default printer	Προεπιλεγμένος εκτυπωτής
 	Default restored.	Έγινε επαναφορά των προεπιλογών.
 	Defaults	Προεπιλογές
@@ -1724,7 +1724,7 @@ cameraData	Model	Μοντέλο
 	My Brushes	Τα πινέλα μου
 	name	όνομα
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Η εγγενής μεταφορά και απόθεση αρχείων δεν υποστηρίζεται ακόμη στο Wayland. Χρησιμοποιήστε Αρχείο › Άνοιγμα ή αντιγράψτε την εικόνα στη διαχείριση αρχείων και επικολλήστε τη με {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run PhotoCraft under XWayland with `WAYLAND_DISPLAY= photocraft`.	Η μεταφορά και απόθεση αρχείων δεν υποστηρίζεται ακόμη στο Wayland. Χρησιμοποιήστε Αρχείο › Άνοιγμα ή εκτελέστε το PhotoCraft μέσω XWayland με `WAYLAND_DISPLAY= photocraft`.
+	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Η μεταφορά και απόθεση αρχείων δεν υποστηρίζεται ακόμη στο Wayland. Χρησιμοποιήστε Αρχείο › Άνοιγμα ή εκτελέστε το Iridium μέσω XWayland με `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Η μεταφορά και απόθεση αρχείων δεν είναι διαθέσιμη
 	Nearest Neighbor	Πλησιέστερος γείτονας
 	Nearest neighbor	Πλησιέστερος γείτονας
@@ -1868,7 +1868,7 @@ cameraData	Model	Μοντέλο
 	Operation failed	Η ενέργεια απέτυχε
 	Optical	Οπτική
 	Option-click to define a source point to clone from	Πατήστε Option και κάντε κλικ για να ορίσετε σημείο προέλευσης κλωνοποίησης
-	Or set Preferences › Performance › Linux display server to X11: PhotoCraft then always starts under XWayland.	Ή ορίστε Προτιμήσεις › Επιδόσεις › Διακομιστής οθόνης Linux σε X11: το PhotoCraft θα εκκινεί τότε πάντα μέσω XWayland.
+	Or set Preferences › Performance › Linux display server to X11: Iridium then always starts under XWayland.	Ή ορίστε Προτιμήσεις › Επιδόσεις › Διακομιστής οθόνης Linux σε X11: το Iridium θα εκκινεί τότε πάντα μέσω XWayland.
 cameraRaw	Orange	Πορτοκαλί
 	Original Ratio	Αρχική αναλογία
 	Ornaments	Διακοσμητικά στοιχεία
@@ -1948,16 +1948,16 @@ cameraRaw	Orange	Πορτοκαλί
 	Phone	Τηλέφωνο
 	Photo Filter	Φωτογραφικό φίλτρο
 	Photo Filter…	Φωτογραφικό φίλτρο…
-	PhotoCraft	PhotoCraft
-	PhotoCraft Defaults	Προεπιλογές PhotoCraft
-	PhotoCraft found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from PhotoCraft's. Import it?	Το PhotoCraft βρήκε σε αυτόν τον υπολογιστή το σετ συντομεύσεων πληκτρολογίου {set} από άλλο πρόγραμμα επεξεργασίας εικόνας: {n} συντομεύσεις του διαφέρουν από του PhotoCraft. Να γίνει εισαγωγή;
-	PhotoCraft is using the CPU image compositor. The window may still use your graphics adapter.	Το PhotoCraft χρησιμοποιεί σύνθεση εικόνας μέσω CPU. Το παράθυρο μπορεί να εξακολουθεί να χρησιμοποιεί την κάρτα γραφικών.
-	PhotoCraft Manages Colors	Διαχείριση χρωμάτων από το PhotoCraft
-	PhotoCraft on GitHub	PhotoCraft στο GitHub
-	PhotoCraft Website	Ιστότοπος PhotoCraft
-	PhotoCraft website	Ιστότοπος PhotoCraft
-	PhotoCraft — an open-source, native image editor written in Rust.	PhotoCraft — εγγενής εφαρμογή επεξεργασίας εικόνας ανοικτού κώδικα, γραμμένη σε Rust.
-	PhotoCraft — Screen Color Picker	PhotoCraft — Επιλογή χρώματος οθόνης
+	Iridium	Iridium
+	Iridium Defaults	Προεπιλογές Iridium
+	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Το Iridium βρήκε σε αυτόν τον υπολογιστή το σετ συντομεύσεων πληκτρολογίου {set} από άλλο πρόγραμμα επεξεργασίας εικόνας: {n} συντομεύσεις του διαφέρουν από του Iridium. Να γίνει εισαγωγή;
+	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Το Iridium χρησιμοποιεί σύνθεση εικόνας μέσω CPU. Το παράθυρο μπορεί να εξακολουθεί να χρησιμοποιεί την κάρτα γραφικών.
+	Iridium Manages Colors	Διαχείριση χρωμάτων από το Iridium
+	Iridium on GitHub	Iridium στο GitHub
+	Iridium Website	Ιστότοπος Iridium
+	Iridium website	Ιστότοπος Iridium
+	Iridium — an open-source, native image editor written in Rust.	Iridium — εγγενής εφαρμογή επεξεργασίας εικόνας ανοικτού κώδικα, γραμμένη σε Rust.
+	Iridium — Screen Color Picker	Iridium — Επιλογή χρώματος οθόνης
 	Photography	Φωτογραφία
 	Photomerge	Συγχώνευση φωτογραφιών
 	Photomerge…	Σύνθεση φωτογραφιών…
@@ -2091,7 +2091,7 @@ cameraRaw	Purple	Μοβ
 	Quick Selection Tool	Γρήγορη επιλογή (Quick Selection Tool)
 	Quick Sync	Γρήγορος συγχρονισμός
 	Quit	Έξοδος
-	Quit PhotoCraft	Έξοδος από το PhotoCraft
+	Quit Iridium	Έξοδος από το Iridium
 	Quit {app}	Τερματισμός του {app}
 	Radial Blur	Ακτινική θόλωση
 	Radial Gradient	Ακτινική διαβάθμιση
@@ -2684,7 +2684,7 @@ cameraRaw	Temperature	Θερμοκρασία
 	The transform couldn't be applied.	Δεν ήταν δυνατή η εφαρμογή του μετασχηματισμού.
 	There are too many sets: delete one first.	Υπάρχουν πάρα πολλά σύνολα: διαγράψτε πρώτα ένα.
 	There is no crop size or ratio to save	Δεν υπάρχει μέγεθος ή αναλογία περικοπής για αποθήκευση
-	These settings aren't available in PhotoCraft yet.	Αυτές οι ρυθμίσεις δεν είναι ακόμη διαθέσιμες στο PhotoCraft.
+	These settings aren't available in Iridium yet.	Αυτές οι ρυθμίσεις δεν είναι ακόμη διαθέσιμες στο Iridium.
 	Thin	Λεπτό
 fontWeight	Thin	Πολύ λεπτά
 	This document's layers need {needed} but may hold {budget}: whole-document redraws use the CPU	Τα επίπεδα αυτού του εγγράφου χρειάζονται {needed} αλλά μπορούν να καταλάβουν {budget}: η επανασχεδίαση όλου του εγγράφου γίνεται στη CPU
@@ -2710,7 +2710,7 @@ cameraRaw	Tint	Χρωματική απόχρωση
 	Title	Title
 	Titling Alternates	Εναλλακτικοί χαρακτήρες τίτλων
 	To Center	Προς το κέντρο
-	To drop files, start PhotoCraft under XWayland: `{command}`	Για να αποθέσετε αρχεία, εκκινήστε το PhotoCraft μέσω XWayland: `{command}`
+	To drop files, start Iridium under XWayland: `{command}`	Για να αποθέσετε αρχεία, εκκινήστε το Iridium μέσω XWayland: `{command}`
 	Toggle count group visibility	Εναλλαγή ορατότητας ομάδας καταμέτρησης
 	Toggle Last State	Εναλλαγή τελευταίας κατάστασης
 	Toggle reference point	Εναλλαγή εμφάνισης σημείου αναφοράς
@@ -2932,7 +2932,7 @@ cameraRaw	Yellow	Κίτρινο
 	{name} Properties	Ιδιότητες: {name}
 	{name} was changed by another app after it was opened or saved here.	Το {name} άλλαξε από άλλη εφαρμογή αφού ανοίχτηκε ή αποθηκεύτηκε εδώ.
 @plural	{n} action|{n} actions	{n} ενέργεια|{n} ενέργειες
-	{n} commands are not in PhotoCraft.	{n} εντολές δεν υπάρχουν στο PhotoCraft.
+	{n} commands are not in Iridium.	{n} εντολές δεν υπάρχουν στο Iridium.
 @plural	{n} layer recorded by this comp was deleted. Update the comp, or clear the warning.|{n} layers recorded by this comp were deleted. Update the comp, or clear the warning.	Διαγράφηκε {n} επίπεδο που καταγράφει αυτή η σύνθεση. Ενημερώστε τη σύνθεση ή καταργήστε την προειδοποίηση.|Διαγράφηκαν {n} επίπεδα που καταγράφει αυτή η σύνθεση. Ενημερώστε τη σύνθεση ή καταργήστε την προειδοποίηση.
 @plural	{n} layer|{n} layers	{n} επίπεδο|{n} επίπεδα
 	{n} of {max} sample points	{n} από {max} σημεία δειγματοληψίας
@@ -2941,7 +2941,7 @@ cameraRaw	Yellow	Κίτρινο
 @plural	{n} sample point removed|{n} sample points removed	Αφαιρέθηκε {n} σημείο δειγματοληψίας|Αφαιρέθηκαν {n} σημεία δειγματοληψίας
 @plural	{n} sample|{n} samples	{n} δείγμα|{n} δείγματα
 @plural	{n} slice|{n} slices	{n} τομή|{n} τομές
-@plural	{n} step has no PhotoCraft equivalent yet|{n} steps have no PhotoCraft equivalent yet	{n} βήμα δεν έχει ακόμη αντίστοιχο στο PhotoCraft|{n} βήματα δεν έχουν ακόμη αντίστοιχο στο PhotoCraft
+@plural	{n} step has no Iridium equivalent yet|{n} steps have no Iridium equivalent yet	{n} βήμα δεν έχει ακόμη αντίστοιχο στο Iridium|{n} βήματα δεν έχουν ακόμη αντίστοιχο στο Iridium
 @plural	{n} step with no Photoshop equivalent left out|{n} steps with no Photoshop equivalent left out	Παραλείφθηκε {n} βήμα χωρίς αντίστοιχο στο Photoshop|Παραλείφθηκαν {n} βήματα χωρίς αντίστοιχο στο Photoshop
 	{path}: the path is not valid Unicode; rename the file and open it again.	{path}: η διαδρομή δεν είναι έγκυρο Unicode· μετονομάστε το αρχείο και ανοίξτε το ξανά.
 	{set} (modified)	{set} (τροποποιημένο)
