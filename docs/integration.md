@@ -14,7 +14,7 @@ in `Cargo.toml`; the build option is an environment variable instead, as for cra
 ## The build option: `CRAFT_I18N_DIR`
 
 ```sh
-git clone https://github.com/storytold/craft-i18n ../craft-i18n
+git clone https://github.com/ngjordan/craft-i18n ../craft-i18n
 CRAFT_I18N_DIR=$PWD/../craft-i18n cargo build --release
 ```
 

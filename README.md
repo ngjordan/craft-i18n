@@ -1,9 +1,9 @@
 craft-i18n
 ==========
 
-<a href="https://sonarcloud.io/project/overview?id=storytold_craft-i18n"><img alt="Scanned by SonarCloud" src="https://img.shields.io/badge/Scanned_by-SonarCloud-4b9fd5?style=flat-square&logo=sonarqubecloud&logoColor=white"></a>
+<a href="https://sonarcloud.io/project/overview?id=ngjordan_craft-i18n"><img alt="Scanned by SonarCloud" src="https://img.shields.io/badge/Scanned_by-SonarCloud-4b9fd5?style=flat-square&logo=sonarqubecloud&logoColor=white"></a>
 
-Shared translations for the storytold Crafting Apps.
+Shared translations for the ngjordan the Iridium apps.
 
 The apps share a lot of strings. Keeping them here means each one is translated once, and every
 app picks it up. An app can still override a shared string, or add its own, in its own catalog.
@@ -55,7 +55,7 @@ line.
 
 Your language isn't in `locales/` yet? You can start it yourself. Partial work is welcome, so the
 first PR can be as small as you like. If you'd rather not open a PR, [request the
-language](https://github.com/storytold/craft-i18n/issues/new?template=new-language.yml) instead.
+language](https://github.com/ngjordan/craft-i18n/issues/new?template=new-language.yml) instead.
 
 1. **Pick the locale code.** Use lowercase [BCP 47](https://www.rfc-editor.org/info/bcp47): the
    language (`eo`, `ga`, `fa`), then a script or region only when it matters (`pt-br`, `zh-hans`,
@@ -103,10 +103,10 @@ language](https://github.com/storytold/craft-i18n/issues/new?template=new-langua
 5. **Credit yourself.** Add a row for your locale to [`ATTRIBUTION.md`](ATTRIBUTION.md): your
    name or handle and which app you translated. Say if you used AI tools, and whether a native
    speaker reviewed the translation.
-6. **Open a pull request** here, titled like `eo: WordCraft catalog`.
+6. **Open a pull request** here, titled like `eo: Docs catalog`.
 
 An app only offers a language it lists in its own code. When it adds a new language, it also adds
-the code to that list (for WordCraft, `LANGUAGES` in `crates/ui-egui/src/i18n/mod.rs`). Mention
+the code to that list (for Docs, `LANGUAGES` in `crates/ui-egui/src/i18n/mod.rs`). Mention
 this in your PR, and a maintainer will add the code or tell you where. Until the app is ready (a
 right-to-left script, for example), your catalog is kept here and waits. A translation shows in a
 release once the app's pin, `craft-i18n.rev`, reaches the commit that adds it.

@@ -44,4 +44,4 @@ it. Apps see the correction when they move their pin.
 ## Considered options
 
 - **Re-seed `common.tsv` from every migrated app at each migration**: rejected, winners can flip,
-  so WordCraft's and PdfCraft's overrides churn and the reviewed shared strings are reviewed again.
+  so Docs's and PDF's overrides churn and the reviewed shared strings are reviewed again.

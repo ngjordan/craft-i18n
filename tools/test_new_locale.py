@@ -26,7 +26,7 @@ class NewLocale(unittest.TestCase):
               ("@id", "language.name", "Français"), ("", "Save", "Enregistrer"))
         write(self.root, "de", "common", "Deutsch", "every Crafting App",
               ("@id", "language.name", "Deutsch"), ("@plural", "{n} page|{n} pages", "{n} Seite|{n} Seiten"))
-        write(self.root, "fr", "wordcraft", "Français", "WordCraft",
+        write(self.root, "fr", "iridium_docs", "Français", "Docs",
               ("", "Save", "Sauvegarder"), ("menu", "Open", "Ouvrir"))
 
     def run_tool(self, *argv):
@@ -47,7 +47,7 @@ class NewLocale(unittest.TestCase):
         self.assertIn("\n#\tSave\t\n", common)
         self.assertNotIn("#@id\tlanguage.name", common)
         app = self.read("wordcraft")
-        self.assertTrue(app.startswith("# Esperanto (eo) interface catalog for WordCraft.\n"))
+        self.assertTrue(app.startswith("# Esperanto (eo) interface catalog for Docs.\n"))
         self.assertIn("\n#menu\tOpen\t\n", app)
         self.assertNotIn("Save", app, "a key common.tsv covers stays out of the app file")
         self.assertIn("common.tsv: 2 strings", out)

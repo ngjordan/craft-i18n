@@ -5,7 +5,7 @@ live in a `craft-i18n` crate in craft-libs. This repository holds only catalogs,
 that checks them. Apps embed the catalogs at build time from `CRAFT_I18N_DIR`, as they do with
 craft-fonts, and never list this repository in `Cargo.toml`.
 
-Each app had its own copy of the i18n module, and the copies drifted (WordCraft's and PdfCraft's
+Each app had its own copy of the i18n module, and the copies drifted (Docs's and PDF's
 `mod.rs` differ by ~3.4k lines). Apps already depend on craft-libs as a pinned git dependency, so
 the code there costs no new dependency. The data stays optional: a build without
 `CRAFT_I18N_DIR` is English-only but still builds offline, in a fork or on a mirror.

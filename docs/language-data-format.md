@@ -74,7 +74,7 @@ uses its language's (`es-mx` uses `es`). **`hidden = true`** keeps a pack out of
 gap in the pinned `craft-proof`: an unsupported feature (`craft-proof doesn't support <feature> yet
 (<AFF flag>)`), missing word segmentation, or suggestions too slow to use. It is a statement of fact
 about the pinned `craft-proof`, so refresh it when the pin moves.
-As of 2026-11-02 (craft-proof at storytold/craft-libs rev `47c9f625`, the merge of #497, flag-based
+As of 2026-11-02 (craft-proof at ngjordan/craft-libs rev `47c9f625`, the merge of #497, flag-based
 compounding): 80 locales, 3 Excluded (eu, ug, uk), 2 hidden (mn, whose suggestions take 200–580 ms over
 its 12,066 affix rules; th, which needs word segmentation), 75 published.
 
@@ -129,7 +129,7 @@ the name.
   ```json
   { "format": 1, "release": "language-packs-1",
     "packs": [ { "locale": "nl", "name": "Nederlands", "version": "<craft-i18n commit>",
-                 "url": "https://github.com/storytold/craft-i18n/releases/download/language-packs-1/nl.tar.zst",
+                 "url": "https://github.com/ngjordan/craft-i18n/releases/download/language-packs-1/nl.tar.zst",
                  "sha256": "<hex of archive>", "size": 123456,
                  "licence": "BSD-3-Clause", "class": "Embeddable",
                  "spelling": true, "hyphenation": true,

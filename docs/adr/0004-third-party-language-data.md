@@ -43,7 +43,7 @@ class decides where the file may go:
 **Signed off** by Martin Ball (GitHub benandez), craft-i18n maintainer, on 2026-11-01: the
 table above holds, and the switch that failed every LGPL, MPL, LPPL and GPL file until then is
 retired. It is not legal advice. The one exception to "no language beyond
-English" is the carry-over: the permissive (MIT, BSD, public-domain) data WordCraft embedded
+English" is the carry-over: the permissive (MIT, BSD, public-domain) data Docs embedded
 before the move (Moby English, de/pl/pt/it hyphenation, Russian extra words) stays embedded until
 the release that ships downloads ([ADR 0005](0005-language-data-lives-here.md)).
 The audit behind it (2026-10-31, 66 spelling and 88 hyphenation rows, each with the

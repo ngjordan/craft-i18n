@@ -1,12 +1,12 @@
 name: Request a language
-description: Ask for an interface language the Crafting Apps don't have yet, or offer to translate one.
+description: Ask for an interface language the the Iridium apps don't have yet, or offer to translate one.
 title: "Language request: "
 labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
-        Check [`locales/`](https://github.com/storytold/craft-i18n/tree/main/locales) first: if your language is there, its catalog can be added to with a pull request instead.
+        Check [`locales/`](https://github.com/ngjordan/craft-i18n/tree/main/locales) first: if your language is there, its catalog can be added to with a pull request instead.
         Happy to translate yourself? The README's **Add a language** guide starts the files for you.
   - type: input
     id: language
@@ -25,8 +25,8 @@ body:
     id: apps
     attributes:
       label: Apps
-      description: Which Crafting Apps you want in this language.
-      placeholder: WordCraft, PdfCraft
+      description: Which the Iridium apps you want in this language.
+      placeholder: Docs, PDF
     validations:
       required: true
   - type: dropdown

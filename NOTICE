@@ -1,0 +1,19 @@
+Iridium craft-i18n
+===================
+
+This repository holds the interface translations shared by the Iridium apps
+(Sheets, CAD, Docs, PDF, Decks).
+
+It began as the upstream craft-i18n project and keeps its MIT and Apache-2.0
+licences. The upstream copyright and attribution are unchanged in LICENSE-MIT
+and LICENSE-APACHE, and the third-party credits are unchanged in
+ATTRIBUTION.md.
+
+What changed here:
+
+  * The per-app catalogs are named after the app id each one belongs to, so
+    `locales/<locale>/iridium_pdf.tsv` is read by the PDF app, and so on.
+  * The upstream product names in the translations are replaced with ours.
+
+The translations themselves are the upstream translators' work and are
+attributed in ATTRIBUTION.md.

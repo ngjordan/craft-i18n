@@ -1,7 +1,7 @@
 # Glossary
 
-**Crafting App**: one of the storytold applications that share these translations (WordCraft,
-PdfCraft, PhotoCraft, ArtCraft, …).
+**Crafting App**: one of the ngjordan applications that share these translations (Docs,
+PDF, Iridium, Iridium, …).
 
 **Locale**: a language (optionally with region) that strings are translated into.
 

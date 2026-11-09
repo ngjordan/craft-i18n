@@ -7,14 +7,14 @@ status: accepted
 Spelling dictionaries and hyphenation patterns move into this repository as data, next to the
 catalogs; the code that reads them stays in craft-libs (craft-proof, craft-text), as
 [ADR 0002](0002-runtime-in-craft-libs-data-in-craft-i18n.md) already does for translations. Apps
-each carried their own copy (Moby in WordCraft and DesignCraft, SCOWL in PhotoCraft, `hypher`
-features in DesignCraft and craft-text) or none, and about 25 open issues ask for a missing
+each carried their own copy (Moby in Docs and Iridium, SCOWL in Iridium, `hypher`
+features in Iridium and craft-text) or none, and about 25 open issues ask for a missing
 language.
 
 - Data sits in `language-data/<locale>/` (lowercase BCP 47, regional falling back to its
   language). Upstream files are published with their contents unchanged (`.aff`/`.dic`, TeX
   patterns), under fixed names (`spelling.aff`, `spelling.dic`, `hyphenation.pat`); compiling
-  them is the runtime's job. WordCraft's Moby list (`en-us/en-us.dic`) stays as the hyphenation
+  them is the runtime's job. Docs's Moby list (`en-us/en-us.dic`) stays as the hyphenation
   word list, with our own word lists under their current names, until craft-proof no longer
   needs them. The suite word list is `language-data/words.txt`, with optional
   `<locale>/words.txt`; it is written here, committed and embedded with English, and a locale's
@@ -28,7 +28,7 @@ language.
   small and English-only builds stay offline.
 - Other languages are **Language packs**, one per locale (spelling dictionary, hyphenation
   patterns, licences), downloaded through the suite's font store, its sha256 checks and its single
-  consent setting (storytold/craft-libs#223), only after the user opts in. A **Language build**
+  consent setting (ngjordan/craft-libs#223), only after the user opts in. A **Language build**
   embeds the Embeddable packs it names instead. Until downloads ship, a missing language falls
   back to the system's Hunspell dictionaries, and data an app embeds today stays embedded; it
   leaves the build in the release that ships downloads.
@@ -47,7 +47,7 @@ language.
 ## Depends on
 
 Accepted here means where the data lives and how it is pinned. Downloads wait on
-storytold/craft-libs#223 (decisions 1, network access, and 4, index hosting), and reading the data
+ngjordan/craft-libs#223 (decisions 1, network access, and 4, index hosting), and reading the data
 from here needs craft-text (craft-libs#19) and craft-proof (craft-libs#31, open) to agree. Until
 then apps keep what they embed today and fall back to system dictionaries.
 

@@ -26,7 +26,7 @@ const USAGE: &str = "usage:
   language-packs build --out DIR --release NAME --version SHA [--base-url URL]
                        [--only nl,fr,pl] [--cache DIR] [--no-download]
 
---base-url defaults to https://github.com/storytold/craft-i18n/releases/download/<release>/;
+--base-url defaults to https://github.com/ngjordan/craft-i18n/releases/download/<release>/;
 --cache to $CRAFT_I18N_CACHE, else target/language-data-cache.";
 
 fn main() -> ExitCode {
@@ -107,7 +107,7 @@ fn run(argv: Vec<String>) -> Result<(), String> {
         "build" => {
             let release = args.required("--release")?;
             let mut base_url = args.value("--base-url")?.unwrap_or_else(|| {
-                format!("https://github.com/storytold/craft-i18n/releases/download/{release}/")
+                format!("https://github.com/ngjordan/craft-i18n/releases/download/{release}/")
             });
             if !base_url.ends_with('/') {
                 base_url.push('/');

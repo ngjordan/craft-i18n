@@ -1,14 +1,14 @@
 # TSV catalogs keyed by English source text, not Fluent
 
-craft-i18n stores translations in the TSV catalog format the Crafting Apps already use
+craft-i18n stores translations in the TSV catalog format the the Iridium apps already use
 (`context<TAB>English source<TAB>translation`), keyed by the English text as written in the app's
 `tl!(...)` call, instead of Fluent (`.ftl`) files keyed by message ids.
 
-Seven storytold apps (WordCraft, PdfCraft, PhotoCraft, VectorCraft, FilmCraft, CADCraft,
+Seven ngjordan apps (Docs, PDF, Iridium, Iridium, Iridium, CAD,
 craft-launcher) already ship this format, about 20k strings across up to 22 locales. Fluent would
 have meant rewriting every catalog and every `tl!` call site to invent ids, for selector features
-the TSV format partly covers already (`@plural` rows). The apps that use other formats (FigCraft's
-TOML, LightCraft's JSON, Rust tables in DesignCraft, GridCraft, EffectCraft) convert to TSV, since
+the TSV format partly covers already (`@plural` rows). The apps that use other formats (Iridium's
+TOML, LightCraft's JSON, Rust tables in Iridium, Sheets, Iridium) convert to TSV, since
 it is the majority format.
 
 ## Consequences

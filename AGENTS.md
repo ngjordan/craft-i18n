@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Shared translations for the Craft Apps: TSV catalogs in `locales/` and the checker CI runs.
+Shared translations for the Iridium apps: TSV catalogs in `locales/` and the checker CI runs.
 
 - **Data, not code.** The lookup code is the `craft-i18n` crate in craft-libs
   ([ADR 0002](docs/adr/0002-runtime-in-craft-libs-data-in-craft-i18n.md)). This repo holds only

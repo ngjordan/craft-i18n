@@ -1,9 +1,9 @@
 # Language data
 
-The per-locale data the Crafting Apps check and break text with: spelling word lists and
+The per-locale data the the Iridium apps check and break text with: spelling word lists and
 hyphenation patterns ([ADR 0004](../docs/adr/0004-third-party-language-data.md),
 [ADR 0005](../docs/adr/0005-language-data-lives-here.md); terms in [`GLOSSARY.md`](../GLOSSARY.md)).
-The code that reads it is `craft-proof` in [craft-libs](https://github.com/storytold/craft-libs)
+The code that reads it is `craft-proof` in [craft-libs](https://github.com/ngjordan/craft-libs)
 (`crates/proof`). Grammar rules and suggestion tuning are code, not Language data, and stay there.
 
 ## Layout
@@ -15,14 +15,14 @@ One directory per locale, `language-data/<locale>/`, named in lowercase BCP 47. 
 |---|---|---|
 | `en-us/`, `en-gb/`, `en-ca/`, `en-au/` `spelling.aff` + `spelling.dic` | SCOWL `rel-2026.02.25` Hunspell dictionaries (size 60): American, British `-ise`, Canadian, Australian English spelling, with regional variants | Hunspell `.aff`/`.dic`, unmodified upstream files renamed |
 | `en-us/`, `en-gb/`, `en-ca/`, `en-au/` `LICENCE-SCOWL.txt` | The upstream SCOWL README: copyright and licence notices (SCOWL, Ispell BSD, and Benjamin Titze's notice), for About | text, unmodified |
-| `en-us/en-us.dic` | Moby Hyphenator II word list (~165k words with break points): English hyphenation, and the spelling fallback until craft-proof reads SCOWL | WordCraft's compact word list: zlib-compressed, decoded by `craft-proof`'s `dict.rs` (not a Hunspell `.dic`) |
+| `en-us/en-us.dic` | Moby Hyphenator II word list (~165k words with break points): English hyphenation, and the spelling fallback until craft-proof reads SCOWL | Docs's compact word list: zlib-compressed, decoded by `craft-proof`'s `dict.rs` (not a Hunspell `.dic`) |
 | `en-us/hyphenation.pat` | Our own US English hyphenation patterns, for words not in the list | Liang/TeX patterns |
 | `en-us/en-extra.txt` | Common modern English words the Moby list lacks | one lowercase base form per line, `#` comments |
 | `en-us/en-variants.txt` | American/British spelling pairs, with a policy per English | `POLICY AMERICAN BRITISH` per line, `#` comments |
 | `de/hyphenation.pat`, `pl/hyphenation.pat`, `pt/hyphenation.pat`, `it/hyphenation.pat` | hyph-utf8 TeX hyphenation patterns (`hyph-de-1996.tex`, `hyph-pl.tex`, `hyph-pt.tex`, `hyph-it.tex`) | unmodified `.tex`, compiled when loaded |
 | `ru/ru-extra.txt` | Common modern Russian words older Hunspell dictionaries lack, with their declension classes | one base form and class per line, `#` comments |
 
-Everything below the SCOWL rows is the data WordCraft embedded before the move, byte for byte
+Everything below the SCOWL rows is the data Docs embedded before the move, byte for byte
 (hyphenation patterns renamed to `hyphenation.pat`, contents unchanged). It is the carry-over ADR
 0004 and ADR 0005 allow: the non-English files leave the default build in the release that ships
 Language packs.

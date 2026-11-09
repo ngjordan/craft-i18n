@@ -98,7 +98,7 @@ def complete_plural(source, value, forms):
     """A plural row read for writing: English as one|other, the value padded to the locale's forms
     (3b's B7)."""
     if "|" not in source:
-        # ponytail: English plural by adding "s" (CADCraft's `{n} commit`).
+        # ponytail: English plural by adding "s" (the CAD app's `{n} commit`).
         source = f"{source}|{source}s"
     parts = value.split("|")
     if forms == 1:
