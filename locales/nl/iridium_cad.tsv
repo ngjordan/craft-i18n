@@ -1804,7 +1804,7 @@ mark-style	Japanese	Japans
 	JavaScript:	JavaScript:
 @msg	join needs open paths	samenvoegen heeft open paden nodig
 	Join Our Discord	Word lid van onze Discord
-	Join the Iridium community on Discord (discord.gg/artcraft)	Word lid van de Iridium-community op Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Word lid van de Iridium-community op Discord (iridium.ph)
 	Join the lines of each paragraph	De regels van elke alinea samenvoegen
 	Join Tool	Samenvoegen-gereedschap
 	Joins	Aansluitingen
@@ -4127,7 +4127,6 @@ diagnostics	ui	ui
 	Vector Halftone	Vectorhalftoon
 	Vector Halftone…	Vectorhalftoon…
 	Vector illustration — fast, open, scriptable.	Vectorillustratie — snel, open, scriptbaar.
-	Iridium	Iridium
 	Iridium copies the fonts to {folder}.	Iridium kopieert de lettertypen naar {folder}.
 	Iridium Default	Iridium-standaard
 	Iridium Defaults	Iridium-standaard
@@ -4138,7 +4137,7 @@ diagnostics	ui	ui
 @msg	Iridium failed to start: {e}	Iridium kon niet starten: {e}
 	Iridium Generic CMYK (SWOP-like)	Generieke Iridium-CMYK (SWOP-achtig)
 	Iridium Help…	Iridium-help…
-	Iridium on getartcraft.com	Iridium op getartcraft.com
+	Iridium on iridium.ph	Iridium op iridium.ph
 	Iridium on GitHub	Iridium op GitHub
 	Iridium read this script without running it.	Iridium heeft dit script gelezen zonder het uit te voeren.
 	Iridium Swatches (.vcswatches)	Iridium-stalen (.vcswatches)

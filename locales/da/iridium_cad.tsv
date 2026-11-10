@@ -1794,7 +1794,7 @@ mark-style	Japanese	Japansk
 	JavaScript:	JavaScript:
 @msg	join needs open paths	sammenføjning kræver åbne kurver
 	Join Our Discord	Slut dig til vores Discord
-	Join the Iridium community on Discord (discord.gg/artcraft)	Deltag i Iridium-fællesskabet på Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Deltag i Iridium-fællesskabet på Discord (iridium.ph)
 	Join the lines of each paragraph	Forbind linjerne i hvert afsnit
 	Join Tool	Sammenføjningsværktøj
 	Joins	Sammenføjninger
@@ -4107,7 +4107,7 @@ diagnostics	ui	Brugerflade
 @msg	Iridium failed to start: {e}	Iridium kunne ikke starte: {e}
 	Iridium Generic CMYK (SWOP-like)	Iridium-generisk CMYK (SWOP-lignende)
 	Iridium Help…	Hjælp til Iridium…
-	Iridium on getartcraft.com	Iridium på getartcraft.com
+	Iridium on iridium.ph	Iridium på iridium.ph
 	Iridium on GitHub	Iridium på GitHub
 	Iridium read this script without running it.	Iridium læste dette script uden at køre det.
 	Iridium Swatches (.vcswatches)	Iridium-farveprøver (.vcswatches)

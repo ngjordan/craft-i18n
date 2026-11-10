@@ -1777,7 +1777,7 @@ mark-style	Japanese	Ιαπωνικά
 	JavaScript:	JavaScript:
 @msg	join needs open paths	η ένωση απαιτεί ανοιχτές διαδρομές
 	Join Our Discord	Ελάτε στο Discord μας
-	Join the Iridium community on Discord (discord.gg/artcraft)	Γίνετε μέλος της κοινότητας Iridium στο Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Γίνετε μέλος της κοινότητας Iridium στο Discord (iridium.ph)
 	Join the lines of each paragraph	Ένωση γραμμών κάθε παραγράφου
 	Join Tool	Ένωση (Join Tool)
 	Joins	Συνδέσεις
@@ -4091,7 +4091,7 @@ diagnostics	ui	διεπαφή
 @msg	Iridium failed to start: {e}	Η εκκίνηση του Iridium απέτυχε: {e}
 	Iridium Generic CMYK (SWOP-like)	Γενικό CMYK του Iridium (τύπου SWOP)
 	Iridium Help…	Βοήθεια Iridium…
-	Iridium on getartcraft.com	Iridium στο getartcraft.com
+	Iridium on iridium.ph	Iridium στο iridium.ph
 	Iridium on GitHub	Iridium στο GitHub
 	Iridium read this script without running it.	Το Iridium διάβασε αυτό το σενάριο χωρίς να το εκτελέσει.
 	Iridium Swatches (.vcswatches)	Δείγματα χρωμάτων Iridium (.vcswatches)

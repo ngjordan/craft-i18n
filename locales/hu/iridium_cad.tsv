@@ -1781,7 +1781,7 @@ mark-style	Japanese	Japán
 	JavaScript:	JavaScript:
 @msg	join needs open paths	az összekapcsoláshoz nyitott útvonalak kellenek
 	Join Our Discord	Csatlakozz a Discordunkhoz
-	Join the Iridium community on Discord (discord.gg/artcraft)	Csatlakozz az Iridium-közösséghez a Discordon (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Csatlakozz az Iridium-közösséghez a Discordon (iridium.ph)
 	Join the lines of each paragraph	Bekezdések sorainak összefűzése
 	Join Tool	Összekapcsolás
 	Joins	Csatlakozások
@@ -4104,7 +4104,7 @@ diagnostics	ui	felület
 @msg	Iridium failed to start: {e}	A Iridium nem tudott elindulni: {e}
 	Iridium Generic CMYK (SWOP-like)	Iridium általános CMYK (SWOP-szerű)
 	Iridium Help…	Iridium súgó…
-	Iridium on getartcraft.com	A Iridium a getartcraft.com oldalon
+	Iridium on iridium.ph	A Iridium a iridium.ph oldalon
 	Iridium on GitHub	A Iridium a GitHubon
 	Iridium read this script without running it.	A Iridium futtatás nélkül olvasta be ezt a szkriptet.
 	Iridium Swatches (.vcswatches)	Iridium-színminták (.vcswatches)

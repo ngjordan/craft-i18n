@@ -86,7 +86,7 @@ dependencies = [
 [[package]]
 name = "craft-i18n"
 version = "0.1.0"
-source = "git+https://github.com/storytold/craft-libs?rev=32b2fd8a#32b2fd8adf4bcf1bdf3e4f6728af6f3230c03ee4"
+source = "git+https://github.com/ngjordan/craft-libs?rev=32b2fd8a#32b2fd8adf4bcf1bdf3e4f6728af6f3230c03ee4"
 dependencies = [
  "fixed_decimal",
  "icu_decimal",
@@ -126,7 +126,7 @@ dependencies = [
 [[package]]
 name = "craft-proof"
 version = "0.1.0"
-source = "git+https://github.com/storytold/craft-libs?rev=47c9f625#47c9f62530db72bc5c3831c86653b47b20c640be"
+source = "git+https://github.com/ngjordan/craft-libs?rev=47c9f625#47c9f62530db72bc5c3831c86653b47b20c640be"
 dependencies = [
  "log",
  "miniz_oxide",

@@ -1614,14 +1614,11 @@ layerLabel	No Color	Keine Farbe
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	Perspektivische Verkrümmung: zeichne Flächen entlang der Bildperspektive, wechsle dann zu Verkrümmen
 	Photo Filter	Foto-Filter
 	Photo Filter…	Foto-Filter…
-	Iridium	Iridium
 	Iridium Defaults	Iridium-Standard
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium hat auf diesem Computer deinen Tastaturbefehlssatz {set} aus einem anderen Bildbearbeitungsprogramm gefunden: {n} seiner Tastaturbefehle weichen von denen in Iridium ab. Importieren?
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium nutzt den CPU-Bildkompositor. Das Fenster kann weiterhin deinen Grafikadapter verwenden.
 	Iridium Manages Colors	Iridium verwaltet die Farben
 	Iridium on GitHub	Iridium auf GitHub
-	Iridium Website	Iridium-Website
-	Iridium website	Iridium-Website
 	Iridium — an open-source, native image editor written in Rust.	Iridium — ein nativer Open-Source-Bildeditor, geschrieben in Rust.
 	Iridium — Screen Color Picker	Iridium — Bildschirmfarbenauswahl
 	Photography	Fotografie

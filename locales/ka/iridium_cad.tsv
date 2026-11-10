@@ -2260,7 +2260,7 @@ mark-style	Japanese	იაპონური
 @msg	join needs open paths	შეერთებას ღია ტრაექტორიები სჭირდება
 	Join Our Discord	შემოგვიერთდით Discord-ზე
 	Join our Discord	შემოგვიერთდით Discord-ზე
-	Join the Iridium community on Discord (discord.gg/artcraft)	შემოუერთდით Iridium-ის საზოგადოებას Discord-ზე (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	შემოუერთდით Iridium-ის საზოგადოებას Discord-ზე (iridium.ph)
 	Join the lines of each paragraph	თითოეული აბზაცის სტრიქონების შეერთება
 	Join Tool	შეერთების ხელსაწყო
 	Joins	შეერთებები
@@ -5112,7 +5112,7 @@ diagnostics	ui	ინტერფეისი
 @msg	Iridium failed to start: {e}	Iridium-ის გაშვება ვერ მოხერხდა: {e}
 	Iridium Generic CMYK (SWOP-like)	Iridium-ის ზოგადი CMYK (SWOP-ის მსგავსი)
 	Iridium Help…	Iridium-ის დახმარება…
-	Iridium on getartcraft.com	Iridium getartcraft.com-ზე
+	Iridium on iridium.ph	Iridium iridium.ph-ზე
 	Iridium on GitHub	Iridium GitHub-ზე
 	Iridium read this script without running it.	Iridium-მა ეს სკრიპტი წაიკითხა მისი გაშვების გარეშე.
 	Iridium Swatches (.vcswatches)	Iridium-ის ფერის ნიმუშები (.vcswatches)

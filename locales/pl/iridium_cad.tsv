@@ -1743,7 +1743,7 @@ mark-style	Japanese	Japońskie
 	JavaScript:	JavaScript:
 @msg	join needs open paths	łączenie wymaga otwartych ścieżek
 	Join Our Discord	Dołącz do naszego Discorda
-	Join the Iridium community on Discord (discord.gg/artcraft)	Dołącz do społeczności Iridium na Discordzie (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Dołącz do społeczności Iridium na Discordzie (iridium.ph)
 	Join the lines of each paragraph	Połącz wiersze każdego akapitu
 	Join Tool	Narzędzie Łączenie
 	Joins	Połączenia
@@ -4015,7 +4015,7 @@ diagnostics	ui	interfejs
 @msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium nie przeszukuje folderu Shared ani Public w Users: {path}
 @msg	Iridium failed to start: {e}	Nie udało się uruchomić Iridium: {e}
 	Iridium Help…	Pomoc Iridium…
-	Iridium on getartcraft.com	Iridium w getartcraft.com
+	Iridium on iridium.ph	Iridium w iridium.ph
 	Iridium on GitHub	Iridium w serwisie GitHub
 	Iridium read this script without running it.	Iridium odczytał ten skrypt, nie uruchamiając go.
 file-filter	Iridium Template	Szablon Iridium

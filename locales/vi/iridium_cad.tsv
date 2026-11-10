@@ -1647,7 +1647,7 @@ mark-style	Japanese	Kiểu Nhật
 	JavaScript:	JavaScript:
 @msg	join needs open paths	nối cần đường dẫn mở
 	Join Our Discord	Tham gia Discord
-	Join the Iridium community on Discord (discord.gg/artcraft)	Tham gia cộng đồng Iridium trên Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Tham gia cộng đồng Iridium trên Discord (iridium.ph)
 	Join the lines of each paragraph	Nối các dòng trong mỗi đoạn văn
 	Join Tool	Công cụ Nối
 	Joins	Kiểu nối
@@ -3820,7 +3820,7 @@ diagnostics	ui	giao diện
 @msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium không tìm kiếm thư mục Shared hoặc Public trong Users: {path}
 @msg	Iridium failed to start: {e}	Iridium khởi động thất bại: {e}
 	Iridium Help…	Trợ giúp Iridium…
-	Iridium on getartcraft.com	Iridium trên getartcraft.com
+	Iridium on iridium.ph	Iridium trên iridium.ph
 	Iridium on GitHub	Iridium trên GitHub
 	Iridium read this script without running it.	Iridium đã đọc script này mà không chạy nó.
 file-filter	Iridium Template	Mẫu Iridium

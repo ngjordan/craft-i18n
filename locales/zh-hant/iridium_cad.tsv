@@ -1381,7 +1381,7 @@ mark-style	Japanese	日式
 	JavaScript Files	JavaScript 檔案
 	JavaScript:	JavaScript：
 	Join Our Discord	加入我們的 Discord
-	Join the Iridium community on Discord (discord.gg/artcraft)	加入 Discord 上的 Iridium 社群 (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	加入 Discord 上的 Iridium 社群 (iridium.ph)
 	Join the lines of each paragraph	合併每個段落的各行
 	Join Tool	連接工具
 	Joins	轉角
@@ -3132,12 +3132,11 @@ diagnostics	ui	介面
 	Vector Halftone	向量半色調
 	Vector Halftone…	向量半色調…
 	Vector illustration — fast, open, scriptable.	向量插圖：快速、開放、可用指令碼操控。
-	Iridium	Iridium
 	Iridium copies the fonts to {folder}.	Iridium 會將字體複製到 {folder}。
 	Iridium didn't quit normally last time. These documents had unsaved changes:	Iridium 上次未正常結束。下列文件有未儲存的變更：
 	Iridium documents: one locked object, updated when the file changes.	Iridium 文件：單一鎖定物件，檔案變更時隨之更新。
 	Iridium Help…	Iridium 說明…
-	Iridium on getartcraft.com	getartcraft.com 上的 Iridium
+	Iridium on iridium.ph	iridium.ph 上的 Iridium
 	Iridium on GitHub	GitHub 上的 Iridium
 	Iridium read this script without running it.	Iridium 已讀取此指令碼，但沒有執行。
 file-filter	Iridium Template	Iridium 範本

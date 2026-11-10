@@ -2138,14 +2138,12 @@ cameraRaw	Orange	Narancs
 	Photo (8 × 10 in)	Fotó (8 × 10 in)
 	Photo Filter	Fotószűrő
 	Photo Filter…	Fotószűrő…
-	Iridium	Iridium
 	Iridium Defaults	Iridium alapértelmezések
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	A Iridium egy másik képszerkesztő billentyűparancs-készletét találta ezen a számítógépen: {set}. Ebben {n} billentyűparancs eltér a Iridiumétól. Importálod?
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	A Iridium a CPU-s képösszeállítót használja. Az ablak megjelenítése ettől még használhatja a grafikus adaptert.
 	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	A Iridium tovább próbálkozik; amíg a mentés nem sikerül, a beállítások módosításai bezáráskor elvesznek.
 	Iridium Manages Colors	A Iridium kezeli a színeket
 	Iridium on GitHub	Iridium a GitHubon
-	Iridium Website	Iridium-weboldal
 	Iridium website	Iridium-weboldal
 	Iridium — an open-source, native image editor written in Rust.	Iridium – nyílt forráskódú, natív képszerkesztő Rust nyelven.
 	Iridium — Screen Color Picker	Iridium — Képernyő-színválasztó

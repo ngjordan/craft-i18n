@@ -1679,7 +1679,7 @@ mark-style	Japanese	日本式
 	JavaScript:	JavaScript:
 @msg	join needs open paths	連結にはオープンパスが必要です
 	Join Our Discord	Discord に参加
-	Join the Iridium community on Discord (discord.gg/artcraft)	Discord で Iridium コミュニティに参加 (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Discord で Iridium コミュニティに参加 (iridium.ph)
 	Join the lines of each paragraph	段落内の行を連結
 	Join Tool	結合ツール
 	Joins	角の形状
@@ -3875,7 +3875,7 @@ diagnostics	ui	UI
 @msg	Iridium doesn't search the Shared or Public folder in Users: {path}	Iridium は Users 内の Shared フォルダーと Public フォルダーを検索しません: {path}
 @msg	Iridium failed to start: {e}	Iridium を起動できませんでした: {e}
 	Iridium Help…	Iridium ヘルプ…
-	Iridium on getartcraft.com	getartcraft.com の Iridium
+	Iridium on iridium.ph	iridium.ph の Iridium
 	Iridium on GitHub	GitHub の Iridium
 	Iridium read this script without running it.	Iridium はこのスクリプトを実行せずに読み取りました。
 file-filter	Iridium Template	Iridium テンプレート

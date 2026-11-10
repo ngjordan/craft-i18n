@@ -1996,14 +1996,11 @@ cameraData	Model	モデル
 	Photo (8 × 10 in)	写真 (8 × 10 in)
 	Photo Filter	写真フィルター
 	Photo Filter…	写真フィルター…
-	Iridium	Iridium
 	Iridium Defaults	Iridium 初期設定
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	このコンピューターで、別の画像編集アプリのキーボードショートカットセット {set} が見つかりました。{n} 個のショートカットが Iridium と異なります。読み込みますか？
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium は CPU で画像を合成しています。ウィンドウは引き続きグラフィックスアダプターを使用する場合があります。
 	Iridium Manages Colors	Iridium でカラーを管理
 	Iridium on GitHub	GitHub 上の Iridium
-	Iridium Website	Iridium の Web サイト
-	Iridium website	Iridium の Web サイト
 	Iridium — an open-source, native image editor written in Rust.	Iridium — Rust で書かれた、オープンソースのネイティブ画像エディター。
 	Iridium — Screen Color Picker	Iridium — スクリーンカラーピッカー
 	Photography	写真

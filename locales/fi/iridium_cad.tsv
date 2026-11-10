@@ -1768,7 +1768,7 @@ mark-style	Japanese	Japanilainen
 	JavaScript:	JavaScript:
 @msg	join needs open paths	liittäminen vaatii avoimia polkuja
 	Join Our Discord	Liity Discordiimme
-	Join the Iridium community on Discord (discord.gg/artcraft)	Liity Iridium-yhteisöön Discordissa (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Liity Iridium-yhteisöön Discordissa (iridium.ph)
 	Join the lines of each paragraph	Yhdistä kunkin kappaleen rivit
 	Join Tool	Liitostyökalu
 	Joins	Liitokset
@@ -4074,7 +4074,7 @@ diagnostics	ui	käyttöliittymä
 @msg	Iridium failed to start: {e}	Iridiumin käynnistys epäonnistui: {e}
 	Iridium Generic CMYK (SWOP-like)	Iridiumin yleinen CMYK (SWOP-tyyppinen)
 	Iridium Help…	Iridium-ohje…
-	Iridium on getartcraft.com	Iridium getartcraft.comissa
+	Iridium on iridium.ph	Iridium iridium.phissa
 	Iridium on GitHub	Iridium GitHubissa
 	Iridium read this script without running it.	Iridium luki tämän komentosarjan suorittamatta sitä.
 	Iridium Swatches (.vcswatches)	Iridium-värimallit (.vcswatches)

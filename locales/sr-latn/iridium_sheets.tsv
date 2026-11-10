@@ -2137,14 +2137,12 @@ document	Orientation	Orijentacija
 	Photo (8 × 10 in)	Fotografija (8 × 10 in)
 	Photo Filter	Foto-filter
 	Photo Filter…	Foto-filter…
-	Iridium	Iridium
 	Iridium Defaults	Podrazumevano za Iridium
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium je na ovom računaru pronašao vaš skup prečica {set} iz drugog uređivača slika: {n} prečica se razlikuje od Iridium-ovih. Uvesti ga?
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium koristi CPU kompozitor slike. Prozor i dalje može da koristi vaš grafički adapter.
 	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	Iridium nastavlja da pokušava; dok čuvanje ne uspe, izmene podešavanja se gube pri zatvaranju.
 	Iridium Manages Colors	Iridium upravlja bojama
 	Iridium on GitHub	Iridium na GitHub-u
-	Iridium Website	Veb-sajt Iridium-a
 	Iridium website	Veb-sajt Iridium-a
 	Iridium — an open-source, native image editor written in Rust.	Iridium — izvorni uređivač slika otvorenog koda, napisan u Rust-u.
 	Iridium — Screen Color Picker	Iridium — birač boja sa ekrana

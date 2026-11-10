@@ -1621,13 +1621,11 @@ cameraRaw	Orange	Оранжевые
 	Photo (8 × 10 in)	Фото (8 × 10 дюймов)
 	Photo Filter	Фотофильтр
 	Photo Filter…	Фотофильтр…
-	Iridium	Iridium
 	Iridium Defaults	Стандартные Iridium
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium нашёл на этом компьютере ваш набор сочетаний клавиш {set} из другого графического редактора: сочетаний, отличных от Iridium: {n}. Импортировать его?
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium обрабатывает изображения на CPU. Окно может продолжать использовать графический адаптер.
 	Iridium Manages Colors	Iridium управляет цветами
 	Iridium on GitHub	Iridium на GitHub
-	Iridium Website	Сайт Iridium
 	Iridium website	Сайт Iridium
 	Iridium — an open-source, native image editor written in Rust.	Iridium — открытый нативный графический редактор на Rust.
 	Iridium — Screen Color Picker	Iridium — Пипетка цвета экрана

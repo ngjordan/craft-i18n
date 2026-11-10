@@ -60,7 +60,7 @@ pub fn check_tree(root: &Path) -> Vec<String> {
             let path = format!("locales/{locale}/{file}");
             if !is_catalog_name(&file) {
                 problems.push(format!(
-                    "{path}: not a catalog; name it {COMMON} or <app>.tsv (lowercase, digits, -)"
+                    "{path}: not a catalog; name it {COMMON} or <app>.tsv (lowercase, digits, - and _)"
                 ));
                 continue;
             }
@@ -265,7 +265,9 @@ fn key(row: Row) -> Row {
 /// `common.tsv`, or `<app>.tsv` with `<app>` in `[a-z0-9]+(-[a-z0-9]+)*`.
 fn is_catalog_name(file: &str) -> bool {
     file.strip_suffix(".tsv").is_some_and(|app| {
-        app.split('-').all(|part| {
+        // The catalogs are named after the app's id (`iridium_docs.tsv`), so the name may
+        // hold an underscore. Everything else is lowercase, digits and dashes.
+        app.split(['-', '_']).all(|part| {
             !part.is_empty()
                 && part
                     .bytes()

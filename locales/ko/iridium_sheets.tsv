@@ -1727,14 +1727,11 @@ cameraData	Model	모델
 	Photo Filter	포토 필터
 	Photo Filter…	포토 필터…
 	Photocopy	복사
-	Iridium	Iridium
 	Iridium Defaults	Iridium 기본값
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium가 이 컴퓨터에서 다른 이미지 편집기의 키보드 단축키 세트 {set}을(를) 찾았습니다. 단축키 {n}개가 Iridium와 다릅니다. 가져오시겠습니까?
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium가 CPU로 이미지를 합성하고 있습니다. 창 표시에는 그래픽 어댑터를 계속 사용할 수 있습니다.
 	Iridium Manages Colors	Iridium에서 색상 관리
 	Iridium on GitHub	GitHub의 Iridium
-	Iridium Website	Iridium 웹사이트
-	Iridium website	Iridium 웹사이트
 	Iridium — an open-source, native image editor written in Rust.	Iridium — Rust로 작성된 오픈 소스 네이티브 이미지 편집기.
 	Iridium — Screen Color Picker	Iridium — 화면 색상 선택기
 	Photography	사진

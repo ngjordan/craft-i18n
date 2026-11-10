@@ -1885,15 +1885,12 @@ cameraRaw	Orange	Oranžové
 	Phone	Telefon
 	Photo Filter	Fotografický filtr
 	Photo Filter…	Fotografický filtr…
-	Iridium	Iridium
 	Iridium Defaults	Výchozí Iridium
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium na tomto počítači našel vaši sadu klávesových zkratek {set} z jiného editoru obrázků: {n} jejích zkratek se liší od zkratek Iridiumu. Importovat ji?
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium skládá obraz pomocí CPU. Okno může nadále používat grafický adaptér.
 	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	Iridium se nadále pokouší o uložení; dokud nebude úspěšné, změny předvoleb se při zavření ztratí.
 	Iridium Manages Colors	Barvy spravuje Iridium
 	Iridium on GitHub	Iridium na GitHubu
-	Iridium Website	Web Iridium
-	Iridium website	Web Iridium
 	Iridium — an open-source, native image editor written in Rust.	Iridium — nativní editor obrázků s otevřeným zdrojovým kódem napsaný v jazyce Rust.
 	Iridium — Screen Color Picker	Iridium — Výběr barvy obrazovky
 	Photography	Fotografie

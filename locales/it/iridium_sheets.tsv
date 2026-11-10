@@ -2207,14 +2207,12 @@ document	Orientation	Orientamento
 	Photo (8 × 10 in)	Foto (8 × 10 in)
 	Photo Filter	Filtro fotografico
 	Photo Filter…	Filtro fotografico…
-	Iridium	Iridium
 	Iridium Defaults	Predefiniti di Iridium
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium ha trovato su questo computer il tuo set di scorciatoie da tastiera {set} di un altro editor di immagini: {n} delle sue scorciatoie differiscono da quelle di Iridium. Importarlo?
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium sta componendo immagini su CPU. La finestra può ancora usare adattatore grafico.
 	Iridium keeps retrying; until a save succeeds, preference changes are lost when it closes.	Iridium continua a riprovare; finché un salvataggio non riesce, le modifiche alle preferenze andranno perse alla chiusura.
 	Iridium Manages Colors	Iridium gestisce i colori
 	Iridium on GitHub	Iridium su GitHub
-	Iridium Website	Sito web Iridium
 	Iridium website	Sito web Iridium
 	Iridium — an open-source, native image editor written in Rust.	Iridium — editor immagini nativo open-source scritto in Rust.
 	Iridium — Screen Color Picker	Iridium — Selettore colore schermo

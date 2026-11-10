@@ -1817,7 +1817,7 @@ mark-style	Japanese	Jepang
 	JavaScript:	JavaScript:
 @msg	join needs open paths	penggabungan memerlukan jalur terbuka
 	Join Our Discord	Gabung ke Discord kami
-	Join the Iridium community on Discord (discord.gg/artcraft)	Bergabunglah dengan komunitas Iridium di Discord (discord.gg/artcraft)
+	Join the Iridium community on Discord (iridium.ph)	Bergabunglah dengan komunitas Iridium di Discord (iridium.ph)
 	Join the lines of each paragraph	Gabungkan baris setiap paragraf
 	Join Tool	Alat sambung
 	Joins	Sambungan
@@ -4144,7 +4144,6 @@ diagnostics	ui	UI
 	Vector Halftone	Halftone vektor
 	Vector Halftone…	Halftone vektor…
 	Vector illustration — fast, open, scriptable.	Ilustrasi vektor — cepat, terbuka, mendukung skrip.
-	Iridium	Iridium
 	Iridium copies the fonts to {folder}.	Iridium menyalin font ke {folder}.
 	Iridium Default	Iridium Default
 	Iridium Defaults	Default Iridium
@@ -4155,7 +4154,7 @@ diagnostics	ui	UI
 @msg	Iridium failed to start: {e}	Iridium gagal dimulai: {e}
 	Iridium Generic CMYK (SWOP-like)	CMYK generik Iridium (mirip SWOP)
 	Iridium Help…	Bantuan Iridium…
-	Iridium on getartcraft.com	Iridium di getartcraft.com
+	Iridium on iridium.ph	Iridium di iridium.ph
 	Iridium on GitHub	Iridium di GitHub
 	Iridium read this script without running it.	Iridium membaca skrip ini tanpa menjalankannya.
 	Iridium Swatches (.vcswatches)	Iridium Swatches (.vcswatches)

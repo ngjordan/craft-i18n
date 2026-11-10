@@ -1422,14 +1422,11 @@ cameraData	Model	型號
 	Perspective Warp: draw planes along the image's perspective, then switch to Warp	透視彎曲：沿影像透視繪製平面，然後切換到彎曲
 	Photo Filter	相片濾鏡
 	Photo Filter…	相片濾鏡…
-	Iridium	Iridium
 	Iridium Defaults	Iridium 預設值
 	Iridium found your keyboard shortcut set {set} from another image editor on this computer: {n} of its shortcuts differ from Iridium's. Import it?	Iridium 在這台電腦上找到你在其他影像編輯器中的鍵盤快速鍵集 {set}：其中 {n} 個快速鍵與 Iridium 不同。要匯入嗎？
 	Iridium is using the CPU image compositor. The window may still use your graphics adapter.	Iridium 正使用 CPU 合成影像。視窗仍可能使用您的顯示卡。
 	Iridium Manages Colors	Iridium 管理色彩
 	Iridium on GitHub	GitHub 上的 Iridium
-	Iridium Website	Iridium 網站
-	Iridium website	Iridium 網站
 	Iridium — an open-source, native image editor written in Rust.	Iridium — 以 Rust 撰寫的開放原始碼原生影像編輯器。
 	Iridium — Screen Color Picker	Iridium — 螢幕取色器
 	Photography	攝影
