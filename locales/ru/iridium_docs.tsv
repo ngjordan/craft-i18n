@@ -767,7 +767,7 @@
 	Even Banded Rows	Чётные чередующиеся строки
 	Even Page	Чётная страница
 	Every change is recorded as a tracked change.	Каждое изменение записывается как исправление.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Любая команда доступна скриптам и ИИ-агентам: запустите `wordcraft-cli mcp`, чтобы получить MCP-сервер, или запустите приложение с `--control <port>`, чтобы открыть управляющий канал JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Любая команда доступна скриптам и ИИ-агентам: запустите `iridium-docs-cli mcp`, чтобы получить MCP-сервер, или запустите приложение с `--control <port>`, чтобы открыть управляющий канал JSON.
 	Every field needs a name.	У каждого поля должно быть имя.
 	Everyone	Все
 	Exactly	Точно
@@ -2017,7 +2017,7 @@
 	Sort by:	Сортировать по:
 	Sort order:	Порядок сортировки:
 	Sort Recipients	Сортировка получателей
-	Source code: github.com/ngjordan/wordcraft	Исходный код: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Исходный код: github.com/ngjordan/docs
 	Source Manager	Диспетчер источников
 	Source type:	Тип источника:
 	Sources in this document:	Источники в этом документе:

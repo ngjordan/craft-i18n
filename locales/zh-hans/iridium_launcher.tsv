@@ -56,7 +56,7 @@ month	Aug	8月
 	Click to sort by this column	点击按此列排序
 	Close (Esc)	关闭（Esc）
 	Coming soon	即将推出
-cadcraft	Computer-aided design and drafting	计算机辅助设计与制图
+cad	Computer-aided design and drafting	计算机辅助设计与制图
 	Couldn't change the login item: {e}	无法更改登录启动项：{e}
 	Couldn't check for updates: {f}	无法检查更新：{f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	无法将 {path} 移到废纸篓（{reason}）。请在 Finder 中移除。
@@ -172,11 +172,11 @@ lightcraft	Photo library and raw development	照片管理与 RAW 处理
 	Pictures couldn't be loaded. Reopen this page to try again.	无法加载图片。重新打开此页面可重试。
 	Platforms	平台
 	Portable (.zip)	便携版 (.zip)
-deckcraft	Presentations and slide shows	演示文稿与幻灯片
+decks	Presentations and slide shows	演示文稿与幻灯片
 	Previous picture (←)	上一张（←）
 	Questions, ideas and news from the Iridium team	与 Iridium 团队交流问题、想法和动态
 	Quit Iridium Launcher	退出 Iridium Launcher
-pdfcraft	Reading, organizing and protecting PDFs	PDF 阅读、整理和保护
+pdf	Reading, organizing and protecting PDFs	PDF 阅读、整理和保护
 	Reconnecting…	正在重新连接…
 soundcraft	Recording, editing and mixing audio	音频录制、编辑与混音
 	Reinstall	重新安装
@@ -210,7 +210,7 @@ month	Sep	9月
 @id	sort.released	发布日期
 @id	sort.status	状态
 @id	sort.suite	默认顺序
-gridcraft	Spreadsheets and data	电子表格与数据处理
+sheets	Spreadsheets and data	电子表格与数据处理
 	Start Iridium Launcher when I log in	登录时启动 Iridium Launcher
 	Stop waiting; the update can be started again later	停止等待；稍后可重新开始更新
 	Suite order	默认顺序
@@ -259,7 +259,7 @@ filmcraft	Video editing, color and sound	视频剪辑、调色和声音处理
 	What's new	更新内容
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	开启后，从菜单栏打开启动器时，窗口会显示在当前桌面。关闭后，macOS 会切换到窗口原来所在的桌面。
 	Windows will remove it like any installed program. Your documents and settings stay.	Windows 将按常规方式卸载此应用。你的文档和设置会保留。
-wordcraft	Writing and document design	写作与文档设计
+docs	Writing and document design	写作与文档设计
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	系统软件包管理器将卸载此应用，可能需要输入密码。你的文档和设置会保留。
 	{a} and {b}	{a} 和 {b}
 	{count} updates are available	有 {count} 个可用更新

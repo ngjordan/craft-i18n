@@ -647,7 +647,7 @@
 	Even Banded Rows	偶数镶边行
 	Even Page	偶数页
 	Every change is recorded as a tracked change.	每处更改都会作为修订记录。
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	每个命令都可供脚本和 AI 智能体使用：运行 `wordcraft-cli mcp` 启动 MCP 服务器，或使用 `--control <port>` 启动应用以打开 JSON 控制通道。
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	每个命令都可供脚本和 AI 智能体使用：运行 `iridium-docs-cli mcp` 启动 MCP 服务器，或使用 `--control <port>` 启动应用以打开 JSON 控制通道。
 	Every field needs a name.	每个域都需要名称。
 	Everyone	每个人
 	Exactly	固定值
@@ -1764,7 +1764,7 @@
 	Sort by:	排序依据：
 	Sort order:	排序方式：
 	Sort Recipients	排序收件人
-	Source code: github.com/ngjordan/wordcraft	源代码：github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	源代码：github.com/ngjordan/docs
 	Source Manager	源管理器
 	Source type:	源类型：
 	Sources in this document:	本文档中的源：

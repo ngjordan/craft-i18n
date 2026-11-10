@@ -664,7 +664,7 @@
 	Even Banded Rows	偶数の縞模様（行）
 	Even Page	偶数ページから開始
 	Every change is recorded as a tracked change.	すべての変更が変更履歴として記録されます。
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	すべてのコマンドはスクリプトと AI エージェントから利用できます。`wordcraft-cli mcp` で MCP サーバーを起動するか、`--control <port>` を付けてアプリを起動すると JSON 制御チャネルが使えます。
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	すべてのコマンドはスクリプトと AI エージェントから利用できます。`iridium-docs-cli mcp` で MCP サーバーを起動するか、`--control <port>` を付けてアプリを起動すると JSON 制御チャネルが使えます。
 	Every field needs a name.	すべてのフィールドに名前が必要です。
 	Everyone	すべてのユーザー
 	Exactly	固定値
@@ -1797,7 +1797,7 @@
 	Sort by:	並べ替え:
 	Sort order:	並べ替え順:
 	Sort Recipients	宛先の並べ替え
-	Source code: github.com/ngjordan/wordcraft	ソース コード: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	ソース コード: github.com/ngjordan/docs
 	Source Manager	資料文献の管理
 	Source type:	資料文献の種類:
 	Sources in this document:	この文書の資料文献:

@@ -54,7 +54,7 @@ month	Aug	Ago
 	Click to reverse the order	Prema para inverter a orde
 	Click to sort by this column	Prema para ordenar por esta columna
 	Coming soon	Proximamente
-cadcraft	Computer-aided design and drafting	Deseño e debuxo asistido por computador
+cad	Computer-aided design and drafting	Deseño e debuxo asistido por computador
 	Couldn't change the login item: {e}	Non foi posíbel cambiar o elemento de inicio de sesión: {e}
 	Couldn't check for updates: {f}	Non foi posíbel comprobar se hai actualizacións: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	non foi posíbel mover {path} ao Lixo ({reason}). Elimíneo no Finder.
@@ -168,11 +168,11 @@ lightcraft	Photo library and raw development	Fototeca e revelado de raw
 	Pictures couldn't be loaded. Reopen this page to try again.	Non foi posíbel cargar as imaxes. Reabra esta páxina para tentalo de novo.
 	Platforms	Plataformas
 	Portable (.zip)	Portábel (.zip)
-deckcraft	Presentations and slide shows	Presentacións e pases de diapositivas
+decks	Presentations and slide shows	Presentacións e pases de diapositivas
 	Previous picture (←)	Imaxe anterior (←)
 	Questions, ideas and news from the Iridium team	Preguntas, ideas e novas do equipo de Iridium
 	Quit Iridium Launcher	Saír de Iridium Launcher
-pdfcraft	Reading, organizing and protecting PDFs	Lectura, organización e protección de PDF
+pdf	Reading, organizing and protecting PDFs	Lectura, organización e protección de PDF
 	Reconnecting…	Reconectando…
 soundcraft	Recording, editing and mixing audio	Gravación, edición e mestura de son
 	Reinstall	Reinstalar
@@ -206,7 +206,7 @@ month	Sep	Set
 @id	sort.released	Publicado
 @id	sort.status	Estado
 @id	sort.suite	Orde da suite
-gridcraft	Spreadsheets and data	Follas de cálculo e datos
+sheets	Spreadsheets and data	Follas de cálculo e datos
 	Start Iridium Launcher when I log in	Iniciar Iridium Launcher ao iniciar sesión
 	Stop waiting; the update can be started again later	Deter a espera; a actualización pódese reiniciar máis tarde
 	Suite order	Orde da suite
@@ -256,7 +256,7 @@ filmcraft	Video editing, color and sound	Edición de vídeo, cor e son
 	What's new	Novidades
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Cando está activado, ao abrir o lanzador dende a barra de menús a xanela móvese ao escritorio actual. Cando está desactivado, macOS cambia ao escritorio onde estaba a xanela.
 	Windows will remove it like any installed program. Your documents and settings stay.	Windows retiraralo como calquera programa instalado. Os seus documentos e axustes conservaranse.
-wordcraft	Writing and document design	Redacción e deseño de documentos
+docs	Writing and document design	Redacción e deseño de documentos
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	O xestor de paquetes do sistema retiraralo e pode solicitar o seu contrasinal. Os seus documentos e axustes conservaranse.
 	{a} and {b}	{a} e {b}
 	{count} updates are available	Hai {count} actualizacións dispoñíbeis

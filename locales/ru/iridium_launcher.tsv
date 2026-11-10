@@ -54,7 +54,7 @@ month	Aug	авг.
 	Click to reverse the order	Нажмите, чтобы изменить порядок
 	Click to sort by this column	Нажмите, чтобы сортировать по этому столбцу
 	Coming soon	Скоро
-cadcraft	Computer-aided design and drafting	Автоматизированное проектирование и черчение
+cad	Computer-aided design and drafting	Автоматизированное проектирование и черчение
 	Couldn't change the login item: {e}	Не удалось изменить пункт автозагрузки: {e}
 	Couldn't check for updates: {f}	Не удалось проверить обновления: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	не удалось переместить {path} в Корзину ({reason}). Удалите его через Finder.
@@ -168,11 +168,11 @@ lightcraft	Photo library and raw development	Фотобиблиотека и п�
 	Pictures couldn't be loaded. Reopen this page to try again.	Не удалось загрузить изображения. Откройте страницу снова, чтобы повторить попытку.
 	Platforms	Платформы
 	Portable (.zip)	Портативная версия (.zip)
-deckcraft	Presentations and slide shows	Презентации и слайд-шоу
+decks	Presentations and slide shows	Презентации и слайд-шоу
 	Previous picture (←)	Предыдущее изображение (←)
 	Questions, ideas and news from the Iridium team	Вопросы, идеи и новости от команды Iridium
 	Quit Iridium Launcher	Выйти из Iridium Launcher
-pdfcraft	Reading, organizing and protecting PDFs	Чтение, упорядочивание и защита PDF
+pdf	Reading, organizing and protecting PDFs	Чтение, упорядочивание и защита PDF
 	Reconnecting…	Переподключение…
 soundcraft	Recording, editing and mixing audio	Запись, редактирование и сведение звука
 	Reinstall	Переустановить
@@ -205,7 +205,7 @@ month	Sep	сент.
 @id	sort.released	Новый релиз
 @id	sort.status	Статус
 @id	sort.suite	По классу приложений
-gridcraft	Spreadsheets and data	Электронные таблицы и данные
+sheets	Spreadsheets and data	Электронные таблицы и данные
 	Start Iridium Launcher when I log in	Запускать Iridium Launcher при входе в систему
 	Status	Статус
 	Stop waiting; the update can be started again later	Не ждать; обновление можно будет запустить позже
@@ -255,7 +255,7 @@ filmcraft	Video editing, color and sound	Монтаж видео, цветоко
 	What's new	Что нового
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Когда включено, открытие лаунчера из строки меню переносит его окно на текущий рабочий стол. Когда выключено, macOS переключает вас на рабочий стол, где находилось окно.
 	Windows will remove it like any installed program. Your documents and settings stay.	Windows удалит его как любую установленную программу. Ваши документы и настройки сохранятся.
-wordcraft	Writing and document design	Тексты и оформление документов
+docs	Writing and document design	Тексты и оформление документов
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	Ваш системный менеджер пакетов удалит его и может запросить пароль. Ваши документы и настройки сохранятся.
 	{a} and {b}	{a} и {b}
 	{count} updates are available	Доступны обновления ({count})

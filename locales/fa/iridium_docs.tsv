@@ -758,7 +758,7 @@ numerals	Context	زمینه
 	Even Banded Rows	سطرهای نواری زوج
 	Even Page	صفحهٔ زوج
 	Every change is recorded as a tracked change.	هر تغییر به‌عنوان تغییر ردیابی‌شده ثبت می‌شود.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	هر فرمان برای اسکریپت‌ها و عامل‌های هوش مصنوعی در دسترس است: برای سرور MCP فرمان `wordcraft-cli mcp` را اجرا کنید، یا اپ را با `--control <port>` برای کانال کنترل JSON راه‌اندازی کنید.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	هر فرمان برای اسکریپت‌ها و عامل‌های هوش مصنوعی در دسترس است: برای سرور MCP فرمان `iridium-docs-cli mcp` را اجرا کنید، یا اپ را با `--control <port>` برای کانال کنترل JSON راه‌اندازی کنید.
 	Every field needs a name.	هر فیلد به یک نام نیاز دارد.
 	Everyone	همه
 	Exactly	دقیقاً
@@ -1981,7 +1981,7 @@ template	Letter	Letter
 	Sort by:	مرتب‌سازی بر پایهٔ:
 	Sort order:	ترتیب مرتب‌سازی:
 	Sort Recipients	مرتب‌سازی گیرندگان
-	Source code: github.com/ngjordan/wordcraft	کد منبع: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	کد منبع: github.com/ngjordan/docs
 	Source Manager	مدیر منبع
 	Source type:	نوع منبع:
 	Sources in this document:	منابع در این سند:

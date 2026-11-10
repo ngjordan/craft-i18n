@@ -646,7 +646,7 @@
 	Even Banded Rows	偶數帶狀列
 	Even Page	偶數頁
 	Every change is recorded as a tracked change.	每項變更都會記錄為追蹤修訂。
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	每個命令都可供指令碼和 AI 代理程式使用：執行 `wordcraft-cli mcp` 啟動 MCP 伺服器，或以 `--control <port>` 啟動應用程式以開啟 JSON 控制通道。
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	每個命令都可供指令碼和 AI 代理程式使用：執行 `iridium-docs-cli mcp` 啟動 MCP 伺服器，或以 `--control <port>` 啟動應用程式以開啟 JSON 控制通道。
 	Every field needs a name.	每個欄位都需要名稱。
 	Everyone	所有人
 	Exactly	固定
@@ -1763,7 +1763,7 @@
 	Sort by:	排序依據：
 	Sort order:	排序方式：
 	Sort Recipients	排序收件者
-	Source code: github.com/ngjordan/wordcraft	原始碼：github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	原始碼：github.com/ngjordan/docs
 	Source Manager	來源管理員
 	Source type:	來源類型：
 	Sources in this document:	此文件中的來源：

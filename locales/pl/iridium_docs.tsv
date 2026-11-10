@@ -816,7 +816,7 @@ numerals	Context	Kontekstowe
 	Even Banded Rows	Parzyste wiersze naprzemienne
 	Even Page	Strona parzysta
 	Every change is recorded as a tracked change.	Każda zmiana jest zapisywana jako śledzona zmiana.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Każde polecenie jest dostępne dla skryptów i agentów AI: uruchom `wordcraft-cli mcp`, aby włączyć serwer MCP, albo uruchom aplikację z opcją `--control <port>`, aby korzystać z kanału sterowania JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Każde polecenie jest dostępne dla skryptów i agentów AI: uruchom `iridium-docs-cli mcp`, aby włączyć serwer MCP, albo uruchom aplikację z opcją `--control <port>`, aby korzystać z kanału sterowania JSON.
 	Every field needs a name.	Każde pole musi mieć nazwę.
 	Everyone	Wszyscy
 	Exactly	Dokładnie
@@ -2113,7 +2113,7 @@ numerals	Hindi	Arabsko-indyjskie
 	Sort by:	Sortuj według:
 	Sort order:	Kolejność sortowania:
 	Sort Recipients	Sortuj adresatów
-	Source code: github.com/ngjordan/wordcraft	Kod źródłowy: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Kod źródłowy: github.com/ngjordan/docs
 	Source Manager	Menedżer źródeł
 	Source type:	Typ źródła:
 	Sources in this document:	Źródła w tym dokumencie:

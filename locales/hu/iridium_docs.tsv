@@ -770,7 +770,7 @@
 	Even Banded Rows	Páros sávos sorok
 	Even Page	Páros oldal
 	Every change is recorded as a tracked change.	Minden módosítás követett módosításként rögzül.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Minden parancs elérhető szkriptekből és MI-ágensekből is: MCP-szerverhez futtasd a `wordcraft-cli mcp` parancsot, a JSON-vezérlőcsatornához pedig indítsd az alkalmazást a `--control <port>` kapcsolóval.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Minden parancs elérhető szkriptekből és MI-ágensekből is: MCP-szerverhez futtasd a `iridium-docs-cli mcp` parancsot, a JSON-vezérlőcsatornához pedig indítsd az alkalmazást a `--control <port>` kapcsolóval.
 	Every field needs a name.	Minden mezőnek kell név.
 	Everyone	Mindenki
 	Exactly	Pontosan
@@ -2018,7 +2018,7 @@
 	Sort by:	Rendezés:
 	Sort order:	Rendezés:
 	Sort Recipients	Címzettek rendezése
-	Source code: github.com/ngjordan/wordcraft	Forráskód: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Forráskód: github.com/ngjordan/docs
 	Source Manager	Forráskezelő
 	Source type:	Forrás típusa:
 	Sources in this document:	A dokumentum forrásai:

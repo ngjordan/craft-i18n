@@ -659,7 +659,7 @@
 	Even Page	Página par
 	Even pages only	Somente páginas pares
 	Every change is recorded as a tracked change.	Cada alteração é registrada como alteração controlada.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Todo comando está disponível para scripts e agentes de IA: execute `wordcraft-cli mcp` para um servidor MCP, ou inicie o aplicativo com `--control <port>` para o canal de controle JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Todo comando está disponível para scripts e agentes de IA: execute `iridium-docs-cli mcp` para um servidor MCP, ou inicie o aplicativo com `--control <port>` para o canal de controle JSON.
 	Every field needs a name.	Todo campo precisa de um nome.
 	Everyone	Todos
 	Exactly	Exatamente
@@ -1752,7 +1752,7 @@
 	Sort by:	Classificar por:
 	Sort order:	Ordem:
 	Sort Recipients	Classificar destinatários
-	Source code: github.com/ngjordan/wordcraft	Código-fonte: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Código-fonte: github.com/ngjordan/docs
 	Source Manager	Gerenciador de fontes
 	Source type:	Tipo de fonte:
 	Sources in this document:	Fontes deste documento:

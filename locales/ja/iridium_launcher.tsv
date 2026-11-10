@@ -57,7 +57,7 @@ month	Aug	8月
 	Click to sort by this column	クリックしてこの列で並べ替え
 	Close (Esc)	閉じる (Esc)
 	Coming soon	近日公開
-cadcraft	Computer-aided design and drafting	コンピューター支援設計と製図
+cad	Computer-aided design and drafting	コンピューター支援設計と製図
 	Couldn't change the login item: {e}	ログイン項目を変更できませんでした: {e}
 	Couldn't check for updates: {f}	更新を確認できませんでした: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	{path} をゴミ箱に移動できませんでした（{reason}）。Finderで削除してください。
@@ -173,11 +173,11 @@ lightcraft	Photo library and raw development	フォトライブラリと RAW 現
 	Pictures couldn't be loaded. Reopen this page to try again.	画像を読み込めませんでした。このページを開き直すと再試行します。
 	Platforms	対応プラットフォーム
 	Portable (.zip)	ポータブル版 (.zip)
-deckcraft	Presentations and slide shows	プレゼンテーションとスライドショー
+decks	Presentations and slide shows	プレゼンテーションとスライドショー
 	Previous picture (←)	前の画像 (←)
 	Questions, ideas and news from the Iridium team	Iridium チームからの質問、アイデア、ニュース
 	Quit Iridium Launcher	Iridium Launcher を終了
-pdfcraft	Reading, organizing and protecting PDFs	PDF の閲覧、整理、保護
+pdf	Reading, organizing and protecting PDFs	PDF の閲覧、整理、保護
 	Reconnecting…	再接続中…
 soundcraft	Recording, editing and mixing audio	オーディオの録音、編集、ミックス
 	Reinstall	再インストール
@@ -213,7 +213,7 @@ month	Sep	9月
 @id	sort.released	最新リリース
 @id	sort.status	ステータス
 @id	sort.suite	スイート順
-gridcraft	Spreadsheets and data	表計算とデータ
+sheets	Spreadsheets and data	表計算とデータ
 	Start Iridium Launcher when I log in	ログイン時に Iridium Launcher を起動
 	Status	ステータス
 	Stop waiting; the update can be started again later	待機を中止します。更新は後で再開できます
@@ -266,7 +266,7 @@ filmcraft	Video editing, color and sound	動画編集、カラー、サウンド
 	What's new	新着情報
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	オンにすると、メニューバーからランチャーを開いたときにウィンドウが現在のデスクトップに表示されます。オフにすると、macOS はウィンドウがあったデスクトップに切り替えます。
 	Windows will remove it like any installed program. Your documents and settings stay.	Windows は他のインストール済みプログラムと同様にアンインストールします。ドキュメントと設定はそのまま残ります。
-wordcraft	Writing and document design	文書作成とデザイン
+docs	Writing and document design	文書作成とデザイン
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	システムのパッケージマネージャーがアンインストールします。パスワードの入力を求められる場合があります。ドキュメントと設定はそのまま残ります。
 	{a} and {b}	{a} と {b}
 	{count} updates are available	{count} 件の更新があります

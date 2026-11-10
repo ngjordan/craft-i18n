@@ -651,7 +651,7 @@
 	Even Banded Rows	Парні смугасті рядки
 	Even Page	Парна сторінка
 	Every change is recorded as a tracked change.	Кожна зміна записується як відстежувана.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Кожна команда доступна сценаріям і агентам ШІ: запустіть `wordcraft-cli mcp` для сервера MCP або відкрийте програму з `--control <port>` для каналу керування JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Кожна команда доступна сценаріям і агентам ШІ: запустіть `iridium-docs-cli mcp` для сервера MCP або відкрийте програму з `--control <port>` для каналу керування JSON.
 	Every field needs a name.	Кожне поле потребує назви.
 	Everyone	Усі
 	Exactly	Точно
@@ -1776,7 +1776,7 @@
 	Sort by:	Сортувати за:
 	Sort order:	Порядок сортування:
 	Sort Recipients	Сортування одержувачів
-	Source code: github.com/ngjordan/wordcraft	Вихідний код: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Вихідний код: github.com/ngjordan/docs
 	Source Manager	Диспетчер джерел
 	Source type:	Тип джерела:
 	Sources in this document:	Джерела в цьому документі:

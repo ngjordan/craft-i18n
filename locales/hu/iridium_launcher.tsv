@@ -55,7 +55,7 @@ month	Aug	aug.
 	Click to reverse the order	Kattints a sorrend megfordításához
 	Click to sort by this column	Kattints az oszlop szerinti rendezéshez
 	Coming soon	Hamarosan
-cadcraft	Computer-aided design and drafting	Számítógépes tervezés és műszaki rajz
+cad	Computer-aided design and drafting	Számítógépes tervezés és műszaki rajz
 	Couldn't change the login item: {e}	Az automatikus indítás beállítását nem sikerült módosítani: {e}
 	Couldn't check for updates: {f}	Nem sikerült frissítéseket keresni: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	a(z) {path} nem helyezhető a Kukába ({reason}). Távolítsa el a Finderben.
@@ -173,11 +173,11 @@ lightcraft	Photo library and raw development	Fotók rendszerezése és RAW-előh
 	Pictures couldn't be loaded. Reopen this page to try again.	A képeket nem sikerült betölteni. Nyisd meg újra az oldalt, és újra megpróbáljuk.
 	Platforms	Platformok
 	Portable (.zip)	Hordozható (.zip)
-deckcraft	Presentations and slide shows	Prezentációk és diavetítések
+decks	Presentations and slide shows	Prezentációk és diavetítések
 	Previous picture (←)	Előző kép (←)
 	Questions, ideas and news from the Iridium team	Kérdések, ötletek és hírek az Iridium csapatától
 	Quit Iridium Launcher	Kilépés az Iridium Launcherből
-pdfcraft	Reading, organizing and protecting PDFs	PDF-ek olvasása, rendezése és védelme
+pdf	Reading, organizing and protecting PDFs	PDF-ek olvasása, rendezése és védelme
 	Reconnecting…	Újracsatlakozás…
 soundcraft	Recording, editing and mixing audio	Hangrögzítés, hangszerkesztés és keverés
 	Reinstall	Újratelepítés
@@ -211,7 +211,7 @@ month	Sep	szept.
 @id	sort.released	Legújabb kiadás
 @id	sort.status	Állapot
 @id	sort.suite	Alapértelmezett sorrend
-gridcraft	Spreadsheets and data	Táblázatok és adatok
+sheets	Spreadsheets and data	Táblázatok és adatok
 	Start Iridium Launcher when I log in	Iridium Launcher indítása bejelentkezéskor
 	Stop waiting; the update can be started again later	Megszakítja a várakozást. A frissítést később újra elindíthatod.
 	Suite order	Alapértelmezett sorrend
@@ -261,7 +261,7 @@ filmcraft	Video editing, color and sound	Videószerkesztés, színkorrekció és
 	What's new	Újdonságok
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Ha be van kapcsolva, a menüsorból megnyitott Iridium Launcher ablaka az aktuális asztalon jelenik meg. Ha ki van kapcsolva, a macOS arra az asztalra vált, ahol az ablak található.
 	Windows will remove it like any installed program. Your documents and settings stay.	A Windows úgy távolítja el az alkalmazást, mint bármely más telepített programot. A dokumentumaid és beállításaid megmaradnak.
-wordcraft	Writing and document design	Írás és dokumentumtervezés
+docs	Writing and document design	Írás és dokumentumtervezés
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	Az alkalmazást a rendszer csomagkezelője távolítja el. Ehhez szükség lehet a jelszavadra. A dokumentumaid és beállításaid megmaradnak.
 	{a} and {b}	{a} és {b}
 	{count} updates are available	{count} frissítés elérhető

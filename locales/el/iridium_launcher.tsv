@@ -265,19 +265,19 @@
 @plural	{n} h ago|{n} h ago	πριν από {n} ώρα|πριν από {n} ώρες
 @plural	{n} min ago|{n} min ago	πριν από {n} λεπτό|πριν από {n} λεπτά
 @plural	Iridium Launcher · {n} update available|Iridium Launcher · {n} updates available	Iridium Launcher · {n} διαθέσιμη ενημέρωση|Iridium Launcher · {n} διαθέσιμες ενημερώσεις
-cadcraft	Computer-aided design and drafting	Σχεδίαση και σχέδιο με τη βοήθεια υπολογιστή
-deckcraft	Presentations and slide shows	Παρουσιάσεις και προβολές διαφανειών
+cad	Computer-aided design and drafting	Σχεδίαση και σχέδιο με τη βοήθεια υπολογιστή
+decks	Presentations and slide shows	Παρουσιάσεις και προβολές διαφανειών
 designcraft	Page layout and publishing	Σελιδοποίηση και εκδόσεις
 effectcraft	Motion graphics and visual effects	Γραφικά κίνησης και οπτικά εφέ
 figcraft	Interface design and prototyping	Σχεδίαση διεπαφών και πρωτότυπα
 filmcraft	Video editing, color and sound	Μοντάζ βίντεο, χρώμα και ήχος
-gridcraft	Spreadsheets and data	Υπολογιστικά φύλλα και δεδομένα
+sheets	Spreadsheets and data	Υπολογιστικά φύλλα και δεδομένα
 lightcraft	Photo library and raw development	Βιβλιοθήκη φωτογραφιών και εμφάνιση raw
-pdfcraft	Reading, organizing and protecting PDFs	Ανάγνωση, οργάνωση και προστασία PDF
+pdf	Reading, organizing and protecting PDFs	Ανάγνωση, οργάνωση και προστασία PDF
 photocraft	Image editing	Επεξεργασία εικόνας
 soundcraft	Recording, editing and mixing audio	Ηχογράφηση, επεξεργασία και μίξη ήχου
 vectorcraft	Vector illustration	Διανυσματική εικονογράφηση
-wordcraft	Writing and document design	Συγγραφή και σχεδίαση εγγράφων
+docs	Writing and document design	Συγγραφή και σχεδίαση εγγράφων
 column	App	Εφαρμογή
 column	Installed	Εγκατεστημένη
 column	Latest	Τελευταία

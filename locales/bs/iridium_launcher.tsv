@@ -54,7 +54,7 @@ month	Aug	aug
 	Click to reverse the order	Kliknite da obrnete redoslijed
 	Click to sort by this column	Kliknite da sortirate po ovoj koloni
 	Coming soon	Uskoro
-cadcraft	Computer-aided design and drafting	Računarski potpomognuto projektovanje i crtanje
+cad	Computer-aided design and drafting	Računarski potpomognuto projektovanje i crtanje
 	Couldn't change the login item: {e}	Nije moguće promijeniti stavku prijave: {e}
 	Couldn't check for updates: {f}	Nije moguće provjeriti ažuriranja: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	nije moguće premjestiti {path} u Smeće ({reason}). Uklonite ga u Finderu.
@@ -168,11 +168,11 @@ lightcraft	Photo library and raw development	Biblioteka fotografija i razvijanje
 	Pictures couldn't be loaded. Reopen this page to try again.	Slike nije moguće učitati. Ponovo otvorite ovu stranicu da pokušate opet.
 	Platforms	Platforme
 	Portable (.zip)	Prenosivo (.zip)
-deckcraft	Presentations and slide shows	Prezentacije i projekcije slajdova
+decks	Presentations and slide shows	Prezentacije i projekcije slajdova
 	Previous picture (←)	Prethodna slika (←)
 	Questions, ideas and news from the Iridium team	Pitanja, ideje i novosti od Iridium tima
 	Quit Iridium Launcher	Zatvori Iridium Launcher
-pdfcraft	Reading, organizing and protecting PDFs	Čitanje, organizovanje i zaštita PDF-ova
+pdf	Reading, organizing and protecting PDFs	Čitanje, organizovanje i zaštita PDF-ova
 	Reconnecting…	Ponovno povezivanje…
 soundcraft	Recording, editing and mixing audio	Snimanje, uređivanje i miješanje zvuka
 	Reinstall	Ponovo instaliraj
@@ -206,7 +206,7 @@ month	Sep	sep
 @id	sort.released	Najnovije izdanje
 @id	sort.status	Status
 @id	sort.suite	Redoslijed u paketu
-gridcraft	Spreadsheets and data	Tabele i podaci
+sheets	Spreadsheets and data	Tabele i podaci
 	Start Iridium Launcher when I log in	Pokreni Iridium Launcher pri prijavi
 	Stop waiting; the update can be started again later	Prestani čekati; ažuriranje se može ponovo pokrenuti kasnije
 	Suite order	Redoslijed u paketu
@@ -256,7 +256,7 @@ filmcraft	Video editing, color and sound	Uređivanje videa, boja i zvuka
 	What's new	Šta je novo
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Kad je uključeno, otvaranje pokretača iz trake menija dovodi njegov prozor na radnu površinu na kojoj se nalazite. Kad je isključeno, macOS vas prebacuje na radnu površinu na kojoj je bio prozor.
 	Windows will remove it like any installed program. Your documents and settings stay.	Windows će je ukloniti kao svaki instalirani program. Vaši dokumenti i postavke ostaju.
-wordcraft	Writing and document design	Pisanje i dizajn dokumenata
+docs	Writing and document design	Pisanje i dizajn dokumenata
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	Upravitelj paketa vašeg sistema će je ukloniti i možda zatražiti lozinku. Vaši dokumenti i postavke ostaju.
 	{a} and {b}	{a} i {b}
 	{count} updates are available	Dostupno je ažuriranja: {count}

@@ -847,7 +847,7 @@ numerals	Context	حسب السياق
 	Even Banded Rows	صفوف زوجية مخططة
 	Even Page	الصفحة الزوجية
 	Every change is recorded as a tracked change.	يُسجَّل كل تغيير كتغيير متعقَّب.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	كل الأوامر متاحة للبرامج النصية ووكلاء الذكاء الاصطناعي: شغّل `wordcraft-cli mcp` للحصول على خادم MCP، أو ابدأ التطبيق بالخيار `--control <port>` لقناة التحكم JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	كل الأوامر متاحة للبرامج النصية ووكلاء الذكاء الاصطناعي: شغّل `iridium-docs-cli mcp` للحصول على خادم MCP، أو ابدأ التطبيق بالخيار `--control <port>` لقناة التحكم JSON.
 	Every field needs a name.	كل حقل يحتاج إلى اسم.
 	Everyone	الجميع
 	Exactly	بالضبط
@@ -2231,7 +2231,7 @@ spacing	Open	متباعد
 	Sort by:	الفرز حسب:
 	Sort order:	ترتيب الفرز:
 	Sort Recipients	فرز المستلمين
-	Source code: github.com/ngjordan/wordcraft	الشيفرة المصدرية: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	الشيفرة المصدرية: github.com/ngjordan/docs
 	Source Manager	مدير المصادر
 	Source type:	نوع المصدر:
 	Sources in this document:	المصادر في هذا المستند:

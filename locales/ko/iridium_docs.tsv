@@ -754,7 +754,7 @@
 	Even Banded Rows	짝수 줄무늬 행
 	Even Page	짝수 페이지
 	Every change is recorded as a tracked change.	모든 편집 내용이 변경 내용 추적으로 기록됩니다.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	모든 명령은 스크립트와 AI 에이전트에서 사용할 수 있습니다. MCP 서버를 실행하려면 `wordcraft-cli mcp`를 실행하거나, JSON 제어 채널을 사용하려면 앱을 `--control <port>`로 시작하세요.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	모든 명령은 스크립트와 AI 에이전트에서 사용할 수 있습니다. MCP 서버를 실행하려면 `iridium-docs-cli mcp`를 실행하거나, JSON 제어 채널을 사용하려면 앱을 `--control <port>`로 시작하세요.
 	Every field needs a name.	모든 필드에 이름이 있어야 합니다.
 	Everyone	모든 사용자
 	Exactly	정확히
@@ -1952,7 +1952,7 @@
 	Sometimes	가끔
 	Sort order:	정렬 순서:
 	Sort Recipients	받는 사람 정렬
-	Source code: github.com/ngjordan/wordcraft	소스 코드: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	소스 코드: github.com/ngjordan/docs
 	Source Manager	원본 관리자
 	Source type:	원본 유형:
 	Sources in this document:	이 문서의 원본:

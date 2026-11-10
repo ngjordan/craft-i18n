@@ -819,7 +819,7 @@ spacing	Open	Öppen
 	Even Banded Rows	Jämna randade rader
 	Even Page	Jämn sida
 	Every change is recorded as a tracked change.	Varje ändring registreras som en spårad ändring.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Alla kommandon är tillgängliga för skript och AI-agenter: kör `wordcraft-cli mcp` för en MCP-server, eller starta appen med `--control <port>` för JSON-kontrollkanalen.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Alla kommandon är tillgängliga för skript och AI-agenter: kör `iridium-docs-cli mcp` för en MCP-server, eller starta appen med `--control <port>` för JSON-kontrollkanalen.
 	Every field needs a name.	Varje fält behöver ett namn.
 	Everyone	Alla
 	Exactly	Exakt
@@ -2102,7 +2102,7 @@ template	Letter	Brev
 	Sort by:	Sortera efter:
 	Sort order:	Sorteringsordning:
 	Sort Recipients	Sortera mottagare
-	Source code: github.com/ngjordan/wordcraft	Källkod: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Källkod: github.com/ngjordan/docs
 	Source Manager	Källhanterare
 	Source type:	Källtyp:
 	Sources in this document:	Källor i det här dokumentet:

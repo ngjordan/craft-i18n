@@ -773,7 +773,7 @@ numerals	Context	Etter kontekst
 	Even Banded Rows	Stripete partallsrader
 	Even Page	Partallsside
 	Every change is recorded as a tracked change.	Hver endring registreres som en sporet endring.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Alle kommandoer er tilgjengelige for skript og KI-agenter: kjør `wordcraft-cli mcp` for en MCP-server, eller start appen med `--control <port>` for JSON-kontrollkanalen.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Alle kommandoer er tilgjengelige for skript og KI-agenter: kjør `iridium-docs-cli mcp` for en MCP-server, eller start appen med `--control <port>` for JSON-kontrollkanalen.
 	Every field needs a name.	Hvert felt må ha et navn.
 	Everyone	Alle
 	Exactly	Nøyaktig
@@ -2031,7 +2031,7 @@ spacing	Open	Åpen
 	Sort by:	Sorter etter:
 	Sort order:	Sorteringsrekkefølge:
 	Sort Recipients	Sorter mottakere
-	Source code: github.com/ngjordan/wordcraft	Kildekode: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Kildekode: github.com/ngjordan/docs
 	Source Manager	Kildebehandling
 	Source type:	Kildetype:
 	Sources in this document:	Kilder i dette dokumentet:

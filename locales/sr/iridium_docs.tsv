@@ -622,7 +622,7 @@
 	Even Banded Rows	Парни тракасти редови
 	Even Page	Парна страна
 	Every change is recorded as a tracked change.	Свака измена се бележи као праћена измена.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Свака наредба је доступна скриптама и AI агентима: покрените `wordcraft-cli mcp` за MCP сервер, или покрените апликацију са `--control <port>` за JSON контролни канал.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Свака наредба је доступна скриптама и AI агентима: покрените `iridium-docs-cli mcp` за MCP сервер, или покрените апликацију са `--control <port>` за JSON контролни канал.
 	Every field needs a name.	Свако поље мора имати назив.
 	Everyone	Сви
 	Exactly	Тачно
@@ -1692,7 +1692,7 @@
 	Sort by:	Сортирај по:
 	Sort order:	Редослед сортирања:
 	Sort Recipients	Сортирај примаоце
-	Source code: github.com/ngjordan/wordcraft	Изворни код: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Изворни код: github.com/ngjordan/docs
 	Source Manager	Управљач изворима
 	Source type:	Врста извора:
 	Sources in this document:	Извори у овом документу:

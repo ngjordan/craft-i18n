@@ -786,7 +786,7 @@
 	Even Page	Even pagina
 	Even pages only	Alleen even pagina's
 	Every change is recorded as a tracked change.	Elke wijziging wordt vastgelegd als een bijgehouden wijziging.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Elke opdracht is beschikbaar voor scripts en AI-agents: voer `wordcraft-cli mcp` uit voor een MCP-server, of start de app met `--control <port>` voor het JSON-besturingskanaal.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Elke opdracht is beschikbaar voor scripts en AI-agents: voer `iridium-docs-cli mcp` uit voor een MCP-server, of start de app met `--control <port>` voor het JSON-besturingskanaal.
 	Every field needs a name.	Elk veld heeft een naam nodig.
 	Everyone	Iedereen
 	Exactly	Precies
@@ -2050,7 +2050,7 @@
 	Sort by:	Sorteren op:
 	Sort order:	Sorteervolgorde:
 	Sort Recipients	Geadresseerden sorteren
-	Source code: github.com/ngjordan/wordcraft	Broncode: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Broncode: github.com/ngjordan/docs
 	Source Manager	Bronnenbeheer
 	Source type:	Brontype:
 	Sources in this document:	Bronnen in dit document:

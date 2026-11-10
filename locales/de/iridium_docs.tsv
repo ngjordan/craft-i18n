@@ -640,7 +640,7 @@
 	Even Banded Rows	Gerade gestreifte Zeilen
 	Even Page	Gerade Seite
 	Every change is recorded as a tracked change.	Jede Änderung wird als nachverfolgte Änderung erfasst.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Jeder Befehl steht Skripten und KI-Agenten zur Verfügung: Führen Sie `wordcraft-cli mcp` für einen MCP-Server aus, oder starten Sie die App mit `--control <Port>` für den JSON-Steuerkanal.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Jeder Befehl steht Skripten und KI-Agenten zur Verfügung: Führen Sie `iridium-docs-cli mcp` für einen MCP-Server aus, oder starten Sie die App mit `--control <Port>` für den JSON-Steuerkanal.
 	Every field needs a name.	Jedes Feld braucht einen Namen.
 	Everyone	Jeder
 	Exactly	Genau
@@ -1750,7 +1750,7 @@
 	Sort by:	Sortieren nach:
 	Sort order:	Sortierreihenfolge:
 	Sort Recipients	Empfänger sortieren
-	Source code: github.com/ngjordan/wordcraft	Quellcode: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Quellcode: github.com/ngjordan/docs
 	Source Manager	Quellen-Manager
 	Source type:	Quellentyp:
 	Sources in this document:	Quellen in diesem Dokument:

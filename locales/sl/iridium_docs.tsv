@@ -835,7 +835,7 @@
 	Even Banded Rows	Sode pasaste vrstice
 	Even Page	Soda stran
 	Every change is recorded as a tracked change.	Vsaka sprememba se zabeleži kot sledena sprememba.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Vsi ukazi so na voljo skriptam in agentom umetne inteligence: za strežnik MCP zaženite `wordcraft-cli mcp`, za nadzorni kanal JSON pa zaženite aplikacijo z `--control <port>`.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Vsi ukazi so na voljo skriptam in agentom umetne inteligence: za strežnik MCP zaženite `iridium-docs-cli mcp`, za nadzorni kanal JSON pa zaženite aplikacijo z `--control <port>`.
 	Every field needs a name.	Vsako polje potrebuje ime.
 	Everyone	Vsi
 	Exactly	Natančno
@@ -2219,7 +2219,7 @@
 	Sort by:	Razvrsti po:
 	Sort order:	Vrstni red razvrščanja:
 	Sort Recipients	Razvrsti prejemnike
-	Source code: github.com/ngjordan/wordcraft	Izvorna koda: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Izvorna koda: github.com/ngjordan/docs
 	Source Manager	Upravitelj virov
 	Source type:	Vrsta vira:
 	Sources in this document:	Viri v tem dokumentu:

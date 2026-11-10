@@ -55,7 +55,7 @@ month	Aug	8.
 	Click to reverse the order	Kliknutím obrátíte pořadí
 	Click to sort by this column	Kliknutím seřadíte podle tohoto sloupce
 	Coming soon	Již brzy
-cadcraft	Computer-aided design and drafting	Počítačem podporované navrhování a kreslení
+cad	Computer-aided design and drafting	Počítačem podporované navrhování a kreslení
 	Couldn't change the login item: {e}	Položku po přihlášení nelze změnit: {e}
 	Couldn't check for updates: {f}	Aktualizace nelze zkontrolovat: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	{path} nelze přesunout do koše ({reason}). Odstraňte položku ve Finderu.
@@ -173,11 +173,11 @@ lightcraft	Photo library and raw development	Katalog fotografií a vyvolávání
 	Pictures couldn't be loaded. Reopen this page to try again.	Obrázky se nepodařilo načíst. Po opětovném otevření stránky se načtení zkusí znovu.
 	Platforms	Platformy
 	Portable (.zip)	Přenosná verze (.zip)
-deckcraft	Presentations and slide shows	Prezentace a promítání snímků
+decks	Presentations and slide shows	Prezentace a promítání snímků
 	Previous picture (←)	Předchozí obrázek (←)
 	Questions, ideas and news from the Iridium team	Dotazy, nápady a novinky od týmu Iridium
 	Quit Iridium Launcher	Ukončit Iridium Launcher
-pdfcraft	Reading, organizing and protecting PDFs	Čtení, organizace a ochrana souborů PDF
+pdf	Reading, organizing and protecting PDFs	Čtení, organizace a ochrana souborů PDF
 	Reconnecting…	Obnovování připojení…
 soundcraft	Recording, editing and mixing audio	Nahrávání, úpravy a mixování zvuku
 	Reinstall	Znovu nainstalovat
@@ -211,7 +211,7 @@ month	Sep	9.
 @id	sort.released	Nejnovější vydání
 @id	sort.status	Stav
 @id	sort.suite	Pořadí v sadě
-gridcraft	Spreadsheets and data	Tabulky a data
+sheets	Spreadsheets and data	Tabulky a data
 	Start Iridium Launcher when I log in	Spouštět Iridium Launcher po přihlášení
 	Stop waiting; the update can be started again later	Přestat čekat; aktualizaci lze spustit znovu později
 	Suite order	Pořadí v sadě
@@ -262,7 +262,7 @@ filmcraft	Video editing, color and sound	Střih videa, barvy a zvuk
 	What's new	Co je nového
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Je-li tato volba zapnutá, otevření launcheru z řádku nabídek zobrazí jeho okno na aktuální ploše. Je-li vypnutá, macOS přepne na plochu, na které se okno nacházelo.
 	Windows will remove it like any installed program. Your documents and settings stay.	Windows ji odebere jako každý nainstalovaný program. Vaše dokumenty a nastavení zůstanou zachovány.
-wordcraft	Writing and document design	Psaní a návrh dokumentů
+docs	Writing and document design	Psaní a návrh dokumentů
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	Odebere ji správce balíčků systému a může požádat o heslo. Vaše dokumenty a nastavení zůstanou zachovány.
 	{a} and {b}	{a} a {b}
 	{count} updates are available	Počet dostupných aktualizací: {count}

@@ -626,7 +626,7 @@
 	Even Banded Rows	Paaris vahelduvad read
 	Even Page	Paarisleht
 	Every change is recorded as a tracked change.	Iga muudatus salvestatakse jälitatud muudatusena.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Kõik käsud on saadaval skriptidele ja tehisintellekti agentidele. MCP-serveri jaoks käivita `wordcraft-cli mcp`. JSON-juhtkanali jaoks käivita rakendus valikuga `--control <port>`.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Kõik käsud on saadaval skriptidele ja tehisintellekti agentidele. MCP-serveri jaoks käivita `iridium-docs-cli mcp`. JSON-juhtkanali jaoks käivita rakendus valikuga `--control <port>`.
 	Every field needs a name.	Igal väljal peab olema nimi.
 	Everyone	Kõik
 	Exactly	Täpselt
@@ -1705,7 +1705,7 @@
 	Sort by:	Sordi:
 	Sort order:	Sortimisjärjestus:
 	Sort Recipients	Sordi adressaate
-	Source code: github.com/ngjordan/wordcraft	Lähtekood: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Lähtekood: github.com/ngjordan/docs
 	Source Manager	Allikahaldur
 	Source type:	Allika tüüp:
 	Sources in this document:	Selle dokumendi allikad:

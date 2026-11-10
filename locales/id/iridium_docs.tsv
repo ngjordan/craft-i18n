@@ -186,7 +186,7 @@
 	Enter page number:	Masukkan nomor halaman:
 	Envelopes	Amplop
 	Even Page	Halaman Genap
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Setiap perintah tersedia untuk skrip dan agen AI: jalankan `wordcraft-cli mcp` untuk server MCP, atau jalankan aplikasi dengan `--control <port>` untuk kanal kendali JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Setiap perintah tersedia untuk skrip dan agen AI: jalankan `iridium-docs-cli mcp` untuk server MCP, atau jalankan aplikasi dengan `--control <port>` untuk kanal kendali JSON.
 	Export Page as PNG	Ekspor Halaman sebagai PNG
 	Export a copy to share (PDF, Word document)	Ekspor salinan untuk dibagikan (PDF, dokumen Word)
 	Extend Selection	Perluas Seleksi
@@ -520,7 +520,7 @@
 	Single Spacing	Spasi Tunggal
 	Small caps	Huruf kapital kecil
 	SmartArt	SmartArt
-	Source code: github.com/ngjordan/wordcraft	Kode sumber: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Kode sumber: github.com/ngjordan/docs
 	Space before/after:	Spasi sebelum/sesudah:
 	Spacing (pt):	Spasi (pt):
 	Kerning for fonts:	Kerning untuk font:

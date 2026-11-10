@@ -55,7 +55,7 @@ month	Aug	ago.
 	Click to reverse the order	Clique para inverter a ordem
 	Click to sort by this column	Clique para ordenar por esta coluna
 	Coming soon	Em breve
-cadcraft	Computer-aided design and drafting	Desenho técnico e projeto assistido por computador (CAD)
+cad	Computer-aided design and drafting	Desenho técnico e projeto assistido por computador (CAD)
 	Couldn't change the login item: {e}	Não foi possível alterar o item de inicialização no login: {e}
 	Couldn't check for updates: {f}	Não foi possível verificar atualizações: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	não foi possível mover {path} para o Lixo ({reason}). Remova-o pelo Finder.
@@ -171,11 +171,11 @@ lightcraft	Photo library and raw development	Biblioteca de fotos e revelação R
 	Pictures couldn't be loaded. Reopen this page to try again.	Não foi possível carregar as imagens. Abra a página novamente para tentar de novo.
 	Platforms	Plataformas
 	Portable (.zip)	Portátil (.zip)
-deckcraft	Presentations and slide shows	Apresentações e slides
+decks	Presentations and slide shows	Apresentações e slides
 	Previous picture (←)	Imagem anterior (←)
 	Questions, ideas and news from the Iridium team	Dúvidas, ideias e novidades da equipe Iridium
 	Quit Iridium Launcher	Sair do Iridium Launcher
-pdfcraft	Reading, organizing and protecting PDFs	Leitura, organização e proteção de PDFs
+pdf	Reading, organizing and protecting PDFs	Leitura, organização e proteção de PDFs
 	Reconnecting…	Reconectando…
 soundcraft	Recording, editing and mixing audio	Gravação, edição e mixagem de áudio
 	Reinstall	Reinstalar
@@ -210,7 +210,7 @@ month	Sep	set.
 @id	sort.released	Lançamento mais recente
 @id	sort.status	Status
 @id	sort.suite	Ordem da suíte
-gridcraft	Spreadsheets and data	Planilhas e dados
+sheets	Spreadsheets and data	Planilhas e dados
 	Start Iridium Launcher when I log in	Iniciar o Iridium Launcher ao fazer login
 	Stop waiting; the update can be started again later	Parar de aguardar; a atualização pode ser iniciada novamente depois
 	Suite order	Ordem da suíte
@@ -259,7 +259,7 @@ filmcraft	Video editing, color and sound	Edição de vídeo, cor e som
 	What's new	Novidades
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	Quando ativado, abrir o launcher pela barra de menus traz a janela para a área de trabalho atual. Quando desativado, o macOS alterna para a área de trabalho onde a janela estava.
 	Windows will remove it like any installed program. Your documents and settings stay.	O Windows o removerá como qualquer programa instalado. Seus documentos e configurações serão mantidos.
-wordcraft	Writing and document design	Escrita e design de documentos
+docs	Writing and document design	Escrita e design de documentos
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	O gerenciador de pacotes do sistema o removerá e poderá pedir sua senha. Seus documentos e configurações serão mantidos.
 	{a} and {b}	{a} e {b}
 	{count} updates are available	{count} atualizações estão disponíveis

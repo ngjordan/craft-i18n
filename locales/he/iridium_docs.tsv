@@ -773,7 +773,7 @@ numerals	Context	לפי ההקשר
 	Even Banded Rows	שורות מפוספסות זוגיות
 	Even Page	עמוד זוגי
 	Every change is recorded as a tracked change.	כל שינוי מתועד כשינוי במעקב.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	כל פקודה זמינה לסקריפטים ולסוכני AI: הריצו `wordcraft-cli mcp` לשרת MCP, או הפעילו את היישום עם `--control <port>` לערוץ הבקרה JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	כל פקודה זמינה לסקריפטים ולסוכני AI: הריצו `iridium-docs-cli mcp` לשרת MCP, או הפעילו את היישום עם `--control <port>` לערוץ הבקרה JSON.
 	Every field needs a name.	לכל שדה נדרש שם.
 	Everyone	כולם
 	Exactly	בדיוק
@@ -2025,7 +2025,7 @@ template	Letter	מכתב
 	Sort by:	מיון לפי:
 	Sort order:	סדר מיון:
 	Sort Recipients	מיון נמענים
-	Source code: github.com/ngjordan/wordcraft	קוד מקור: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	קוד מקור: github.com/ngjordan/docs
 	Source Manager	מנהל המקורות
 	Source type:	סוג המקור:
 	Sources in this document:	מקורות במסמך זה:

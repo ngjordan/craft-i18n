@@ -752,7 +752,7 @@
 	Even Banded Rows	Çift Şeritli Satırlar
 	Even Page	Çift Sayfa
 	Every change is recorded as a tracked change.	Her değişiklik izlenen değişiklik olarak kaydedilir.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Her komut betiklere ve AI ajanlarına açıktır: MCP sunucusu için `wordcraft-cli mcp` çalıştırın veya JSON denetim kanalı için uygulamayı `--control <port>` ile başlatın.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Her komut betiklere ve AI ajanlarına açıktır: MCP sunucusu için `iridium-docs-cli mcp` çalıştırın veya JSON denetim kanalı için uygulamayı `--control <port>` ile başlatın.
 	Every field needs a name.	Her alanın bir adı olmalıdır.
 	Everyone	Herkes
 	Exactly	Tam
@@ -1993,7 +1993,7 @@
 	Sort by:	Sıralama ölçütü:
 	Sort order:	Sıralama:
 	Sort Recipients	Alıcıları sırala
-	Source code: github.com/ngjordan/wordcraft	Kaynak kod: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Kaynak kod: github.com/ngjordan/docs
 	Source Manager	Kaynak Yöneticisi
 	Source type:	Kaynak türü:
 	Sources in this document:	Bu belgedeki kaynaklar:

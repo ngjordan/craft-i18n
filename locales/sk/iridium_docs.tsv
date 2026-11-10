@@ -897,7 +897,7 @@ numerals	Context	Podľa okolitého textu
 	Even Page	Párna strana
 	Even pages only	Iba párne strany
 	Every change is recorded as a tracked change.	Každá zmena sa zaznamená ako sledovaná zmena.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Každý príkaz je dostupný skriptom a agentom AI: spustite `wordcraft-cli mcp` pre server MCP alebo aplikáciu spustite s `--control <port>` pre riadiaci kanál JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Každý príkaz je dostupný skriptom a agentom AI: spustite `iridium-docs-cli mcp` pre server MCP alebo aplikáciu spustite s `--control <port>` pre riadiaci kanál JSON.
 	Every field needs a name.	Každé pole musí mať názov.
 	Everyone	Všetci
 	Exactly	Presne
@@ -2374,7 +2374,7 @@ template	Letter	List
 	Sort by:	Zoradiť podľa:
 	Sort order:	Poradie zoradenia:
 	Sort Recipients	Zoradiť príjemcov
-	Source code: github.com/ngjordan/wordcraft	Zdrojový kód: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Zdrojový kód: github.com/ngjordan/docs
 	Source Manager	Správca zdrojov
 	Source type:	Typ zdroja:
 	Sources in this document:	Zdroje v tomto dokumente:

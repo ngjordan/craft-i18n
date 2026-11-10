@@ -922,7 +922,7 @@ numerals	Context	კონტექსტური
 	Even Page	ლუწი გვერდი
 	Even pages only	მხოლოდ ლუწი გვერდები
 	Every change is recorded as a tracked change.	ყოველი ცვლილება ჩაწერილ ცვლილებად აღირიცხება.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	ყველა ბრძანება ხელმისაწვდომია სკრიპტებისა და AI აგენტებისთვის: MCP სერვერისთვის გაუშვით `wordcraft-cli mcp`, ან JSON მართვის არხისთვის პროგრამა გახსენით `--control <port>`-ით.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	ყველა ბრძანება ხელმისაწვდომია სკრიპტებისა და AI აგენტებისთვის: MCP სერვერისთვის გაუშვით `iridium-docs-cli mcp`, ან JSON მართვის არხისთვის პროგრამა გახსენით `--control <port>`-ით.
 	Every field needs a name.	ყველა ველს სახელი სჭირდება.
 	Everyone	ყველა
 	Exactly	ზუსტად
@@ -2437,7 +2437,7 @@ template	Letter	წერილი
 	Sort by:	სორტირება:
 	Sort order:	სორტირების წესი:
 	Sort Recipients	მიმღებთა სორტირება
-	Source code: github.com/ngjordan/wordcraft	საწყისი კოდი: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	საწყისი კოდი: github.com/ngjordan/docs
 	Source Manager	წყაროების მართვა
 	Source type:	წყაროს ტიპი:
 	Sources in this document:	ამ დოკუმენტის წყაროები:

@@ -799,7 +799,7 @@
 	Even Page	Lige side
 	Even pages only	Kun lige sider
 	Every change is recorded as a tracked change.	Alle ændringer registreres som en sporet ændring.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Alle kommandoer er tilgængelige for scripts og AI-agenter: kør `wordcraft-cli mcp` for en MCP-server, eller start appen med `--control <port>` for JSON-kanalen.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Alle kommandoer er tilgængelige for scripts og AI-agenter: kør `iridium-docs-cli mcp` for en MCP-server, eller start appen med `--control <port>` for JSON-kanalen.
 	Every field needs a name.	Alle felter skal have et navn.
 	Everyone	Alle
 	Exactly	Nøjagtigt
@@ -2056,7 +2056,7 @@
 	Sort by:	Sortér efter:
 	Sort order:	Sorteringsrækkefølge:
 	Sort Recipients	Sortér modtagere
-	Source code: github.com/ngjordan/wordcraft	Kildekode: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Kildekode: github.com/ngjordan/docs
 	Source Manager	Kildehåndtering
 	Source type:	Kildetype:
 	Sources in this document:	Kilder i dette dokument:

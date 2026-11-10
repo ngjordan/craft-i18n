@@ -778,7 +778,7 @@
 	Even Banded Rows	Sudé pruhované řádky
 	Even Page	Sudá stránka
 	Every change is recorded as a tracked change.	Každá úprava se zaznamená jako sledovaná změna.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Každý příkaz je dostupný skriptům a AI agentům: spusťte `wordcraft-cli mcp` pro server MCP, nebo spusťte aplikaci s parametrem `--control <port>` pro řídicí kanál JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Každý příkaz je dostupný skriptům a AI agentům: spusťte `iridium-docs-cli mcp` pro server MCP, nebo spusťte aplikaci s parametrem `--control <port>` pro řídicí kanál JSON.
 	Every field needs a name.	Každé pole musí mít název.
 	Everyone	Všichni
 	Exactly	Přesně
@@ -2059,7 +2059,7 @@
 	Sort by:	Seřadit podle:
 	Sort order:	Pořadí řazení:
 	Sort Recipients	Seřadit příjemce
-	Source code: github.com/ngjordan/wordcraft	Zdrojový kód: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Zdrojový kód: github.com/ngjordan/docs
 	Source Manager	Správce pramenů
 	Source type:	Typ pramene:
 	Sources in this document:	Prameny v tomto dokumentu:

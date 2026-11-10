@@ -54,7 +54,7 @@ month	Aug	আগস্ট
 	Click to reverse the order	ক্রম উল্টাতে ক্লিক করুন
 	Click to sort by this column	এই কলাম অনুসারে সাজাতে ক্লিক করুন
 	Coming soon	শীঘ্রই আসছে
-cadcraft	Computer-aided design and drafting	কম্পিউটার-সহায়তাকৃত নকশা ও ড্রাফটিং
+cad	Computer-aided design and drafting	কম্পিউটার-সহায়তাকৃত নকশা ও ড্রাফটিং
 	Couldn't change the login item: {e}	লগইন আইটেম পরিবর্তন করা যায়নি: {e}
 	Couldn't check for updates: {f}	আপডেট চেক করা যায়নি: {f}
 @msg	couldn't move {path} to Trash ({reason}). Remove it in Finder instead.	{path} ট্র্যাশে সরানো যায়নি ({reason})। পরিবর্তে ফাইন্ডারে সরান।
@@ -168,11 +168,11 @@ lightcraft	Photo library and raw development	ফটো লাইব্রের�
 	Pictures couldn't be loaded. Reopen this page to try again.	ছবি লোড করা যায়নি। পুনরায় চেষ্টা করতে পৃষ্ঠাটি আবার খুলুন।
 	Platforms	প্ল্যাটফর্ম
 	Portable (.zip)	পোর্টেবল (.zip)
-deckcraft	Presentations and slide shows	উপস্থাপনা ও স্লাইড শো
+decks	Presentations and slide shows	উপস্থাপনা ও স্লাইড শো
 	Previous picture (←)	আগের ছবি (←)
 	Questions, ideas and news from the Iridium team	আর্টক্রাফট টিমের প্রশ্ন, ধারণা ও খবর
 	Quit Iridium Launcher	আর্টক্রাফট লঞ্চার বন্ধ করুন
-pdfcraft	Reading, organizing and protecting PDFs	পিডিএফ পড়া, সাজানো ও সুরক্ষিত করা
+pdf	Reading, organizing and protecting PDFs	পিডিএফ পড়া, সাজানো ও সুরক্ষিত করা
 	Reconnecting…	পুনরায় সংযোগ করা হচ্ছে…
 soundcraft	Recording, editing and mixing audio	অডিও রেকর্ডিং, সম্পাদনা ও মিক্সিং
 	Reinstall	পুনরায় ইনস্টল
@@ -206,7 +206,7 @@ month	Sep	সেপ্টে
 @id	sort.released	রিলিজ তারিখ
 @id	sort.status	অবস্থা
 @id	sort.suite	স্যুট
-gridcraft	Spreadsheets and data	স্প্রেডশিট ও ডেটা
+sheets	Spreadsheets and data	স্প্রেডশিট ও ডেটা
 	Start Iridium Launcher when I log in	লগইনে আর্টক্রাফট লঞ্চার চালু করুন
 	Stop waiting; the update can be started again later	অপেক্ষা থামান; আপডেট পরে আবার শুরু করা যাবে
 	Suite order	স্যুট ক্রম
@@ -256,7 +256,7 @@ filmcraft	Video editing, color and sound	ভিডিও সম্পাদন�
 	What's new	নতুন কী
 	When on, opening the launcher from the menu bar brings its window to the desktop you're on. When off, macOS switches you to the desktop the window was on.	চালু থাকলে, মেনু বার থেকে লঞ্চার খুললে তা বর্তমান ডেস্কটপে উইন্ডো আনবে। বন্ধ থাকলে macOS উইন্ডো যেখানে ছিল সেই ডেস্কটপে নিয়ে যাবে।
 	Windows will remove it like any installed program. Your documents and settings stay.	অন্যান্য প্রোগ্রামের মতো উইন্ডোজ এটি সরিয়ে ফেলবে। আপনার নথি ও সেটিংস অক্ষুণ্ন থাকবে।
-wordcraft	Writing and document design	লেখালেখি ও নথি নকশা
+docs	Writing and document design	লেখালেখি ও নথি নকশা
 	Your system's package manager will remove it, and may ask for your password. Your documents and settings stay.	আপনার সিস্টেমের প্যাকেজ ম্যানেজার এটি সরিয়ে ফেলবে, এবং পাসওয়ার্ড চাইতে পারে। আপনার নথি ও সেটিংস অক্ষুণ্ন থাকবে।
 	{a} and {b}	{a} এবং {b}
 	{count} updates are available	{count}টি আপডেট উপলব্ধ

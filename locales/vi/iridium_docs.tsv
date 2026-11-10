@@ -784,7 +784,7 @@
 	Even Page	Trang chẵn
 	Even pages only	Chỉ trang chẵn
 	Every change is recorded as a tracked change.	Mọi thay đổi đều được ghi lại dưới dạng thay đổi được theo dõi.
-	Every command is available to scripts and AI agents: run `wordcraft-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Mọi lệnh đều khả dụng cho tập lệnh và tác tử AI: chạy `wordcraft-cli mcp` để khởi chạy máy chủ MCP, hoặc khởi động ứng dụng với `--control <port>` để mở kênh điều khiển JSON.
+	Every command is available to scripts and AI agents: run `iridium-docs-cli mcp` for an MCP server, or start the app with `--control <port>` for the JSON control channel.	Mọi lệnh đều khả dụng cho tập lệnh và tác tử AI: chạy `iridium-docs-cli mcp` để khởi chạy máy chủ MCP, hoặc khởi động ứng dụng với `--control <port>` để mở kênh điều khiển JSON.
 	Every field needs a name.	Mỗi trường đều cần có tên.
 	Everyone	Mọi người
 	Exactly	Chính xác
@@ -2080,7 +2080,7 @@ template	Letter	Thư
 	Sort by:	Sắp xếp theo:
 	Sort order:	Thứ tự sắp xếp:
 	Sort Recipients	Sắp xếp người nhận
-	Source code: github.com/ngjordan/wordcraft	Mã nguồn: github.com/ngjordan/wordcraft
+	Source code: github.com/ngjordan/docs	Mã nguồn: github.com/ngjordan/docs
 	Source Manager	Quản lý nguồn
 	Source type:	Loại nguồn:
 	Sources in this document:	Nguồn trong tài liệu này:
