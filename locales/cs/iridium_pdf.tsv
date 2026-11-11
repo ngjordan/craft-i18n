@@ -3303,8 +3303,8 @@ certificate	Subject	Subjekt
 	Text opacity	Krytí textu
 	Text recognition cancelled. {summary}	Rozpoznávání textu bylo zrušeno. {summary}
 	Text recognition is already running	Rozpoznávání textu už běží
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Rozpoznávání textu není nainstalováno: chybí soubory jeho modelů. Přeinstalujte PDF nebo nastavte PDFCRAFT_MODELS na složku, ve které jsou.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Rozpoznávání textu není nainstalováno: chybí jeho modely (spusťte `cargo xtask models` nebo nastavte PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Rozpoznávání textu není nainstalováno: chybí soubory jeho modelů. Přeinstalujte PDF nebo nastavte IRIDIUM_PDF_MODELS na složku, ve které jsou.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Rozpoznávání textu není nainstalováno: chybí jeho modely (spusťte `cargo xtask models` nebo nastavte IRIDIUM_PDF_MODELS).
 	Text rendering	Vykreslování textu
 	Text style	Styl textu
 	Text to find	Hledaný text
@@ -3613,7 +3613,7 @@ calendar weekday	Th	Čt
 	the tesseract program was not found (install it, or add it to the PATH)	program tesseract nebyl nalezen (nainstalujte ho nebo ho přidejte do PATH)
 	The tesseract program, run as an external process	Program tesseract, spouštěný jako externí proces
 	The text is the same	Text je stejný
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	modely pro rozpoznávání textu nejsou nainstalované (přeinstalujte PDF nebo nastavte PDFCRAFT_MODELS na složku, ve které jsou)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	modely pro rozpoznávání textu nejsou nainstalované (přeinstalujte PDF nebo nastavte IRIDIUM_PDF_MODELS na složku, ve které jsou)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Text se přizpůsobí obrazovce a velikosti písma čtenáře, je rozdělen do kapitol a záložky tvoří obsah.
 	The timestamp authority's certificate is not issued for time stamping.	Certifikát autority časových razítek není vystaven pro vydávání časových razítek.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Certifikát autority časových razítek nebyl v době vystavení razítka platný.

@@ -3200,7 +3200,6 @@ swatch	Sand	Sand
 	Saves the current bars, toolbar and panel layout.	Gemmer de aktuelle linjer, værktøjslinjen og panellayoutet.
 	Saving	Gemmer
 @msg	Saving	Gemmer
-	Saving Poster.vectorcraft	Gemmer Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Gemmer gendannelsesdata for {_1}
 	Saving recovery data for {}	Gemmer gendannelsesdata for {}
 @msg	Saving {_1}	Gemmer {_1}
@@ -4112,7 +4111,6 @@ diagnostics	ui	Brugerflade
 	Iridium read this script without running it.	Iridium læste dette script uden at køre det.
 	Iridium Swatches (.vcswatches)	Iridium-farveprøver (.vcswatches)
 file-filter	Iridium Template	Iridium-skabelon
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Iridiums Fonts-mappe er ikke angivet her: skrivebordsprogrammet og vectorcraft-cli angiver den
 	Vectors	Vektorer
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	filer i version {0} kan ikke komprimeres: kun version {COMPRESSED_SINCE} og senere kan åbne komprimerede filer
 	Version {version} — open-source vector illustration in pure Rust.	Version {version} — open source-vektorillustration i ren Rust.

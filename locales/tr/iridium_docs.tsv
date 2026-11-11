@@ -1369,7 +1369,7 @@
 	No Soft Edges	Yumuşak Kenar Yok
 	No sources yet.	Henüz kaynak yok.
 	No Spacing	Aralık Yok
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	{language} için yüklü bir yazım sözlüğü yok, bu yüzden denetlenmiyor. Docs, {name} Hunspell sözlüğünü WORDCRAFT_DICTIONARIES klasöründe ve olağan sistem konumlarında arar.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	{language} için yüklü bir yazım sözlüğü yok, bu yüzden denetlenmiyor. Docs, {name} Hunspell sözlüğünü IRIDIUM_DOCS_DICTIONARIES klasöründe ve olağan sistem konumlarında arar.
 	No templates match your search.	Aramanızla eşleşen şablon yok.
 	No Transform	Dönüşüm Yok
 	No words yet. Add to Dictionary on a misspelled word puts it here.	Henüz sözcük yok. Yanlış yazılmış bir sözcükte «Sözlüğe ekle» onu buraya koyar.

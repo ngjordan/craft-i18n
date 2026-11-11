@@ -2709,8 +2709,8 @@ certificate	Subject	بابەت
 	Text opacity	ناڕوونیی دەق
 	Text recognition cancelled. {summary}	ناسینەوەی دەق هەڵوەشێنرایەوە. {summary}
 	Text recognition is already running	ناسینەوەی دەق پێشتر لە جێبەجێکردندایە
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	ناسینەوەی دەق دانەمەزراوە: فایلەکانی مۆدێلەکەی نین. PDF دووبارە دامەزرێنە، یان PDFCRAFT_MODELS بکە بە ئەو فۆڵدەرەی کە لەخۆی دەگرێت.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	ناسینەوەی دەق دانەمەزراوە: مۆدێلەکانی ونن (`cargo xtask models` جێبەجێ بکە، یان PDFCRAFT_MODELS دابنێ).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	ناسینەوەی دەق دانەمەزراوە: فایلەکانی مۆدێلەکەی نین. PDF دووبارە دامەزرێنە، یان IRIDIUM_PDF_MODELS بکە بە ئەو فۆڵدەرەی کە لەخۆی دەگرێت.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	ناسینەوەی دەق دانەمەزراوە: مۆدێلەکانی ونن (`cargo xtask models` جێبەجێ بکە، یان IRIDIUM_PDF_MODELS دابنێ).
 	Text rendering	پیشاندانی دەق
 	Text style	شێوازی دەق
 	Text to find	ئەو دەقەی بۆی دەگەڕێیت
@@ -2875,7 +2875,7 @@ calendar weekday	Th	پێنجشەممە
 	The signer's identity is valid.	ناسنامەی واژووکەرەکە دروستە.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	فۆنتە ستانداردەکان ناتوانن «{c}» بکێشن ({code}). بۆ ئێستا تەنها پیتی ئەوروپای ڕۆژئاوا دەتوانرێت وەک دەق زیاد بکرێت.
 	The text is the same	دەقەکە هەمانە
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	مۆدێلەکانی ناسینەوەی دەق دانەمەزراون (PDF دابمەزرێنەرەوە، یان PDFCRAFT_MODELS بکە بە فۆڵدەرەکەی کە لەخۆی دەگرێت)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	مۆدێلەکانی ناسینەوەی دەق دانەمەزراون (PDF دابمەزرێنەرەوە، یان IRIDIUM_PDF_MODELS بکە بە فۆڵدەرەکەی کە لەخۆی دەگرێت)
 	The timestamp authority's certificate was not valid at the time of timestamping.	بڕوانامەی دەسەڵاتی مۆری کات لە کاتی مۆرکردنی کاتدا دروست نەبوو.
 	The timestamp contents are not hexadecimal.	ناوەڕۆکی مۆری کات شازدەیی نییە.
 	The timestamp has no valid byte range.	مۆری کات مەودای بایتی دروستی نییە.

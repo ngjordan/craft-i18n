@@ -3068,7 +3068,7 @@ certificate	Subject	Titolare
 	Text opacity	Opacità testo
 	Text recognition cancelled. {summary}	Riconoscimento del testo annullato. {summary}
 	Text recognition is already running	Il riconoscimento del testo è già in esecuzione
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Il riconoscimento del testo non è installato: mancano i file dei modelli. Reinstalla PDF o imposta PDFCRAFT_MODELS sulla cartella che li contiene.
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Il riconoscimento del testo non è installato: mancano i file dei modelli. Reinstalla PDF o imposta IRIDIUM_PDF_MODELS sulla cartella che li contiene.
 	Text rendering	Resa del testo
 	Text style	Stile del testo
 	Text to find	Testo da trovare
@@ -3318,7 +3318,7 @@ calendar weekday	Th	Gi
 	the tesseract program was not found (install it, or add it to the PATH)	il programma tesseract non è stato trovato (installalo o aggiungilo al PATH)
 	The tesseract program, run as an external process	Il programma tesseract, eseguito come processo esterno
 	The text is the same	Il testo è identico
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	i modelli di riconoscimento del testo non sono installati (reinstalla PDF o imposta PDFCRAFT_MODELS sulla cartella che li contiene)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	i modelli di riconoscimento del testo non sono installati (reinstalla PDF o imposta IRIDIUM_PDF_MODELS sulla cartella che li contiene)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Il testo si adatta allo schermo e alla dimensione del carattere del lettore, in capitoli, con i segnalibri come sommario.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Il certificato dell'autorità di marcatura temporale non era valido al momento della marcatura.
 	The timestamp contents are not hexadecimal.	Il contenuto della marca temporale non è esadecimale.

@@ -2116,8 +2116,8 @@ certificate	Subject	Houder
 	Text language is specified	De taal van de tekst is opgegeven
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	Tekst moet genoeg contrast hebben met de achtergrond voor mensen die slecht zien. Controleer de kleuren op het oog of met een contrastgereedschap.
 	Text recognition is already running	Tekstherkenning is al bezig
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Tekstherkenning is niet geïnstalleerd: de modelbestanden ontbreken. Installeer PDF opnieuw, of stel PDFCRAFT_MODELS in op de map waarin ze staan.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Tekstherkenning is niet geïnstalleerd: de modellen ontbreken (voer `cargo xtask models` uit, of stel PDFCRAFT_MODELS in).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Tekstherkenning is niet geïnstalleerd: de modelbestanden ontbreken. Installeer PDF opnieuw, of stel IRIDIUM_PDF_MODELS in op de map waarin ze staan.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Tekstherkenning is niet geïnstalleerd: de modellen ontbreken (voer `cargo xtask models` uit, of stel IRIDIUM_PDF_MODELS in).
 	Text to find	Te zoeken tekst
 	Text to insert	In te voegen tekst
 	Text to place	Te plaatsen tekst
@@ -2246,7 +2246,7 @@ calendar weekday	Th	Do
 	The signer's identity is valid.	De identiteit van de ondertekenaar is geldig.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	De standaardlettertypen kunnen “{c}” ({code}) niet tekenen. Voorlopig kunnen alleen West-Europese tekens als tekst worden toegevoegd.
 	The text is the same	De tekst is hetzelfde
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	de tekstherkenningsmodellen zijn niet geïnstalleerd (installeer PDF opnieuw, of stel PDFCRAFT_MODELS in op de map waarin ze staan)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	de tekstherkenningsmodellen zijn niet geïnstalleerd (installeer PDF opnieuw, of stel IRIDIUM_PDF_MODELS in op de map waarin ze staan)
 	The timestamp authority's certificate is not issued for time stamping.	Het certificaat van de tijdstempelautoriteit is niet bedoeld voor tijdstempels.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Het certificaat van de tijdstempelautoriteit was op het moment van het tijdstempel niet geldig.
 	The timestamp contents are not hexadecimal.	De inhoud van het tijdstempel is niet hexadecimaal.

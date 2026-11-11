@@ -3879,7 +3879,6 @@ diagnostics	ui	UI
 	Iridium on GitHub	GitHub の Iridium
 	Iridium read this script without running it.	Iridium はこのスクリプトを実行せずに読み取りました。
 file-filter	Iridium Template	Iridium テンプレート
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	この環境では Iridium の Fonts フォルダーが設定されていません: デスクトップアプリと vectorcraft-cli が設定します
 	Vectors	ベクター
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	バージョン {0} のファイルは圧縮できません: 圧縮ファイルを開けるのはバージョン {COMPRESSED_SINCE} 以降のみです
 	Version {version} — open-source vector illustration in pure Rust.	バージョン {version} — Rust だけで書かれたオープンソースのベクターイラストアプリ。

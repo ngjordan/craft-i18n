@@ -3126,7 +3126,6 @@ diagnostics	render	renderowanie
 	Saves the current bars, toolbar and panel layout.	Zapisuje bieżące paski, pasek narzędzi i układ paneli.
 	Saving	Zapisywanie
 @msg	Saving	Zapisywanie
-	Saving Poster.vectorcraft	Zapisywanie Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Zapisywanie danych odzyskiwania dla {_1}
 	Saving recovery data for {}	Zapisywanie danych odzyskiwania dla {}
 @msg	Saving {_1}	Zapisywanie {_1}
@@ -4019,7 +4018,6 @@ diagnostics	ui	interfejs
 	Iridium on GitHub	Iridium w serwisie GitHub
 	Iridium read this script without running it.	Iridium odczytał ten skrypt, nie uruchamiając go.
 file-filter	Iridium Template	Szablon Iridium
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	folder czcionek Iridium nie jest tu ustawiony: ustawia go aplikacja desktopowa i vectorcraft-cli
 	Vectors	Wektory
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	plików w wersji {0} nie można kompresować: skompresowane pliki otwierają tylko wersje {COMPRESSED_SINCE} i nowsze
 	Version {version} — open-source vector illustration in pure Rust.	Wersja {version} — otwartoźródłowa grafika wektorowa w czystym Ruście.

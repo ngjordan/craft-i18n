@@ -1767,7 +1767,6 @@ cameraData	Model	Model
 	My Brushes	Moje pędzle
 	name	nazwa
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Natywne przeciąganie i upuszczanie plików nie jest jeszcze obsługiwane w Wayland. Użyj Plik › Otwórz albo skopiuj obraz w menedżerze plików i wklej go za pomocą {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Natywne przeciąganie plików nie jest jeszcze obsługiwane w Waylandzie. Użyj Plik › Otwórz lub uruchom Iridium w XWayland poleceniem `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Natywne przeciąganie plików jest niedostępne
 	Nearest Neighbor	Najbliższy sąsiad
 	Nearest neighbor	Najbliższy sąsiad

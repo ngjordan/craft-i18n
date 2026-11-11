@@ -1891,7 +1891,6 @@
 #	My Brushes	
 #	name	
 #	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	
-#	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	
 #	Native file drag-and-drop is unavailable	
 #	Nearest	
 #	Nearest Neighbor	

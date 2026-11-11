@@ -1954,7 +1954,6 @@ cameraData	Model	Modello
 	My Brushes	I miei pennelli
 	name	nome
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Il drag-and-drop nativo non è ancora supportato su Wayland. Usa File › Apri, oppure copia l'immagine nel file manager e incollala con {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Il drag-and-drop nativo dei file non è ancora supportato su Wayland. Usa File › Apri, oppure avvia Iridium sotto XWayland con `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Il drag-and-drop nativo file non è disponibile su Wayland
 	Nearest	Vicino più prossimo
 	Nearest Neighbor	Vicino più prossimo

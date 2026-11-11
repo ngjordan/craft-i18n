@@ -3241,7 +3241,6 @@ swatch	Sand	Pasir
 	Saves the current bars, toolbar and panel layout.	Menyimpan bilah, bilah alat, dan tata letak panel saat ini.
 	Saving	Menyimpan
 @msg	Saving	Menyimpan
-	Saving Poster.vectorcraft	Menyimpan Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Menyimpan data pemulihan untuk {_1}
 	Saving recovery data for {}	Menyimpan data pemulihan untuk {}
 @msg	Saving {_1}	Menyimpan {_1}
@@ -4159,7 +4158,6 @@ diagnostics	ui	UI
 	Iridium read this script without running it.	Iridium membaca skrip ini tanpa menjalankannya.
 	Iridium Swatches (.vcswatches)	Iridium Swatches (.vcswatches)
 file-filter	Iridium Template	Templat Iridium
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	folder Fonts Iridium tidak diatur di sini: aplikasi desktop dan vectorcraft-cli yang mengaturnya
 	Vectors	Vektor
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	berkas versi {0} tidak dapat dikompresi: hanya versi {COMPRESSED_SINCE} dan sesudahnya yang dapat membuka berkas terkompresi
 	Version {version} — open-source vector illustration in pure Rust.	Versi {version} — ilustrasi vektor sumber terbuka dalam Rust murni.

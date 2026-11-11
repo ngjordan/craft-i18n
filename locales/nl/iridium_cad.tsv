@@ -3220,7 +3220,6 @@ swatch	Sand	Zand
 	Saves the current bars, toolbar and panel layout.	Slaat de huidige balken, werkbalk en paneelindeling op.
 	Saving	Bezig met opslaan
 @msg	Saving	Bezig met opslaan
-	Saving Poster.vectorcraft	Poster.vectorcraft wordt opgeslagen
 @msg	Saving recovery data for {_1}	Bezig met opslaan van herstelgegevens voor {_1}
 	Saving recovery data for {}	Herstelgegevens voor {} worden opgeslagen
 @msg	Saving {_1}	Bezig met opslaan van {_1}
@@ -4142,7 +4141,6 @@ diagnostics	ui	ui
 	Iridium read this script without running it.	Iridium heeft dit script gelezen zonder het uit te voeren.
 	Iridium Swatches (.vcswatches)	Iridium-stalen (.vcswatches)
 file-filter	Iridium Template	Iridium-sjabloon
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	de map Lettertypen van Iridium is hier niet ingesteld: de desktopapp en vectorcraft-cli stellen die in
 	Vectors	Vectoren
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	bestanden van versie {0} kunnen niet worden gecomprimeerd: alleen versie {COMPRESSED_SINCE} en later openen gecomprimeerde bestanden
 	Version {version} — open-source vector illustration in pure Rust.	Versie {version} — open-source vectorillustratie in pure Rust.

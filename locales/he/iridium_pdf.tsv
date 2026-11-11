@@ -2217,8 +2217,8 @@ certificate	Subject	נושא
 	Text language is specified	שפת הטקסט מוגדרת
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	הטקסט צריך להיות מובחן דיו מהרקע עבור אנשים עם ראייה ירודה. יש לבדוק את הצבעים בעין או בכלי לבדיקת ניגודיות.
 	Text recognition is already running	זיהוי הטקסט כבר פועל
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	זיהוי הטקסט אינו מותקן: קובצי המודל חסרים. יש להתקין מחדש את PDF או להגדיר את PDFCRAFT_MODELS לתיקייה שמכילה אותם.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	זיהוי הטקסט אינו מותקן: המודלים חסרים (יש להריץ `cargo xtask models` או להגדיר את PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	זיהוי הטקסט אינו מותקן: קובצי המודל חסרים. יש להתקין מחדש את PDF או להגדיר את IRIDIUM_PDF_MODELS לתיקייה שמכילה אותם.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	זיהוי הטקסט אינו מותקן: המודלים חסרים (יש להריץ `cargo xtask models` או להגדיר את IRIDIUM_PDF_MODELS).
 	Text to find	טקסט לחיפוש
 	Text to insert	טקסט להוספה
 	Text to place	טקסט להוספה
@@ -2347,7 +2347,7 @@ calendar weekday	Th	ה׳
 	The signer's identity is valid.	זהות החותם תקפה.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	הגופנים התקניים אינם יכולים להציג את „{c}” ({code}). בשלב זה ניתן להוסיף כטקסט רק תווים ממערב אירופה.
 	The text is the same	הטקסט זהה
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	מודלי זיהוי הטקסט אינם מותקנים (יש להתקין מחדש את PDF או להגדיר את PDFCRAFT_MODELS לתיקיית המודלים)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	מודלי זיהוי הטקסט אינם מותקנים (יש להתקין מחדש את PDF או להגדיר את IRIDIUM_PDF_MODELS לתיקיית המודלים)
 	The timestamp authority's certificate is not issued for time stamping.	תעודת הגורם שהנפיק את חותמת הזמן לא הונפקה לשימוש בחותמות זמן.
 	The timestamp authority's certificate was not valid at the time of timestamping.	תעודת הגורם שהנפיק את חותמת הזמן לא הייתה תקפה בזמן החתימה בזמן.
 	The timestamp contents are not hexadecimal.	תוכן חותמת הזמן אינו הקסדצימלי.

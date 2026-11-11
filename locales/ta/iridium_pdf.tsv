@@ -2356,8 +2356,8 @@ certificate	Subject	பொருள்
 	Text language is specified	உரை மொழி குறிப்பிடப்பட்டுள்ளது
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	குறைந்த பார்வை உள்ளவர்களுக்காக உரை அதன் பின்னணியுடன் போதுமான அளவு முரண்பட வேண்டும். நிறங்களைக் கண்ணால் அல்லது முரண்பாட்டுக் கருவி மூலம் சரிபார்க்கவும்.
 	Text recognition is already running	உரை அடையாளம் காணல் ஏற்கனவே இயங்குகிறது
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	உரை அடையாளம் காணல் நிறுவப்படவில்லை: அதன் மாதிரிக் கோப்புகள் இல்லை. PDF-ஐ மீண்டும் நிறுவவும், அல்லது PDFCRAFT_MODELS-ஐ அவை உள்ள கோப்புறைக்கு அமைக்கவும்.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	உரை அடையாளம் காணல் நிறுவப்படவில்லை: அதன் மாதிரிகள் இல்லை (`cargo xtask models` ஐ இயக்கவும், அல்லது PDFCRAFT_MODELS ஐ அமைக்கவும்).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	உரை அடையாளம் காணல் நிறுவப்படவில்லை: அதன் மாதிரிக் கோப்புகள் இல்லை. PDF-ஐ மீண்டும் நிறுவவும், அல்லது IRIDIUM_PDF_MODELS-ஐ அவை உள்ள கோப்புறைக்கு அமைக்கவும்.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	உரை அடையாளம் காணல் நிறுவப்படவில்லை: அதன் மாதிரிகள் இல்லை (`cargo xtask models` ஐ இயக்கவும், அல்லது IRIDIUM_PDF_MODELS ஐ அமைக்கவும்).
 	Text to find	தேட வேண்டிய உரை
 	Text to insert	செருக வேண்டிய உரை
 	Text to place	வைக்க வேண்டிய உரை
@@ -2486,7 +2486,7 @@ calendar weekday	Th	வி
 	The signer's identity is valid.	கையொப்பமிடுபவரின் அடையாளம் செல்லுபடியாகும்.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	நிலையான எழுத்துருக்களால் “{c}” ({code}) ஐ வரைய இயலாது. தற்போது மேற்கு ஐரோப்பிய எழுத்துகளை மட்டுமே உரையாகச் சேர்க்க முடியும்.
 	The text is the same	உரை ஒன்றாகவே உள்ளது
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	உரை அடையாளம் காணல் மாதிரிகள் நிறுவப்படவில்லை (PDF-ஐ மீண்டும் நிறுவவும், அல்லது PDFCRAFT_MODELS-ஐ அவை உள்ள கோப்புறைக்கு அமைக்கவும்)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	உரை அடையாளம் காணல் மாதிரிகள் நிறுவப்படவில்லை (PDF-ஐ மீண்டும் நிறுவவும், அல்லது IRIDIUM_PDF_MODELS-ஐ அவை உள்ள கோப்புறைக்கு அமைக்கவும்)
 	The timestamp authority's certificate is not issued for time stamping.	நேர முத்திரை அதிகாரத்தின் சான்றிதழ் நேர முத்திரையிடுவதற்கு வழங்கப்படவில்லை.
 	The timestamp authority's certificate was not valid at the time of timestamping.	நேர முத்திரையிடும் நேரத்தில் நேர முத்திரை அதிகாரத்தின் சான்றிதழ் செல்லுபடியாகவில்லை.
 	The timestamp contents are not hexadecimal.	நேர முத்திரை உள்ளடக்கம் பதினறுமத்தில் இல்லை.

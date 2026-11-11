@@ -3197,7 +3197,6 @@ diagnostics	render	рендриране
 	Saves the current bars, toolbar and panel layout.	Запазва текущите ленти, лентата с инструменти и подредбата на панелите.
 	Saving	Запазване
 @msg	Saving	Запазване
-	Saving Poster.vectorcraft	Запазване на Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Записване на данни за възстановяване на {_1}
 	Saving recovery data for {}	Запазване на данни за възстановяване за {}
 @msg	Saving {_1}	Записване на {_1}
@@ -4108,7 +4107,6 @@ diagnostics	ui	потребителски интерфейс
 	Iridium read this script without running it.	Iridium прочете този скрипт, без да го изпълнява.
 	Iridium Swatches (.vcswatches)	Образци на Iridium (.vcswatches)
 file-filter	Iridium Template	Шаблон на Iridium
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Папката със шрифтове на Iridium не е зададена тук: десктоп приложението и vectorcraft-cli я задават
 	Vectors	Вектори
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	файловете от версия {0} не могат да бъдат компресирани: само версия {COMPRESSED_SINCE} и по-нови отварят компресирани файлове
 	Version {version} — open-source vector illustration in pure Rust.	Версия {version} — векторна илюстрация с отворен код на чист Rust.

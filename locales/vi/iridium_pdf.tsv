@@ -3039,8 +3039,8 @@ certificate	Subject	Chủ thể chứng chỉ
 	Text opacity	Độ mờ văn bản
 	Text recognition cancelled. {summary}	Đã hủy nhận dạng văn bản. {summary}
 	Text recognition is already running	Việc nhận dạng văn bản đang chạy
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Tính năng nhận dạng văn bản chưa được cài đặt: thiếu các tệp mô hình. Hãy cài đặt lại PDF, hoặc đặt PDFCRAFT_MODELS thành thư mục chứa chúng.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Tính năng nhận dạng văn bản chưa được cài đặt: thiếu các mô hình (hãy chạy `cargo xtask models`, hoặc đặt PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Tính năng nhận dạng văn bản chưa được cài đặt: thiếu các tệp mô hình. Hãy cài đặt lại PDF, hoặc đặt IRIDIUM_PDF_MODELS thành thư mục chứa chúng.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Tính năng nhận dạng văn bản chưa được cài đặt: thiếu các mô hình (hãy chạy `cargo xtask models`, hoặc đặt IRIDIUM_PDF_MODELS).
 	Text rendering	Kết xuất văn bản
 	Text style	Kiểu chữ
 	Text to find	Văn bản cần tìm
@@ -3328,7 +3328,7 @@ calendar weekday	Th	T5
 	The standard structure type {} is mapped to a type that isn't standard	Kiểu cấu trúc chuẩn {} được ánh xạ tới một kiểu không chuẩn
 	The structure type {} isn't standard and isn't mapped to a standard type	Kiểu cấu trúc {} không chuẩn và không được ánh xạ tới kiểu chuẩn
 	The text is the same	Văn bản giống nhau
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	các mô hình nhận dạng văn bản chưa được cài đặt (hãy cài đặt lại PDF, hoặc đặt PDFCRAFT_MODELS thành thư mục chứa chúng)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	các mô hình nhận dạng văn bản chưa được cài đặt (hãy cài đặt lại PDF, hoặc đặt IRIDIUM_PDF_MODELS thành thư mục chứa chúng)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Văn bản tự dàn theo màn hình và cỡ chữ của người đọc, chia thành chương, với dấu trang làm mục lục.
 	The timestamp authority's certificate is not issued for time stamping.	Chứng chỉ của cơ quan cấp dấu thời gian không được cấp cho mục đích đóng dấu thời gian.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Chứng chỉ của cơ quan cấp dấu thời gian không hợp lệ tại thời điểm đóng dấu thời gian.

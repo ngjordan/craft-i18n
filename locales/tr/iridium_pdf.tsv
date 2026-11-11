@@ -3142,8 +3142,8 @@ certificate	Subject	Konu
 	Text opacity	Metin opaklığı
 	Text recognition cancelled. {summary}	Metin tanıma iptal edildi. {summary}
 	Text recognition is already running	Metin tanıma zaten çalışıyor
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Metin tanıma yüklü değil: model dosyaları eksik. PDF'ı yeniden yükleyin veya PDFCRAFT_MODELS ortam değişkenini bunları içeren klasöre ayarlayın.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Metin tanıma kurulu değil: modelleri eksik (`cargo xtask models` çalıştırın ya da PDFCRAFT_MODELS ayarlayın).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Metin tanıma yüklü değil: model dosyaları eksik. PDF'ı yeniden yükleyin veya IRIDIUM_PDF_MODELS ortam değişkenini bunları içeren klasöre ayarlayın.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Metin tanıma kurulu değil: modelleri eksik (`cargo xtask models` çalıştırın ya da IRIDIUM_PDF_MODELS ayarlayın).
 	Text rendering	Metin işleme
 	Text style	Metin stili
 	Text to find	Aranacak metin
@@ -3398,7 +3398,7 @@ calendar weekday	Th	Pe
 	the tesseract program was not found (install it, or add it to the PATH)	tesseract programı bulunamadı (yükleyin veya PATH'e ekleyin)
 	The tesseract program, run as an external process	Harici işlem olarak çalıştırılan tesseract programı
 	The text is the same	Metin aynı
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	metin tanıma modelleri yüklü değil (PDF'ı yeniden yükleyin veya PDFCRAFT_MODELS değişkenini bunları içeren klasöre ayarlayın)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	metin tanıma modelleri yüklü değil (PDF'ı yeniden yükleyin veya IRIDIUM_PDF_MODELS değişkenini bunları içeren klasöre ayarlayın)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Metin, okuyucunun ekranına ve yazı tipi boyutuna göre akar; bölümlere ayrılır, yer imleri içindekiler olur.
 	The timestamp authority's certificate is not issued for time stamping.	Zaman damgası yetkilisinin sertifikası zaman damgalama için verilmemiş.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Zaman damgası yetkilisinin sertifikası zaman damgalama sırasında geçerli değildi.

@@ -1647,7 +1647,7 @@ template	Letter	List
 	No Soft Edges	Bez mäkkých okrajov
 	No sources yet.	Zatiaľ žiadne zdroje.
 	No Spacing	Bez medzier
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Pre jazyk {language} nie je nainštalovaný pravopisný slovník, preto sa nekontroluje. Docs hľadá slovník Hunspell {name} v priečinku WORDCRAFT_DICTIONARIES a v bežných systémových umiestneniach.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	Pre jazyk {language} nie je nainštalovaný pravopisný slovník, preto sa nekontroluje. Docs hľadá slovník Hunspell {name} v priečinku IRIDIUM_DOCS_DICTIONARIES a v bežných systémových umiestneniach.
 	No templates match your search.	Vášmu hľadaniu nezodpovedajú žiadne šablóny.
 	No Transform	Bez transformácie
 	No words yet. Add to Dictionary on a misspelled word puts it here.	Zatiaľ žiadne slová. Pridáte ich sem voľbou Pridať do slovníka pri nesprávne napísanom slove.

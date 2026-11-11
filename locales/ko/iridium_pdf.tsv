@@ -2761,8 +2761,8 @@ certificate	Subject	주체
 	Text opacity	텍스트 불투명도
 	Text recognition cancelled. {summary}	텍스트 인식이 취소되었습니다. {summary}
 	Text recognition is already running	텍스트 인식이 이미 실행 중입니다
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	텍스트 인식이 설치되어 있지 않습니다: 모델 파일이 없습니다. PDF를 다시 설치하거나 PDFCRAFT_MODELS를 모델 파일이 있는 폴더로 설정하세요.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	텍스트 인식이 설치되어 있지 않습니다. 모델이 없습니다(`cargo xtask models`를 실행하거나 PDFCRAFT_MODELS를 설정하세요).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	텍스트 인식이 설치되어 있지 않습니다: 모델 파일이 없습니다. PDF를 다시 설치하거나 IRIDIUM_PDF_MODELS를 모델 파일이 있는 폴더로 설정하세요.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	텍스트 인식이 설치되어 있지 않습니다. 모델이 없습니다(`cargo xtask models`를 실행하거나 IRIDIUM_PDF_MODELS를 설정하세요).
 	Text rendering	텍스트 렌더링
 	Text style	텍스트 스타일
 	Text to find	찾을 텍스트
@@ -2976,7 +2976,7 @@ calendar weekday	Th	목
 	The smart card's digital IDs couldn't be listed: {e}	스마트 카드의 디지털 ID를 나열할 수 없습니다: {e}
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	표준 글꼴이 “{c}”({code})를 그릴 수 없습니다. 현재는 서유럽 문자만 텍스트로 추가할 수 있습니다.
 	The text is the same	텍스트가 같습니다
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	텍스트 인식 모델이 설치되어 있지 않음(PDF를 다시 설치하거나 PDFCRAFT_MODELS를 모델이 있는 폴더로 설정하세요)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	텍스트 인식 모델이 설치되어 있지 않음(PDF를 다시 설치하거나 IRIDIUM_PDF_MODELS를 모델이 있는 폴더로 설정하세요)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	텍스트가 독자의 화면과 글꼴 크기에 맞게 다시 배치되며, 장으로 나뉘고 책갈피가 목차가 됩니다.
 	The timestamp authority's certificate was not valid at the time of timestamping.	타임스탬프 기관의 인증서는 타임스탬프 시점에 유효하지 않았습니다.
 	The timestamp contents are not hexadecimal.	타임스탬프 내용이 16진수가 아닙니다.

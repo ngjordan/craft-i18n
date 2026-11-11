@@ -2979,7 +2979,7 @@ certificate	Subject	Субъект
 	Text opacity	Мәтін мөлдірсіздігі
 	Text recognition cancelled. {summary}	Мәтінді тану тоқтатылды. {summary}
 	Text recognition is already running	Мәтінді тану қазіргі уақытта орындалуда
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Мәтінді тану орнатылмаған: модель файлдары жоқ. PDF қайта орнатыңыз немесе PDFCRAFT_MODELS айнымалысына олар жатқан қалтаны көрсетіңіз.
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Мәтінді тану орнатылмаған: модель файлдары жоқ. PDF қайта орнатыңыз немесе IRIDIUM_PDF_MODELS айнымалысына олар жатқан қалтаны көрсетіңіз.
 	Text rendering	Мәтінді көрсету
 	Text style	Мәтін стилі
 	Text to find	Ізделетін мәтін
@@ -3174,7 +3174,7 @@ certificate	Subject	Субъект
 	the tesseract program was not found (install it, or add it to the PATH)	tesseract бағдарламасы табылмады (оны орнатыңыз немесе PATH-қа қосыңыз)
 	The tesseract program, run as an external process	Сыртқы процесс ретінде іске қосылатын tesseract бағдарламасы
 	The text is the same	Мәтін бірдей
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	мәтінді тану модельдері орнатылмаған (PDF қайта орнатыңыз немесе PDFCRAFT_MODELS айнымалысына олар жатқан қалтаны көрсетіңіз)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	мәтінді тану модельдері орнатылмаған (PDF қайта орнатыңыз немесе IRIDIUM_PDF_MODELS айнымалысына олар жатқан қалтаны көрсетіңіз)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Мәтін оқырманның экраны мен қаріп өлшеміне бейімделеді, тарауларға бөлінеді, бетбелгілер мазмұн болады.
 	The title in the metadata and the document information differ	Метадеректер мен құжат ақпаратындағы тақырыптар сәйкес келмейді
 	the title must not be empty	тақырып бос болмауы тиіс

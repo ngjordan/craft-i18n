@@ -2392,8 +2392,8 @@ certificate	Subject	سرٹیفکیٹ کا حامل
 	Text language is specified	متن کی زبان مقرر ہے
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	کم نظر افراد کے لیے متن اور پس منظر میں کافی تضاد ہونا چاہیے۔ رنگوں کو دیکھ کر یا تضاد کے اوزار سے جانچیں۔
 	Text recognition is already running	متن کی شناخت پہلے سے جاری ہے
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	متن کی شناخت نصب نہیں: ماڈل فائلیں غائب ہیں۔ PDF دوبارہ نصب کریں یا PDFCRAFT_MODELS کو ان کے فولڈر پر مقرر کریں۔
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	متن کی شناخت نصب نہیں: اس کے ماڈل موجود نہیں (`cargo xtask models` چلائیں یا PDFCRAFT_MODELS مقرر کریں)۔
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	متن کی شناخت نصب نہیں: ماڈل فائلیں غائب ہیں۔ PDF دوبارہ نصب کریں یا IRIDIUM_PDF_MODELS کو ان کے فولڈر پر مقرر کریں۔
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	متن کی شناخت نصب نہیں: اس کے ماڈل موجود نہیں (`cargo xtask models` چلائیں یا IRIDIUM_PDF_MODELS مقرر کریں)۔
 	Text to find	تلاش کرنے کا متن
 	Text to insert	داخل کرنے کا متن
 	Text to place	رکھنے کے لیے متن
@@ -2522,7 +2522,7 @@ calendar weekday	Th	جر
 	The signer's identity is valid.	دستخط کنندہ کی شناخت درست ہے۔
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	معیاری فونٹ “{c}” ({code}) نہیں بنا سکتے۔ ابھی صرف مغربی یورپی حروف متن کے طور پر شامل کیے جا سکتے ہیں۔
 	The text is the same	متن یکساں ہے
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	متن کی شناخت کے ماڈل نصب نہیں (PDF دوبارہ نصب کریں یا PDFCRAFT_MODELS کو ان کے فولڈر پر مقرر کریں)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	متن کی شناخت کے ماڈل نصب نہیں (PDF دوبارہ نصب کریں یا IRIDIUM_PDF_MODELS کو ان کے فولڈر پر مقرر کریں)
 	The timestamp authority's certificate is not issued for time stamping.	وقت کی مہر کے ادارے کا سرٹیفکیٹ وقت کی مہر لگانے کے لیے جاری نہیں کیا گیا۔
 	The timestamp authority's certificate was not valid at the time of timestamping.	وقت کی مہر لگاتے وقت وقت کی مہر کے ادارے کا سرٹیفکیٹ درست نہیں تھا۔
 	The timestamp contents are not hexadecimal.	وقت کی مہر کا مواد ہیکسا ڈیسیمل نہیں ہے۔

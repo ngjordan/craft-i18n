@@ -1539,7 +1539,7 @@
 	No Soft Edges	Brez mehkih robov
 	No sources yet.	Virov še ni.
 	No Spacing	Brez razmika
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Za jezik {language} ni nameščenega slovarja za črkovanje, zato se ne preverja. Docs poišče slovar Hunspell {name} v mapi WORDCRAFT_DICTIONARIES in na običajnih sistemskih mestih.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	Za jezik {language} ni nameščenega slovarja za črkovanje, zato se ne preverja. Docs poišče slovar Hunspell {name} v mapi IRIDIUM_DOCS_DICTIONARIES in na običajnih sistemskih mestih.
 	No templates match your search.	Nobena predloga se ne ujema z iskanjem.
 	No Transform	Brez preoblikovanja
 	No words yet. Add to Dictionary on a misspelled word puts it here.	Besed še ni. Ukaz Dodaj v slovar na napačno črkovani besedi jo doda sem.

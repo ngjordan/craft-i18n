@@ -3181,7 +3181,6 @@ diagnostics	render	απόδοση
 	Saves the current bars, toolbar and panel layout.	Αποθηκεύει την τρέχουσα διάταξη γραμμών, γραμμής εργαλείων και πινάκων.
 	Saving	Αποθήκευση σε εξέλιξη
 @msg	Saving	Αποθήκευση σε εξέλιξη
-	Saving Poster.vectorcraft	Αποθήκευση Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Αποθήκευση δεδομένων ανάκτησης για {_1}
 	Saving recovery data for {}	Αποθήκευση δεδομένων ανάκτησης για {}
 @msg	Saving {_1}	Αποθήκευση {_1}
@@ -4096,7 +4095,6 @@ diagnostics	ui	διεπαφή
 	Iridium read this script without running it.	Το Iridium διάβασε αυτό το σενάριο χωρίς να το εκτελέσει.
 	Iridium Swatches (.vcswatches)	Δείγματα χρωμάτων Iridium (.vcswatches)
 file-filter	Iridium Template	Πρότυπο Iridium
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	ο φάκελος γραμματοσειρών του Iridium δεν έχει καθοριστεί εδώ: τον ορίζουν η εφαρμογή υπολογιστή και το vectorcraft-cli
 	Vectors	Διανύσματα
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	τα αρχεία έκδοσης {0} δεν μπορούν να συμπιεστούν: μόνο η έκδοση {COMPRESSED_SINCE} και νεότερες ανοίγουν συμπιεσμένα αρχεία
 	Version {version} — open-source vector illustration in pure Rust.	Έκδοση {version} — διανυσματική σχεδίαση ανοιχτού κώδικα εξ ολοκλήρου σε Rust.

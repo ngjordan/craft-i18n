@@ -1664,7 +1664,6 @@ cameraData	Model	Kiểu máy
 	My Brushes	Cọ của tôi
 	name	tên
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Chưa hỗ trợ kéo-thả tệp gốc trên Wayland. Hãy dùng Tệp › Mở, hoặc sao chép ảnh trong trình quản lý tệp và dán bằng {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Kéo thả tệp gốc chưa được hỗ trợ trên Wayland. Dùng Tệp › Mở, hoặc chạy Iridium dưới XWayland với `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Kéo thả tệp gốc không khả dụng
 	Navigator	Điều hướng
 	Nearest Neighbor	Nearest Neighbor

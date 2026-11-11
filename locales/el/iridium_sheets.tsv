@@ -1724,7 +1724,6 @@ cameraData	Model	Μοντέλο
 	My Brushes	Τα πινέλα μου
 	name	όνομα
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Η εγγενής μεταφορά και απόθεση αρχείων δεν υποστηρίζεται ακόμη στο Wayland. Χρησιμοποιήστε Αρχείο › Άνοιγμα ή αντιγράψτε την εικόνα στη διαχείριση αρχείων και επικολλήστε τη με {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Η μεταφορά και απόθεση αρχείων δεν υποστηρίζεται ακόμη στο Wayland. Χρησιμοποιήστε Αρχείο › Άνοιγμα ή εκτελέστε το Iridium μέσω XWayland με `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Η μεταφορά και απόθεση αρχείων δεν είναι διαθέσιμη
 	Nearest Neighbor	Πλησιέστερος γείτονας
 	Nearest neighbor	Πλησιέστερος γείτονας

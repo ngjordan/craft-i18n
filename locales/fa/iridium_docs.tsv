@@ -1369,7 +1369,7 @@ template	Letter	Letter
 	No Soft Edges	بدون لبه‌های نرم
 	No sources yet.	هنوز منبعی نیست.
 	No Spacing	بدون فاصله‌گذاری
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	هیچ واژه‌نامهٔ املایی برای {language} نصب نیست، بنابراین بررسی نمی‌شود. Docs واژه‌نامهٔ هان‌اسپل {name} را در پوشهٔ WORDCRAFT_DICTIONARIES و مکان‌های معمول سیستم جست‌وجو می‌کند.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	هیچ واژه‌نامهٔ املایی برای {language} نصب نیست، بنابراین بررسی نمی‌شود. Docs واژه‌نامهٔ هان‌اسپل {name} را در پوشهٔ IRIDIUM_DOCS_DICTIONARIES و مکان‌های معمول سیستم جست‌وجو می‌کند.
 	No templates match your search.	هیچ قالبی با جست‌وجوی شما مطابقت ندارد.
 	No Transform	بدون تبدیل
 	No words yet. Add to Dictionary on a misspelled word puts it here.	هنوز واژه‌ای نیست. گزینهٔ «افزودن به واژه‌نامه» روی واژهٔ غلط آن را اینجا می‌گذارد.

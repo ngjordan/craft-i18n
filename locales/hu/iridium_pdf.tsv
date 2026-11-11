@@ -3005,7 +3005,7 @@ action wizard	Start	Indítás
 	Text opacity	Szöveg átlátszatlansága
 	Text recognition cancelled. {summary}	A szövegfelismerés megszakítva. {summary}
 	Text recognition is already running	A szövegfelismerés már fut
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	A szövegfelismerés nincs telepítve: hiányoznak a modellfájljai. Telepítsd újra a PDFot, vagy állítsd a PDFCRAFT_MODELS változót az őket tartalmazó mappára.
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	A szövegfelismerés nincs telepítve: hiányoznak a modellfájljai. Telepítsd újra a PDFot, vagy állítsd a IRIDIUM_PDF_MODELS változót az őket tartalmazó mappára.
 	Text rendering	Szövegmegjelenítés
 	Text style	Szövegstílus
 	Text to find	Keresett szöveg
@@ -3203,7 +3203,7 @@ action wizard	Start	Indítás
 	the tesseract program was not found (install it, or add it to the PATH)	a tesseract program nem található (telepítse, vagy vegye fel a PATH-ba)
 	The tesseract program, run as an external process	A tesseract program, külső folyamatként futtatva
 	The text is the same	A szöveg azonos
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	a szövegfelismerés modelljei nincsenek telepítve (telepítsd újra a PDFot, vagy állítsd a PDFCRAFT_MODELS változót az őket tartalmazó mappára)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	a szövegfelismerés modelljei nincsenek telepítve (telepítsd újra a PDFot, vagy állítsd a IRIDIUM_PDF_MODELS változót az őket tartalmazó mappára)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	A szöveg az olvasó képernyőjéhez és betűméretéhez igazodik, fejezetekre bontva, a könyvjelzőkkel mint tartalomjegyzékkel.
 	The title in the metadata and the document information differ	A metaadatokban és a dokumentumadatokban lévő cím eltér
 	the title must not be empty	a cím nem lehet üres

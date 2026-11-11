@@ -3219,8 +3219,8 @@ certificate	Subject	Subjecte
 	Text opacity	Opacitat del text
 	Text recognition cancelled. {summary}	S'ha cancel·lat el reconeixement de text. {summary}
 	Text recognition is already running	El reconeixement de text ja s'està executant
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	El reconeixement de text no està instal·lat: falten els seus fitxers de model. Reinstal·la PDF o defineix PDFCRAFT_MODELS amb la carpeta que els conté.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	El reconeixement de text no està instal·lat: falten els seus models (executa `cargo xtask models` o defineix PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	El reconeixement de text no està instal·lat: falten els seus fitxers de model. Reinstal·la PDF o defineix IRIDIUM_PDF_MODELS amb la carpeta que els conté.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	El reconeixement de text no està instal·lat: falten els seus models (executa `cargo xtask models` o defineix IRIDIUM_PDF_MODELS).
 	Text rendering	Representació del text
 	Text style	Estil del text
 	Text to find	Text que cal cercar
@@ -3496,7 +3496,7 @@ calendar weekday	Th	dj.
 	The standard structure type {} is mapped to a type that isn't standard	El tipus d'estructura estàndard {} s'assigna a un tipus que no és estàndard
 	The structure type {} isn't standard and isn't mapped to a standard type	El tipus d'estructura {} no és estàndard i no s'assigna a cap tipus estàndard
 	The text is the same	El text és el mateix
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	els models de reconeixement de text no estan instal·lats (reinstal·la PDF o defineix PDFCRAFT_MODELS amb la carpeta que els conté)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	els models de reconeixement de text no estan instal·lats (reinstal·la PDF o defineix IRIDIUM_PDF_MODELS amb la carpeta que els conté)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	El text s'adapta a la pantalla i a la mida de lletra del lector, en capítols, amb els marcadors com a contingut.
 	The timestamp authority's certificate is not issued for time stamping.	The timestamp authority's certificate is not issued for time stamping.
 	The timestamp authority's certificate was not valid at the time of timestamping.	El certificat de l'autoritat de marca de temps no era vàlid en el moment de marcar el temps.

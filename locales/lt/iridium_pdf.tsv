@@ -3286,8 +3286,8 @@ certificate	Subject	Sertifikato subjektas
 	Text opacity	Teksto nepermatomumas
 	Text recognition cancelled. {summary}	Teksto atpažinimas atšauktas. {summary}
 	Text recognition is already running	Teksto atpažinimas jau vykdomas
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Teksto atpažinimas neįdiegtas: trūksta modelio failų. Iš naujo įdiekite „PDF“ arba nustatykite PDFCRAFT_MODELS aplanką, kuriame jie laikomi.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Teksto atpažinimas neįdiegtas: trūksta modelių (vykdykite `cargo xtask models` arba nustatykite PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Teksto atpažinimas neįdiegtas: trūksta modelio failų. Iš naujo įdiekite „PDF“ arba nustatykite IRIDIUM_PDF_MODELS aplanką, kuriame jie laikomi.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Teksto atpažinimas neįdiegtas: trūksta modelių (vykdykite `cargo xtask models` arba nustatykite IRIDIUM_PDF_MODELS).
 	Text rendering	Teksto atvaizdavimas
 	Text style	Teksto stilius
 	Text to find	Ieškomas tekstas
@@ -3599,7 +3599,7 @@ calendar weekday	Th	Kt
 	the tesseract program was not found (install it, or add it to the PATH)	programa „Tesseract“ nerasta (įdiekite ją arba pridėkite prie PATH)
 	The tesseract program, run as an external process	Programa „Tesseract“, vykdoma kaip išorinis procesas
 	The text is the same	Tekstas sutampa
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	teksto atpažinimo modeliai neįdiegti (iš naujo įdiekite „PDF“ arba nustatykite PDFCRAFT_MODELS aplanką, kuriame jie laikomi)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	teksto atpažinimo modeliai neįdiegti (iš naujo įdiekite „PDF“ arba nustatykite IRIDIUM_PDF_MODELS aplanką, kuriame jie laikomi)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Tekstas prisitaiko prie skaitytojo ekrano ir šrifto dydžio, suskirstytas į skyrius, o žymelės tampa turiniu.
 	The timestamp authority's certificate is not issued for time stamping.	The timestamp authority's certificate is not issued for time stamping.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Laiko žymą išdavusios įstaigos sertifikatas žymos sukūrimo metu negaliojo.

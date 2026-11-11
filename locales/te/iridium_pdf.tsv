@@ -2853,7 +2853,7 @@ action wizard	Start	ప్రారంభించు
 	Text opacity	టెక్స్ట్ అపారదర్శకత
 	Text recognition cancelled. {summary}	టెక్స్ట్ గుర్తింపు రద్దు చేయబడింది. {summary}
 	Text recognition is already running	టెక్స్ట్ గుర్తింపు ఇప్పటికే అమలవుతోంది
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	టెక్స్ట్ గుర్తింపు ఇన్‌స్టాల్ కాలేదు: దాని మోడల్ ఫైల్‌లు లేవు. PDFను మళ్లీ ఇన్‌స్టాల్ చేయండి, లేదా వాటిని కలిగి ఉన్న ఫోల్డర్‌కు PDFCRAFT_MODELSను సెట్ చేయండి.
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	టెక్స్ట్ గుర్తింపు ఇన్‌స్టాల్ కాలేదు: దాని మోడల్ ఫైల్‌లు లేవు. PDFను మళ్లీ ఇన్‌స్టాల్ చేయండి, లేదా వాటిని కలిగి ఉన్న ఫోల్డర్‌కు IRIDIUM_PDF_MODELSను సెట్ చేయండి.
 	Text rendering	టెక్స్ట్ రెండరింగ్
 	Text style	వచన శైలి
 	Text to find	కనుగొనాల్సిన టెక్స్ట్
@@ -3027,7 +3027,7 @@ action wizard	Start	ప్రారంభించు
 	the tesseract program was not found (install it, or add it to the PATH)	tesseract ప్రోగ్రామ్ కనబడలేదు (దాన్ని ఇన్‌స్టాల్ చేయండి లేదా PATH‌కు జోడించండి)
 	The tesseract program, run as an external process	బాహ్య ప్రాసెస్‌గా అమలయ్యే tesseract ప్రోగ్రామ్
 	The text is the same	టెక్స్ట్ ఒకేలా ఉంది
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	టెక్స్ట్ గుర్తింపు మోడల్‌లు ఇన్‌స్టాల్ చేయబడలేదు (PDFను మళ్లీ ఇన్‌స్టాల్ చేయండి, లేదా వాటిని కలిగి ఉన్న ఫోల్డర్‌కు PDFCRAFT_MODELSను సెట్ చేయండి)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	టెక్స్ట్ గుర్తింపు మోడల్‌లు ఇన్‌స్టాల్ చేయబడలేదు (PDFను మళ్లీ ఇన్‌స్టాల్ చేయండి, లేదా వాటిని కలిగి ఉన్న ఫోల్డర్‌కు IRIDIUM_PDF_MODELSను సెట్ చేయండి)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	పాఠ్యం పాఠకుడి స్క్రీన్‌కు, ఫాంట్ పరిమాణానికి అనుగుణంగా అధ్యాయాలుగా సర్దుకుంటుంది, బుక్‌మార్క్‌లు విషయసూచికగా ఉంటాయి.
 	The title in the metadata and the document information differ	మెటాడేటాలోని శీర్షిక, పత్రం సమాచారంలోని శీర్షిక వేర్వేరుగా ఉన్నాయి
 	the title must not be empty	శీర్షిక ఖాళీగా ఉండకూడదు

@@ -2877,8 +2877,8 @@ certificate	Subject	Subjekti
 	Text opacity	Tejdukshmëria e tekstit
 	Text recognition cancelled. {summary}	Njohja e tekstit u anulua. {summary}
 	Text recognition is already running	Njohja e tekstit është tashmë në punë
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Njohja e tekstit nuk është e instaluar: mungojnë skedarët e modelit. Instaloni përsëri PDF, ose vendosni PDFCRAFT_MODELS te dosja që i përmban.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Njohja e tekstit nuk është e instaluar: mungojnë modelet e saj (ekzekutoni `cargo xtask models`, ose caktoni PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Njohja e tekstit nuk është e instaluar: mungojnë skedarët e modelit. Instaloni përsëri PDF, ose vendosni IRIDIUM_PDF_MODELS te dosja që i përmban.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Njohja e tekstit nuk është e instaluar: mungojnë modelet e saj (ekzekutoni `cargo xtask models`, ose caktoni IRIDIUM_PDF_MODELS).
 	Text rendering	Paraqitja e tekstit
 	Text style	Stili i tekstit
 	Text to find	Teksti për t'u gjetur
@@ -3039,7 +3039,7 @@ certificate	Subject	Subjekti
 	the signing service rejected the user name or password	shërbimi i nënshkrimit refuzoi emrin e përdoruesit ose fjalëkalimin
 	The smart card's digital IDs couldn't be listed: {e}	ID-të dixhitale të kartës inteligjente nuk u listuan dot: {e}
 	The text is the same	Teksti është i njëjtë
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	modelet e njohjes së tekstit nuk janë të instaluara (instaloni përsëri PDF, ose vendosni PDFCRAFT_MODELS te dosja që i përmban)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	modelet e njohjes së tekstit nuk janë të instaluara (instaloni përsëri PDF, ose vendosni IRIDIUM_PDF_MODELS te dosja që i përmban)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Teksti përshtatet me ekranin dhe madhësinë e shkronjave të lexuesit, në kapituj, me libërshënuesit si përmbajtje.
 	The title in the metadata and the document information differ	Titulli te metadata dhe te informacioni i dokumentit ndryshojnë
 	the title must not be empty	titulli nuk duhet të jetë bosh

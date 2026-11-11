@@ -1888,7 +1888,6 @@ cameraData	Model	Model
 	Name (A–Z)	Ime (A–Z)
 	Name:	Ime:
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Izvorno prevlačenje i otpuštanje datoteka još nije podržano na Wayland-u. Koristite Datoteka › Otvori ili kopirajte sliku u menadžeru datoteka i nalepite je pomoću {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Izvorno prevlačenje i otpuštanje datoteka još nije podržano na Wayland-u. Koristite Datoteka › Otvori ili pokrenite Iridium pod XWayland-om pomoću `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Izvorno prevlačenje i otpuštanje datoteka nije dostupno
 	Nearest Neighbor	Najbliži sused
 	Nearest neighbor	Najbliži sused

@@ -1180,7 +1180,7 @@
 	No Shadow	Kein Schatten
 	No Soft Edges	Keine weichen Kanten
 	No sources yet.	Noch keine Quellen.
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Für {language} ist kein Rechtschreibwörterbuch installiert, daher wird die Sprache nicht geprüft. Docs sucht das Hunspell-Wörterbuch {name} im Ordner WORDCRAFT_DICTIONARIES und an den üblichen Systemorten.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	Für {language} ist kein Rechtschreibwörterbuch installiert, daher wird die Sprache nicht geprüft. Docs sucht das Hunspell-Wörterbuch {name} im Ordner IRIDIUM_DOCS_DICTIONARIES und an den üblichen Systemorten.
 	No templates match your search.	Keine Vorlagen entsprechen Ihrer Suche.
 	No Transform	Keine Transformation
 	No words yet. Add to Dictionary on a misspelled word puts it here.	Noch keine Wörter. „Zum Wörterbuch hinzufügen“ bei einem falsch geschriebenen Wort legt es hier ab.

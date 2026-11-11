@@ -3099,7 +3099,7 @@ document scrollbar width	Standard	标准
 	Text opacity	文本不透明度
 	Text recognition cancelled. {summary}	已取消文字识别。{summary}
 	Text recognition is already running	文本识别已在运行
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	未安装文本识别：缺少模型文件。请重新安装 PDF，或将 PDFCRAFT_MODELS 设置为包含这些文件的文件夹。
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	未安装文本识别：缺少模型文件。请重新安装 PDF，或将 IRIDIUM_PDF_MODELS 设置为包含这些文件的文件夹。
 	Text rendering	文本渲染
 	Text style	文字样式
 	Text to find	要查找的文本
@@ -3296,7 +3296,7 @@ document scrollbar width	Standard	标准
 	the tesseract program was not found (install it, or add it to the PATH)	未找到 tesseract 程序（请安装，或将其加入 PATH）
 	The tesseract program, run as an external process	tesseract 程序，作为外部进程运行
 	The text is the same	文本相同
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	尚未安装文本识别模型（请重新安装 PDF，或将 PDFCRAFT_MODELS 设置为包含这些模型的文件夹）
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	尚未安装文本识别模型（请重新安装 PDF，或将 IRIDIUM_PDF_MODELS 设置为包含这些模型的文件夹）
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	文本随读者的屏幕和字号重排，分为章节，书签作为目录。
 	The title in the metadata and the document information differ	元数据与文档信息中的标题不一致
 	the title must not be empty	标题不能为空

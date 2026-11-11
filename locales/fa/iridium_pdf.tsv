@@ -2233,8 +2233,8 @@ certificate	Subject	دارنده
 	Text opacity	کدری متن
 	Text recognition cancelled. {summary}	شناسایی متن لغو شد. {summary}
 	Text recognition is already running	باز‌شناسی متن از قبل در حال اجراست
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	تشخیص متن نصب نیست: فایل‌های مدل آن وجود ندارند. PDF را دوباره نصب کنید، یا PDFCRAFT_MODELS را به پوشه ای که آن‌ها را دارد تنظیم کنید.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	تشخیص متن نصب نشده است: مدل‌های آن وجود ندارند (`cargo xtask models` را اجرا کنید یا PDFCRAFT_MODELS را تنظیم کنید).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	تشخیص متن نصب نیست: فایل‌های مدل آن وجود ندارند. PDF را دوباره نصب کنید، یا IRIDIUM_PDF_MODELS را به پوشه ای که آن‌ها را دارد تنظیم کنید.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	تشخیص متن نصب نشده است: مدل‌های آن وجود ندارند (`cargo xtask models` را اجرا کنید یا IRIDIUM_PDF_MODELS را تنظیم کنید).
 	Text style	سبک متن
 	Text to find	متن برای یافتن
 	Text to insert	متن برای درج
@@ -2371,7 +2371,7 @@ calendar weekday	Th	پن
 	The signer's identity is valid.	هویت امضا‌کننده معتبر است.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	قلم‌های استاندارد نمی‌توانند «{c}» را بکشند ({code}). فعلاً فقط نویسه‌های اروپای غربی می‌توانند به‌عنوان متن افزوده شوند.
 	The text is the same	متن یکسان است
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	مدل‌های تشخیص متن نصب نشدهاند (PDF را دوباره نصب کنید، یا PDFCRAFT_MODELS را روی پوش‌های که آن‌ها را نگه می‌دارد تنظیم کنید)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	مدل‌های تشخیص متن نصب نشدهاند (PDF را دوباره نصب کنید، یا IRIDIUM_PDF_MODELS را روی پوش‌های که آن‌ها را نگه می‌دارد تنظیم کنید)
 	The timestamp authority's certificate is not issued for time stamping.	گواهی مرجع مهر زمانی برای مهر زدن زمان صادر نشده است.
 	The timestamp authority's certificate was not valid at the time of timestamping.	گواهی مرجع مهر زمانی در زمان مهر زدن معتبر نبود.
 	The timestamp contents are not hexadecimal.	محتوای مهر زمانی هگزادسیمال نیست.

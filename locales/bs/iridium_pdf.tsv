@@ -2033,8 +2033,8 @@ certificate	Subject	Subjekt
 	Text language is specified	Jezik teksta je naveden
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	Tekst mora imati dovoljan kontrast prema pozadini za slabovidne osobe. Provjerite boje okom ili alatom za kontrast.
 	Text recognition is already running	Prepoznavanje teksta je već u toku
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Prepoznavanje teksta nije instalirano: nedostaju datoteke modela. Ponovo instalirajte PDF ili postavite PDFCRAFT_MODELS na folder koji ih sadrži.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Prepoznavanje teksta nije instalirano: nedostaju modeli (pokrenite `cargo xtask models` ili postavite PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Prepoznavanje teksta nije instalirano: nedostaju datoteke modela. Ponovo instalirajte PDF ili postavite IRIDIUM_PDF_MODELS na folder koji ih sadrži.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Prepoznavanje teksta nije instalirano: nedostaju modeli (pokrenite `cargo xtask models` ili postavite IRIDIUM_PDF_MODELS).
 	Text to find	Tekst za pretragu
 	Text to insert	Tekst za umetanje
 	Text to place	Tekst za postavljanje
@@ -2162,7 +2162,7 @@ calendar weekday	Th	Če
 	The signer's identity is valid.	Identitet potpisnika je važeći.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	Standardni fontovi ne mogu iscrtati „{c}” ({code}). Za sada se kao tekst mogu dodati samo zapadnoevropski znakovi.
 	The text is the same	Tekst je isti
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	modeli za prepoznavanje teksta nisu instalirani (ponovo instalirajte PDF ili postavite PDFCRAFT_MODELS na folder koji ih sadrži)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	modeli za prepoznavanje teksta nisu instalirani (ponovo instalirajte PDF ili postavite IRIDIUM_PDF_MODELS na folder koji ih sadrži)
 	The timestamp authority's certificate is not issued for time stamping.	Certifikat vremenskog autoriteta nije izdat za vremensko označavanje.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Certifikat tijela za vremenske žigove nije bio važeći u vrijeme izdavanja vremenskog žiga.
 	The timestamp contents are not hexadecimal.	Sadržaj vremenskog žiga nije heksadecimalan.

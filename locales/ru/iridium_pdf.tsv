@@ -3264,8 +3264,8 @@ certificate	Subject	Субъект
 	Text opacity	Непрозрачность текста
 	Text recognition cancelled. {summary}	Распознавание текста отменено. {summary}
 	Text recognition is already running	Распознавание текста уже выполняется
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Распознавание текста не установлено: отсутствуют файлы моделей. Переустановите PDF или задайте в PDFCRAFT_MODELS папку, в которой они лежат.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Распознавание текста не установлено: нет его моделей (выполните `cargo xtask models` или задайте PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Распознавание текста не установлено: отсутствуют файлы моделей. Переустановите PDF или задайте в IRIDIUM_PDF_MODELS папку, в которой они лежат.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Распознавание текста не установлено: нет его моделей (выполните `cargo xtask models` или задайте IRIDIUM_PDF_MODELS).
 	Text rendering	Отрисовка текста
 	Text style	Стиль текста
 	Text to find	Текст для поиска
@@ -3525,7 +3525,7 @@ calendar weekday	Th	Чт
 	the tesseract program was not found (install it, or add it to the PATH)	программа tesseract не найдена (установите её или добавьте в PATH)
 	The tesseract program, run as an external process	Программа tesseract, запускаемая как внешний процесс
 	The text is the same	Текст одинаков
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	модели распознавания текста не установлены (переустановите PDF или задайте в PDFCRAFT_MODELS папку, в которой они лежат)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	модели распознавания текста не установлены (переустановите PDF или задайте в IRIDIUM_PDF_MODELS папку, в которой они лежат)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Текст подстраивается под экран и размер шрифта читателя, разбит на главы, закладки становятся оглавлением.
 	The timestamp authority's certificate is not issued for time stamping.	Сертификат службы меток времени выпущен не для проставления меток времени.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Сертификат службы меток времени не был действителен на момент проставления метки.

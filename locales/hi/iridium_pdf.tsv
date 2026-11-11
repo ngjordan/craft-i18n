@@ -3028,8 +3028,8 @@ certificate	Subject	विषय
 	Text opacity	टेक्स्ट की अपारदर्शिता
 	Text recognition cancelled. {summary}	टेक्स्ट पहचान रद्द की गई। {summary}
 	Text recognition is already running	टेक्स्ट पहचान पहले से चल रही है
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	टेक्स्ट पहचान इंस्टॉल नहीं है: इसकी मॉडल फ़ाइलें मौजूद नहीं हैं। PDF दोबारा इंस्टॉल करें, या PDFCRAFT_MODELS को उस फ़ोल्डर पर सेट करें जिसमें वे रखी हैं।
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	टेक्स्ट पहचान स्थापित नहीं है: इसके मॉडल गायब हैं (`cargo xtask models` चलाएँ, या PDFCRAFT_MODELS सेट करें)।
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	टेक्स्ट पहचान इंस्टॉल नहीं है: इसकी मॉडल फ़ाइलें मौजूद नहीं हैं। PDF दोबारा इंस्टॉल करें, या IRIDIUM_PDF_MODELS को उस फ़ोल्डर पर सेट करें जिसमें वे रखी हैं।
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	टेक्स्ट पहचान स्थापित नहीं है: इसके मॉडल गायब हैं (`cargo xtask models` चलाएँ, या IRIDIUM_PDF_MODELS सेट करें)।
 	Text rendering	टेक्स्ट रेंडरिंग
 	Text style	पाठ शैली
 	Text to find	खोजने के लिए पाठ
@@ -3244,7 +3244,7 @@ calendar weekday	Th	गुरु
 	The smart card's digital IDs couldn't be listed: {e}	स्मार्ट कार्ड की डिजिटल ID सूचीबद्ध नहीं की जा सकीं: {e}
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	मानक फ़ॉन्ट “{c}” ({code}) नहीं बना सकते। फ़िलहाल टेक्स्ट के रूप में केवल पश्चिमी यूरोपीय अक्षर ही जोड़े जा सकते हैं।
 	The text is the same	टेक्स्ट एक जैसा है
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	टेक्स्ट पहचान मॉडल इंस्टॉल नहीं हैं (PDF दोबारा इंस्टॉल करें, या PDFCRAFT_MODELS को उस फ़ोल्डर पर सेट करें जिसमें वे मौजूद हैं)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	टेक्स्ट पहचान मॉडल इंस्टॉल नहीं हैं (PDF दोबारा इंस्टॉल करें, या IRIDIUM_PDF_MODELS को उस फ़ोल्डर पर सेट करें जिसमें वे मौजूद हैं)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	पाठ पाठक की स्क्रीन और फ़ॉन्ट आकार के अनुसार अध्यायों में पुनः प्रवाहित होता है, बुकमार्क विषय-सूची बन जाते हैं।
 	The timestamp authority's certificate was not valid at the time of timestamping.	टाइमस्टैम्प प्राधिकारी का प्रमाणपत्र टाइमस्टैम्प लगाते समय मान्य नहीं था।
 	The timestamp contents are not hexadecimal.	टाइमस्टैम्प की सामग्री हेक्साडेसिमल नहीं है।

@@ -2972,8 +2972,8 @@ certificate	Subject	Imetnik
 	Text opacity	Neprosojnost besedila
 	Text recognition cancelled. {summary}	Prepoznavanje besedila je preklicano. {summary}
 	Text recognition is already running	Prepoznavanje besedila že poteka
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Prepoznavanje besedila ni nameščeno: manjkajo datoteke njegovih modelov. Ponovno namestite PDF ali nastavite PDFCRAFT_MODELS na mapo, v kateri so.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Prepoznavanje besedila ni nameščeno: manjkajo njegovi modeli (zaženite `cargo xtask models` ali nastavite PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Prepoznavanje besedila ni nameščeno: manjkajo datoteke njegovih modelov. Ponovno namestite PDF ali nastavite IRIDIUM_PDF_MODELS na mapo, v kateri so.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Prepoznavanje besedila ni nameščeno: manjkajo njegovi modeli (zaženite `cargo xtask models` ali nastavite IRIDIUM_PDF_MODELS).
 	Text rendering	Upodabljanje besedila
 	Text style	Slog besedila
 	Text to find	Besedilo za iskanje
@@ -3168,7 +3168,7 @@ certificate	Subject	Imetnik
 	the tesseract program was not found (install it, or add it to the PATH)	programa tesseract ni bilo mogoče najti (namestite ga ali ga dodajte v PATH)
 	The tesseract program, run as an external process	Program tesseract, zagnan kot zunanji proces
 	The text is the same	Besedilo je enako
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	modeli za prepoznavanje besedila niso nameščeni (ponovno namestite PDF ali nastavite PDFCRAFT_MODELS na mapo, v kateri so)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	modeli za prepoznavanje besedila niso nameščeni (ponovno namestite PDF ali nastavite IRIDIUM_PDF_MODELS na mapo, v kateri so)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Besedilo se prilagodi bralčevemu zaslonu in velikosti pisave, razdeljeno v poglavja, z zaznamki kot kazalom.
 	The title in the metadata and the document information differ	Naslov v metapodatkih in podatkih o dokumentu se razlikujeta
 	the title must not be empty	naslov ne sme biti prazen

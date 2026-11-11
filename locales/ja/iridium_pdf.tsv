@@ -3121,8 +3121,8 @@ document scrollbar width	Standard	標準
 	Text opacity	テキストの不透明度
 	Text recognition cancelled. {summary}	テキスト認識をキャンセルしました。{summary}
 	Text recognition is already running	テキスト認識はすでに実行中です
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	テキスト認識がインストールされていません。モデルファイルがありません。PDF を再インストールするか、PDFCRAFT_MODELS にモデルファイルのあるフォルダーを設定してください。
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	テキスト認識がインストールされていません。必要なモデルがありません（`cargo xtask models` を実行するか、PDFCRAFT_MODELS を設定してください）。
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	テキスト認識がインストールされていません。モデルファイルがありません。PDF を再インストールするか、IRIDIUM_PDF_MODELS にモデルファイルのあるフォルダーを設定してください。
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	テキスト認識がインストールされていません。必要なモデルがありません（`cargo xtask models` を実行するか、IRIDIUM_PDF_MODELS を設定してください）。
 	Text rendering	テキストのレンダリング
 	Text style	文字の種類
 	Text to find	検索するテキスト
@@ -3323,7 +3323,7 @@ document scrollbar width	Standard	標準
 	the tesseract program was not found (install it, or add it to the PATH)	tesseract プログラムが見つかりません（インストールするか PATH に追加してください）
 	The tesseract program, run as an external process	tesseract プログラムを外部プロセスとして実行します
 	The text is the same	テキストは同一です
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	テキスト認識モデルがインストールされていません（PDF を再インストールするか、PDFCRAFT_MODELS にモデルのあるフォルダーを設定してください）
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	テキスト認識モデルがインストールされていません（PDF を再インストールするか、IRIDIUM_PDF_MODELS にモデルのあるフォルダーを設定してください）
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	テキストは読者の画面とフォントサイズに合わせて流し込まれ、章に分かれ、しおりが目次になります。
 	The title in the metadata and the document information differ	メタデータと文書情報のタイトルが一致しません
 	the title must not be empty	タイトルは空欄にできません

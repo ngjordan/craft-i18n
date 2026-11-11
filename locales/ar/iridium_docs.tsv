@@ -1540,7 +1540,7 @@ template	Letter	رسالة
 	No Soft Edges	بلا حواف ناعمة
 	No sources yet.	لا توجد مصادر بعد.
 	No Spacing	بلا تباعد
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	لا يوجد قاموس إملائي مثبت للغة {language}، لذا لا تُدقَّق. يبحث Docs عن قاموس Hunspell {name} في مجلد WORDCRAFT_DICTIONARIES وفي مواقع النظام المعتادة.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	لا يوجد قاموس إملائي مثبت للغة {language}، لذا لا تُدقَّق. يبحث Docs عن قاموس Hunspell {name} في مجلد IRIDIUM_DOCS_DICTIONARIES وفي مواقع النظام المعتادة.
 	No templates match your search.	لا توجد قوالب تطابق بحثك.
 	No Transform	بلا تحويل
 	No words yet. Add to Dictionary on a misspelled word puts it here.	لا توجد كلمات بعد. أمر «إضافة إلى القاموس» على كلمة خاطئة الإملاء يضعها هنا.

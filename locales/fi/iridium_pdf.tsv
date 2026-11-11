@@ -3036,8 +3036,8 @@ certificate	Subject	Kohde
 	Text opacity	Tekstin peittävyys
 	Text recognition cancelled. {summary}	Tekstintunnistus peruttiin. {summary}
 	Text recognition is already running	Tekstintunnistus on jo käynnissä
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Tekstintunnistusta ei ole asennettu: sen mallitiedostot puuttuvat. Asenna PDF uudelleen tai aseta PDFCRAFT_MODELS osoittamaan kansioon, jossa ne ovat.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Tekstintunnistusta ei ole asennettu: sen mallit puuttuvat (suorita `cargo xtask models` tai aseta PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Tekstintunnistusta ei ole asennettu: sen mallitiedostot puuttuvat. Asenna PDF uudelleen tai aseta IRIDIUM_PDF_MODELS osoittamaan kansioon, jossa ne ovat.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Tekstintunnistusta ei ole asennettu: sen mallit puuttuvat (suorita `cargo xtask models` tai aseta IRIDIUM_PDF_MODELS).
 	Text rendering	Tekstin piirto
 	Text style	Tekstityyli
 	Text to find	Etsittävä teksti
@@ -3313,7 +3313,7 @@ calendar weekday	Th	To
 	The standard structure type {} is mapped to a type that isn't standard	Vakiorakennetyyppi {} on yhdistetty tyyppiin, joka ei ole vakiotyyppi
 	The structure type {} isn't standard and isn't mapped to a standard type	Rakennetyyppi {} ei ole vakiotyyppi eikä sitä ole yhdistetty vakiotyyppiin
 	The text is the same	Teksti on sama
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	tekstintunnistusmalleja ei ole asennettu (asenna PDF uudelleen tai aseta PDFCRAFT_MODELS osoittamaan mallien kansioon)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	tekstintunnistusmalleja ei ole asennettu (asenna PDF uudelleen tai aseta IRIDIUM_PDF_MODELS osoittamaan mallien kansioon)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Teksti rivittyy uudelleen lukijan näytön ja fonttikoon mukaan, lukuina, ja kirjanmerkit toimivat sisällysluettelona.
 	The timestamp authority's certificate is not issued for time stamping.	The timestamp authority's certificate is not issued for time stamping.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Aikaleiman myöntäjän varmenne ei ollut voimassa aikaleimaushetkellä.

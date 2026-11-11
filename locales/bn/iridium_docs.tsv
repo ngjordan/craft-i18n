@@ -1422,7 +1422,7 @@ template	Letter	চিঠি
 #	No Soft Edges	
 #	No sources yet.	
 #	No Spacing	
-#	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	
+#	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	
 #	No templates match your search.	
 #	No Transform	
 #	No words yet. Add to Dictionary on a misspelled word puts it here.	

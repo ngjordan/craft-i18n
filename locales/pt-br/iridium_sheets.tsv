@@ -1866,7 +1866,6 @@ cameraData	Model	Modelo
 	My Brushes	Meus pincéis
 	name	nome
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	O recurso nativo de arrastar e soltar arquivos ainda não funciona no Wayland. Use Arquivo › Abrir ou copie a imagem no gerenciador de arquivos e cole-a com {paste}.
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	Arrastar e soltar arquivos nativamente ainda não é suportado no Wayland. Use Arquivo › Abrir ou execute o Iridium sob XWayland com `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	Arrastar e soltar arquivos não está disponível
 	Nearest Neighbor	Vizinho mais próximo
 	Nearest neighbor	Vizinho mais próximo

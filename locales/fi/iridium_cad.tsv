@@ -3165,7 +3165,6 @@ diagnostics	render	renderöinti
 	Saves the current bars, toolbar and panel layout.	Tallentaa nykyisten palkkien, työkalurivin ja paneelien asettelun.
 	Saving	Tallennetaan
 @msg	Saving	Tallennetaan
-	Saving Poster.vectorcraft	Tallennetaan Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Tallennetaan palautustietoja: {_1}
 	Saving recovery data for {}	Tallennetaan palautustietoja: {}
 @msg	Saving {_1}	Tallennetaan {_1}
@@ -4079,7 +4078,6 @@ diagnostics	ui	käyttöliittymä
 	Iridium read this script without running it.	Iridium luki tämän komentosarjan suorittamatta sitä.
 	Iridium Swatches (.vcswatches)	Iridium-värimallit (.vcswatches)
 file-filter	Iridium Template	Iridium-malli
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Iridiumin Fonts-kansiota ei ole määritetty täällä: työpöytäsovellus ja vectorcraft-cli määrittävät sen
 	Vectors	Vektorit
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	version {0} tiedostoja ei voi pakata: pakattuja tiedostoja voi avata vain versiosta {COMPRESSED_SINCE} alkaen
 	Version {version} — open-source vector illustration in pure Rust.	Versio {version} — avoimen lähdekoodin vektorikuvitusohjelma puhtaalla Rustilla.

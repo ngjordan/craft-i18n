@@ -1399,7 +1399,7 @@ template	Letter	Brev
 	No Soft Edges	Ingen myke kanter
 	No sources yet.	Ingen kilder ennå.
 	No Spacing	Ingen avstand
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Ingen staveordbok for {language} er installert, så språket blir ikke kontrollert. Docs ser etter Hunspell-ordboken {name} i mappen WORDCRAFT_DICTIONARIES og på de vanlige stedene i systemet.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	Ingen staveordbok for {language} er installert, så språket blir ikke kontrollert. Docs ser etter Hunspell-ordboken {name} i mappen IRIDIUM_DOCS_DICTIONARIES og på de vanlige stedene i systemet.
 	No templates match your search.	Ingen maler samsvarer med søket.
 	No Transform	Ingen transformering
 	No words yet. Add to Dictionary on a misspelled word puts it here.	Ingen ord ennå. «Legg til i ordboken» på et feilstavet ord legger det her.

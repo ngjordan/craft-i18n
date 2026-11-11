@@ -1984,8 +1984,8 @@ certificate	Subject	Ämne
 	Text language is specified	Textens språk har angetts
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	Texten måste ha tillräcklig kontrast mot bakgrunden för personer med nedsatt syn. Kontrollera färgerna med blotta ögat eller med ett kontrastverktyg.
 	Text recognition is already running	Textigenkänning körs redan
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Textigenkänningen är inte installerad: modellfilerna saknas. Installera om PDF, eller ställ in PDFCRAFT_MODELS på mappen som innehåller dem.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Textigenkänning är inte installerad: dess modeller saknas (kör `cargo xtask models` eller ställ in PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Textigenkänningen är inte installerad: modellfilerna saknas. Installera om PDF, eller ställ in IRIDIUM_PDF_MODELS på mappen som innehåller dem.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Textigenkänning är inte installerad: dess modeller saknas (kör `cargo xtask models` eller ställ in IRIDIUM_PDF_MODELS).
 	Text to find	Text att söka efter
 	Text to insert	Text att infoga
 	Text used as a clipping path cannot be moved with this selection.	Text som används som beskärningsbana kan inte flyttas med den här markeringen.
@@ -2103,7 +2103,7 @@ calendar weekday	Th	to
 	The signer's identity is valid.	Signerarens identitet är giltig.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	Standardtypsnitten kan inte rita ”{c}” ({code}). Endast västeuropeiska tecken kan läggas till som text tills vidare.
 	The text is the same	Texten är identisk
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	textigenkänningsmodellerna är inte installerade (installera om PDF eller ställ in PDFCRAFT_MODELS på mappen som innehåller dem)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	textigenkänningsmodellerna är inte installerade (installera om PDF eller ställ in IRIDIUM_PDF_MODELS på mappen som innehåller dem)
 	The timestamp authority's certificate was not valid at the time of timestamping.	Tidsstämpelutfärdarens certifikat var inte giltigt när tidsstämpeln skapades.
 	The timestamp contents are not hexadecimal.	Tidsstämpelns innehåll är inte hexadecimalt.
 	The timestamp has no valid byte range.	Tidsstämpeln har inget giltigt byteintervall.

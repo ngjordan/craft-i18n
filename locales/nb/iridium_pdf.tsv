@@ -2447,8 +2447,8 @@ certificate	Subject	Emne
 	Text opacity	Tekstens gjennomsiktighet
 	Text recognition cancelled. {summary}	Tekstgjenkjenningen ble avbrutt. {summary}
 	Text recognition is already running	Tekstgjenkjenning kjører allerede
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Tekstgjenkjenning er ikke installert: modellfilene mangler. Installer PDF på nytt, eller sett PDFCRAFT_MODELS til mappen som inneholder dem.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Tekstgjenkjenning er ikke installert: modellene mangler (kjør `cargo xtask models`, eller sett PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Tekstgjenkjenning er ikke installert: modellfilene mangler. Installer PDF på nytt, eller sett IRIDIUM_PDF_MODELS til mappen som inneholder dem.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Tekstgjenkjenning er ikke installert: modellene mangler (kjør `cargo xtask models`, eller sett IRIDIUM_PDF_MODELS).
 	Text rendering	Tekstgjengivelse
 	Text style	Tekststil
 	Text to find	Tekst å finne
@@ -2629,7 +2629,7 @@ calendar weekday	Th	to
 	the signing service rejected the user name or password	signeringstjenesten avviste brukernavnet eller passordet
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	Standardskriftene kan ikke tegne «{c}» ({code}). Foreløpig kan bare vesteuropeiske tegn legges til som tekst.
 	The text is the same	Teksten er lik
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	modellene for tekstgjenkjenning er ikke installert (installer PDF på nytt, eller sett PDFCRAFT_MODELS til mappen som inneholder dem)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	modellene for tekstgjenkjenning er ikke installert (installer PDF på nytt, eller sett IRIDIUM_PDF_MODELS til mappen som inneholder dem)
 	The timestamp authority's certificate was not valid at the time of timestamping.	Tidsstempelutstederens sertifikat var ikke gyldig på tidsstemplingstidspunktet.
 	The timestamp contents are not hexadecimal.	Tidsstempelinnholdet er ikke heksadesimalt.
 	The timestamp has no valid byte range.	Tidsstempelet har ikke noe gyldig byteområde.

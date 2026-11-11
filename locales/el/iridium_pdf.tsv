@@ -2895,8 +2895,8 @@ certificate	Subject	Υποκείμενο πιστοποιητικού
 	Text opacity	Αδιαφάνεια κειμένου
 	Text recognition cancelled. {summary}	Η αναγνώριση κειμένου ακυρώθηκε. {summary}
 	Text recognition is already running	Η αναγνώριση κειμένου εκτελείται ήδη
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Η αναγνώριση κειμένου δεν είναι εγκατεστημένη: λείπουν τα αρχεία μοντέλων. Εγκαταστήστε ξανά το PDF ή ορίστε το PDFCRAFT_MODELS στον φάκελο που τα περιέχει.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Η αναγνώριση κειμένου δεν έχει εγκατασταθεί: λείπουν τα μοντέλα της (εκτελέστε `cargo xtask models` ή ορίστε το PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Η αναγνώριση κειμένου δεν είναι εγκατεστημένη: λείπουν τα αρχεία μοντέλων. Εγκαταστήστε ξανά το PDF ή ορίστε το IRIDIUM_PDF_MODELS στον φάκελο που τα περιέχει.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Η αναγνώριση κειμένου δεν έχει εγκατασταθεί: λείπουν τα μοντέλα της (εκτελέστε `cargo xtask models` ή ορίστε το IRIDIUM_PDF_MODELS).
 	Text rendering	Απόδοση κειμένου
 	Text style	Στυλ κειμένου
 	Text to find	Κείμενο προς αναζήτηση
@@ -3075,7 +3075,7 @@ certificate	Subject	Υποκείμενο πιστοποιητικού
 	the tesseract program was not found (install it, or add it to the PATH)	δεν βρέθηκε το πρόγραμμα tesseract (εγκαταστήστε το ή προσθέστε το στο PATH)
 	The tesseract program, run as an external process	Το πρόγραμμα tesseract, που εκτελείται ως εξωτερική διεργασία
 	The text is the same	Το κείμενο είναι ίδιο
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	τα μοντέλα αναγνώρισης κειμένου δεν είναι εγκατεστημένα (επανεγκαταστήστε το PDF ή ορίστε το PDFCRAFT_MODELS στον φάκελο που τα περιέχει)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	τα μοντέλα αναγνώρισης κειμένου δεν είναι εγκατεστημένα (επανεγκαταστήστε το PDF ή ορίστε το IRIDIUM_PDF_MODELS στον φάκελο που τα περιέχει)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Το κείμενο προσαρμόζεται στην οθόνη και στο μέγεθος γραμματοσειράς του αναγνώστη, σε κεφάλαια, με τους σελιδοδείκτες ως περιεχόμενα.
 	The title in the metadata and the document information differ	Ο τίτλος στα μεταδεδομένα διαφέρει από τον τίτλο στις πληροφορίες εγγράφου
 	the title must not be empty	ο τίτλος δεν επιτρέπεται να είναι κενός

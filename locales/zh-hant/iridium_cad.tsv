@@ -2490,7 +2490,6 @@ diagnostics	render	繪製
 	Saved {path} with {} note(s): {first}	已儲存 {path}，附 {} 則附註：{first}
 	Saves the current bars, toolbar and panel layout.	儲存目前的列、工具列與面板配置。
 	Saving	正在儲存
-	Saving Poster.vectorcraft	正在儲存 Poster.vectorcraft
 	Saving recovery data for {}	正在儲存 {} 的復原資料
 	Saving {}	正在儲存 {}
 	Scale Artwork with Artboard	隨工作區域縮放圖稿

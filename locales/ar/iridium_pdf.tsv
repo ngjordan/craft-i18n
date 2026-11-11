@@ -3101,8 +3101,8 @@ certificate	Subject	صاحب الشهادة
 	Text opacity	عتامة النص
 	Text recognition cancelled. {summary}	تم إلغاء التعرّف على النص. {summary}
 	Text recognition is already running	التعرف على النص قيد التشغيل بالفعل
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	التعرف على النص غير مثبت: ملفات نماذجه مفقودة. أعد تثبيت PDF، أو اضبط PDFCRAFT_MODELS على المجلد الذي يحتويها.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	التعرف على النص غير مثبت: نماذجه مفقودة (شغّل `cargo xtask models`، أو اضبط PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	التعرف على النص غير مثبت: ملفات نماذجه مفقودة. أعد تثبيت PDF، أو اضبط IRIDIUM_PDF_MODELS على المجلد الذي يحتويها.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	التعرف على النص غير مثبت: نماذجه مفقودة (شغّل `cargo xtask models`، أو اضبط IRIDIUM_PDF_MODELS).
 	Text rendering	عرض النص
 	Text style	نمط النص
 	Text to find	النص المراد البحث عنه
@@ -3350,7 +3350,7 @@ calendar weekday	Th	خميس
 	the tesseract program was not found (install it, or add it to the PATH)	لم يُعثر على برنامج tesseract (ثبّته أو أضفه إلى PATH)
 	The tesseract program, run as an external process	برنامج tesseract، يعمل كعملية خارجية
 	The text is the same	النص متطابق
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	نماذج التعرف على النص غير مثبتة (أعد تثبيت PDF، أو اضبط PDFCRAFT_MODELS على المجلد الذي يحتويها)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	نماذج التعرف على النص غير مثبتة (أعد تثبيت PDF، أو اضبط IRIDIUM_PDF_MODELS على المجلد الذي يحتويها)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	يتكيّف النص مع شاشة القارئ وحجم الخط، في فصول، مع الإشارات المرجعية كجدول محتويات.
 	The timestamp authority's certificate was not valid at the time of timestamping.	شهادة سلطة الطابع الزمني لم تكن صالحة وقت التوقيت.
 	The timestamp contents are not hexadecimal.	محتويات الطابع الزمني ليست سداسية عشرية.

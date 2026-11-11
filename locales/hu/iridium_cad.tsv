@@ -3188,7 +3188,6 @@ diagnostics	render	renderelés
 	Saves the current bars, toolbar and panel layout.	Menti a sávok, az eszköztár és a panelek aktuális elrendezését.
 	Saving	Mentés
 @msg	Saving	Mentés
-	Saving Poster.vectorcraft	Mentés: Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Helyreállítási adatok mentése: {_1}
 	Saving recovery data for {}	Helyreállítási adatok mentése: {}
 @msg	Saving {_1}	Mentés: {_1}
@@ -4109,7 +4108,6 @@ diagnostics	ui	felület
 	Iridium read this script without running it.	A Iridium futtatás nélkül olvasta be ezt a szkriptet.
 	Iridium Swatches (.vcswatches)	Iridium-színminták (.vcswatches)
 file-filter	Iridium Template	Iridium-sablon
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	a Iridium Fonts mappája itt nincs beállítva: az asztali alkalmazás és a vectorcraft-cli állítja be
 	Vectors	Vektorok
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	ilyen verziójú fájl nem tömöríthető: {0}; tömörített fájlt csak ez a verzió és az újabbak nyitnak meg: {COMPRESSED_SINCE}
 	Version {version} — open-source vector illustration in pure Rust.	Verzió: {version} – nyílt forráskódú vektoros illusztráció, tisztán Rustban.

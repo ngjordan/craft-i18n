@@ -2210,8 +2210,8 @@ certificate	Subject	সনদের ধারক
 	Text language is specified	লেখার ভাষা নির্ধারিত আছে
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	কম দৃষ্টিশক্তির মানুষের জন্য লেখা ও পটভূমিতে যথেষ্ট বৈপরীত্য দরকার। চোখে দেখে বা বৈপরীত্য পরীক্ষার সরঞ্জাম দিয়ে রং পরীক্ষা করুন।
 	Text recognition is already running	লেখা শনাক্তকরণ ইতিমধ্যে চলছে
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	লেখা শনাক্তকরণ ইনস্টল নেই: মডেল ফাইল অনুপস্থিত। PDF আবার ইনস্টল করুন বা মডেলের ফোল্ডারে PDFCRAFT_MODELS নির্ধারণ করুন।
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	লেখা শনাক্তকরণ ইনস্টল নেই: এর মডেল নেই (`cargo xtask models` চালান বা PDFCRAFT_MODELS নির্ধারণ করুন)।
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	লেখা শনাক্তকরণ ইনস্টল নেই: মডেল ফাইল অনুপস্থিত। PDF আবার ইনস্টল করুন বা মডেলের ফোল্ডারে IRIDIUM_PDF_MODELS নির্ধারণ করুন।
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	লেখা শনাক্তকরণ ইনস্টল নেই: এর মডেল নেই (`cargo xtask models` চালান বা IRIDIUM_PDF_MODELS নির্ধারণ করুন)।
 	Text to find	খোঁজার লেখা
 	Text to insert	ঢোকানোর লেখা
 	Text to place	বসানোর লেখা
@@ -2340,7 +2340,7 @@ calendar weekday	Th	বৃ
 	The signer's identity is valid.	স্বাক্ষরকারীর পরিচয় বৈধ।
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	মানক ফন্ট “{c}” ({code}) আঁকতে পারে না। আপাতত শুধু পশ্চিম ইউরোপীয় অক্ষর লেখা হিসেবে যোগ করা যায়।
 	The text is the same	লেখা একই
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	লেখা শনাক্তকরণ মডেল ইনস্টল নেই (PDF আবার ইনস্টল করুন বা মডেলের ফোল্ডারে PDFCRAFT_MODELS নির্ধারণ করুন)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	লেখা শনাক্তকরণ মডেল ইনস্টল নেই (PDF আবার ইনস্টল করুন বা মডেলের ফোল্ডারে IRIDIUM_PDF_MODELS নির্ধারণ করুন)
 	The timestamp authority's certificate is not issued for time stamping.	সময়-মোহর কর্তৃপক্ষের সনদ সময়-মোহর দেওয়ার জন্য ইস্যু করা হয়নি।
 	The timestamp authority's certificate was not valid at the time of timestamping.	সময়-মোহর দেওয়ার সময় সময়-মোহর কর্তৃপক্ষের সনদ বৈধ ছিল না।
 	The timestamp contents are not hexadecimal.	সময়-মোহরের বিষয়বস্তু হেক্সাডেসিমেল নয়।

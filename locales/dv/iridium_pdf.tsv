@@ -2219,8 +2219,8 @@ certificate	Subject	ސަބްޖެކްޓް
 	Text language is specified	ލިޔުމުގެ ބަސް ކަނޑައަޅާފައިވޭ
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	ފެނުން ދަށް މީހުންނަށްޓަކައި ލިޔުމާއި ފަސްބިމާ ދެމެދު ފުދޭވަރަށް ތަފާތު ހުންނަންވާނެ. ކުލަތައް ލޮލުން ނުވަތަ ކޮންޓްރާސްޓް ޓޫލަކުން ޗެކްކުރައްވާ.
 	Text recognition is already running	ލިޔުން ދެނެގަތުން މިހާރުވެސް ހިނގަމުންދޭ
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	ލިޔުން ދެނެގަތުން އިންސްޓޯލްކޮށްފައެއް ނުވޭ: އޭގެ މޮޑެލް ފައިލްތައް ނެތް. PDF އަލުން އިންސްޓޯލްކުރޭ، ނުވަތަ އެ ފައިލްތައް ހުރި ފޯލްޑަރަށް PDFCRAFT_MODELS ކަނޑައަޅާ.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	ލިޔުން ދެނެގަތުން އިންސްޓޯލްކޮށްފައެއް ނުވޭ: އޭގެ މޮޑެލްތައް ނެތް (`cargo xtask models` ހިންގަވާ، ނުވަތަ PDFCRAFT_MODELS ކަނޑައަޅުއްވާ).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	ލިޔުން ދެނެގަތުން އިންސްޓޯލްކޮށްފައެއް ނުވޭ: އޭގެ މޮޑެލް ފައިލްތައް ނެތް. PDF އަލުން އިންސްޓޯލްކުރޭ، ނުވަތަ އެ ފައިލްތައް ހުރި ފޯލްޑަރަށް IRIDIUM_PDF_MODELS ކަނޑައަޅާ.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	ލިޔުން ދެނެގަތުން އިންސްޓޯލްކޮށްފައެއް ނުވޭ: އޭގެ މޮޑެލްތައް ނެތް (`cargo xtask models` ހިންގަވާ، ނުވަތަ IRIDIUM_PDF_MODELS ކަނޑައަޅުއްވާ).
 	Text to find	ހޯދާ ލިޔުން
 	Text to insert	ވައްދާ ލިޔުން
 	Text used as a clipping path cannot be moved with this selection.	ކްލިޕިންގ ޕާތެއްގެ ގޮތުގައި ބޭނުންކުރާ ލިޔުން މި ޚިޔާރާއެކު ނުގެންދެވޭނެ.
@@ -2338,7 +2338,7 @@ calendar weekday	Th	ބުރާ
 	The signer's identity is valid.	ސޮއިކުރި ފަރާތުގެ އައިޑެންޓިޓީ ސައްޙަ.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	ސްޓޭންޑަޑް ފޮންޓްތަކުން “{c}” ({code}) ނުދައްކާނެ. މިހާރަށް ލިޔުމެއްގެ ގޮތުގައި އިތުރުކުރެވޭނީ ހުޅަނގު ޔޫރަޕުގެ އަކުރުތައް އެކަނި.
 	The text is the same	ލިޔުން އެއްގޮތް
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	ލިޔުން ދެނެގަންނަ މޮޑެލްތައް އިންސްޓޯލްކޮށްފައެއް ނުވޭ (PDF އަލުން އިންސްޓޯލްކުރޭ، ނުވަތަ އެ މޮޑެލްތައް ހުންނަ ފޯލްޑަރަށް PDFCRAFT_MODELS ސެޓްކުރޭ)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	ލިޔުން ދެނެގަންނަ މޮޑެލްތައް އިންސްޓޯލްކޮށްފައެއް ނުވޭ (PDF އަލުން އިންސްޓޯލްކުރޭ، ނުވަތަ އެ މޮޑެލްތައް ހުންނަ ފޯލްޑަރަށް IRIDIUM_PDF_MODELS ސެޓްކުރޭ)
 	The timestamp authority's certificate was not valid at the time of timestamping.	ޓައިމްސްޓޭމްޕް ޖެހި ވަގުތު ޓައިމްސްޓޭމްޕް އޮތޯރިޓީގެ ސެޓްފިކެޓް ސައްޙައެއް ނުވި.
 	The timestamp contents are not hexadecimal.	ޓައިމްސްޓޭމްޕްގެ ކޮންޓެންޓްސް ހެކްސަޑެސިމަލް ނޫން.
 	The timestamp has no valid byte range.	ޓައިމްސްޓޭމްޕްގައި ސައްޙަ ބައިޓް ރޭންޖެއް ނެތް.

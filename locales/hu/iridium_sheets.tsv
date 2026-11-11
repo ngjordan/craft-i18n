@@ -1889,7 +1889,6 @@ cameraData	Model	Típus
 	My Brushes	Saját ecsetek
 	name	név
 	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or copy the image in your file manager and paste it with {paste}.	Wayland alatt a natív fájlbehúzás még nem támogatott. Használd a Fájl › Megnyitás… parancsot, vagy másold a képet a fájlkezelőben, és illeszd be ({paste}).
-	Native file drag-and-drop is not supported on Wayland yet. Use File › Open, or run Iridium under XWayland with `WAYLAND_DISPLAY= photocraft`.	A fájlok natív behúzása Waylanden még nem támogatott. Használd a Fájl › Megnyitás parancsot, vagy futtasd a Iridiumot XWaylanden: `WAYLAND_DISPLAY= photocraft`.
 	Native file drag-and-drop is unavailable	A natív fájlbehúzás nem érhető el
 	Nearest Neighbor	Legközelebbi szomszéd
 	Nearest neighbor	Legközelebbi szomszéd

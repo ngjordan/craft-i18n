@@ -2771,8 +2771,8 @@ certificate	Subject	Subjek
 	Text opacity	Opasitas teks
 	Text recognition cancelled. {summary}	Pengenalan teks dibatalkan. {summary}
 	Text recognition is already running	Pengenalan teks sudah berjalan
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Pengenalan teks belum terpasang: file modelnya hilang. Pasang ulang PDF, atau atur PDFCRAFT_MODELS ke folder yang memuatnya.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Pengenalan teks belum terpasang: modelnya tidak ada (jalankan `cargo xtask models`, atau atur PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Pengenalan teks belum terpasang: file modelnya hilang. Pasang ulang PDF, atau atur IRIDIUM_PDF_MODELS ke folder yang memuatnya.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Pengenalan teks belum terpasang: modelnya tidak ada (jalankan `cargo xtask models`, atau atur IRIDIUM_PDF_MODELS).
 	Text rendering	Perenderan teks
 	Text style	Gaya teks
 	Text to find	Teks yang dicari
@@ -2987,7 +2987,7 @@ calendar weekday	Th	Kam
 	The smart card's digital IDs couldn't be listed: {e}	ID digital kartu pintar tidak dapat dicantumkan: {e}
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	Font standar tidak dapat menggambar “{c}” ({code}). Untuk saat ini hanya karakter Western European yang dapat ditambahkan sebagai teks.
 	The text is the same	Teksnya sama
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	model pengenalan teks belum terpasang (pasang ulang PDF, atau atur PDFCRAFT_MODELS ke folder yang memuatnya)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	model pengenalan teks belum terpasang (pasang ulang PDF, atau atur IRIDIUM_PDF_MODELS ke folder yang memuatnya)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Teks mengalir ulang menyesuaikan layar dan ukuran font pembaca, dalam bab-bab, dengan bookmark sebagai daftar isi.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Sertifikat otoritas stempel waktu tidak valid pada saat pembuatan stempel waktu.
 	The timestamp contents are not hexadecimal.	Isi stempel waktu bukan heksadesimal.

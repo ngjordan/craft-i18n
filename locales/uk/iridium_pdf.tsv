@@ -3012,7 +3012,7 @@ certificate	Subject	Власник сертифіката
 	Text opacity	Непрозорість тексту
 	Text recognition cancelled. {summary}	Розпізнавання тексту скасовано. {summary}
 	Text recognition is already running	Розпізнавання тексту вже виконується
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Розпізнавання тексту не встановлено: бракує файлів моделей. Перевстановіть PDF або задайте в PDFCRAFT_MODELS теку, у якій вони лежать.
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Розпізнавання тексту не встановлено: бракує файлів моделей. Перевстановіть PDF або задайте в IRIDIUM_PDF_MODELS теку, у якій вони лежать.
 	Text rendering	Відображення тексту
 	Text style	Стиль тексту
 	Text to find	Текст для пошуку
@@ -3209,7 +3209,7 @@ certificate	Subject	Власник сертифіката
 	the tesseract program was not found (install it, or add it to the PATH)	програму tesseract не знайдено (установіть її або додайте до PATH)
 	The tesseract program, run as an external process	Програма tesseract, що запускається як зовнішній процес
 	The text is the same	Текст однаковий
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	моделі розпізнавання тексту не встановлено (перевстановіть PDF або задайте в PDFCRAFT_MODELS теку, у якій вони лежать)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	моделі розпізнавання тексту не встановлено (перевстановіть PDF або задайте в IRIDIUM_PDF_MODELS теку, у якій вони лежать)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Текст підлаштовується під екран і розмір шрифту читача, поділений на розділи, закладки стають змістом.
 	The title in the metadata and the document information differ	Заголовки в метаданих і відомостях про документ відрізняються
 	the title must not be empty	заголовок не має бути порожнім

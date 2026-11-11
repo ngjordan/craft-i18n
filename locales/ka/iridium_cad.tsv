@@ -3994,7 +3994,6 @@ diagnostics	render	რენდერი
 	Save…	შენახვა…
 	Saving	შენახვა
 @msg	Saving	შენახვა
-	Saving Poster.vectorcraft	Poster.vectorcraft-ის შენახვა
 @msg	Saving recovery data for {_1}	{_1}-ის აღდგენის მონაცემების შენახვა
 	Saving recovery data for {}	ინახება აღდგენის მონაცემები: {}
 @msg	Saving {_1}	{_1}-ის შენახვა
@@ -5117,7 +5116,6 @@ diagnostics	ui	ინტერფეისი
 	Iridium read this script without running it.	Iridium-მა ეს სკრიპტი წაიკითხა მისი გაშვების გარეშე.
 	Iridium Swatches (.vcswatches)	Iridium-ის ფერის ნიმუშები (.vcswatches)
 file-filter	Iridium Template	Iridium-ის შაბლონი
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Iridium-ის შრიფტების საქაღალდე აქ დაყენებული არ არის: მას აყენებს სამაგიდო აპი და vectorcraft-cli
 	Vectors	ვექტორები
 	Version	ვერსია
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	{0} ვერსიის ფაილების შეკუმშვა შეუძლებელია: შეკუმშული ფაილები მხოლოდ {COMPRESSED_SINCE} და უფრო ახალი ვერსიებით იხსნება

@@ -3226,8 +3226,8 @@ certificate	Subject	Titulaire
 	Text opacity	Opacité du texte
 	Text recognition cancelled. {summary}	Reconnaissance du texte annulée. {summary}
 	Text recognition is already running	La reconnaissance de texte est déjà en cours
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	La reconnaissance de texte n'est pas installée : ses fichiers de modèles sont absents. Réinstallez PDF, ou définissez PDFCRAFT_MODELS sur le dossier qui les contient.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	La reconnaissance de texte n'est pas installée : ses modèles sont absents (exécutez `cargo xtask models`, ou définissez PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	La reconnaissance de texte n'est pas installée : ses fichiers de modèles sont absents. Réinstallez PDF, ou définissez IRIDIUM_PDF_MODELS sur le dossier qui les contient.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	La reconnaissance de texte n'est pas installée : ses modèles sont absents (exécutez `cargo xtask models`, ou définissez IRIDIUM_PDF_MODELS).
 	Text rendering	Rendu du texte
 	Text style	Style de texte
 	Text to find	Texte à rechercher
@@ -3487,7 +3487,7 @@ calendar weekday	Th	Je
 	the tesseract program was not found (install it, or add it to the PATH)	le programme tesseract est introuvable (installez-le ou ajoutez-le au PATH)
 	The tesseract program, run as an external process	Le programme tesseract, exécuté comme processus externe
 	The text is the same	Le texte est identique
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	les modèles de reconnaissance de texte ne sont pas installés (réinstallez PDF, ou définissez PDFCRAFT_MODELS sur le dossier qui les contient)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	les modèles de reconnaissance de texte ne sont pas installés (réinstallez PDF, ou définissez IRIDIUM_PDF_MODELS sur le dossier qui les contient)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Le texte s’adapte à l’écran et à la taille de police du lecteur, en chapitres, avec les signets comme table des matières.
 	The timestamp authority's certificate is not issued for time stamping.	Le certificat de l'autorité d'horodatage n'est pas émis pour l'horodatage.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Le certificat de l'autorité d'horodatage n'était pas valide au moment de l'horodatage.

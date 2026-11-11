@@ -3033,7 +3033,7 @@ action wizard	Start	Старт
 	Text opacity	Непрозрачност на текста
 	Text recognition cancelled. {summary}	Разпознаването на текст е отменено. {summary}
 	Text recognition is already running	Разпознаването на текст вече се изпълнява
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Разпознаването на текст не е инсталирано: файловете на моделите му липсват. Инсталирайте PDF отново или задайте в PDFCRAFT_MODELS папката, която ги съдържа.
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Разпознаването на текст не е инсталирано: файловете на моделите му липсват. Инсталирайте PDF отново или задайте в IRIDIUM_PDF_MODELS папката, която ги съдържа.
 	Text rendering	Изобразяване на текста
 	Text style	Стил на текста
 	Text to find	Текст за търсене
@@ -3226,7 +3226,7 @@ action wizard	Start	Старт
 	the tesseract program was not found (install it, or add it to the PATH)	програмата tesseract не е намерена (инсталирайте я или я добавете в PATH)
 	The tesseract program, run as an external process	Програмата tesseract, стартирана като външен процес
 	The text is the same	Текстът е същият
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	моделите за разпознаване на текст не са инсталирани (инсталирайте PDF отново или задайте в PDFCRAFT_MODELS папката, която ги съдържа)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	моделите за разпознаване на текст не са инсталирани (инсталирайте PDF отново или задайте в IRIDIUM_PDF_MODELS папката, която ги съдържа)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Текстът се пренарежда според екрана и размера на шрифта на читателя, на глави, с отметките като съдържание.
 	The title in the metadata and the document information differ	Заглавието в метаданните и в информацията за документа се различават
 	the title must not be empty	заглавието не може да е празно

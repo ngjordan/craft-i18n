@@ -2715,8 +2715,8 @@ certificate	Subject	เจ้าของใบรับรอง
 	Text opacity	ความทึบของข้อความ
 	Text recognition cancelled. {summary}	ยกเลิกการรู้จำข้อความแล้ว {summary}
 	Text recognition is already running	การรู้จำข้อความกำลังทำงานอยู่แล้ว
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	ยังไม่ได้ติดตั้งการรู้จำข้อความ: ไม่พบไฟล์โมเดล โปรดติดตั้ง PDF ใหม่ หรือตั้ง PDFCRAFT_MODELS ไปยังโฟลเดอร์ที่มีไฟล์เหล่านั้น
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	ยังไม่ได้ติดตั้งการรู้จำข้อความ: ไม่พบโมเดล (รัน `cargo xtask models` หรือตั้ง PDFCRAFT_MODELS)
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	ยังไม่ได้ติดตั้งการรู้จำข้อความ: ไม่พบไฟล์โมเดล โปรดติดตั้ง PDF ใหม่ หรือตั้ง IRIDIUM_PDF_MODELS ไปยังโฟลเดอร์ที่มีไฟล์เหล่านั้น
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	ยังไม่ได้ติดตั้งการรู้จำข้อความ: ไม่พบโมเดล (รัน `cargo xtask models` หรือตั้ง IRIDIUM_PDF_MODELS)
 	Text rendering	การแสดงผลข้อความ
 	Text style	รูปแบบข้อความ
 	Text to find	ข้อความที่จะค้นหา
@@ -2881,7 +2881,7 @@ calendar weekday	Th	พฤ
 	The signer's identity is valid.	ตัวตนของผู้เซ็นถูกต้อง
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	แบบอักษรมาตรฐานวาด “{c}” ({code}) ไม่ได้ ตอนนี้เพิ่มเป็นข้อความได้เฉพาะอักขระยุโรปตะวันตก
 	The text is the same	ข้อความเหมือนกัน
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	ยังไม่ได้ติดตั้งโมเดลการรู้จำข้อความ (ติดตั้ง PDF ใหม่ หรือตั้ง PDFCRAFT_MODELS ไปยังโฟลเดอร์ที่มีไฟล์เหล่านั้น)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	ยังไม่ได้ติดตั้งโมเดลการรู้จำข้อความ (ติดตั้ง PDF ใหม่ หรือตั้ง IRIDIUM_PDF_MODELS ไปยังโฟลเดอร์ที่มีไฟล์เหล่านั้น)
 	The timestamp authority's certificate was not valid at the time of timestamping.	ใบรับรองของผู้ออกการประทับเวลาไม่ถูกต้อง ณ เวลาที่ประทับเวลา
 	The timestamp contents are not hexadecimal.	เนื้อหาการประทับเวลาไม่ใช่เลขฐานสิบหก
 	The timestamp has no valid byte range.	การประทับเวลาไม่มีช่วงไบต์ที่ถูกต้อง

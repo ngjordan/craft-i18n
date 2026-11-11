@@ -2369,7 +2369,7 @@ preview	Title	제목
 	Show alignment guides when moving pictures and shapes	그림과 도형을 옮길 때 맞춤 안내선 보이기
 	Moved objects snap to the page's edges and centre, the margins and other objects. Hold Alt to move freely.	옮기는 개체가 쪽의 가장자리와 가운데, 여백, 다른 개체에 맞춰 붙습니다. 자유롭게 옮기려면 Alt 를 누르고 있으세요.
 	{language} (no dictionary)	{language} (사전 없음)
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	{language} 맞춤법 사전이 설치되어 있지 않아 검사하지 않습니다. Docs 는 Hunspell 사전 {name} 을 WORDCRAFT_DICTIONARIES 폴더와 시스템의 보통 위치에서 찾습니다.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	{language} 맞춤법 사전이 설치되어 있지 않아 검사하지 않습니다. Docs 는 Hunspell 사전 {name} 을 IRIDIUM_DOCS_DICTIONARIES 폴더와 시스템의 보통 위치에서 찾습니다.
 	Word 2003 XML Document (*.xml)	Word 2003 XML 문서 (*.xml)
 	Print settings	인쇄 설정
 	Submit print job	인쇄 작업 보내기

@@ -3219,8 +3219,8 @@ certificate	Subject	Subiect
 	Text opacity	Opacitatea textului
 	Text recognition cancelled. {summary}	Recunoașterea textului a fost anulată. {summary}
 	Text recognition is already running	Recunoașterea textului rulează deja
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Recunoașterea textului nu este instalată: lipsesc fișierele modelului. Reinstalați PDF sau setați PDFCRAFT_MODELS la folderul care le conține.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Recunoașterea textului nu este instalată: lipsesc modelele (rulați `cargo xtask models` sau setați PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Recunoașterea textului nu este instalată: lipsesc fișierele modelului. Reinstalați PDF sau setați IRIDIUM_PDF_MODELS la folderul care le conține.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Recunoașterea textului nu este instalată: lipsesc modelele (rulați `cargo xtask models` sau setați IRIDIUM_PDF_MODELS).
 	Text rendering	Randarea textului
 	Text style	Stil text
 	Text to find	Text de găsit
@@ -3496,7 +3496,7 @@ calendar weekday	Th	Jo
 	The standard structure type {} is mapped to a type that isn't standard	Tipul de structură standard {} este asociat cu un tip care nu este standard
 	The structure type {} isn't standard and isn't mapped to a standard type	Tipul de structură {} nu este standard și nu este asociat cu un tip standard
 	The text is the same	Textul este identic
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	modelele de recunoaștere a textului nu sunt instalate (reinstalați PDF sau setați PDFCRAFT_MODELS la folderul care le conține)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	modelele de recunoaștere a textului nu sunt instalate (reinstalați PDF sau setați IRIDIUM_PDF_MODELS la folderul care le conține)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Textul se reașază după ecranul și dimensiunea fontului cititorului, pe capitole, iar semnele de carte devin cuprinsul.
 	The timestamp authority's certificate is not issued for time stamping.	The timestamp authority's certificate is not issued for time stamping.
 	The timestamp authority's certificate was not valid at the time of timestamping.	Certificatul autorității de marcare temporală nu era valabil în momentul marcării.

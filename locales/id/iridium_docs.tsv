@@ -284,7 +284,7 @@
 	Keep with next	Pertahankan dengan berikutnya
 	Keeps the fonts and formatting of the copied text.	Mempertahankan font dan format teks yang disalin.
 	{language} (no dictionary)	{language} (tanpa kamus)
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Tidak ada kamus ejaan untuk {language} yang terpasang, jadi teks tidak diperiksa. Docs mencari kamus Hunspell {name} di folder WORDCRAFT_DICTIONARIES dan di lokasi sistem yang biasa.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	Tidak ada kamus ejaan untuk {language} yang terpasang, jadi teks tidak diperiksa. Docs mencari kamus Hunspell {name} di folder IRIDIUM_DOCS_DICTIONARIES dan di lokasi sistem yang biasa.
 	Last Column	Kolom Terakhir
 	Layout Summary	Ringkasan Tata Letak
 	Left Border	Batas Kiri

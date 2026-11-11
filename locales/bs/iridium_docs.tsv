@@ -1422,7 +1422,7 @@ template	Letter	Pismo
 	No Soft Edges	Bez mekih ivica
 	No sources yet.	Još nema izvora.
 	No Spacing	Bez razmaka
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	Nije instaliran pravopisni rječnik za {language}, pa se ne provjerava. Docs traži Hunspell rječnik {name} u folderu WORDCRAFT_DICTIONARIES i na uobičajenim sistemskim lokacijama.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	Nije instaliran pravopisni rječnik za {language}, pa se ne provjerava. Docs traži Hunspell rječnik {name} u folderu IRIDIUM_DOCS_DICTIONARIES i na uobičajenim sistemskim lokacijama.
 	No templates match your search.	Nijedan predložak ne odgovara pretrazi.
 	No Transform	Bez transformacije
 	No words yet. Add to Dictionary on a misspelled word puts it here.	Još nema riječi. Dodaj u rječnik na pogrešno napisanoj riječi stavlja je ovdje.

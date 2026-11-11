@@ -3197,8 +3197,8 @@ certificate	Subject	Zertifikatsinhaber
 	Text opacity	Deckkraft Text
 	Text recognition cancelled. {summary}	Texterkennung abgebrochen. {summary}
 	Text recognition is already running	Die Texterkennung läuft bereits
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	Die Texterkennung ist nicht installiert: ihre Modelldateien fehlen. Installiere PDF neu oder setze PDFCRAFT_MODELS auf den Ordner, der sie enthält.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	Die Texterkennung ist nicht installiert: Die Modelle fehlen (führe `cargo xtask models` aus oder setze PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	Die Texterkennung ist nicht installiert: ihre Modelldateien fehlen. Installiere PDF neu oder setze IRIDIUM_PDF_MODELS auf den Ordner, der sie enthält.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	Die Texterkennung ist nicht installiert: Die Modelle fehlen (führe `cargo xtask models` aus oder setze IRIDIUM_PDF_MODELS).
 	Text rendering	Textdarstellung
 	Text style	Schriftart
 	Text to find	Zu suchender Text
@@ -3333,7 +3333,7 @@ calendar weekday	Th	Do
 	The output folder already holds files of these names; nothing was written: {list}	Der Ausgabeordner enthält bereits Dateien mit diesen Namen; es wurde nichts geschrieben: {list}
 	The output folder can't be one of the folders being read, or contain one.	Der Ausgabeordner darf keiner der gelesenen Ordner sein und keinen davon enthalten.
 	The page could not be separated: {error}	Die Seite konnte nicht separiert werden: {error}
-	the page flattening model is not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds it)	das Modell zum Glätten von Seiten ist nicht installiert (installieren Sie PDF neu oder setzen Sie PDFCRAFT_MODELS auf den Ordner, der es enthält)
+	the page flattening model is not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds it)	das Modell zum Glätten von Seiten ist nicht installiert (installieren Sie PDF neu oder setzen Sie IRIDIUM_PDF_MODELS auf den Ordner, der es enthält)
 	The page has changed; select the image again	Die Seite hat sich geändert; wähle das Bild erneut aus
 	The page was read again; its words were replaced (undo in the panel)	Die Seite wurde neu gelesen; ihre Wörter wurden ersetzt (im Bereich rückgängig machbar)
 	The page's words were applied as one undoable step ({n} words)	Die Wörter der Seite wurden als ein rückgängig machbarer Schritt übernommen ({n} Wörter)
@@ -3457,7 +3457,7 @@ calendar weekday	Th	Do
 	the tesseract program was not found (install it, or add it to the PATH)	das Programm tesseract wurde nicht gefunden (installieren Sie es oder nehmen Sie es in den PATH auf)
 	The tesseract program, run as an external process	Das Programm tesseract, als externer Prozess ausgeführt
 	The text is the same	Der Text ist identisch
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	die Modelle für die Texterkennung sind nicht installiert (installiere PDF neu oder setze PDFCRAFT_MODELS auf den Ordner, der sie enthält)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	die Modelle für die Texterkennung sind nicht installiert (installiere PDF neu oder setze IRIDIUM_PDF_MODELS auf den Ordner, der sie enthält)
 	The text reflows to the reader's screen and font size, in chapters, with the bookmarks as the contents.	Der Text passt sich Bildschirm und Schriftgröße des Lesenden an, in Kapiteln, mit den Lesezeichen als Inhaltsverzeichnis.
 	The text's own font can't show {chars}, so the edited text is set in {font}.	Die eigene Schrift des Texts kann {chars} nicht darstellen, daher ist der bearbeitete Text in {font} gesetzt.
 	The timestamp authority's certificate is not issued for time stamping.	Das Zertifikat des Zeitstempeldienstes ist nicht für Zeitstempel ausgestellt.

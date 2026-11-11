@@ -2539,8 +2539,8 @@ key	Space	Space
 	Text opacity	ຄວາມໂປ່ງແສງຂອງຂໍ້ຄວາມ
 	Text recognition cancelled. {summary}	ຍົກເລີກການຈຳແນກຂໍ້ຄວາມແລ້ວ. {summary}
 	Text recognition is already running	ການຮັບຮູ້ຂໍ້ຄວາມກຳລັງດຳເນີນການຢູ່ແລ້ວ
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	ການຮັບຮູ້ຂໍ້ຄວາມຍັງບໍ່ໄດ້ຮັບການຕິດຕັ້ງ: ໄຟລ໌ໂມເດວສູນຫາຍ. ກະລຸນາຕິດຕັ້ງ PDF ຄືນໃໝ່ ຫຼື ຕັ້ງຄ່າ PDFCRAFT_MODELS ໄປຫາໂຟນເດີທີ່ບັນຈຸໄຟລ໌ດັ່ງກ່າວ.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	ການຮັບຮູ້ຂໍ້ຄວາມຍັງບໍ່ໄດ້ຕິດຕັ້ງ: ໂມເດວສູນຫາຍ (ດຳເນີນການ `cargo xtask models`, ຫຼື ຕັ້ງຄ່າ PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	ການຮັບຮູ້ຂໍ້ຄວາມຍັງບໍ່ໄດ້ຮັບການຕິດຕັ້ງ: ໄຟລ໌ໂມເດວສູນຫາຍ. ກະລຸນາຕິດຕັ້ງ PDF ຄືນໃໝ່ ຫຼື ຕັ້ງຄ່າ IRIDIUM_PDF_MODELS ໄປຫາໂຟນເດີທີ່ບັນຈຸໄຟລ໌ດັ່ງກ່າວ.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	ການຮັບຮູ້ຂໍ້ຄວາມຍັງບໍ່ໄດ້ຕິດຕັ້ງ: ໂມເດວສູນຫາຍ (ດຳເນີນການ `cargo xtask models`, ຫຼື ຕັ້ງຄ່າ IRIDIUM_PDF_MODELS).
 	Text rendering	ການສະແດງຂໍ້ຄວາມ
 	Text style	ຮູບແບບຂໍ້ຄວາມ
 	Text to find	ຂໍ້ຄວາມທີ່ຕ້ອງການຊອກຫາ
@@ -2651,7 +2651,7 @@ key	Space	Space
 	The signature will be invisible.	ລາຍເຊັນຈະບໍ່ສະແດງໃຫ້ເຫັນ.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	ຟອນມາດຕະຖານບໍ່ສາມາດສະແດງ “{c}” ({code}) ໄດ້. ໃນປະຈຸບັນ ສາມາດເພີ່ມໄດ້ສະເພາະຕົວອັກສອນຢູໂຣບຕາເວັນຕົກເທົ່ານັ້ນ.
 	The text is the same	ຂໍ້ຄວາມຄືກັນທຸກຢ່າງ
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	ໂມເດວການຮັບຮູ້ຂໍ້ຄວາມຍັງບໍ່ໄດ້ຕິດຕັ້ງ (ຕິດຕັ້ງ PDF ຄືນໃໝ່, ຫຼື ຕັ້ງຄ່າ PDFCRAFT_MODELS ໄປຫາໂຟນເດີທີ່ບັນຈຸໂມເດວ)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	ໂມເດວການຮັບຮູ້ຂໍ້ຄວາມຍັງບໍ່ໄດ້ຕິດຕັ້ງ (ຕິດຕັ້ງ PDF ຄືນໃໝ່, ຫຼື ຕັ້ງຄ່າ IRIDIUM_PDF_MODELS ໄປຫາໂຟນເດີທີ່ບັນຈຸໂມເດວ)
 	The title in the metadata and the document information differ	ຊື່ຫົວຂໍ້ໃນເມຕາເດຕາ ແລະ ຂໍ້ມູນເອກະສານແຕກຕ່າງກັນ
 	the title must not be empty	ຫົວຂໍ້ຕ້ອງບໍ່ຫວ່າງເປົ່າ
 	The value is shown as typed.	ສະແດງຄ່າຕາມທີ່ພິມ.

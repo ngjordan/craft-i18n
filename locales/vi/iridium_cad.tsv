@@ -2980,7 +2980,6 @@ diagnostics	render	kết xuất
 	Saves the current bars, toolbar and panel layout.	Lưu bố cục thanh, thanh công cụ và bảng hiện tại.
 	Saving	Đang lưu
 @msg	Saving	Đang lưu
-	Saving Poster.vectorcraft	Đang lưu Poster.vectorcraft
 @msg	Saving recovery data for {_1}	Đang lưu dữ liệu phục hồi cho {_1}
 	Saving recovery data for {}	Đang lưu dữ liệu khôi phục cho {}
 @msg	Saving {_1}	Đang lưu {_1}
@@ -3824,7 +3823,6 @@ diagnostics	ui	giao diện
 	Iridium on GitHub	Iridium trên GitHub
 	Iridium read this script without running it.	Iridium đã đọc script này mà không chạy nó.
 file-filter	Iridium Template	Mẫu Iridium
-@msg	Iridium's Fonts folder isn't set here: the desktop app and vectorcraft-cli set it	Thư mục Phông chữ của Iridium chưa được đặt ở đây: ứng dụng máy tính và vectorcraft-cli đặt nó
 	Vectors	Vector
 @msg	version {0} files can't be compressed: only version {COMPRESSED_SINCE} and later open compressed files	tệp phiên bản {0} không thể nén: chỉ phiên bản {COMPRESSED_SINCE} trở lên mới mở tệp nén
 	Version {version} — open-source vector illustration in pure Rust.	Phiên bản {version} — minh họa vector mã nguồn mở bằng Rust thuần túy.

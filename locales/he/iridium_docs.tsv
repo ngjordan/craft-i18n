@@ -1400,7 +1400,7 @@ template	Letter	מכתב
 	No Soft Edges	ללא קצוות רכים
 	No sources yet.	אין עדיין מקורות.
 	No Spacing	ללא מרווח
-	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the WORDCRAFT_DICTIONARIES folder and in the usual system locations.	לא מותקן מילון איות עבור {language}, ולכן האיות בשפה זו אינו נבדק. Docs מחפש את מילון Hunspell {name} בתיקייה WORDCRAFT_DICTIONARIES ובמיקומים הרגילים של המערכת.
+	No spelling dictionary for {language} is installed, so it isn't checked. Docs looks for the Hunspell dictionary {name} in the IRIDIUM_DOCS_DICTIONARIES folder and in the usual system locations.	לא מותקן מילון איות עבור {language}, ולכן האיות בשפה זו אינו נבדק. Docs מחפש את מילון Hunspell {name} בתיקייה IRIDIUM_DOCS_DICTIONARIES ובמיקומים הרגילים של המערכת.
 	No templates match your search.	אין תבניות התואמות לחיפוש.
 	No Transform	ללא המרה
 	No words yet. Add to Dictionary on a misspelled word puts it here.	אין עדיין מילים. "הוספה למילון" על מילה שגויה מוסיפה אותה לכאן.

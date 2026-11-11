@@ -2392,8 +2392,8 @@ certificate	Subject	საგანი
 	Text language is specified	ტექსტის ენა მითითებულია
 	Text must contrast enough with its background for people with low vision. Check the colours by eye or with a contrast tool.	მხედველობადაქვეითებული ადამიანებისთვის ტექსტი ფონთან საკმარისად უნდა კონტრასტობდეს. შეამოწმეთ ფერები თვალით ან კონტრასტის ხელსაწყოთი.
 	Text recognition is already running	ტექსტის ამოცნობა უკვე მიმდინარეობს
-	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them.	ტექსტის ამოცნობა დაყენებული არ არის: მისი მოდელის ფაილები აკლია. ხელახლა დააყენეთ PDF ან მიუთითეთ PDFCRAFT_MODELS-ში საქაღალდე, სადაც ისინია.
-	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set PDFCRAFT_MODELS).	ტექსტის ამოცნობა დაყენებული არ არის: მისი მოდელები აკლია (გაუშვით `cargo xtask models` ან მიუთითეთ PDFCRAFT_MODELS).
+	Text recognition isn't installed: its model files are missing. Reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them.	ტექსტის ამოცნობა დაყენებული არ არის: მისი მოდელის ფაილები აკლია. ხელახლა დააყენეთ PDF ან მიუთითეთ IRIDIUM_PDF_MODELS-ში საქაღალდე, სადაც ისინია.
+	Text recognition isn't installed: its models are missing (run `cargo xtask models`, or set IRIDIUM_PDF_MODELS).	ტექსტის ამოცნობა დაყენებული არ არის: მისი მოდელები აკლია (გაუშვით `cargo xtask models` ან მიუთითეთ IRIDIUM_PDF_MODELS).
 	Text to find	მოსაძებნი ტექსტი
 	Text to insert	ჩასასმელი ტექსტი
 	Text to place	განსათავსებელი ტექსტი
@@ -2522,7 +2522,7 @@ calendar weekday	Th	ხუთ
 	The signer's identity is valid.	ხელმომწერის ვინაობა ვალიდურია.
 	The standard fonts can't draw “{c}” ({code}). Only Western European characters can be added as text for now.	სტანდარტული შრიფტები ვერ ხატავს „{c}“-ს ({code}). ჯერჯერობით ტექსტად მხოლოდ დასავლეთევროპული სიმბოლოების დამატებაა შესაძლებელი.
 	The text is the same	ტექსტი იგივეა
-	the text recognition models are not installed (reinstall PDF, or set PDFCRAFT_MODELS to the folder that holds them)	ტექსტის ამოცნობის მოდელები დაყენებული არ არის (ხელახლა დააყენეთ PDF ან მიუთითეთ PDFCRAFT_MODELS-ში საქაღალდე, სადაც ისინია)
+	the text recognition models are not installed (reinstall PDF, or set IRIDIUM_PDF_MODELS to the folder that holds them)	ტექსტის ამოცნობის მოდელები დაყენებული არ არის (ხელახლა დააყენეთ PDF ან მიუთითეთ IRIDIUM_PDF_MODELS-ში საქაღალდე, სადაც ისინია)
 	The timestamp authority's certificate is not issued for time stamping.	დროის შტამპის ორგანოს სერტიფიკატი დროის შტამპის დასასმელად არ არის გაცემული.
 	The timestamp authority's certificate was not valid at the time of timestamping.	დროის შტამპის ორგანოს სერტიფიკატი შტამპის დასმის დროს არ მოქმედებდა.
 	The timestamp contents are not hexadecimal.	დროის შტამპის შიგთავსი თექვსმეტობითი არ არის.
